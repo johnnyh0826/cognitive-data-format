@@ -1,21 +1,32 @@
-MIT License
+Creative Commons Attribution-NonCommercial 4.0 International License
 
-Copyright (c) 2026 johnnyh0826
+Cognitive Data Format (CDF)
+Copyright (c) 2026 Ke He (johnnyh0826)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Under the following terms:
+  - Attribution — You must give appropriate credit to the original author
+    (Ke He), provide a link to this license, and indicate if changes were made.
+  - NonCommercial — You may not use the material for commercial purposes
+    without explicit written permission from the author.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+Commercial Licensing:
+  For commercial use, licensing inquiries, or partnership discussions contact:
+  johnnyh0826@gmail.com
+
+Full license text:
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+THE COGNITIVE DATA FORMAT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+ARISING FROM USE OF THIS FORMAT OR ITS ASSOCIATED TOOLS.
+
