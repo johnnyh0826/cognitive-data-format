@@ -1,0 +1,19 @@
+{
+  "token": "lead",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "chemistry and physics",
+      "meaning": "a heavy, bluish-white metal with atomic number 82",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music",
+      "meaning": "the person who directs a musical performance or composition",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "table",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Furniture and Design",
+      "meaning": "a piece of furniture with a flat surface, typically used for eating or working",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Astronomy",
+      "meaning": "a celestial body that orbits the Sun, similar to a planet but smaller and with an elliptical orbit",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

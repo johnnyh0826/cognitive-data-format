@@ -1,0 +1,19 @@
+{
+  "token": "fall",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Physics and Astronomy",
+      "meaning": "the season of the year, typically from September to November in the Northern Hemisphere, characterized by a decrease in temperature and the leaves changing color.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Geology",
+      "meaning": "a type of rock layer formed from compressed sedimentary rocks, often featuring characteristic folds or fractures.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "shadow",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "General Language",
+      "meaning": "the dark area or shape that appears on a surface when something blocks light from shining on it",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Psychology",
+      "meaning": "a repressed or hidden aspect of one's personality, often associated with unconscious thoughts and feelings",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

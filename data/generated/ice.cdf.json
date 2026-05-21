@@ -1,0 +1,19 @@
+{
+  "token": "ice",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology",
+      "meaning": "frozen water in its natural state",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "a type of cosmic dust or particles",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

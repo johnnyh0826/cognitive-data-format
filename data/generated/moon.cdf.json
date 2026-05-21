@@ -1,0 +1,19 @@
+{
+  "token": "moon",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Astronomy",
+      "meaning": "the natural satellite of Earth, orbiting around it.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Folklore and Mythology",
+      "meaning": "a symbol of femininity, mystery, and the subconscious in many cultures.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

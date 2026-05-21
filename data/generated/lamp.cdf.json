@@ -1,0 +1,19 @@
+{
+  "token": "lamp",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "general language",
+      "meaning": "a device that produces light, typically using electricity or gas",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "a star or other celestial body that is a source of light",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

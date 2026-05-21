@@ -1,0 +1,19 @@
+{
+  "token": "silence",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Physics and Acoustics",
+      "meaning": "the absence of sound or noise",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Philosophy and Ethics",
+      "meaning": "a deliberate refusal to speak, often used as a form of protest or nonviolent resistance",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

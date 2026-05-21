@@ -1,0 +1,19 @@
+{
+  "token": "dream",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Psychology and Psychoanalysis",
+      "meaning": "a series of images, thoughts, and emotions that occur during sleep or in a state of relaxation",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Literary Fiction",
+      "meaning": "a narrative or imaginative sequence of events that unfolds in the mind, often with symbolic significance",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

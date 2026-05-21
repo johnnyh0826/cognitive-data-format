@@ -1,0 +1,19 @@
+{
+  "token": "clock",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "timekeeping",
+      "meaning": "a device that measures and displays time",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "the celestial body that regulates the Earth's rotation",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

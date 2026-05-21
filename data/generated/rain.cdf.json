@@ -1,0 +1,19 @@
+{
+  "token": "rain",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Weather and Meteorology",
+      "meaning": "natural precipitation in liquid form, typically falling from clouds",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Biblical Imagery",
+      "meaning": "symbol of divine judgment or cleansing",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

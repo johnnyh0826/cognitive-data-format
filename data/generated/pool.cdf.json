@@ -1,0 +1,19 @@
+{
+  "token": "pool",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "General English",
+      "meaning": "a collection of liquid, typically water or chemicals, often contained in a structure such as a swimming pool or chemical processing facility.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Gaming",
+      "meaning": "a multiplayer online game where players can interact and play together, often with a focus on strategy and teamwork.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

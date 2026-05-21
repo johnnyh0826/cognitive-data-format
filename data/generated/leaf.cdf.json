@@ -1,0 +1,19 @@
+{
+  "token": "leaf",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Botany",
+      "meaning": "the green blade of a plant, typically attached to a stem",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Papermaking",
+      "meaning": "a thin slice of cellulose pulp used in paper production",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

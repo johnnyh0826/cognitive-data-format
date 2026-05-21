@@ -1,0 +1,19 @@
+{
+  "token": "wheel",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Physics and Engineering",
+      "meaning": "a circular structure that rotates around a central axis, used to transmit motion or power.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Transportation",
+      "meaning": "a round and usually circular part of a vehicle, such as a car or bicycle, that rotates on an axle.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

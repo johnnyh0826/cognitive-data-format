@@ -1,0 +1,19 @@
+{
+  "token": "kind",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Philosophy",
+      "meaning": "Having a natural or innate quality, as opposed to acquired characteristics.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Biology",
+      "meaning": "A category of organisms that share common characteristics and can interbreed.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "spring",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Seasonal Meteorology",
+      "meaning": "a period of time characterized by mild weather and the awakening of plants from dormancy.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Mechanical Engineering",
+      "meaning": "the season when a spring-loaded mechanism is most effective or efficient.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

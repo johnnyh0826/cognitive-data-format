@@ -1,0 +1,19 @@
+{
+  "token": "sand",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Geology",
+      "meaning": "small particles of rock or mineral, often found on beaches and in deserts",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Glassmaking",
+      "meaning": "a type of quartz used to make glass",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

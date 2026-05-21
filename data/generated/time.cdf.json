@@ -1,0 +1,19 @@
+{
+  "token": "time",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Physics and Astronomy",
+      "meaning": "a measure of the duration between events or a dimension in spacetime",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Philosophy",
+      "meaning": "the subjective experience of past, present, and future",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

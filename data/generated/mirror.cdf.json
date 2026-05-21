@@ -1,0 +1,19 @@
+{
+  "token": "mirror",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "optics and physics",
+      "meaning": "a reflective surface that forms an image of an object or scene",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "philosophy and psychology",
+      "meaning": "a tool for self-reflection, introspection, and personal growth",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

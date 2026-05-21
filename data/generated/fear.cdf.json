@@ -1,0 +1,19 @@
+{
+  "token": "fear",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Philosophy",
+      "meaning": "an unpleasant emotional response to a perceived threat or danger",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Psychology",
+      "meaning": "a complex and multifaceted emotion characterized by physiological arousal, behavioral avoidance, and cognitive appraisals of threat",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

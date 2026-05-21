@@ -1,0 +1,19 @@
+{
+  "token": "bank",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Finance",
+      "meaning": "a financial institution that provides banking services",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Geography",
+      "meaning": "the side of a river or lake",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

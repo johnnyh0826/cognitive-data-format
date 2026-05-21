@@ -1,0 +1,19 @@
+{
+  "token": "bread",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Food and Drink",
+      "meaning": "a baked food made from flour, water, yeast, and other ingredients, often served as a staple or used in various dishes",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Christianity",
+      "meaning": "the staff of life, symbolizing nourishment and sustenance",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

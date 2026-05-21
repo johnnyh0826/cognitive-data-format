@@ -1,0 +1,19 @@
+{
+  "token": "rope",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Nautical and Sailing",
+      "meaning": "a length of cordage used to manipulate or secure something on a boat or ship",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Climbing and Mountaineering",
+      "meaning": "a durable, synthetic or natural fiber cord used for climbing protection, belaying, or rappelling",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

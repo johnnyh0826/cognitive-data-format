@@ -1,0 +1,19 @@
+{
+  "token": "memory",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Computing and Technology",
+      "meaning": "the process of storing, retrieving, and manipulating data",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Psychology and Neuroscience",
+      "meaning": "the mental faculty that enables the storage and retrieval of information",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

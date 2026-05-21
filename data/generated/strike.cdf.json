@@ -1,0 +1,19 @@
+{
+  "token": "strike",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "sports and labor",
+      "meaning": "to engage in a work stoppage or boycott, often in protest of unfair labor practices or demands",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology",
+      "meaning": "the process by which magma rises to the Earth's surface and erupts as volcanic rock, often accompanied by earthquakes and other seismic activity",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

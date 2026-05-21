@@ -1,0 +1,19 @@
+{
+  "token": "pain",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "medicine",
+      "meaning": "an unpleasant physical sensation, often caused by injury or illness",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "philosophy",
+      "meaning": "a fundamental aspect of human experience, often used to describe the existential struggle",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

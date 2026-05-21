@@ -1,0 +1,19 @@
+{
+  "token": "home",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography and architecture",
+      "meaning": "a person's primary residence or dwelling place",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "the region around a celestial body, such as the home planet of a comet",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

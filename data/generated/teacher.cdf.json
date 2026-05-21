@@ -1,0 +1,19 @@
+{
+  "token": "teacher",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Education",
+      "meaning": "an adult who helps students learn and understand new things in a school or classroom setting",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Business",
+      "meaning": "a professional who instructs others on specific skills, such as sales techniques or software use",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

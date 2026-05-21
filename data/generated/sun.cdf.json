@@ -1,0 +1,19 @@
+{
+  "token": "sun",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Astronomy",
+      "meaning": "the star at the center of our solar system",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Symbolism",
+      "meaning": "warmth, light, and life-giving energy",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

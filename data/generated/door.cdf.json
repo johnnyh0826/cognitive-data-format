@@ -1,0 +1,19 @@
+{
+  "token": "door",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Architecture and Construction",
+      "meaning": "a movable structure used to open or close an entrance to a building, vehicle, or container",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Music",
+      "meaning": "the opening or closing of a musical piece, often dramatic and attention-grabbing",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

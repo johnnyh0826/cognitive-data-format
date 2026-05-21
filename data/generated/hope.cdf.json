@@ -1,0 +1,19 @@
+{
+  "token": "hope",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Philosophy",
+      "meaning": "a desire or expectation of a specific thing or outcome",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Christianity",
+      "meaning": "confident expectation of eternal salvation and the favor of God",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "window",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Architecture and Construction",
+      "meaning": "an opening in a building's exterior or interior that allows natural light, ventilation, and views",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Computer Science",
+      "meaning": "a graphical user interface component that displays information and provides interactive functionality",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

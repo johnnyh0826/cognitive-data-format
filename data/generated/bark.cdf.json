@@ -1,0 +1,19 @@
+{
+  "token": "bark",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Animal Sounds",
+      "meaning": "the sound a dog or other animal makes",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Tree Care",
+      "meaning": "to remove the bark from a tree, often for logging or woodworking purposes",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

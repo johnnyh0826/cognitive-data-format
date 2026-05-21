@@ -1,0 +1,19 @@
+{
+  "token": "box",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "a rigid container with a flat top and bottom, used to store or transport objects",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing and technology",
+      "meaning": "a software program that contains and organizes data, applications, or operating systems",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

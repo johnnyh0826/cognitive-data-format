@@ -1,0 +1,19 @@
+{
+  "token": "pitch",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music and performance",
+      "meaning": "a short, melodic song or tune",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "baseball",
+      "meaning": "the act of throwing the ball to a batter",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

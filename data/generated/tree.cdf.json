@@ -1,0 +1,19 @@
+{
+  "token": "tree",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "botany",
+      "meaning": "a perennial plant with a single stem or trunk, typically supporting branches and leaves above ground.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "a celestial body composed of gas, dust, and other matter that is held together by gravity.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "key",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Locksmithing and Security",
+      "meaning": "a small metal object used to operate a lock",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Music",
+      "meaning": "the central or most important part of something, such as a song or melody",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

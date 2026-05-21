@@ -1,0 +1,19 @@
+{
+  "token": "father",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Biblical context",
+      "meaning": "the first man created by God in the Bible",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "scientific context (genetics)",
+      "meaning": "a male parent who contributes half of an individual's genetic material",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

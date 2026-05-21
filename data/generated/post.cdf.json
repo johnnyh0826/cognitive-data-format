@@ -1,0 +1,19 @@
+{
+  "token": "post",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "philosophy",
+      "meaning": "to place or put something in a position",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "internet and social media",
+      "meaning": "a piece of content, such as an article, video, or image, that is published online",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

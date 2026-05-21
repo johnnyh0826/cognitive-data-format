@@ -1,0 +1,19 @@
+{
+  "token": "light",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Physics and Optics",
+      "meaning": "a form of electromagnetic radiation with a specific wavelength",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Photography",
+      "meaning": "the amount of illumination in an image or scene",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

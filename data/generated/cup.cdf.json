@@ -1,0 +1,19 @@
+{
+  "token": "cup",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "container",
+      "meaning": "a vessel used to hold or drink from",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "golf",
+      "meaning": "the cup is the hole, a target in golf",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

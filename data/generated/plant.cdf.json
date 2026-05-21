@@ -1,0 +1,19 @@
+{
+  "token": "plant",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "botany",
+      "meaning": "a living organism that grows in the ground, typically having a stem, leaves, and roots.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "garden design",
+      "meaning": "an ornamental feature used to add visual interest or create a sense of harmony in an outdoor space.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

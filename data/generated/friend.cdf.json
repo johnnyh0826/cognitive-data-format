@@ -1,0 +1,19 @@
+{
+  "token": "friend",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "English language and everyday usage",
+      "meaning": "a person who is a close acquaintance, often with whom one shares experiences or feelings",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Buddhist philosophy",
+      "meaning": "one's spiritual companion or guide on the path to enlightenment",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

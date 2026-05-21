@@ -1,0 +1,19 @@
+{
+  "token": "stranger",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Philosophy and Psychology",
+      "meaning": "a person unknown to one, especially in a social or professional sense",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Science Fiction and Fantasy",
+      "meaning": "an alien being from another world or dimension",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

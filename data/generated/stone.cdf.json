@@ -1,0 +1,19 @@
+{
+  "token": "stone",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Geology",
+      "meaning": "a naturally occurring solid mass of mineral material",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Jewelry and Gemology",
+      "meaning": "a precious or semi-precious stone used in adornment",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}
