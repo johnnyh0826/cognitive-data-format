@@ -1,0 +1,26 @@
+{
+  "token": "chair",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "furniture",
+      "meaning": "a separate seat for one person, typically with a back and four legs",
+      "added": "first",
+      "source": "wikidata"
+    },
+    {
+      "id": "02",
+      "context": "governance",
+      "meaning": "the person who leads a meeting, committee, or organization — the chairperson",
+      "added": "accumulated",
+      "source": "wikidata"
+    },
+    {
+      "id": "03",
+      "context": "academia",
+      "meaning": "a professorship — a named academic position at a university e.g. Chair of Philosophy",
+      "added": "accumulated",
+      "source": "wikidata"
+    }
+  ]
+}

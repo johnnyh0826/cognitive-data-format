@@ -1,0 +1,43 @@
+{
+  "id": "cdr_mother_001",
+  "entity": "mother",
+  "raw": {
+    "label": "mother",
+    "source": "wikidata"
+  },
+  "meta": {
+    "properties": {
+      "type": "relational",
+      "relation_to_observer": "caregiver",
+      "biological": true,
+      "human": true,
+      "role": "primary_attachment_figure"
+    },
+    "category": "person",
+    "source": "wikidata"
+  },
+  "cognitive": {
+    "event_id": "evt_005",
+    "observer_id": "observer_004",
+    "timestamp": "2026-01-06T06:00:00Z",
+    "environment": "nursery_night",
+    "perception": {
+      "visual": "large shape in low light, face close, eyes looking directly — recognisable before the word existed",
+      "auditory": "low, unhurried voice — sound before meaning, rhythm before language",
+      "tactile": "lifted, held, pressure distributed — the first experience of being fully supported",
+      "olfactory": "warm, specific, already familiar — a smell that predates memory",
+      "thermal": "consistent warmth, body-temperature contact"
+    },
+    "context": {
+      "co_present_entities": ["crib", "low_light", "blanket", "silence"],
+      "observer_state": "curious",
+      "preceding_event": null
+    },
+    "interpretation": {
+      "meaning": "safety is a person — not a place or an object; this entity is the environment; all other meanings will be measured against this first one",
+      "confidence": 0.44,
+      "emotional_weight": 1.0
+    },
+    "links": ["cdr_safety_001", "cdr_caregiver_001", "evt_005"]
+  }
+}

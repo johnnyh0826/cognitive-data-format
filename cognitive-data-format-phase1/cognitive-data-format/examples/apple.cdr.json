@@ -1,0 +1,44 @@
+{
+  "id": "cdr_apple_001",
+  "entity": "apple",
+  "raw": {
+    "label": "apple",
+    "source": "wikidata"
+  },
+  "meta": {
+    "properties": {
+      "shape": "round",
+      "colors": ["red", "green", "yellow"],
+      "size_cm": 8,
+      "texture": "smooth",
+      "taste": "sweet-tart",
+      "edible": true
+    },
+    "category": "fruit",
+    "source": "wikidata"
+  },
+  "cognitive": {
+    "event_id": "evt_001",
+    "observer_id": "observer_001",
+    "timestamp": "2026-01-01T08:00:00Z",
+    "environment": "kitchen_morning",
+    "perception": {
+      "visual": "round, red, glossy surface catching the morning light",
+      "auditory": "loud sharp crack on first bite",
+      "tactile": "smooth skin, heavier than expected, cold from the bowl",
+      "olfactory": "faint sweetness, clean and fresh",
+      "thermal": "cool against the palm"
+    },
+    "context": {
+      "co_present_entities": ["table", "bowl", "morning_light", "mother"],
+      "observer_state": "curious",
+      "preceding_event": null
+    },
+    "interpretation": {
+      "meaning": "edible object, pleasant to handle, associated with safety and care — something given, not taken",
+      "confidence": 0.82,
+      "emotional_weight": 0.6
+    },
+    "links": ["cdr_fruit_001", "evt_001"]
+  }
+}

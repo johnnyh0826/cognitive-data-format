@@ -1,0 +1,33 @@
+{
+  "token": "water",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "chemistry",
+      "meaning": "a transparent, tasteless liquid compound of hydrogen and oxygen — H2O — essential for life",
+      "added": "first",
+      "source": "wikidata"
+    },
+    {
+      "id": "02",
+      "context": "finance",
+      "meaning": "to water stock — to inflate the value of company shares beyond their real worth",
+      "added": "accumulated",
+      "source": "wikidata"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "a body of water — a sea, lake, river, or ocean as a navigable or territorial area",
+      "added": "accumulated",
+      "source": "wikidata"
+    },
+    {
+      "id": "04",
+      "context": "horticulture",
+      "meaning": "to water plants — to apply water to soil or vegetation for growth",
+      "added": "accumulated",
+      "source": "wikidata"
+    }
+  ]
+}

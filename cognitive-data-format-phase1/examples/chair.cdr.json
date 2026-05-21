@@ -1,0 +1,44 @@
+{
+  "id": "cdr_chair_001",
+  "entity": "chair",
+  "raw": {
+    "label": "chair",
+    "source": "wikidata"
+  },
+  "meta": {
+    "properties": {
+      "material": "wood",
+      "legs": 4,
+      "has_backrest": true,
+      "has_armrests": false,
+      "moveable": true,
+      "supports_weight": true
+    },
+    "category": "furniture",
+    "source": "wikidata"
+  },
+  "cognitive": {
+    "event_id": "evt_002",
+    "observer_id": "observer_001",
+    "timestamp": "2026-01-01T09:15:00Z",
+    "environment": "dining_room_morning",
+    "perception": {
+      "visual": "four wooden legs, flat seat, upright back — symmetrical and still",
+      "auditory": "scrape against floor tiles when pulled out",
+      "tactile": "hard surface, slight give at the back edge, grain of the wood detectable",
+      "olfactory": null,
+      "thermal": "cool, ambient — room temperature wood"
+    },
+    "context": {
+      "co_present_entities": ["table", "plate", "adult", "window"],
+      "observer_state": "neutral",
+      "preceding_event": "evt_001"
+    },
+    "interpretation": {
+      "meaning": "a thing you sit on — defined entirely by its function, not its appearance; it waits to be used",
+      "confidence": 0.91,
+      "emotional_weight": 0.15
+    },
+    "links": ["cdr_table_001", "cdr_furniture_001", "evt_002"]
+  }
+}

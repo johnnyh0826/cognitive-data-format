@@ -1,0 +1,45 @@
+{
+  "id": "cdr_water_001",
+  "entity": "water",
+  "raw": {
+    "label": "water",
+    "source": "wikidata"
+  },
+  "meta": {
+    "properties": {
+      "state": "liquid",
+      "color": "colorless",
+      "odor": "none",
+      "taste": "neutral",
+      "drinkable": true,
+      "forms": ["liquid", "ice", "steam"],
+      "chemical_formula": "H2O"
+    },
+    "category": "substance",
+    "source": "wikidata"
+  },
+  "cognitive": {
+    "event_id": "evt_004",
+    "observer_id": "observer_003",
+    "timestamp": "2026-01-05T07:30:00Z",
+    "environment": "bathroom_morning",
+    "perception": {
+      "visual": "clear, moving, catching light strangely — visible only by what it does to surfaces",
+      "auditory": "consistent rush from the tap, changes pitch when cupped in hands",
+      "tactile": "weightless at first contact, then cold and real — fills the shape of whatever holds it",
+      "olfactory": null,
+      "thermal": "cold, then numbing, then absorbed into skin temperature"
+    },
+    "context": {
+      "co_present_entities": ["tap", "basin", "mirror", "morning_light", "towel"],
+      "observer_state": "cautious",
+      "preceding_event": null
+    },
+    "interpretation": {
+      "meaning": "shapeless until held — it has no form of its own but takes any form given; it disappears and reappears; it is everywhere and ordinary and somehow still not fully understood",
+      "confidence": 0.55,
+      "emotional_weight": 0.35
+    },
+    "links": ["cdr_liquid_001", "cdr_ice_001", "evt_004"]
+  }
+}

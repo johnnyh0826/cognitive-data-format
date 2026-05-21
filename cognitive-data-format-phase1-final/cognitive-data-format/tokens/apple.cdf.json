@@ -1,0 +1,26 @@
+{
+  "token": "apple",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "agriculture",
+      "meaning": "a round edible fruit grown on trees, typically red, green, or yellow, sweet or tart in taste",
+      "added": "first",
+      "source": "wikidata"
+    },
+    {
+      "id": "02",
+      "context": "technology",
+      "meaning": "Apple Inc — a multinational consumer electronics and software corporation",
+      "added": "accumulated",
+      "source": "wikidata"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "informal name for New York City — the Big Apple",
+      "added": "accumulated",
+      "source": "wikidata"
+    }
+  ]
+}

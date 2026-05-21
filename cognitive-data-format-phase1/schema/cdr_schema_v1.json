@@ -1,0 +1,183 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://cognitivedata.org/schema/cdr_schema_v1.json",
+  "title": "Cognitive Data Record",
+  "description": "The atomic unit of the Cognitive Data Format. Every concept has exactly one CDR as its root record, generated at first encounter.",
+  "version": "1.0",
+  "type": "object",
+  "required": [
+    "id",
+    "entity",
+    "raw",
+    "meta",
+    "cognitive"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique record identifier. Format: cdr_{entity}_{001}",
+      "pattern": "^cdr_[a-z0-9_]+_[0-9]{3}$"
+    },
+    "entity": {
+      "type": "string",
+      "description": "The concept being recorded e.g. apple",
+      "minLength": 1
+    },
+    "raw": {
+      "type": "object",
+      "description": "The inherited label for this concept",
+      "required": ["label"],
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "type": "string",
+          "description": "The inherited name given to this concept",
+          "minLength": 1
+        },
+        "source": {
+          "type": ["string", "null"],
+          "description": "Where the label came from e.g. wikidata"
+        }
+      }
+    },
+    "meta": {
+      "type": "object",
+      "description": "Descriptive attributes from observation",
+      "required": ["properties"],
+      "additionalProperties": false,
+      "properties": {
+        "properties": {
+          "type": "object",
+          "description": "Key-value descriptive attributes from observation",
+          "minProperties": 1
+        },
+        "category": {
+          "type": ["string", "null"],
+          "description": "Classification e.g. fruit, furniture, element"
+        },
+        "source": {
+          "type": ["string", "null"],
+          "description": "Where metadata was pulled from"
+        }
+      }
+    },
+    "cognitive": {
+      "type": "object",
+      "description": "The first encounter event — meaning, context, interpretation",
+      "required": [
+        "event_id",
+        "observer_id",
+        "timestamp",
+        "environment",
+        "perception",
+        "context",
+        "interpretation"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "event_id": {
+          "type": "string",
+          "description": "Reference to the triggering event record",
+          "pattern": "^evt_[0-9]{3}$"
+        },
+        "observer_id": {
+          "type": "string",
+          "description": "The agent that encountered this entity",
+          "pattern": "^observer_[0-9]{3}$"
+        },
+        "timestamp": {
+          "type": "string",
+          "description": "ISO 8601 datetime — when the encounter occurred",
+          "format": "date-time"
+        },
+        "environment": {
+          "type": "string",
+          "description": "Location context e.g. kitchen_morning",
+          "minLength": 1
+        },
+        "perception": {
+          "type": "object",
+          "description": "Sensory data at moment of encounter",
+          "required": ["visual"],
+          "additionalProperties": false,
+          "properties": {
+            "visual": {
+              "type": "string",
+              "description": "What was seen"
+            },
+            "auditory": {
+              "type": ["string", "null"],
+              "description": "What was heard"
+            },
+            "tactile": {
+              "type": ["string", "null"],
+              "description": "What was felt"
+            },
+            "olfactory": {
+              "type": ["string", "null"],
+              "description": "What was smelled"
+            },
+            "thermal": {
+              "type": ["string", "null"],
+              "description": "Temperature sensation"
+            }
+          }
+        },
+        "context": {
+          "type": "object",
+          "description": "Co-present entities and observer state at moment of encounter",
+          "required": ["co_present_entities", "observer_state"],
+          "additionalProperties": false,
+          "properties": {
+            "co_present_entities": {
+              "type": "array",
+              "description": "Other entities present at time of encounter",
+              "items": { "type": "string" },
+              "minItems": 0
+            },
+            "observer_state": {
+              "type": "string",
+              "description": "Agent state at moment of encounter",
+              "enum": ["curious", "neutral", "alert", "cautious"]
+            },
+            "preceding_event": {
+              "type": ["string", "null"],
+              "description": "ID of event that occurred just before this one"
+            }
+          }
+        },
+        "interpretation": {
+          "type": "object",
+          "description": "Derived meaning from the encounter",
+          "required": ["meaning", "confidence", "emotional_weight"],
+          "additionalProperties": false,
+          "properties": {
+            "meaning": {
+              "type": "string",
+              "description": "Derived understanding in plain language",
+              "minLength": 1
+            },
+            "confidence": {
+              "type": "number",
+              "description": "Certainty of interpretation — 0.0 to 1.0",
+              "minimum": 0.0,
+              "maximum": 1.0
+            },
+            "emotional_weight": {
+              "type": "number",
+              "description": "Emotional significance — 0.0 to 1.0",
+              "minimum": 0.0,
+              "maximum": 1.0
+            }
+          }
+        },
+        "links": {
+          "type": "array",
+          "description": "IDs of related CDRs and events",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
+}

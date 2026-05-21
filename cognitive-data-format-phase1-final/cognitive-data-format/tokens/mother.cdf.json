@@ -1,0 +1,33 @@
+{
+  "token": "mother",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "family",
+      "meaning": "a female parent — a person who gives birth to or raises a child",
+      "added": "first",
+      "source": "wikidata"
+    },
+    {
+      "id": "02",
+      "context": "religion",
+      "meaning": "a title for a senior nun or female religious leader — Mother Superior",
+      "added": "accumulated",
+      "source": "wikidata"
+    },
+    {
+      "id": "03",
+      "context": "technology",
+      "meaning": "motherboard — the primary circuit board of a computer system",
+      "added": "accumulated",
+      "source": "wikidata"
+    },
+    {
+      "id": "04",
+      "context": "culture",
+      "meaning": "the origin or source of something — mother of invention, mother tongue",
+      "added": "accumulated",
+      "source": "wikidata"
+    }
+  ]
+}

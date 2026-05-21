@@ -1,0 +1,45 @@
+{
+  "id": "cdr_fire_001",
+  "entity": "fire",
+  "raw": {
+    "label": "fire",
+    "source": "wikidata"
+  },
+  "meta": {
+    "properties": {
+      "state": "plasma",
+      "requires_oxygen": true,
+      "produces_heat": true,
+      "produces_light": true,
+      "produces_smoke": true,
+      "controllable": "conditional",
+      "dangerous": true
+    },
+    "category": "phenomenon",
+    "source": "wikidata"
+  },
+  "cognitive": {
+    "event_id": "evt_003",
+    "observer_id": "observer_002",
+    "timestamp": "2026-01-03T19:45:00Z",
+    "environment": "backyard_evening",
+    "perception": {
+      "visual": "orange and yellow tongues rising and falling, no fixed shape, light thrown in all directions",
+      "auditory": "low crackling, occasional pop — rhythmic but unpredictable",
+      "tactile": null,
+      "olfactory": "sharp, woody smoke — catches at the back of the throat",
+      "thermal": "intense warmth from a distance, face hot before body moves closer"
+    },
+    "context": {
+      "co_present_entities": ["adult", "darkness", "grass", "smoke", "log"],
+      "observer_state": "alert",
+      "preceding_event": null
+    },
+    "interpretation": {
+      "meaning": "alive but not living — it moves, it breathes, it responds, but it is not safe; proximity must be earned",
+      "confidence": 0.61,
+      "emotional_weight": 0.88
+    },
+    "links": ["cdr_heat_001", "cdr_light_001", "evt_003"]
+  }
+}

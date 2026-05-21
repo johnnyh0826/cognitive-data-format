@@ -1,0 +1,33 @@
+{
+  "token": "fire",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics",
+      "meaning": "rapid oxidation producing heat, light, and flame — a natural combustion phenomenon",
+      "added": "first",
+      "source": "wikidata"
+    },
+    {
+      "id": "02",
+      "context": "employment",
+      "meaning": "to terminate someone's employment — to dismiss from a job",
+      "added": "accumulated",
+      "source": "wikidata"
+    },
+    {
+      "id": "03",
+      "context": "military",
+      "meaning": "to discharge a weapon — to shoot",
+      "added": "accumulated",
+      "source": "wikidata"
+    },
+    {
+      "id": "04",
+      "context": "culture",
+      "meaning": "passion, intensity, or inspiration — as in creative fire or inner drive",
+      "added": "accumulated",
+      "source": "wikidata"
+    }
+  ]
+}
