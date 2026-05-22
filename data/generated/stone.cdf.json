@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Geology",
+      "context": "geology",
       "meaning": "a naturally occurring solid mass of mineral material",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Jewelry and Gemology",
-      "meaning": "a precious or semi-precious stone used in adornment",
+      "context": "symbolism and metaphysics",
+      "meaning": "a symbol of strength, resilience, or spiritual connection",
       "added": "accumulated",
       "source": "llm"
     }

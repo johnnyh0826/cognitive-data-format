@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Biology and Psychology",
-      "meaning": "a human being between birth and puberty, typically dependent on their parents or caregivers.",
+      "context": "Biology",
+      "meaning": "a human being between birth and puberty",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Theology and Spirituality",
-      "meaning": "a symbol of innocence, purity, and vulnerability in religious contexts.",
+      "context": "Law",
+      "meaning": "a person under the age of 18, lacking legal capacity",
       "added": "accumulated",
       "source": "llm"
     }

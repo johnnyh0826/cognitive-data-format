@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "General Language",
-      "meaning": "the dark area or shape that appears on a surface when something blocks light from shining on it",
+      "context": "Optics and Physics",
+      "meaning": "the dark area or silhouette that appears on a surface when something blocks light from shining on it",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Psychology",
-      "meaning": "a repressed or hidden aspect of one's personality, often associated with unconscious thoughts and feelings",
+      "context": "Psychology and Psychoanalysis",
+      "meaning": "a repressed or hidden aspect of one's personality, often symbolizing the unconscious mind",
       "added": "accumulated",
       "source": "llm"
     }

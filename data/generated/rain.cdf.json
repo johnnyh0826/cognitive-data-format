@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Weather and Meteorology",
-      "meaning": "natural precipitation in liquid form, typically falling from clouds",
+      "context": "Meteorology",
+      "meaning": "liquid precipitation that falls from the sky",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Biblical Imagery",
-      "meaning": "symbol of divine judgment or cleansing",
+      "context": "Biblical metaphor",
+      "meaning": "divine judgment or punishment",
       "added": "accumulated",
       "source": "llm"
     }

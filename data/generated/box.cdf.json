@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "a rigid container with a flat top and bottom, used to store or transport objects",
+      "context": "general language",
+      "meaning": "a container made of wood, plastic, or other materials used to hold or store things",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "computing and technology",
-      "meaning": "a software program that contains and organizes data, applications, or operating systems",
+      "context": "computer science",
+      "meaning": "a data structure that stores and organizes data in a hierarchical manner",
       "added": "accumulated",
       "source": "llm"
     }

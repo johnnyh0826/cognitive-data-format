@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology",
-      "meaning": "frozen water in its natural state",
+      "context": "Geology",
+      "meaning": "a solid, transparent, and brittle form of water that forms naturally in the environment",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "a type of cosmic dust or particles",
+      "context": "Culinary",
+      "meaning": "a frozen dessert made from cream, sugar, and flavorings, often served as a sweet treat",
       "added": "accumulated",
       "source": "llm"
     }

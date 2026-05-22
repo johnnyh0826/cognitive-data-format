@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "general language",
-      "meaning": "a cutting instrument with a sharp blade and a handle",
+      "meaning": "a cutting instrument with a blade and handle",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "cooking",
-      "meaning": "a tool used to chop, slice, or dice food",
+      "meaning": "a tool used to chop, slice, or mince food",
       "added": "accumulated",
       "source": "llm"
     }

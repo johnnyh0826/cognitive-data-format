@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Locksmithing and Security",
+      "context": "Locks and Security",
       "meaning": "a small metal object used to operate a lock",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Music",
-      "meaning": "the central or most important part of something, such as a song or melody",
+      "context": "Music and Performance",
+      "meaning": "the central or most important part of a song, piece, or show",
       "added": "accumulated",
       "source": "llm"
     }

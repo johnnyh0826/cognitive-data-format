@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Education",
-      "meaning": "an adult who helps students learn and understand new things in a school or classroom setting",
+      "meaning": "An adult who helps students learn and understand new things.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Business",
-      "meaning": "a professional who instructs others on specific skills, such as sales techniques or software use",
+      "context": "Spirituality",
+      "meaning": "A guide or mentor who imparts spiritual knowledge and wisdom.",
       "added": "accumulated",
       "source": "llm"
     }

@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Philosophy",
-      "meaning": "Having a natural or innate quality, as opposed to acquired characteristics.",
+      "meaning": "having a natural tendency to do good or be generous",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "Biology",
-      "meaning": "A category of organisms that share common characteristics and can interbreed.",
+      "meaning": "relating to the classification of living organisms based on their characteristics and evolutionary relationships",
       "added": "accumulated",
       "source": "llm"
     }

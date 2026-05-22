@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Biblical context",
-      "meaning": "the first man created by God in the Bible",
+      "context": "Biblical and religious contexts",
+      "meaning": "the male parent in a family, often seen as a spiritual leader",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "scientific context (genetics)",
-      "meaning": "a male parent who contributes half of an individual's genetic material",
+      "context": "Psychological and therapeutic contexts",
+      "meaning": "a symbol of authority, protection, and guidance in a child's life",
       "added": "accumulated",
       "source": "llm"
     }

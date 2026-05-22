@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Philosophy",
-      "meaning": "an unpleasant emotional response to a perceived threat or danger",
+      "meaning": "a fundamental and universal human emotion, often accompanied by anxiety or apprehension.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "Psychology",
-      "meaning": "a complex and multifaceted emotion characterized by physiological arousal, behavioral avoidance, and cognitive appraisals of threat",
+      "meaning": "an emotional response to a perceived threat or danger, characterized by increased heart rate and blood pressure.",
       "added": "accumulated",
       "source": "llm"
     }

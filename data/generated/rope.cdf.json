@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Nautical and Sailing",
-      "meaning": "a length of cordage used to manipulate or secure something on a boat or ship",
+      "context": "nautical and sailing",
+      "meaning": "a length of fiber or yarn used to bind or tie things together",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Climbing and Mountaineering",
-      "meaning": "a durable, synthetic or natural fiber cord used for climbing protection, belaying, or rappelling",
+      "context": "rock climbing and mountaineering",
+      "meaning": "a thick, sturdy cord used for protection and safety",
       "added": "accumulated",
       "source": "llm"
     }

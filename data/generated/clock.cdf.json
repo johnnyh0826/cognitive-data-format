@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "timekeeping",
-      "meaning": "a device that measures and displays time",
+      "context": "timekeeping and measurement",
+      "meaning": "a device that measures time, typically displaying hours, minutes, and seconds.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "the celestial body that regulates the Earth's rotation",
+      "context": "astronomy and navigation",
+      "meaning": "an instrument used to measure the position of celestial bodies or to determine a ship's longitude at sea.",
       "added": "accumulated",
       "source": "llm"
     }

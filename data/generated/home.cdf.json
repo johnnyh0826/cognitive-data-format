@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography and architecture",
-      "meaning": "a person's primary residence or dwelling place",
+      "context": "Physics and Engineering",
+      "meaning": "the center of rotation or reference point in a coordinate system",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "the region around a celestial body, such as the home planet of a comet",
+      "context": "Real Estate",
+      "meaning": "a property that can be owned, rented, or sold",
       "added": "accumulated",
       "source": "llm"
     }

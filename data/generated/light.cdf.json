@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Physics and Optics",
-      "meaning": "a form of electromagnetic radiation with a specific wavelength",
+      "meaning": "a form of electromagnetic radiation with a specific frequency range",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "Photography",
-      "meaning": "the amount of illumination in an image or scene",
+      "meaning": "the amount of illumination in an image, often measured in stops",
       "added": "accumulated",
       "source": "llm"
     }

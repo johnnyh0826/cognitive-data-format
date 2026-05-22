@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Animal Sounds",
+      "context": "animal behavior",
       "meaning": "the sound a dog or other animal makes",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Tree Care",
-      "meaning": "to remove the bark from a tree, often for logging or woodworking purposes",
+      "context": "botany",
+      "meaning": "a hard, protective layer on the outside of a tree trunk",
       "added": "accumulated",
       "source": "llm"
     }

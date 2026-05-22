@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "General English",
-      "meaning": "a collection of liquid, typically water or chemicals, often contained in a structure such as a swimming pool or chemical processing facility.",
+      "context": "Sports and Recreation",
+      "meaning": "a body of water, typically filled with water, used for swimming or other aquatic activities.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Gaming",
-      "meaning": "a multiplayer online game where players can interact and play together, often with a focus on strategy and teamwork.",
+      "context": "Business and Finance",
+      "meaning": "a group of assets or investments managed by a financial institution or individual.",
       "added": "accumulated",
       "source": "llm"
     }

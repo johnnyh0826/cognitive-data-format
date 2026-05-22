@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Astronomy",
-      "meaning": "the natural satellite of Earth, orbiting around it.",
+      "meaning": "the natural satellite of Earth, orbiting it every 27.3 days",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "Folklore and Mythology",
-      "meaning": "a symbol of femininity, mystery, and the subconscious in many cultures.",
+      "meaning": "a symbol of femininity, mystery, and intuition in many cultures",
       "added": "accumulated",
       "source": "llm"
     }

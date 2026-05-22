@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Botany",
-      "meaning": "a type of plant with narrow leaves and a flexible stem",
+      "meaning": "a type of plant with long, thin leaves",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Golf",
-      "meaning": "the surface layer of the golf course, often used to measure the length of a shot",
+      "context": "Agriculture",
+      "meaning": "a crop used for animal feed or human consumption",
       "added": "accumulated",
       "source": "llm"
     }

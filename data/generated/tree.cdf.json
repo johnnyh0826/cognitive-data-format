@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "botany",
+      "context": "Botany",
       "meaning": "a perennial plant with a single stem or trunk, typically supporting branches and leaves above ground.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "a celestial body composed of gas, dust, and other matter that is held together by gravity.",
+      "context": "Symbolism",
+      "meaning": "a symbol of wisdom, strength, and endurance in many cultures.",
       "added": "accumulated",
       "source": "llm"
     }

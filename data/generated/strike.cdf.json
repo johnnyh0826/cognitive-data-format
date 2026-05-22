@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "sports and labor",
-      "meaning": "to engage in a work stoppage or boycott, often in protest of unfair labor practices or demands",
+      "meaning": "to stop work or activity in protest, often in a collective manner",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "geology",
-      "meaning": "the process by which magma rises to the Earth's surface and erupts as volcanic rock, often accompanied by earthquakes and other seismic activity",
+      "context": "geology and mining",
+      "meaning": "the process of breaking off or separating rock fragments from the parent rock",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "English language and everyday usage",
-      "meaning": "a person who is a close acquaintance, often with whom one shares experiences or feelings",
+      "context": "General Language",
+      "meaning": "a person who is a close and trusted companion, often with shared interests or experiences.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Buddhist philosophy",
-      "meaning": "one's spiritual companion or guide on the path to enlightenment",
+      "context": "Business and Networking",
+      "meaning": "an individual with whom one has a professional relationship, often for mutual benefit or collaboration.",
       "added": "accumulated",
       "source": "llm"
     }

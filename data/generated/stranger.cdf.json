@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Philosophy and Psychology",
-      "meaning": "a person unknown to one, especially in a social or professional sense",
+      "context": "Philosophy",
+      "meaning": "a person unknown to one, often used to describe someone who is unfamiliar or outside a particular group.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Science Fiction and Fantasy",
-      "meaning": "an alien being from another world or dimension",
+      "context": "Film and Theater",
+      "meaning": "an actor or character appearing in a film or play, often used to describe someone who is not part of the main cast.",
       "added": "accumulated",
       "source": "llm"
     }

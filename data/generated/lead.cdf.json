@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry and physics",
-      "meaning": "a heavy, bluish-white metal with atomic number 82",
+      "context": "geology and mining",
+      "meaning": "a heavy, bluish-white metal",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "music",
-      "meaning": "the person who directs a musical performance or composition",
+      "context": "astronomy",
+      "meaning": "the third planet from the Sun in our solar system",
       "added": "accumulated",
       "source": "llm"
     }

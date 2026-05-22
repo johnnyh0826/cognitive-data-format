@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "optics and physics",
-      "meaning": "a reflective surface that forms an image of an object or scene",
+      "context": "Physical Optics",
+      "meaning": "a reflective surface that forms an image of an object",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "philosophy and psychology",
-      "meaning": "a tool for self-reflection, introspection, and personal growth",
+      "context": "Psychology and Self-Perception",
+      "meaning": "a symbol for introspection, self-awareness, or self-reflection",
       "added": "accumulated",
       "source": "llm"
     }

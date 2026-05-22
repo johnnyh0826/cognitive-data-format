@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Geology",
-      "meaning": "small particles of rock or mineral, often found on beaches and in deserts",
+      "meaning": "small particles of rock or mineral fragments",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Glassmaking",
-      "meaning": "a type of quartz used to make glass",
+      "context": "Construction",
+      "meaning": "a mixture of small particles and cement used as a building material",
       "added": "accumulated",
       "source": "llm"
     }

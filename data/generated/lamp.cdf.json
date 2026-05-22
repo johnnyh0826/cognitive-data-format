@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "general language",
+      "context": "Lighting and Electrical Engineering",
       "meaning": "a device that produces light, typically using electricity or gas",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "a star or other celestial body that is a source of light",
+      "context": "Spirituality and Mysticism",
+      "meaning": "a symbol of enlightenment, guidance, or illumination",
       "added": "accumulated",
       "source": "llm"
     }

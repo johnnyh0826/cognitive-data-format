@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "philosophy",
-      "meaning": "to place or put something in a position",
+      "meaning": "a position or stance taken in a debate or discussion",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "internet and social media",
-      "meaning": "a piece of content, such as an article, video, or image, that is published online",
+      "meaning": "an online message, typically in the form of a comment or update",
       "added": "accumulated",
       "source": "llm"
     }

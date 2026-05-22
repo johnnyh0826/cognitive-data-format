@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Physics and Engineering",
-      "meaning": "a circular structure that rotates around a central axis, used to transmit motion or power.",
+      "meaning": "a circular object that rotates around a central axis, often used to transmit power or motion",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "Transportation",
-      "meaning": "a round and usually circular part of a vehicle, such as a car or bicycle, that rotates on an axle.",
+      "meaning": "the circular part of a vehicle, such as a car or bicycle, that allows it to move",
       "added": "accumulated",
       "source": "llm"
     }

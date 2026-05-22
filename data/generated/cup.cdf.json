@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "container",
-      "meaning": "a vessel used to hold or drink from",
+      "meaning": "a vessel used to hold or drink from liquids",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "golf",
-      "meaning": "the cup is the hole, a target in golf",
+      "meaning": "the cup is the hole into which a golf ball must be hit",
       "added": "accumulated",
       "source": "llm"
     }

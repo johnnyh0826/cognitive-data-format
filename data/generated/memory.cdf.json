@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Computing and Technology",
-      "meaning": "the process of storing, retrieving, and manipulating data",
+      "context": "Psychology and Neuroscience",
+      "meaning": "the process of retaining information, experiences, or skills after initial exposure to them",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Psychology and Neuroscience",
-      "meaning": "the mental faculty that enables the storage and retrieval of information",
+      "context": "Computer Science",
+      "meaning": "a type of data storage that allows for efficient retrieval and manipulation",
       "added": "accumulated",
       "source": "llm"
     }

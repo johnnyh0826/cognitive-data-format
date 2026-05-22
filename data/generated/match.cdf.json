@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Sports and Games",
-      "meaning": "an event or contest where two teams or individuals compete against each other, with a winner determined by rules or scoring.",
+      "meaning": "a contest or competition between two teams, individuals, or entities with a common goal of winning or achieving a specific objective.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "Chemistry and Materials Science",
-      "meaning": "the act of combining two substances to form a new compound with similar properties, often used in the production of materials like plastics or ceramics.",
+      "meaning": "a chemical compound that has the same properties as another substance, often used to describe a synthetic material mimicking natural materials.",
       "added": "accumulated",
       "source": "llm"
     }

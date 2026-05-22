@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Seasonal Meteorology",
-      "meaning": "a period of time characterized by mild weather and the awakening of plants from dormancy.",
+      "context": "Seasonal context",
+      "meaning": "The third season of the year, between winter and summer.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Mechanical Engineering",
-      "meaning": "the season when a spring-loaded mechanism is most effective or efficient.",
+      "context": "Agricultural context",
+      "meaning": "The period of growth and development in plants and crops.",
       "added": "accumulated",
       "source": "llm"
     }

@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "Physical Activity",
-      "meaning": "to move quickly on foot, typically at a pace faster than walking",
+      "meaning": "to move quickly on foot, typically in a forward direction",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "Computer Science",
-      "meaning": "a program or process that is executed repeatedly, often in a loop",
+      "meaning": "a program or process that is executed continuously",
       "added": "accumulated",
       "source": "llm"
     }

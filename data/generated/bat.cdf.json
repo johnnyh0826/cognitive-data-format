@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Animal Kingdom",
-      "meaning": "a flying mammal of the order Chiroptera",
+      "context": "sports and games",
+      "meaning": "a flying mammal that uses echolocation to navigate",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Cricket and Baseball",
-      "meaning": "a piece of equipment used to hit a ball",
+      "context": "cricket",
+      "meaning": "a type of handheld wooden or metal club used to hit the ball",
       "added": "accumulated",
       "source": "llm"
     }
