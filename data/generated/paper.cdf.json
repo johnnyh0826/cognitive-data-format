@@ -1,0 +1,19 @@
+{
+  "token": "paper",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "writing and publishing",
+      "meaning": "a thin, flexible material used for writing or printing on.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "science and technology",
+      "meaning": "a thin, translucent sheet of cellulose fibers used as a filter in laboratory settings.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

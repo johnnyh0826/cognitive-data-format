@@ -1,0 +1,19 @@
+{
+  "token": "laptop",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer technology",
+      "meaning": "a portable personal computer, typically used for work or entertainment",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "aviation",
+      "meaning": "the control panel or instrument cluster in an aircraft cockpit",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "brush",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "art and design",
+      "meaning": "a tool used to apply paint, ink, or other substances to a surface",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "personal care",
+      "meaning": "a device used to clean and groom hair, teeth, or skin",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

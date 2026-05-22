@@ -1,0 +1,19 @@
+{
+  "token": "hammer",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "a tool used to shape or break objects by applying force",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and art",
+      "meaning": "a device that strikes a nail or other object to produce sound in music, film, or theater",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

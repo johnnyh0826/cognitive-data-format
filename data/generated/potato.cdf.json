@@ -1,0 +1,19 @@
+{
+  "token": "potato",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "botany",
+      "meaning": "a starchy root vegetable that is a type of tuber.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Astronomy",
+      "meaning": "the name of a small, irregular moon of Saturn.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

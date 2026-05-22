@@ -1,0 +1,19 @@
+{
+  "token": "gate",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "architecture and engineering",
+      "meaning": "a barrier or entrance to a place, typically consisting of two vertical posts with a horizontal beam across the top.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "technology and computing",
+      "meaning": "an electronic device that controls access to a network or system, often used for security purposes.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

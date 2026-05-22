@@ -1,0 +1,19 @@
+{
+  "token": "printer",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computing",
+      "meaning": "a device that prints text or images on paper or other materials, typically connected to a computer.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology",
+      "meaning": "in psychoanalysis, the process by which the unconscious mind expresses itself through verbal or written communication.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

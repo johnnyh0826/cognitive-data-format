@@ -1,0 +1,19 @@
+{
+  "token": "tea",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and beverage",
+      "meaning": "a hot or cold beverage made from the leaves of the Camellia sinensis plant",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "culture and tradition",
+      "meaning": "a ritualistic ceremony, often with a calming or meditative purpose, typically involving the preparation and consumption of tea",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

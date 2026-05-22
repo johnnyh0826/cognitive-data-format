@@ -1,0 +1,19 @@
+{
+  "token": "snacks",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and drink",
+      "meaning": "small, informal meals or refreshments between larger meals",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "gaming and entertainment",
+      "meaning": "small, portable food items consumed during video game sessions or other leisure activities",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "battery",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "electronics",
+      "meaning": "a device that stores electric charge and provides power to devices or systems.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "aviation",
+      "meaning": "an electrical storage unit used in aircraft, such as a nickel-cadmium battery for starting an engine.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

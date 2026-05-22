@@ -1,0 +1,19 @@
+{
+  "token": "tires",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Automotive",
+      "meaning": "Rounded, flexible coverings around wheels that provide traction and cushioning.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Idiomatic expression",
+      "meaning": "To be exhausted or drained of energy, as if one's mental or physical reserves were depleted like the air from a tire.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

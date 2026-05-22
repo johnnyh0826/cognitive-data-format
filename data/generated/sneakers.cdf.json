@@ -1,0 +1,19 @@
+{
+  "token": "sneakers",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Fashion & Design",
+      "meaning": "a type of casual footwear, typically made of lightweight materials and designed for athletic or leisure activities.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Slang & Culture",
+      "meaning": "a colloquial term used to refer to someone who is considered cool, fashionable, or impressive.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

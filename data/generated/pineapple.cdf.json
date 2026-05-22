@@ -1,0 +1,19 @@
+{
+  "token": "pineapple",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and agriculture",
+      "meaning": "a tropical fruit with a tough, prickly exterior and juicy interior.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and space exploration",
+      "meaning": "a term used to describe the shape of some galaxies, characterized by a central bulge and spiral arms.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

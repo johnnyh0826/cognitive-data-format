@@ -1,0 +1,19 @@
+{
+  "token": "milk",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and nutrition",
+      "meaning": "a liquid produced by mammary glands of female mammals for their young, used as a food source in humans",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "chemistry and biology",
+      "meaning": "a type of fluid secreted by mammary glands in female mammals, composed of water, carbohydrates, proteins, fats, vitamins, and minerals",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

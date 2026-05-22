@@ -1,0 +1,19 @@
+{
+  "token": "monitor",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "technology",
+      "meaning": "to track or supervise something, such as a system or process.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "healthcare",
+      "meaning": "a device used to measure and record physiological activity, such as heart rate or blood pressure.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

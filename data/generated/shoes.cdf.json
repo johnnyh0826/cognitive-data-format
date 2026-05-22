@@ -1,0 +1,19 @@
+{
+  "token": "shoes",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "fashion",
+      "meaning": "footwear designed for protection, comfort, and style",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "athletics",
+      "meaning": "specialized footwear designed for specific sports or activities",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

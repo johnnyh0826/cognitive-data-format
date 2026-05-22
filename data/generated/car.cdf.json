@@ -1,0 +1,19 @@
+{
+  "token": "car",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "transportation",
+      "meaning": "a road vehicle, typically with four wheels, powered by an internal combustion engine or electricity.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "the second-closest planet to the Sun in our solar system, known for its red appearance.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

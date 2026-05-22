@@ -1,0 +1,19 @@
+{
+  "token": "basketball",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "sports",
+      "meaning": "a team sport played by two teams of five players each, with a ball and hoop.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "education",
+      "meaning": "an object used in gym classes to teach coordination and teamwork skills.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

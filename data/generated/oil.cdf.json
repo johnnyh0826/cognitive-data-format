@@ -1,0 +1,19 @@
+{
+  "token": "oil",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "chemistry and energy",
+      "meaning": "a viscous liquid derived from petroleum, used as fuel or lubricant",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "cooking and cuisine",
+      "meaning": "a flavorful liquid extracted from seeds or nuts, used in cooking and dressings",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

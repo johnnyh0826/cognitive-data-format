@@ -1,0 +1,19 @@
+{
+  "token": "money",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "finance and economics",
+      "meaning": "a medium of exchange, unit of account, and store of value.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and motivation",
+      "meaning": "a driving force or motivator that can influence behavior and decision-making.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

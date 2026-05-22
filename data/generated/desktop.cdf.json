@@ -1,0 +1,19 @@
+{
+  "token": "desktop",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a graphical user interface that allows users to interact with a computer or mobile device",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography and urban planning",
+      "meaning": "the area of land immediately adjacent to the edge of a city, town, or village",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

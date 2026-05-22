@@ -1,0 +1,19 @@
+{
+  "token": "golf",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Sports",
+      "meaning": "a game played on a large grassy area with sticks and balls, where players aim to hit the ball into holes using various clubs.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Nautical/Games",
+      "meaning": "a term used in sailing to describe the act of adjusting a ship's course or direction, often referring to the angle between the wind and the boat.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

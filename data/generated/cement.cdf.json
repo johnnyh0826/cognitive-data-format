@@ -1,0 +1,19 @@
+{
+  "token": "cement",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "construction and materials science",
+      "meaning": "a binding agent used in concrete mixtures to create a strong, durable material.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "philosophy and existentialism",
+      "meaning": "to make something solid or permanent, often used metaphorically to describe the process of creating a sense of stability or security in one's life.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

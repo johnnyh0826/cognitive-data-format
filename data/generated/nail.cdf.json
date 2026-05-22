@@ -1,0 +1,19 @@
+{
+  "token": "nail",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "construction and DIY",
+      "meaning": "a small, thin piece of metal used to fasten things together",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "anatomy and medicine",
+      "meaning": "the horny or keratinized plate at the end of a finger or toe",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

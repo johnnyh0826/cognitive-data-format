@@ -1,0 +1,19 @@
+{
+  "token": "cards",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "playing cards and games",
+      "meaning": "small pieces of paper or cardboard with various designs, used for playing games like poker, blackjack, or solitaire.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "photography and graphic design",
+      "meaning": "thin pieces of material coated with light-sensitive chemicals, used to capture images in film photography.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

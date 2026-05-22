@@ -1,0 +1,19 @@
+{
+  "token": "steak",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "cooking and food",
+      "meaning": "a thin cut of meat, usually beef or pork, cooked to a high temperature on a grill or in an oven.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and space exploration",
+      "meaning": "a type of astronomical object that is the remains of a star's explosion, characterized by high temperatures and intense radiation.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

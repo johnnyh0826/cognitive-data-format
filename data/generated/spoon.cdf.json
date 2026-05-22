@@ -1,0 +1,19 @@
+{
+  "token": "spoon",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "cooking and dining",
+      "meaning": "a utensil used for eating or serving food",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sailing and navigation",
+      "meaning": "a type of boat with a spoon-shaped bow, often used in shallow waters",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

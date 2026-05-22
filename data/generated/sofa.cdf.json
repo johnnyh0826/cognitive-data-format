@@ -1,0 +1,19 @@
+{
+  "token": "sofa",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "furniture",
+      "meaning": "a piece of furniture for sitting or reclining",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sports",
+      "meaning": "to score a goal in a game by pushing the ball into the opponent's net, as in soccer",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

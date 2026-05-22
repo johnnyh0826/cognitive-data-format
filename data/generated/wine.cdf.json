@@ -1,0 +1,19 @@
+{
+  "token": "wine",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and drink",
+      "meaning": "an alcoholic beverage made from fermented grapes or other fruits, often served as a beverage or used in cooking",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "religion and spirituality",
+      "meaning": "a sacrament or ritualistic drink consumed during religious ceremonies, symbolizing the blood of Christ",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

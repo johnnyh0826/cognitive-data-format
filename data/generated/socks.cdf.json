@@ -1,0 +1,19 @@
+{
+  "token": "socks",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "clothing and fashion",
+      "meaning": "a type of fabric covering for the feet, typically worn with shoes",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sports and fitness",
+      "meaning": "a piece of equipment used to grip a racquet or paddle in certain sports, such as squash or table tennis",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

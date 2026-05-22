@@ -1,0 +1,19 @@
+{
+  "token": "photo",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "science and technology",
+      "meaning": "an image created using a camera or other device",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "marketing and advertising",
+      "meaning": "a visual representation of an event, product, or service used to promote something",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

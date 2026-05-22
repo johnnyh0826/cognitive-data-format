@@ -1,0 +1,19 @@
+{
+  "token": "rice",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and cuisine",
+      "meaning": "a type of staple food made from the grains of Oryza sativa, often served as a side dish or used in various dishes.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology and agriculture",
+      "meaning": "the edible seeds of the rice plant, cultivated as a crop for human consumption and animal feed.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

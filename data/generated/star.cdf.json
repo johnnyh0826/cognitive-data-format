@@ -1,0 +1,19 @@
+{
+  "token": "star",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "astronomy",
+      "meaning": "a massive, luminous ball of gas that is held together by its own gravity and is a source of light and heat.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "entertainment",
+      "meaning": "a famous or celebrated person, typically in the entertainment industry.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

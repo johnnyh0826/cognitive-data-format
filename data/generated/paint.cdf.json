@@ -1,0 +1,19 @@
+{
+  "token": "paint",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "art and design",
+      "meaning": "to apply color or other substances to a surface using various techniques",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "construction and engineering",
+      "meaning": "to cover a surface with a layer of paint as part of a finishing process",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

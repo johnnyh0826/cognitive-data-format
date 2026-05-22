@@ -1,0 +1,19 @@
+{
+  "token": "glass",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "optics and materials science",
+      "meaning": "a non-crystalline solid material that can be transparent, translucent, or opaque.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "food and beverage",
+      "meaning": "a container made of glass used for holding or serving liquids or solids.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

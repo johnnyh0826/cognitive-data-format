@@ -1,0 +1,19 @@
+{
+  "token": "butter",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and cooking",
+      "meaning": "a soft yellowish fatty substance extracted from milk, used as a spread or in cooking",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "a term for the bright, glowing surface of certain stars, such as red giants and white dwarfs",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "phone",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "communication technology",
+      "meaning": "a device used for communication through voice or text messages, emails, and phone calls",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medical equipment",
+      "meaning": "an instrument used to measure the electrical activity of the heart, also known as an electrocardiogram (ECG)",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

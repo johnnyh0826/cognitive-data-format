@@ -1,0 +1,19 @@
+{
+  "token": "coffee",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and drink",
+      "meaning": "a hot beverage made from roasted coffee beans, often consumed in the morning.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medicine and health",
+      "meaning": "a stimulant found in coffee that can help increase alertness and energy.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

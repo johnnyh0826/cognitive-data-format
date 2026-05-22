@@ -1,0 +1,19 @@
+{
+  "token": "desk",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "furniture",
+      "meaning": "a piece of furniture with a flat surface used for working, writing, or studying.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "the surface or horizon of the Moon, typically referring to the area visible from Earth.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

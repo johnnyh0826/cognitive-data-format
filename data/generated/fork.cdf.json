@@ -1,0 +1,19 @@
+{
+  "token": "fork",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "cooking and dining",
+      "meaning": "a utensil used to lift, turn, or pierce food",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "an algorithm that splits a data structure into smaller parts for processing",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

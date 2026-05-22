@@ -1,0 +1,19 @@
+{
+  "token": "fan",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "technology",
+      "meaning": "a device that creates a current of air for cooling or ventilation",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sports and entertainment",
+      "meaning": "a person who enthusiastically supports a sports team, musician, or other performer",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "salt",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "chemistry",
+      "meaning": "a compound that enhances flavor and preserves food by reducing bacterial growth",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "religion",
+      "meaning": "a symbol of purification, used in Christian baptismal rites to represent spiritual cleansing",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

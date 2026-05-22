@@ -1,0 +1,19 @@
+{
+  "token": "bible",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Christianity and Judaism",
+      "meaning": "a sacred book revered by Christians and Jews, containing stories, teachings, and prophecies",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "reference work",
+      "meaning": "an authoritative source of information on a wide range of topics, often used as a reference",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

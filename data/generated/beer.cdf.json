@@ -1,0 +1,19 @@
+{
+  "token": "beer",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and drink",
+      "meaning": "an intoxicating beverage made from fermented grains, hops, and water.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "transportation",
+      "meaning": "a type of fuel or energy source for vehicles, such as biodiesel beer or bio-based diesel fuel.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}
