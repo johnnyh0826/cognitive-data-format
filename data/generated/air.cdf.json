@@ -1,0 +1,19 @@
+{
+  "token": "air",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and chemistry",
+      "meaning": "a colorless, odorless, tasteless gas that surrounds the Earth and is essential for life",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "aviation and aerospace",
+      "meaning": "the thin layer of gases surrounding a celestial body or aircraft, influencing flight dynamics",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

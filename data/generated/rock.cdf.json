@@ -1,0 +1,19 @@
+{
+  "token": "rock",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology",
+      "meaning": "a naturally occurring solid mass of mineral material",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music",
+      "meaning": "a rhythmic pattern or beat, often repeated and varied",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

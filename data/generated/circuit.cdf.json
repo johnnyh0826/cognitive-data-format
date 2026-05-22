@@ -1,0 +1,19 @@
+{
+  "token": "circuit",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "electronics",
+      "meaning": "a path or route for electric current to flow through a device or network",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "gymnastics",
+      "meaning": "a sequence of movements or skills performed on an apparatus, such as the trampoline or uneven bars",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

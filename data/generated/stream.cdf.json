@@ -1,0 +1,19 @@
+{
+  "token": "stream",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a natural flow of water, such as a river or brook",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "a continuous flow of data transmitted over the internet, often used for video or audio content",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "band",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music",
+      "meaning": "a group of musicians playing together",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology",
+      "meaning": "a strip or layer of rock formations",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

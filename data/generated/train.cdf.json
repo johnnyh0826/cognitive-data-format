@@ -1,0 +1,19 @@
+{
+  "token": "train",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "transportation",
+      "meaning": "a self-propelled vehicle on rails for carrying passengers or freight",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "meditation and self-improvement",
+      "meaning": "a system of meditation and self-reflection, often involving visualization and goal-setting",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

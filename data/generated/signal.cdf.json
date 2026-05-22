@@ -1,0 +1,19 @@
+{
+  "token": "signal",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "electrical engineering",
+      "meaning": "a change in an electrical quantity, such as voltage or current, that occurs at a specific point in time.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "communication theory",
+      "meaning": "information sent through a channel to convey meaning or intent, which may be explicit or implicit.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

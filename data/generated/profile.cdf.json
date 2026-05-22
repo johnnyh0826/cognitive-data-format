@@ -1,0 +1,19 @@
+{
+  "token": "profile",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computing",
+      "meaning": "a detailed summary of a person or entity's characteristics, skills, and experiences",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography and architecture",
+      "meaning": "the outer shape or outline of an area, building, or city",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "free",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "unrestricted or unimpeded in movement, action, or expression.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "economics and finance",
+      "meaning": "not requiring payment or having a zero cost.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

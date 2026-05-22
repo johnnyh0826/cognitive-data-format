@@ -1,0 +1,19 @@
+{
+  "token": "conduct",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music",
+      "meaning": "lead or direct a musical performance or ensemble",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "science and engineering",
+      "meaning": "to guide or control the movement of an object, such as an aircraft or spacecraft",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

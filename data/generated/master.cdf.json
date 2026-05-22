@@ -1,0 +1,19 @@
+{
+  "token": "master",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "A person who has complete control or authority over something, such as a ship, a project, or an organization.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and performance",
+      "meaning": "A skilled musician or performer who has achieved a high level of expertise and reputation in their field.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

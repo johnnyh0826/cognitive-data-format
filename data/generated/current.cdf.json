@@ -1,0 +1,19 @@
+{
+  "token": "current",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "a flow of electric charge or a flow of fluid, such as water or air.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "journalism and news",
+      "meaning": "up-to-date information or events that are happening now, often used to describe a story or topic that is being followed closely.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

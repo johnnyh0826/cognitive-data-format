@@ -1,0 +1,19 @@
+{
+  "token": "host",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: hospitality",
+      "meaning": "to receive and entertain guests, often in a formal setting",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing",
+      "meaning": "a computer that provides services to other computers over a network",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

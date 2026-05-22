@@ -1,0 +1,19 @@
+{
+  "token": "plot",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "theatre and storytelling",
+      "meaning": "a series of events that make up a story or drama",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography and cartography",
+      "meaning": "an area of land with specific characteristics, such as climate, soil, or vegetation",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

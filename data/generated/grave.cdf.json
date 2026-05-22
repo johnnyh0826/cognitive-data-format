@@ -1,0 +1,19 @@
+{
+  "token": "grave",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "funeral and mourning",
+      "meaning": "a hole in the ground for burying a dead body",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology and archaeology",
+      "meaning": "an accumulation of sediment or debris, often forming a layer or deposit",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

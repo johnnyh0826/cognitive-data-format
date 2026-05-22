@@ -1,0 +1,19 @@
+{
+  "token": "race",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology and genetics",
+      "meaning": "a group of organisms within a species that share a common gene pool and are capable of interbreeding",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "human rights and social justice",
+      "meaning": "the struggle for equal opportunities and treatment based on characteristics such as ethnicity, gender, or religion",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

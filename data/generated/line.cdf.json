@@ -1,0 +1,19 @@
+{
+  "token": "line",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and geometry",
+      "meaning": "a set of points connected by a continuous curve or shape",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "graph theory",
+      "meaning": "a path that connects two nodes in a graph, often representing a flow or connection",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

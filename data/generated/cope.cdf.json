@@ -1,0 +1,19 @@
+{
+  "token": "cope",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "psychology and mental health",
+      "meaning": "to deal with or manage a difficult situation, challenge, or emotion",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography and climate",
+      "meaning": "to adapt to or adjust one's behavior in response to changing environmental conditions",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "project",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "engineering and construction",
+      "meaning": "a planned undertaking with specific goals and timelines",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and motivation",
+      "meaning": "an individual's mental effort to achieve a desired outcome or goal",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

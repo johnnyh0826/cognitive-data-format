@@ -1,0 +1,19 @@
+{
+  "token": "article",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "publishing",
+      "meaning": "a self-contained piece of writing in a newspaper, magazine, or journal",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "grammar",
+      "meaning": "a noun that refers to an object or concept",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

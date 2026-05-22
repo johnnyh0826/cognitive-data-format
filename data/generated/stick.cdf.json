@@ -1,0 +1,19 @@
+{
+  "token": "stick",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics",
+      "meaning": "a slender, elongated object that resists being bent or broken",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "golf",
+      "meaning": "a thin, flexible rod used to manipulate and position golf balls on the green",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

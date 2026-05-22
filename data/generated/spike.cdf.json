@@ -1,0 +1,19 @@
+{
+  "token": "spike",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "sports",
+      "meaning": "a sharp and sudden increase in score or momentum, especially in team sports.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "technology",
+      "meaning": "a small metal rod used to connect electronic components or a type of electrical connector.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

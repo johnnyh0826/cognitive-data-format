@@ -1,0 +1,19 @@
+{
+  "token": "return",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "commerce and finance",
+      "meaning": "to give back or pay back something, such as money owed or a product purchased.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and physics",
+      "meaning": "the act of an object or spacecraft coming back to its original position or orbit after being launched or sent elsewhere.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

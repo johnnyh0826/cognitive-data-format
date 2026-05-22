@@ -1,0 +1,19 @@
+{
+  "token": "quarter",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "time measurement",
+      "meaning": "a unit of time equal to one-fourth of an hour or day",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "coinage and currency",
+      "meaning": "the 25-cent coin in the United States, Canada, and Australia",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

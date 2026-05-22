@@ -1,0 +1,19 @@
+{
+  "token": "port",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "maritime and shipping",
+      "meaning": "a location on a body of water where ships can dock or anchor",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "an interface that connects a computer to the internet, allowing data transfer",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "stay",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "language and communication",
+      "meaning": "to remain in a particular place or condition, often used to convey a sense of stability or continuity",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medical treatment",
+      "meaning": "to continue receiving medical care or therapy without interruption, often in the context of chronic illness or ongoing treatment",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

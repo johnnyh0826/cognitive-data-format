@@ -1,0 +1,19 @@
+{
+  "token": "type",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computing",
+      "meaning": "to classify or categorize something according to its characteristics, such as data types in programming.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and sociology",
+      "meaning": "a category or classification of people based on shared characteristics, traits, or behaviors.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

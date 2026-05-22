@@ -1,0 +1,19 @@
+{
+  "token": "roll",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and mechanics",
+      "meaning": "to cause to move along a curved or circular path, often under the influence of gravity.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "photography",
+      "meaning": "to rotate the camera around its central axis to adjust the position of the subject or modify the composition.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

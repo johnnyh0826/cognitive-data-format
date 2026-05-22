@@ -1,0 +1,19 @@
+{
+  "token": "unit",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics",
+      "meaning": "a single quantity of a measurement system, such as inches or meters.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "physics and engineering",
+      "meaning": "a fundamental physical quantity, such as length, mass, or time, used to describe the properties of an object or system.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

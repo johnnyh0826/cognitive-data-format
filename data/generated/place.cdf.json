@@ -1,0 +1,19 @@
+{
+  "token": "place",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a location on Earth's surface, such as a city, town, or village.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "philosophy and sociology",
+      "meaning": "an environment or setting where social interactions occur, such as a workplace, home, or community.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "plain",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a flat or level area of land",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "clothing",
+      "meaning": "unadorned or simple clothing, such as a plain white shirt",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

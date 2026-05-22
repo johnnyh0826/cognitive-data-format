@@ -1,0 +1,19 @@
+{
+  "token": "bit",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "digital computing",
+      "meaning": "a unit of information, typically represented as a sequence of binary digits (0s and 1s).",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology",
+      "meaning": "a small particle or fragment of stone, rock, or mineral.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

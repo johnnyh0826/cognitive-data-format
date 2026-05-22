@@ -1,0 +1,19 @@
+{
+  "token": "broke",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "finance",
+      "meaning": "to be unable to pay debts or financial obligations",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "physical activity",
+      "meaning": "to break or shatter something, often accidentally",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

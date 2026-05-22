@@ -1,0 +1,19 @@
+{
+  "token": "connection",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a logical link between devices or systems in a network.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "social relationships",
+      "meaning": "the bond or tie that exists between people, fostering communication and understanding.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

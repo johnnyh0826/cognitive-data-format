@@ -1,0 +1,19 @@
+{
+  "token": "core",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "the central or innermost part of something, such as a physical system or a computer program.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "anatomy and biology",
+      "meaning": "the center or central part of an organ or tissue, often referring to its most vital or essential function.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

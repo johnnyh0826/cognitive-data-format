@@ -1,0 +1,19 @@
+{
+  "token": "argument",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "philosophy and logic",
+      "meaning": "a set of statements or propositions offered as true, with the intention of demonstrating their truth through reasoning.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing and programming",
+      "meaning": "a sequence of commands or instructions that are executed by a computer program to achieve a specific task or solve a problem.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

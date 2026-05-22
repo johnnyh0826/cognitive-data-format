@@ -1,0 +1,19 @@
+{
+  "token": "arrow",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "archery and hunting",
+      "meaning": "a pointed device made of metal, carbon or other materials, used for propelling through the air with a bow or by hand.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "nautical and navigation",
+      "meaning": "a visual indicator on a compass dial showing the direction of magnetic north.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

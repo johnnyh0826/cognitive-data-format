@@ -1,0 +1,19 @@
+{
+  "token": "burst",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "a sudden release of pressure or energy, often accompanied by a loud noise",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer networking",
+      "meaning": "the sudden and unexpected loss of connectivity between devices or nodes",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

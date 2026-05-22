@@ -1,0 +1,19 @@
+{
+  "token": "course",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "education",
+      "meaning": "a series of educational lessons or experiences",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "golf",
+      "meaning": "the path or direction that a golf ball follows after being hit",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

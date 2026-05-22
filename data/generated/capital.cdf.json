@@ -1,0 +1,19 @@
+{
+  "token": "capital",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "economics and finance",
+      "meaning": "the city or town where a country's government is located, often considered its center of power",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology and ecology",
+      "meaning": "the highest or most developed part of an organism, such as the capital city of a tree's root system",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

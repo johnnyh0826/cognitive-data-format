@@ -1,0 +1,19 @@
+{
+  "token": "probe",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Astronomy",
+      "meaning": "to investigate or study a celestial body using instruments and data.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Computer Science",
+      "meaning": "a program or algorithm that tests the boundaries of a system, network, or software to identify vulnerabilities.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

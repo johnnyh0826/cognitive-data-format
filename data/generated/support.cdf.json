@@ -1,0 +1,19 @@
+{
+  "token": "support",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain (physical/verbal)",
+      "meaning": "to give or offer help, encouragement, or assistance",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "technical/military",
+      "meaning": "to provide military backup or reinforcement, especially in a tactical situation",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

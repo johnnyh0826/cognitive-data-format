@@ -1,0 +1,19 @@
+{
+  "token": "record",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music and sound recording",
+      "meaning": "a document of a performance, typically in audio or video format",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "history and archives",
+      "meaning": "an official account or documentation of an event, transaction, or process",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

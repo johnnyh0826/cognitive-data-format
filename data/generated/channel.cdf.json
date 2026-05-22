@@ -1,0 +1,19 @@
+{
+  "token": "channel",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "communication technology",
+      "meaning": "a path or route for transmitting data or signals",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography and environment",
+      "meaning": "a natural or artificial watercourse that connects two bodies of water",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

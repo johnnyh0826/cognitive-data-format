@@ -1,0 +1,19 @@
+{
+  "token": "brick",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "construction and architecture",
+      "meaning": "a small, rectangular block of fired clay or other material used in building",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "slang and informal use",
+      "meaning": "a person who is stubbornly uncooperative or resistant to change",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

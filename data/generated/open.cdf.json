@@ -1,0 +1,19 @@
+{
+  "token": "open",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical domain",
+      "meaning": "to be in a state of being not closed or obstructed, allowing entry or access.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing and technology",
+      "meaning": "to make available for use or to create an opportunity for something to be accessed or used.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

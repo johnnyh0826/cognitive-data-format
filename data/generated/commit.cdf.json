@@ -1,0 +1,19 @@
+{
+  "token": "commit",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "to save changes to a version control system or database",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology",
+      "meaning": "to make a conscious decision or take responsibility for one's actions",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

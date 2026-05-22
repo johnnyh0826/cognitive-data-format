@@ -1,0 +1,19 @@
+{
+  "token": "highlight",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "document formatting",
+      "meaning": "to make a part of text or image stand out visually to draw attention",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "photography and film",
+      "meaning": "to emphasize or focus on a specific aspect, person, or object in an image or scene",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

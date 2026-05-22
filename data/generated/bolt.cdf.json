@@ -1,0 +1,19 @@
+{
+  "token": "bolt",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "fastener technology",
+      "meaning": "a metal or plastic device used to join two things together, typically by screwing or unscrewing.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and meteorology",
+      "meaning": "a sudden release of energy in the atmosphere, often accompanied by a bright flash of light and a loud crackling sound.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

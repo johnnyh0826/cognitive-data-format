@@ -1,0 +1,19 @@
+{
+  "token": "depth",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "the measure of how far down or in a structure extends, such as the depth of a well or a building's foundation.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and philosophy",
+      "meaning": "the state or quality of being profound, thoughtful, or introspective; the ability to understand and explore complex ideas and emotions.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

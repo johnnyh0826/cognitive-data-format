@@ -1,0 +1,19 @@
+{
+  "token": "socket",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a connector that allows two devices to communicate or transfer data",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "anatomy",
+      "meaning": "the opening at the base of a tooth, allowing passage of nerves and blood vessels",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

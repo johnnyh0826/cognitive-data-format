@@ -1,0 +1,19 @@
+{
+  "token": "draw",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "visual arts",
+      "meaning": "to create a representation of something by using lines, shapes, and colors on paper or computer screen",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "gaming and entertainment",
+      "meaning": "to win a game or competition without the need for additional rounds or matches",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

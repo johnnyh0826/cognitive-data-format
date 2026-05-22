@@ -1,0 +1,19 @@
+{
+  "token": "account",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "financial domain",
+      "meaning": "a record or statement of financial transactions and their resulting balances, typically used for tax purposes or to monitor spending.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "social media domain",
+      "meaning": "an online profile or page representing an individual or entity's presence and activities, often used for networking and sharing information.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "compound",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "chemistry",
+      "meaning": "a substance formed by chemically combining two or more elements, substances, or ions.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "real estate",
+      "meaning": "a single building or structure that is occupied by multiple families or individuals under a single ownership or rental agreement.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

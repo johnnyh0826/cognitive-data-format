@@ -1,0 +1,19 @@
+{
+  "token": "spin",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics",
+      "meaning": "to rotate around a central axis",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "textile manufacturing",
+      "meaning": "to twist fibers together to form yarn",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

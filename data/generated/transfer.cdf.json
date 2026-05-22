@@ -1,0 +1,19 @@
+{
+  "token": "transfer",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "finance",
+      "meaning": "to move or redirect funds from one account to another",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "information technology",
+      "meaning": "to copy data or files from a source device to a destination device",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

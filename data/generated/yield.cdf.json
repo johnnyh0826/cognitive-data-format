@@ -1,0 +1,19 @@
+{
+  "token": "yield",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: agriculture and farming",
+      "meaning": "to produce or allow to grow or develop something, such as a crop or an idea.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "another distinct domain: finance and economics",
+      "meaning": "to generate revenue or profit from an investment or asset, often in the form of interest or dividends.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

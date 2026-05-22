@@ -1,0 +1,19 @@
+{
+  "token": "flight",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "aviation and transportation",
+      "meaning": "the act of flying or traveling through the air, typically in an aircraft",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology and medicine",
+      "meaning": "a sudden or uncontrolled movement of a part of the body, such as a muscle or limb",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

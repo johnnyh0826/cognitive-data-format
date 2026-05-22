@@ -1,0 +1,19 @@
+{
+  "token": "contest",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "competition and sports",
+      "meaning": "a competition or rivalry between two or more people, teams, or entities to achieve a goal or win a prize.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "academic and professional",
+      "meaning": "an examination or test of one's knowledge, skills, or abilities, often in the form of an oral presentation, paper, or project.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

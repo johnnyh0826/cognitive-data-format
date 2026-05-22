@@ -1,0 +1,19 @@
+{
+  "token": "shell",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology",
+      "meaning": "the outer layer of an animal or plant, typically hard and protective",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "a user interface that resembles a physical device, such as a command-line shell",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

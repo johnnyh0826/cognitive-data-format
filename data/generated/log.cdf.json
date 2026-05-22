@@ -1,0 +1,19 @@
+{
+  "token": "log",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computing and technology",
+      "meaning": "a record of events or actions, especially in a computer system.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "forestry and ecology",
+      "meaning": "the trunk or main stem of a tree, especially one that is dead or has fallen.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

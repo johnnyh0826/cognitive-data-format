@@ -1,0 +1,19 @@
+{
+  "token": "buck",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "one unit of currency, especially in the United States",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "hunting and wildlife management",
+      "meaning": "the male of certain mammals, such as deer or antelope",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

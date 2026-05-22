@@ -1,0 +1,19 @@
+{
+  "token": "wake",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "sleep and consciousness",
+      "meaning": "to become or cause to become awake, often from a state of sleep or unconsciousness.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "nautical and maritime",
+      "meaning": "the point on the horizon where the sun appears above the sea level, marking the beginning of daylight.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

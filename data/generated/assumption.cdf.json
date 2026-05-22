@@ -1,0 +1,19 @@
+{
+  "token": "assumption",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "logic and argumentation",
+      "meaning": "a conclusion drawn from incomplete or uncertain information, often without explicit evidence",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science and programming",
+      "meaning": "an initial value assigned to a variable before its actual value is determined by the program's execution",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

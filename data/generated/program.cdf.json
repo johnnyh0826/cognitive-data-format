@@ -1,0 +1,19 @@
+{
+  "token": "program",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a set of instructions that a computer can execute",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "education",
+      "meaning": "a planned series of courses or activities, typically leading to certification or a degree",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

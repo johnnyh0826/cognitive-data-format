@@ -1,0 +1,19 @@
+{
+  "token": "blast",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and chemistry",
+      "meaning": "a sudden release of energy, often accompanied by a loud noise or explosion",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and space exploration",
+      "meaning": "the process of propelling a spacecraft through space using rocket engines",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "touch",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical interaction",
+      "meaning": "to make physical contact with something or someone",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "emotional resonance",
+      "meaning": "to evoke a strong emotional response in someone, often through empathy or understanding",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

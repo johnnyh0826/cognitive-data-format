@@ -1,0 +1,19 @@
+{
+  "token": "foam",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "chemistry",
+      "meaning": "a substance composed of a mixture of gas bubbles trapped in a liquid",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sailing",
+      "meaning": "the frothy top layer of water on the surface of a sea or ocean, formed by wind and waves",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "hard",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "having a high resistance to deformation or flow, as in metals or other materials.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "requiring significant processing power and memory resources, such as a computationally hard problem.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

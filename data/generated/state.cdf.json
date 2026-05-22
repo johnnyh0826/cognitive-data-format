@@ -1,0 +1,19 @@
+{
+  "token": "state",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "government",
+      "meaning": "a sovereign entity with its own government, laws, and international recognition.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology",
+      "meaning": "a mental state of being, such as conscious or unconscious, that influences an individual's thoughts, feelings, and behaviors.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

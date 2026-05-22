@@ -1,0 +1,19 @@
+{
+  "token": "bow",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: archery & sports",
+      "meaning": "to bend or curve forward, typically using a piece of wood, plastic, or other material to propel an arrow or projectile.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "another distinct domain: music & performance",
+      "meaning": "to perform a courteous and humble act of respect, often by bending the head or body forward, as in paying homage to someone.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "cell",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology",
+      "meaning": "a basic structural and functional unit of living organisms, such as a plant or animal cell.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "architecture",
+      "meaning": "a compartmentalized space within a building, often used for storage or utility purposes.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

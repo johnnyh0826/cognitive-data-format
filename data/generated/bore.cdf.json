@@ -1,0 +1,19 @@
+{
+  "token": "bore",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology",
+      "meaning": "to drill or excavate a hole in the earth's surface",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "nautical",
+      "meaning": "to make a ship or boat move through the water by pushing it with a pole",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "cover",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "To protect or conceal something, such as an object or a person.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music",
+      "meaning": "In music notation, to indicate the presence of a harmonically rich passage or a musical theme.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

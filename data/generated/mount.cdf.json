@@ -1,0 +1,19 @@
+{
+  "token": "mount",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a natural elevation of the earth's surface, typically forming a peak or ridge.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "the ground-based platform supporting a telescope or other astronomical equipment to observe celestial objects.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

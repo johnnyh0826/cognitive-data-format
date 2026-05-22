@@ -1,0 +1,19 @@
+{
+  "token": "base",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geometry",
+      "meaning": "a starting or initial point in a coordinate system",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "mathematics",
+      "meaning": "the value of a logarithmic function, especially the natural logarithm",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

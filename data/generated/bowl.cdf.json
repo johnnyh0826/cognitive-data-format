@@ -1,0 +1,19 @@
+{
+  "token": "bowl",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "sports",
+      "meaning": "a round or oval container used to play a sport, such as bowling or curling",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "ceremonial and cultural practices",
+      "meaning": "a ritualistic or ceremonial vessel used for offerings, prayers, or meditation",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

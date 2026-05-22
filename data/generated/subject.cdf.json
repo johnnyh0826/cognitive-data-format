@@ -1,0 +1,19 @@
+{
+  "token": "subject",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "philosophy and academia",
+      "meaning": "a person or thing being studied, discussed, or written about",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "grammar and syntax",
+      "meaning": "the noun or pronoun that is the focus of a sentence or clause",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "engage",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: psychology",
+      "meaning": "to participate actively and intentionally in a mental or emotional process, such as a conversation or conflict resolution.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "another distinct domain: technology",
+      "meaning": "to interact with a computer system, software, or application through user input, such as clicking or typing.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

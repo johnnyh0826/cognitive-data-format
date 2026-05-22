@@ -1,0 +1,19 @@
+{
+  "token": "reach",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical action",
+      "meaning": "to extend one's hand or arm to touch, grasp, or manipulate something",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "figurative extension",
+      "meaning": "to attain or achieve a goal, objective, or level of understanding",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

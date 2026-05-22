@@ -1,0 +1,19 @@
+{
+  "token": "bill",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "financial domain",
+      "meaning": "a written request for payment or an invoice",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medical domain",
+      "meaning": "the upper part of the eye between the cornea and the iris",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

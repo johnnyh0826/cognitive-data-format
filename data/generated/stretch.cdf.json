@@ -1,0 +1,19 @@
+{
+  "token": "stretch",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical activity",
+      "meaning": "to extend or lengthen one's body or limbs, often in a deliberate manner.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "linguistics and grammar",
+      "meaning": "a grammatical construction that extends the meaning of an expression by adding a modifier or clause.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "content",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "information technology",
+      "meaning": "the substance or material that is contained within something, such as a file or database",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "marketing and advertising",
+      "meaning": "the quality or value of the information or messages being conveyed to an audience",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

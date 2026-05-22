@@ -1,0 +1,19 @@
+{
+  "token": "attachment",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "psychology and relationships",
+      "meaning": "a strong emotional tie or bond between two people, often characterized by intimacy, affection, and commitment.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science and technology",
+      "meaning": "a file or data structure that is linked to another file or program, allowing for the sharing of information and resources.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

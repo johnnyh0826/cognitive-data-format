@@ -1,0 +1,19 @@
+{
+  "token": "column",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "architecture",
+      "meaning": "a vertical structure supporting a building or providing structural integrity",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "publishing",
+      "meaning": "a regular feature in a newspaper, magazine, or online publication presenting information or opinion",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

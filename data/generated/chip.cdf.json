@@ -1,0 +1,19 @@
+{
+  "token": "chip",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a small piece of a semiconductor material used to create integrated circuits",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "food and drink",
+      "meaning": "a thin slice or fragment of food, especially a potato or vegetable",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

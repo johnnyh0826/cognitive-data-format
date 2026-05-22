@@ -1,0 +1,19 @@
+{
+  "token": "trigger",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mechanical domain",
+      "meaning": "a mechanism that releases a stored energy, such as a spring or a hammer, to perform an action.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychological domain",
+      "meaning": "an event or situation that sets off a chain reaction of emotions or behaviors in an individual, often unexpectedly.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

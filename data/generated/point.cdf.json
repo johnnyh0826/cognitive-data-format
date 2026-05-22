@@ -1,0 +1,19 @@
+{
+  "token": "point",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and geometry",
+      "meaning": "a location in space, defined by coordinates or a set of coordinates.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "debate and argumentation",
+      "meaning": "a specific aspect or feature of an idea or proposal to be discussed or debated.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

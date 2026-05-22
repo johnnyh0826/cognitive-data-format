@@ -1,0 +1,19 @@
+{
+  "token": "build",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "architecture and construction",
+      "meaning": "to construct or assemble something, such as a building or a structure",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer programming and software development",
+      "meaning": "to create or generate something, such as a program or a product, using software tools and techniques",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

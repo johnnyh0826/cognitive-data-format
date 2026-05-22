@@ -1,0 +1,19 @@
+{
+  "token": "release",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "software development",
+      "meaning": "to make available for use or distribution, typically by removing restrictions",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and film production",
+      "meaning": "to allow a recording to be publicly performed, broadcast, or distributed",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

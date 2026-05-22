@@ -1,0 +1,19 @@
+{
+  "token": "anchor",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "nautical domain",
+      "meaning": "a heavy object attached to a ship's hull or a boat's keel to stabilize it in the water",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "broadcasting domain",
+      "meaning": "a fixed point for a television program, providing continuity and stability for viewers",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

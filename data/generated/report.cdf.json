@@ -1,0 +1,19 @@
+{
+  "token": "report",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "business and finance",
+      "meaning": "a detailed account of a situation, event, or activity, typically presented in writing or orally.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "science and technology",
+      "meaning": "the act of recording and transmitting data about an experiment, observation, or measurement.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

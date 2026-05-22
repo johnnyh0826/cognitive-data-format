@@ -1,0 +1,19 @@
+{
+  "token": "forge",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "blacksmithing",
+      "meaning": "to shape or fabricate metal using heat and pressure",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing",
+      "meaning": "to create a fake or manipulated digital record or identity",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "act",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "theatrical performance",
+      "meaning": "a dramatic performance, often with a script and actors",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "law and legislation",
+      "meaning": "a proposal or bill passed by a legislative body to become law",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

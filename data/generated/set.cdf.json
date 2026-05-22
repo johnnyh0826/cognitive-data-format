@@ -1,0 +1,19 @@
+{
+  "token": "set",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics",
+      "meaning": "a set of unique elements, often denoted by curly braces {}",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "theater and performance arts",
+      "meaning": "a group of actors or dancers performing together",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

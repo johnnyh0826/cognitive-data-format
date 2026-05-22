@@ -1,0 +1,19 @@
+{
+  "token": "shed",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "structure",
+      "meaning": "a small, simple building or enclosure",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "garden and landscaping",
+      "meaning": "to remove or cut back overgrown plants",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

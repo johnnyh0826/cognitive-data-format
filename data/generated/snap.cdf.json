@@ -1,0 +1,19 @@
+{
+  "token": "snap",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "photography",
+      "meaning": "to release the shutter of a camera to capture an image",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "cooking",
+      "meaning": "to break or shatter food, such as crackers or cookies, into pieces",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "bay",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a body of water partially enclosed by land, such as a gulf or a sound.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "the bay of a celestial body is the region where it meets the sky.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

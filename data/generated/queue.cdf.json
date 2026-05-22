@@ -1,0 +1,19 @@
+{
+  "token": "queue",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computing and technology",
+      "meaning": "a data structure in which elements are arranged in a first-in, first-out order",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "transportation and logistics",
+      "meaning": "a line of vehicles or people waiting to be served or move forward in an orderly manner",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

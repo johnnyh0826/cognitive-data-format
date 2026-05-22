@@ -1,0 +1,19 @@
+{
+  "token": "date",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "calendaring and scheduling",
+      "meaning": "a specific point in time, often used to plan meetings or appointments",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology and paleontology",
+      "meaning": "a layer of sedimentary rock formed from the accumulation of organic matter",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

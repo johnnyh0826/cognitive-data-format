@@ -1,0 +1,19 @@
+{
+  "token": "tip",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "a small amount of money given to someone, such as a waiter or bartender, in appreciation for service",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography and navigation",
+      "meaning": "the top or highest point of something, such as the tip of a mountain or the tip of an iceberg",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

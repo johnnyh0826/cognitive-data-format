@@ -1,0 +1,19 @@
+{
+  "token": "trap",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primarily hunting and wildlife management",
+      "meaning": "a device for capturing or killing animals, such as a snare or pitfall.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and performance art",
+      "meaning": "a sudden, loud sound made by the fingers on the strings of a musical instrument, often used to add emphasis or create tension.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

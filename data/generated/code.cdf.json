@@ -1,0 +1,19 @@
+{
+  "token": "code",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a set of instructions written in a programming language to solve a problem or perform a task",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "secret messages and cryptography",
+      "meaning": "a system of symbols, letters, or numbers used to conceal the meaning of a message",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

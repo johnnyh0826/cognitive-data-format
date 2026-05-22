@@ -1,0 +1,19 @@
+{
+  "token": "jump",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics",
+      "meaning": "to propel oneself upward by muscular force, typically from a standing or seated position.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "a programming instruction that transfers control to another part of the program.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

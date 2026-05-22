@@ -1,0 +1,19 @@
+{
+  "token": "wrap",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "textile and packaging",
+      "meaning": "to enclose or cover something with a material, such as cloth or plastic.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "mathematics and science",
+      "meaning": "in geometry, to envelop or surround an object with a curve or surface.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

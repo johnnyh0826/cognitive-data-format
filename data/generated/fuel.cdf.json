@@ -1,0 +1,19 @@
+{
+  "token": "fuel",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "energy and transportation",
+      "meaning": "a substance that provides energy for a machine, vehicle, or process",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "chemistry and materials science",
+      "meaning": "a chemical compound that releases heat or light when burned, used as an energy source",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "property",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "law and economics",
+      "meaning": "a thing or things belonging to someone, especially a piece of land or a building",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "information technology",
+      "meaning": "metadata that describes the characteristics of a digital asset, such as a file or an image",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

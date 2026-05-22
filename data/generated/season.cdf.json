@@ -1,0 +1,19 @@
+{
+  "token": "season",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "astronomy",
+      "meaning": "a period of time characterized by a distinct set of astronomical phenomena, such as stars and constellations.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "fashion",
+      "meaning": "a specific period of time when clothing styles or trends are popular, often characterized by a unique aesthetic or cultural influence.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

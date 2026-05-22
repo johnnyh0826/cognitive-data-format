@@ -1,0 +1,19 @@
+{
+  "token": "process",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a series of instructions executed by a computer to achieve a specific task or goal",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and cognitive science",
+      "meaning": "the mental action or process of attending to an object, thought, or activity",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "store",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "commerce",
+      "meaning": "a business that sells goods or services to customers",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "a location in memory where data is stored",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

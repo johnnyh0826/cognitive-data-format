@@ -1,0 +1,19 @@
+{
+  "token": "factor",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and science",
+      "meaning": "a variable or quantity that affects the behavior of a system or process",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "business and economics",
+      "meaning": "an element or circumstance that contributes to a decision, outcome, or situation",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

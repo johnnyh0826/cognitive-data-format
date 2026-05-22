@@ -1,0 +1,19 @@
+{
+  "token": "decline",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology",
+      "meaning": "a downward movement or bending of a rock layer or sedimentary bed",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology",
+      "meaning": "the decrease in number or amount of cells, organisms, or populations over time",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

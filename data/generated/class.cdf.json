@@ -1,0 +1,19 @@
+{
+  "token": "class",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "education",
+      "meaning": "a group of students in a school or university, typically taught by one teacher.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "social hierarchy",
+      "meaning": "a social grouping or stratum within a society, often characterized by shared characteristics, interests, or behaviors.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

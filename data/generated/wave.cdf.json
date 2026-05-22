@@ -1,0 +1,19 @@
+{
+  "token": "wave",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics",
+      "meaning": "a disturbance that travels through a medium, such as water or air, often in a repeating pattern.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "surfing",
+      "meaning": "to ride the surface of an ocean wave on a surfboard.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

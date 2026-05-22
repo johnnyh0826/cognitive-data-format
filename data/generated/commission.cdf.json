@@ -1,0 +1,19 @@
+{
+  "token": "commission",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "business and finance",
+      "meaning": "to receive a payment or fee for services rendered",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "art and entertainment",
+      "meaning": "a work of art created by an artist, often commissioned by a patron",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

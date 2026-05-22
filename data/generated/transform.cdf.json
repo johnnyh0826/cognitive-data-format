@@ -1,0 +1,19 @@
+{
+  "token": "transform",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and physics",
+      "meaning": "to change the form or shape of an object or system without changing its underlying structure or essence.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science and programming",
+      "meaning": "to convert data from one format to another, often using algorithms or software tools.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

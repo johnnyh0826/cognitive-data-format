@@ -1,0 +1,19 @@
+{
+  "token": "exchange",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "economy and finance",
+      "meaning": "to trade or barter goods, services, or assets for others",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "linguistics and communication",
+      "meaning": "the act of giving or taking something in return for something else, such as an idea or a promise",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

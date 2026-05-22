@@ -1,0 +1,19 @@
+{
+  "token": "bug",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a mistake or error in a program's code",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "entomology",
+      "meaning": "a small insect, typically an arthropod with six legs and a segmented body",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

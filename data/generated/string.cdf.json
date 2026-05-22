@@ -1,0 +1,19 @@
+{
+  "token": "string",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music and performance",
+      "meaning": "a sequence of connected notes or sounds in music, dance, or theater",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing and programming",
+      "meaning": "a series of characters in a programming language used to define variables, functions, or data structures",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

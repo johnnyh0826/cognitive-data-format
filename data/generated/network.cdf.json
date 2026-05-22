@@ -1,0 +1,19 @@
+{
+  "token": "network",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a collection of interconnected devices or systems that communicate with each other.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "social and cultural dynamics",
+      "meaning": "a system of relationships between people, groups, or organizations that facilitate exchange and collaboration.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

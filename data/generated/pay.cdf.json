@@ -1,0 +1,19 @@
+{
+  "token": "pay",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "financial domain",
+      "meaning": "to give money in exchange for goods or services",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychological domain",
+      "meaning": "to make a sacrifice or effort to achieve a goal",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

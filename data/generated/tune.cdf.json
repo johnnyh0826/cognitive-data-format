@@ -1,0 +1,19 @@
+{
+  "token": "tune",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music",
+      "meaning": "a melodic pattern or sequence of notes in music",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "mechanical engineering",
+      "meaning": "the precise adjustment of a machine's parts to achieve optimal performance",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

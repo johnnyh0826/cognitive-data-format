@@ -1,0 +1,19 @@
+{
+  "token": "peak",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "the highest point of something, such as a mountain or hill",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "photography",
+      "meaning": "the optimal angle or position for capturing an image",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

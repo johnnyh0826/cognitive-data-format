@@ -1,0 +1,19 @@
+{
+  "token": "crush",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "psychology/law",
+      "meaning": "a strong and often unreciprocated infatuation, typically felt by a person towards another.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology/mining",
+      "meaning": "to compress or flatten something, often resulting in the release of valuable minerals or materials.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

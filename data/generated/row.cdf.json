@@ -1,0 +1,19 @@
+{
+  "token": "row",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "a line of objects or people in a straight line",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and performance",
+      "meaning": "a section of seats in an auditorium or theater",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

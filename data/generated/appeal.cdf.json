@@ -1,0 +1,19 @@
+{
+  "token": "appeal",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "law",
+      "meaning": "a request made to a higher court for review and reconsideration of a decision.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "marketing",
+      "meaning": "an attempt to persuade or influence someone's opinion, action, or purchase through advertising, promotion, or public relations.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "call",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "telecommunications",
+      "meaning": "to initiate a telephone or internet connection",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "politics and government",
+      "meaning": "to summon or request the presence of someone, often in an official capacity",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

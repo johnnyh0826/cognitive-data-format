@@ -1,0 +1,19 @@
+{
+  "token": "heel",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "shoemaking",
+      "meaning": "the rear part of a shoe or boot",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "dance and performance",
+      "meaning": "a raised section at the back of a stage, used for dramatic effect",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

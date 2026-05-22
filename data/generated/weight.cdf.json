@@ -1,0 +1,19 @@
+{
+  "token": "weight",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and science",
+      "meaning": "the force that attracts two objects with mass towards each other",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "dieting and nutrition",
+      "meaning": "a measure of the amount of food consumed by a person or animal",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

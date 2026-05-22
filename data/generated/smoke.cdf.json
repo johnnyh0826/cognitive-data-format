@@ -1,0 +1,19 @@
+{
+  "token": "smoke",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "to emit a visible gas or vapor, typically in a cloud or plume.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography and environment",
+      "meaning": "a layer of particles suspended in the air, often reducing visibility.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "patch",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "textile and sewing",
+      "meaning": "a small piece of fabric used to mend or repair a tear or hole in clothing or other materials",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer programming",
+      "meaning": "a small piece of code that fixes or modifies the behavior of a program to correct errors or add new functionality",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

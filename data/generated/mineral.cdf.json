@@ -1,0 +1,19 @@
+{
+  "token": "mineral",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology",
+      "meaning": "a naturally occurring inorganic substance with a specific chemical composition and physical properties",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "cosmetics",
+      "meaning": "a type of powder or pigment used to enhance skin tone or eye color",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

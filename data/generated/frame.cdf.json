@@ -1,0 +1,19 @@
+{
+  "token": "frame",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "photography and art",
+      "meaning": "a structure that holds a picture or other artwork in place",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer programming",
+      "meaning": "an abstract representation of data, such as a window or container",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

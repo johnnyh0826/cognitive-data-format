@@ -1,0 +1,19 @@
+{
+  "token": "tide",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "astronomy",
+      "meaning": "the periodic rise and fall of the sea level caused by gravitational forces between the Earth, Moon, and Sun.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "surfing",
+      "meaning": "a wave's movement from shallow to deep water, often indicating a change in surfing conditions.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

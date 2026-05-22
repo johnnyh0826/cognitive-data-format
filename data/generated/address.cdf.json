@@ -1,0 +1,19 @@
+{
+  "token": "address",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "a statement or description that locates a person, organization, or place",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "a memory location and the data stored at that location in computer storage",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

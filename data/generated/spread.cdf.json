@@ -1,0 +1,19 @@
+{
+  "token": "spread",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "cooking",
+      "meaning": "to distribute food or ingredients over a surface, often in a thin layer.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer programming",
+      "meaning": "to extend or widen the scope of an application, software, or system to accommodate new features or users.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

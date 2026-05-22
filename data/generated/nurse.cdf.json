@@ -1,0 +1,19 @@
+{
+  "token": "nurse",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "medicine",
+      "meaning": "a trained person who cares for patients in a hospital or other healthcare setting",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "aviation",
+      "meaning": "the act of guiding an aircraft through takeoff, landing, and taxiing",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

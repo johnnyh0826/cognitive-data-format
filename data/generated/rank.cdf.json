@@ -1,0 +1,19 @@
+{
+  "token": "rank",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "military",
+      "meaning": "a position or level of authority within a military hierarchy",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sports",
+      "meaning": "the order of finish in a competition, such as a tournament or game",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

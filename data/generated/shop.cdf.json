@@ -1,0 +1,19 @@
+{
+  "token": "shop",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "retail commerce",
+      "meaning": "a business that sells goods or services to customers",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "marine navigation",
+      "meaning": "to navigate through a narrow passage or channel, often between two larger bodies of water",
+      "added": "accumulated",
+      "source": "nautical"
+    }
+  ]
+}

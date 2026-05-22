@@ -1,0 +1,19 @@
+{
+  "token": "form",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical appearance",
+      "meaning": "a shape or structure that gives something its outline",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "mathematics and science",
+      "meaning": "the arrangement of elements in a particular way, such as the form of an equation or the structure of a molecule",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

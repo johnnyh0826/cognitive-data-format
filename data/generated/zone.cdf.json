@@ -1,0 +1,19 @@
+{
+  "token": "zone",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a region or area with a distinct character, climate, or culture.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "physics and engineering",
+      "meaning": "a specific range of frequency or energy level in electromagnetic radiation or sound waves.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

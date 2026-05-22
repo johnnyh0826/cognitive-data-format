@@ -1,0 +1,19 @@
+{
+  "token": "seal",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology and ecology",
+      "meaning": "a mammal of the order Carnivora, typically having a streamlined body and flippers.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "shipping and navigation",
+      "meaning": "a device used to secure or fasten something, such as cargo or a hatch.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

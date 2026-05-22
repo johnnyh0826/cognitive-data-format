@@ -1,0 +1,19 @@
+{
+  "token": "scene",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "theater and performance",
+      "meaning": "a setting or environment in which a story, play, or other performance takes place",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "photography and filmmaking",
+      "meaning": "the visual composition of a photograph or film, including lighting, subject placement, and camera angle",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "bust",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "art and sculpture",
+      "meaning": "a three-dimensional work of art, typically figurative and often humorous or satirical",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "police and law enforcement",
+      "meaning": "to arrest someone, especially suddenly or unexpectedly",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

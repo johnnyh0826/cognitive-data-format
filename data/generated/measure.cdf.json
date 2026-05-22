@@ -1,0 +1,19 @@
+{
+  "token": "measure",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "to determine the size or quantity of something using a standard unit",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "social sciences and statistics",
+      "meaning": "to evaluate or quantify the magnitude or frequency of something, such as opinions or events",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

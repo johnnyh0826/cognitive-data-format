@@ -1,0 +1,19 @@
+{
+  "token": "control",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "to regulate or direct the flow of data or processes in a computer system.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and sociology",
+      "meaning": "the ability to influence or direct the behavior of others, often through social power or authority.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

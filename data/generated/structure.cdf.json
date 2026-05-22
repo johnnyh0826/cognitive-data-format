@@ -1,0 +1,19 @@
+{
+  "token": "structure",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and physics",
+      "meaning": "a set of rules or patterns that govern the behavior of a system",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science and architecture",
+      "meaning": "the arrangement of components in relation to each other, such as software modules or building elements",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "breed",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology",
+      "meaning": "a group of animals or plants that reproduce by producing offspring with similar characteristics",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "horses",
+      "meaning": "a specific type of horse, often referring to a breed developed for a particular purpose or characteristic",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

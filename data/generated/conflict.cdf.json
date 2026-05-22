@@ -1,0 +1,19 @@
+{
+  "token": "conflict",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "politics and international relations",
+      "meaning": "a state of open and usually prolonged feud, struggle, or fight between nations, groups of people, or individuals",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and social sciences",
+      "meaning": "a perceived opposition or incompatibility between two or more ideas, values, or goals that may lead to psychological distress or emotional turmoil",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

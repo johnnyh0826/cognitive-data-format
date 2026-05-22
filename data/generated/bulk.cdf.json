@@ -1,0 +1,19 @@
+{
+  "token": "bulk",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "a large quantity of something, often used to describe a substantial amount of goods or materials.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "data processing",
+      "meaning": "the act of storing data in large blocks or chunks for efficient processing and storage.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

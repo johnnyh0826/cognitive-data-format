@@ -1,0 +1,19 @@
+{
+  "token": "soil",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology and agriculture",
+      "meaning": "a naturally formed layer of rock, mineral, or organic matter on the surface of the Earth.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "horticulture and gardening",
+      "meaning": "the mixture of decomposed organic matter, minerals, and other substances that support plant growth.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

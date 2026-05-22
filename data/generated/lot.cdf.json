@@ -1,0 +1,19 @@
+{
+  "token": "lot",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "real estate",
+      "meaning": "a unit of land or a plot of ground, often with buildings or other structures",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "gaming and chance",
+      "meaning": "a portion or share of something, such as a prize or reward, determined by chance or random selection",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

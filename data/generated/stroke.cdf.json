@@ -1,0 +1,19 @@
+{
+  "token": "stroke",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "medicine",
+      "meaning": "a sudden loss of brain function due to a blockage or rupture in blood vessels.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "art and design",
+      "meaning": "a swift and bold brush stroke, often used to add texture or emphasize a particular area of the artwork.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

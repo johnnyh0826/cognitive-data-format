@@ -1,0 +1,19 @@
+{
+  "token": "object",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "philosophy",
+      "meaning": "a thing that exists independently and is perceived as having its own existence",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "an instance of a class or concept, often referring to an entity in memory or storage",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "print",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "publishing and media",
+      "meaning": "to produce copies of written or visual content, such as books, magazines, or images.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "3D printing and manufacturing",
+      "meaning": "to create a physical object from digital designs using additive processes like Fused Deposition Modeling (FDM) or Stereolithography (SLA).",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

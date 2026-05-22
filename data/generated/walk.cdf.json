@@ -1,0 +1,19 @@
+{
+  "token": "walk",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical activity",
+      "meaning": "to move at a moderate pace on foot for recreation or exercise",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy",
+      "meaning": "the process of the Moon moving around the Earth, especially in its orbit",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

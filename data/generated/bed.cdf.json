@@ -1,0 +1,19 @@
+{
+  "token": "bed",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: furniture and household",
+      "meaning": "a piece of furniture for sleeping or resting on",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medical domain: healthcare and medicine",
+      "meaning": "a device or equipment used in medical treatment or recovery",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

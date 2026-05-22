@@ -1,0 +1,19 @@
+{
+  "token": "dock",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "maritime domain",
+      "meaning": "a structure built parallel to the bank of a waterway for loading and unloading ships",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music domain",
+      "meaning": "to adjust or fine-tune the pitch of an instrument, especially in jazz or blues music",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

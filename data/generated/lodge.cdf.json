@@ -1,0 +1,19 @@
+{
+  "token": "lodge",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "accommodation domain",
+      "meaning": "a building or structure for temporary stay, especially in a wilderness area.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "freemasonry domain",
+      "meaning": "a secret society of craftsmen and traders that originated in the Middle Ages.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

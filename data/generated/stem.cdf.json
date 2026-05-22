@@ -1,0 +1,19 @@
+{
+  "token": "stem",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "botany",
+      "meaning": "the main part of a plant, such as a leaf or flower stem.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": " mathematics",
+      "meaning": "a line segment that extends from the vertex of an angle to one of its arms.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

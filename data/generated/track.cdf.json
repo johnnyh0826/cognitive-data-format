@@ -1,0 +1,26 @@
+{
+  "token": "track",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music and performance",
+      "meaning": "a sequence of connected performances, such as a series of songs or dances",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "transportation and navigation",
+      "meaning": "a path or route followed by a vehicle, such as a train or car, or a trail for hiking or biking",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "03",
+      "context": "technology and computing",
+      "meaning": "a sequence of data stored in a computer's memory, used to track user behavior or preferences",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

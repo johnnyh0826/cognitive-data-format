@@ -1,0 +1,19 @@
+{
+  "token": "layer",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology",
+      "meaning": "a layer is a horizontal or nearly horizontal stratum of rock, sediment, or soil.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer graphics",
+      "meaning": "in computer graphics and game development, a layer refers to a two-dimensional or three-dimensional space that contains visual elements such as images, text, or shapes.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

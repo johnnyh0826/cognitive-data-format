@@ -1,0 +1,19 @@
+{
+  "token": "assault",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "crime and law",
+      "meaning": "to attack or strike someone with force, often violently",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medicine and health",
+      "meaning": "a sudden onset of symptoms in a patient, often requiring urgent medical attention",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

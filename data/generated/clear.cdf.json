@@ -1,0 +1,19 @@
+{
+  "token": "clear",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "optics",
+      "meaning": "free from obstruction or distortion, allowing light to pass through unimpeded.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "meteorology",
+      "meaning": "completely cloudless and sunny, with no precipitation expected.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "poll",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "democracy and governance",
+      "meaning": "a vote or survey of opinions, typically by a large number of people",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "botany and horticulture",
+      "meaning": "the act of transferring pollen from the male organ of a plant to the female organ, often resulting in fertilization",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

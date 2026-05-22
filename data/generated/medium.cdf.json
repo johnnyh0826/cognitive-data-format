@@ -1,0 +1,19 @@
+{
+  "token": "medium",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "communications",
+      "meaning": "a channel or means of communication, such as a medium like radio or television.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "paranormal",
+      "meaning": "a supposed psychic or spiritual entity that serves as a bridge between the physical and spiritual worlds, such as an medium who communicates with spirits.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "command",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "to direct or order something to be done, often in a formal or official capacity",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "military and emergency services",
+      "meaning": "a specific instruction or set of instructions given by a commander to carry out a particular action or operation",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

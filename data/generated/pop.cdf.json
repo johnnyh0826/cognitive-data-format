@@ -1,0 +1,19 @@
+{
+  "token": "pop",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music",
+      "meaning": "a brief, sharp sound made by a sudden release of air or pressure, typically from a drumhead or a bottle.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "culinary",
+      "meaning": "a carbonated beverage, such as soda water or champagne, that is poured or opened with a sudden release of pressure and gas.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

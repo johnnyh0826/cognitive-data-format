@@ -1,0 +1,19 @@
+{
+  "token": "concentrate",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "chemistry and materials science",
+      "meaning": "to bring together or combine substances to form a single entity",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "business and productivity",
+      "meaning": "to focus one's attention on a specific task or goal, eliminating distractions",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

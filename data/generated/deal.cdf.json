@@ -1,0 +1,19 @@
+{
+  "token": "deal",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "business and economics",
+      "meaning": "to agree on terms or conditions, often in a commercial transaction",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "card games and poker",
+      "meaning": "the cards dealt to a player at the start of a game or hand",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

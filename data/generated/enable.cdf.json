@@ -1,0 +1,19 @@
+{
+  "token": "enable",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "to make a computer system or software functional, operational, or accessible",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "education and training",
+      "meaning": "to equip someone with the skills, knowledge, or authority to perform a task or function",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

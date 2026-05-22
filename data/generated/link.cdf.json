@@ -1,0 +1,19 @@
+{
+  "token": "link",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computing",
+      "meaning": "a connection between two or more devices, systems, or networks.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "journalism and media",
+      "meaning": "an article or section of a publication that connects two related topics or ideas.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "brief",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "law and contracts",
+      "meaning": "a written document that summarizes an agreement or settlement",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "military and defense",
+      "meaning": "a concise explanation of a situation, plan, or briefing",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

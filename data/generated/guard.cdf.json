@@ -1,0 +1,19 @@
+{
+  "token": "guard",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "security and protection",
+      "meaning": "to watch over or protect something or someone from harm or danger",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medicine and healthcare",
+      "meaning": "a medical professional who monitors patients' vital signs, such as blood pressure and oxygen saturation",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

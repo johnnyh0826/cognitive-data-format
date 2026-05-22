@@ -1,0 +1,19 @@
+{
+  "token": "field",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a piece of land with distinct characteristics, such as climate and vegetation.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sports",
+      "meaning": "an area designated for a specific sport or game, often marked by lines or boundaries.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

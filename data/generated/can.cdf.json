@@ -1,0 +1,19 @@
+{
+  "token": "can",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "container domain",
+      "meaning": "a container made of metal, plastic, or other materials to hold or store something",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "ability domain",
+      "meaning": "to be capable or able to do something, often used in phrases like 'can I' or 'can you'",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

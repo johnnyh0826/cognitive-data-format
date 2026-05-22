@@ -1,0 +1,19 @@
+{
+  "token": "break",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and mechanics",
+      "meaning": "to cause or experience a sudden release of energy, often resulting in separation or discontinuity",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and psychiatry",
+      "meaning": "to experience a mental or emotional crisis, often accompanied by feelings of fragmentation or disintegration",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

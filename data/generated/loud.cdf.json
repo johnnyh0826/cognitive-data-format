@@ -1,0 +1,19 @@
+{
+  "token": "loud",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "acoustics and physics",
+      "meaning": "measured by decibel levels, exceeding a standard threshold",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and performance",
+      "meaning": "characterized by intense volume, often accompanied by emotional intensity or energy",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

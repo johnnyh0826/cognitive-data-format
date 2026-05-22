@@ -1,0 +1,19 @@
+{
+  "token": "lock",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain (mechanical engineering)",
+      "meaning": "a mechanical device for securing or fastening something.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "another distinct domain (nautical)",
+      "meaning": "the forward part of a sailing ship, where the anchor is stowed.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "play",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "amusement and entertainment",
+      "meaning": "to engage in an activity for enjoyment or recreation",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "theater and performance",
+      "meaning": "a dramatic work, especially one written specifically for the stage",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

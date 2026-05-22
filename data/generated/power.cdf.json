@@ -1,0 +1,19 @@
+{
+  "token": "power",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical science",
+      "meaning": "the ability to do work, typically measured in watts.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "politics and governance",
+      "meaning": "the ability to influence or control the actions of others, often through authority or coercion.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

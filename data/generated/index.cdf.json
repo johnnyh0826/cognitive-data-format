@@ -1,0 +1,19 @@
+{
+  "token": "index",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a numerical value or position in a sequence that identifies an item, such as a page number or a database record.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology and medicine",
+      "meaning": "a finger-like projection on the surface of some organs, such as the pancreas or liver, used for attachment and support.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

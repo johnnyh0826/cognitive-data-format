@@ -1,0 +1,19 @@
+{
+  "token": "shift",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "astronomy",
+      "meaning": "a change in position or orientation of celestial bodies, such as a planetary shift.",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "workplace",
+      "meaning": "the act of changing to a different work schedule, duty, or assignment.",
+      "added": "first",
+      "source": "llm"
+    }
+  ]
+}

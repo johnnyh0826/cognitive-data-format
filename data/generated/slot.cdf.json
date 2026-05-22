@@ -1,0 +1,19 @@
+{
+  "token": "slot",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a sequence of characters or symbols that a computer program uses to represent data",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "gaming and entertainment",
+      "meaning": "a position or opening in a game, such as a video game or slot machine",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

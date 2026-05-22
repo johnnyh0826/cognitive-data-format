@@ -1,0 +1,19 @@
+{
+  "token": "move",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical movement",
+      "meaning": "to change one's position or location in space",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychological response",
+      "meaning": "to change one's emotional state or attitude towards something",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

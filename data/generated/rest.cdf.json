@@ -1,0 +1,19 @@
+{
+  "token": "rest",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical and biological domain",
+      "meaning": "a state of inactivity or sleep, often characterized by reduced metabolic activity.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computational and technical domain",
+      "meaning": "the process of leaving a system or network idle for a period of time to conserve resources or prevent degradation.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

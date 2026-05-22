@@ -1,0 +1,19 @@
+{
+  "token": "page",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "publishing and media",
+      "meaning": "a self-contained unit of written or printed content, typically in a book, magazine, or newspaper.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer graphics and design",
+      "meaning": "an area on a computer screen or display device that can be manipulated independently of other areas.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

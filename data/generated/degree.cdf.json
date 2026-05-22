@@ -1,0 +1,19 @@
+{
+  "token": "degree",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "education",
+      "meaning": "an award or title earned after completing a course of study",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "temperature measurement",
+      "meaning": "a unit of temperature, usually measured in Celsius or Fahrenheit",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

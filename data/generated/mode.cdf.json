@@ -1,0 +1,19 @@
+{
+  "token": "mode",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computing and technology",
+      "meaning": "a setting or configuration that determines the behavior of a system or device",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "fashion and design",
+      "meaning": "a style or aesthetic that is characteristic of a particular era, movement, or cultural group",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

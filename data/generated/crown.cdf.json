@@ -1,0 +1,19 @@
+{
+  "token": "crown",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "royalty and government",
+      "meaning": "a monarch's headdress or headgear, often symbolizing authority and power.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "botany",
+      "meaning": "the upper portion of a tree trunk, typically above the branches.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

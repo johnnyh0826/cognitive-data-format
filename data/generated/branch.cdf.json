@@ -1,0 +1,19 @@
+{
+  "token": "branch",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology",
+      "meaning": "a part of a tree that grows out from the trunk or main stem.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "an instance of a program or algorithm, often used to refer to a specific version or iteration.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

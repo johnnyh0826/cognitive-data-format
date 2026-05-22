@@ -1,0 +1,19 @@
+{
+  "token": "coach",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "transportation",
+      "meaning": "a person who drives a vehicle, especially for hire or as part of their job.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "education and training",
+      "meaning": "an instructor or trainer in a particular field or activity, who helps people learn and improve their skills.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

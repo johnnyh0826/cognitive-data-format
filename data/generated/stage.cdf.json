@@ -1,0 +1,19 @@
+{
+  "token": "stage",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "theater and performance",
+      "meaning": "a raised platform or structure used for performances, speeches, or presentations",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology and ecology",
+      "meaning": "an area of land or water where animals live, breed, and raise their young",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

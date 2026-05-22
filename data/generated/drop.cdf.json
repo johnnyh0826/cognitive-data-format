@@ -1,0 +1,19 @@
+{
+  "token": "drop",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics",
+      "meaning": "the sudden release of a physical object from a higher to a lower position, often due to gravity.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "chemistry",
+      "meaning": "to release or precipitate a substance from a solution or mixture.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

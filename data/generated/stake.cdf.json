@@ -1,0 +1,19 @@
+{
+  "token": "stake",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "gaming & betting",
+      "meaning": "a sum of money or other value risked on an uncertain outcome",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "land ownership & territory",
+      "meaning": "a piece of land or a claim to it, especially as a means of securing a right or privilege",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

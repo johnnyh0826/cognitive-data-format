@@ -1,0 +1,19 @@
+{
+  "token": "hook",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "fishing and sailing",
+      "meaning": "a curved or angled piece of metal, wood, or other material used to catch fish or tie up a boat",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and performance",
+      "meaning": "a device for holding or attaching something, such as a musical instrument or costume, to the body",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

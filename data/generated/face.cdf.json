@@ -1,0 +1,19 @@
+{
+  "token": "face",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "human anatomy and physiology",
+      "meaning": "the front part of the human head, including the eyes, nose, mouth, and jaw",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "social interaction and communication",
+      "meaning": "a person's expression or appearance as an indicator of their emotions or intentions",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

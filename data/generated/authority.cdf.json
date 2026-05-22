@@ -1,0 +1,19 @@
+{
+  "token": "authority",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "government and politics",
+      "meaning": "a person or group with power to make decisions and enforce rules",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "education and academia",
+      "meaning": "an expert in a particular field, recognized for their knowledge and expertise",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

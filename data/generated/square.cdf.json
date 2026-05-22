@@ -1,0 +1,19 @@
+{
+  "token": "square",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geometry",
+      "meaning": "a two-dimensional shape with four sides and four angles, where all internal angles are right angles.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "architecture",
+      "meaning": "a building or structure with a flat roof and walls, often used for commercial or residential purposes.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

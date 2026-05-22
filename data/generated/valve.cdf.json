@@ -1,0 +1,19 @@
+{
+  "token": "valve",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mechanical engineering",
+      "meaning": "a device controlling the flow of a fluid or gas",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "anatomy and physiology",
+      "meaning": "a structure regulating blood flow in a circulatory system",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

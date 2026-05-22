@@ -1,0 +1,19 @@
+{
+  "token": "work",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: occupational activity",
+      "meaning": "to perform a task or series of tasks to earn a living or achieve a goal",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "domain: psychology and motivation",
+      "meaning": "an effort or activity that is undertaken with the intention of achieving a desired outcome, often driven by personal fulfillment or satisfaction",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

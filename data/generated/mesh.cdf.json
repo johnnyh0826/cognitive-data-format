@@ -1,0 +1,19 @@
+{
+  "token": "mesh",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geometric and engineering domain",
+      "meaning": "a network of interconnected points or lines forming a pattern or structure",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science and networking domain",
+      "meaning": "a data structure composed of nodes and edges, used to represent relationships between entities",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

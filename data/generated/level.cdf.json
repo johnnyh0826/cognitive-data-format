@@ -1,0 +1,19 @@
+{
+  "token": "level",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "measurement and geometry",
+      "meaning": "a horizontal or vertical line of equal distance from a reference point, such as a floor or a surface.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "gaming and simulation",
+      "meaning": "a stage or realm in a video game where players can progress through challenges and earn rewards.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

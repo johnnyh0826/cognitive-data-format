@@ -1,0 +1,19 @@
+{
+  "token": "drain",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "plumbing and engineering",
+      "meaning": "a pipe or channel that carries waste or excess water away from a location",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and therapy",
+      "meaning": "to mentally process or release emotional tension or stress, often through talking or sharing",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "kick",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "sports",
+      "meaning": "to strike or propel with the foot, especially in football, soccer, or martial arts",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music",
+      "meaning": "a sudden, sharp blow or attack on a drumhead, used to emphasize rhythm or create dramatic effect",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

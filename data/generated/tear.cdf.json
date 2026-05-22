@@ -1,0 +1,19 @@
+{
+  "token": "tear",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology and medicine",
+      "meaning": "a drop of liquid that falls from an eye or a wound due to injury or disease",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sewing and fabric",
+      "meaning": "to remove the edge of a garment, especially by cutting or pulling it away from the body",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

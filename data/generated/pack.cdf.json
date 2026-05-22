@@ -1,0 +1,19 @@
+{
+  "token": "pack",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: animal behavior",
+      "meaning": "a group of animals, typically of the same species, that stay together and cooperate",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "another distinct domain: computer science",
+      "meaning": "a collection of data or instructions stored in a contiguous block of memory",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

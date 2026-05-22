@@ -1,0 +1,19 @@
+{
+  "token": "proof",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and logic",
+      "meaning": "a statement or proposition that is demonstrated to be true through evidence and argumentation",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "philosophy and epistemology",
+      "meaning": "the process of arriving at a conclusion or justification, often involving reasoning and evidence",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "screen",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer and technology",
+      "meaning": "a display device that shows images or text on a computer, phone, or other electronic device.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "theater and performance",
+      "meaning": "a surface on which a visual image is projected during a movie or play, often made of translucent material.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "beat",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music",
+      "meaning": "a rhythmic pattern or meter in music, often created by drums or percussion instruments.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology",
+      "meaning": "the process of circulating blood through the body's organs and tissues, regulated by the heart and vascular system.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "cap",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "headwear domain",
+      "meaning": "a covering for the head, typically made of fabric or other materials.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "limit domain",
+      "meaning": "to put a limit on something, such as a budget or a quantity.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "force",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics",
+      "meaning": "a push or pull that can cause an object to move or change its motion",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology",
+      "meaning": "the power to influence someone's behavior or attitude, often unconsciously",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

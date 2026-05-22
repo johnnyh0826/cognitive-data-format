@@ -1,0 +1,19 @@
+{
+  "token": "ring",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "jewelry and adornment",
+      "meaning": "a circular band worn on the finger as a symbol of commitment, status, or personal style",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "physics and astronomy",
+      "meaning": "a circular shape formed by the intersection of two or more curves or surfaces",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

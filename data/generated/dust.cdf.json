@@ -1,0 +1,19 @@
+{
+  "token": "dust",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics",
+      "meaning": "tiny particles suspended in air or water, including atmospheric particulate matter and sediment",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "cosmetology",
+      "meaning": "powdered substance used to remove dead skin cells and smooth the skin's surface, often containing abrasive particles",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

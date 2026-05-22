@@ -1,0 +1,19 @@
+{
+  "token": "fine",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "of good quality or satisfactory",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology",
+      "meaning": "of a high degree of fineness, especially in gemstones",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

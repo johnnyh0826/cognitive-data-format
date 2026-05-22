@@ -1,0 +1,19 @@
+{
+  "token": "craft",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: making things",
+      "meaning": "to make or create something using skill and labor, often by hand",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "domain of sailing and navigation",
+      "meaning": "a type of boat or ship, typically small and maneuverable",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

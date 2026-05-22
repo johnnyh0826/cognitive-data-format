@@ -1,0 +1,19 @@
+{
+  "token": "produce",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: agriculture",
+      "meaning": "to grow or cultivate plants, animals, or food products.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "secondary domain: television and film production",
+      "meaning": "the act of creating a movie, show, or other form of visual content.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

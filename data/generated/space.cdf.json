@@ -1,0 +1,19 @@
+{
+  "token": "space",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "astronomy",
+      "meaning": "the seemingly empty void between celestial bodies, planets, and stars.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography",
+      "meaning": "an area of land or water that is not built upon or developed.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "rail",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "transportation",
+      "meaning": "a track or series of tracks used for guiding trains, trams, or other vehicles",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology",
+      "meaning": "a type of rock formation characterized by a layering or banding effect",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

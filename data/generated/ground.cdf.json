@@ -1,0 +1,19 @@
+{
+  "token": "ground",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology",
+      "meaning": "the surface of the Earth or other celestial body, including its physical features and composition.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "physics",
+      "meaning": "a fundamental force that attracts two objects with mass towards each other.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

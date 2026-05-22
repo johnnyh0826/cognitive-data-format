@@ -1,0 +1,19 @@
+{
+  "token": "surface",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "the outer layer or upper part of a natural feature, such as a mountain or lake.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science",
+      "meaning": "a level or plane in computer graphics or game development, often used to describe a 3D model's outer layer.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

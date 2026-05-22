@@ -1,0 +1,19 @@
+{
+  "token": "plate",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "ceramics and tableware",
+      "meaning": "a dish or plate made of ceramic, glass, or other material for serving food",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology and mining",
+      "meaning": "a layer or stratum of rock or soil in the earth's crust",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

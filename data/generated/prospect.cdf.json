@@ -1,0 +1,19 @@
+{
+  "token": "prospect",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology",
+      "meaning": "a geological formation or deposit of mineral ore, coal, or other valuable material",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "business and economics",
+      "meaning": "a potential customer or client with a likelihood of purchasing a product or service",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

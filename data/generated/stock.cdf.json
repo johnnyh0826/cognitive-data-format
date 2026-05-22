@@ -1,0 +1,19 @@
+{
+  "token": "stock",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "finance",
+      "meaning": "a company's ownership interest represented by shares of stock.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology",
+      "meaning": "the plant stem or stalk that supports the leaves and flowers of a plant.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

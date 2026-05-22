@@ -1,0 +1,19 @@
+{
+  "token": "tap",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "water management",
+      "meaning": "to draw or obtain liquid from a source, such as a faucet or well",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "theater and performance",
+      "meaning": "a brief, informal presentation or demonstration, often used to test material or gauge audience reaction",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "fly",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "aviation",
+      "meaning": "to move through the air, typically by flapping wings or using an engine.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "insectology",
+      "meaning": "to move through the air using wings, characteristic of insects such as flies and bees.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

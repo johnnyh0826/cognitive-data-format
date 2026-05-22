@@ -1,0 +1,19 @@
+{
+  "token": "clip",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "adhesive and fastening",
+      "meaning": "a device used to hold things together, such as a paper clip or a clothespin.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "audio and video recording",
+      "meaning": "a mechanism that temporarily holds or secures something in place, like a camera's film clip or a microphone's windscreen.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

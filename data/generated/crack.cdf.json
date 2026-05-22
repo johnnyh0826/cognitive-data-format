@@ -1,0 +1,19 @@
+{
+  "token": "crack",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geology",
+      "meaning": "a fracture or opening in a rock, soil, or other geological formation",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "pharmacy and medicine",
+      "meaning": "a small opening or fissure in the skin, often used to administer medication",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

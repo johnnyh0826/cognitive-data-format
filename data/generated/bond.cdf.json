@@ -1,0 +1,19 @@
+{
+  "token": "bond",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "finance",
+      "meaning": "a debt or investment security issued by a corporation or government",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "chemistry",
+      "meaning": "a chemical bond is the attractive force that holds atoms together in a molecule",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

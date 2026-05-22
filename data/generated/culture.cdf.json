@@ -1,0 +1,19 @@
+{
+  "token": "culture",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "human society and anthropology",
+      "meaning": "the integrated system of shared attitudes, values, goals, and practices that a group of people possess and transmit from one generation to the next",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biological and ecological systems",
+      "meaning": "the complex network of interactions between organisms, including symbiotic relationships, predator-prey dynamics, and nutrient cycling",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

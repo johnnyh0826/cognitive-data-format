@@ -1,0 +1,19 @@
+{
+  "token": "contract",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "law and business",
+      "meaning": "a written or spoken agreement between two or more parties with mutually binding obligations",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology and medicine",
+      "meaning": "the formation of a union between gametes to produce a zygote, resulting in the development of a new individual",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

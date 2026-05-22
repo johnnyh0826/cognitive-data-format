@@ -1,0 +1,19 @@
+{
+  "token": "twist",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "textile and sewing",
+      "meaning": "to turn or manipulate fabric in a specific way to create a desired shape or pattern.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "dance and performance",
+      "meaning": "a movement or series of movements characterized by rotation around a central axis, often used in styles such as jazz or contemporary dance.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

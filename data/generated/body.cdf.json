@@ -1,0 +1,19 @@
+{
+  "token": "body",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology and anatomy",
+      "meaning": "the physical structure of an organism, typically comprising a head, torso, arms, and legs.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "philosophy and spirituality",
+      "meaning": "the physical manifestation of a person's consciousness or soul, often seen as the seat of their being.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

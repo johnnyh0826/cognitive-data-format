@@ -1,0 +1,19 @@
+{
+  "token": "sink",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "plumbing and fixtures",
+      "meaning": "a plumbing fixture that holds water for washing or bathing",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "aviation",
+      "meaning": "to descend rapidly in an aircraft, often intentionally",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

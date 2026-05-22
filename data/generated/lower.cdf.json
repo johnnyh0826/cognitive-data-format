@@ -1,0 +1,19 @@
+{
+  "token": "lower",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "to reduce or decrease in height, size, or magnitude",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and performance",
+      "meaning": "in opera, to sing a lower vocal part or to perform a role requiring a lower range",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "assignment",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "education",
+      "meaning": "a task or project given to a student, typically as part of their academic work",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "business",
+      "meaning": "a task or project delegated to an employee, often with specific goals and deadlines",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

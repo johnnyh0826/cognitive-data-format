@@ -1,0 +1,19 @@
+{
+  "token": "arm",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "anatomy and physiology",
+      "meaning": "a limb that connects the shoulder to the hand or wrist.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "military and warfare",
+      "meaning": "a branch of a country's armed forces, such as the Army, Navy, or Air Force.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "plug",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "electrical domain",
+      "meaning": "a device for connecting two electrical circuits together",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "gaming domain",
+      "meaning": "to insert a game cartridge or disc into a gaming console",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

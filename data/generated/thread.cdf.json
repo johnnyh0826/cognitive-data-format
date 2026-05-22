@@ -1,0 +1,19 @@
+{
+  "token": "thread",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "textile domain",
+      "meaning": "a continuous length of yarn or other material used for sewing or weaving",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing domain",
+      "meaning": "a sequence of instructions that a computer program executes, either serially or concurrently",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

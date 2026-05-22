@@ -1,0 +1,19 @@
+{
+  "token": "serve",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and drink",
+      "meaning": "to provide food or refreshments to someone",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sports and games",
+      "meaning": "to hit or throw a ball or puck in a way that allows it to be caught or scored by another player",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

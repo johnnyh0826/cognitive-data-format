@@ -1,0 +1,19 @@
+{
+  "token": "step",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical movement",
+      "meaning": "to move one's foot forward in walking or dancing",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and space exploration",
+      "meaning": "a process of lowering oneself to the lunar surface from a spacecraft",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

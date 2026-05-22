@@ -1,0 +1,19 @@
+{
+  "token": "resolution",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "science and technology",
+      "meaning": "the process of finding a solution to a problem or conflict",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "politics and governance",
+      "meaning": "a formal decision or agreement reached by a group, such as a government or organization",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

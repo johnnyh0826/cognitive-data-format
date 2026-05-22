@@ -1,0 +1,19 @@
+{
+  "token": "balance",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "a state of equilibrium between opposing forces or moments",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "accounting and finance",
+      "meaning": "a situation where an individual's income equals their expenses, neither exceeding nor falling short",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "brook",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a small stream or creek, typically flowing into a larger body of water.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music",
+      "meaning": "in jazz and folk music, a brook is a type of slow, lyrical melody or tune.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

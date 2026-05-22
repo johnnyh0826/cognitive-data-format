@@ -1,0 +1,19 @@
+{
+  "token": "discharge",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "medicine",
+      "meaning": "the release of a fluid or gas from the body, especially urine or stool",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "law",
+      "meaning": "a formal document issued by a court, such as a divorce decree or a judgment against a defendant",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

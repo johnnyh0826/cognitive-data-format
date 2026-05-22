@@ -1,0 +1,19 @@
+{
+  "token": "name",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "a label or identification given to a person, place, or thing",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "onomastics and linguistics",
+      "meaning": "the origin and history of a personal name, including its etymology and cultural significance",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

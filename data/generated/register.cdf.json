@@ -1,0 +1,19 @@
+{
+  "token": "register",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "to store data in a database or program",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "official records and documents",
+      "meaning": "to record information formally, such as births, marriages, and deaths",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

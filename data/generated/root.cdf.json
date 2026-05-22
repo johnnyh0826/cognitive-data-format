@@ -1,0 +1,19 @@
+{
+  "token": "root",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "botany",
+      "meaning": "the underground part of a plant that absorbs water and nutrients from the soil.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "mathematics",
+      "meaning": "a number that is not rational, having an infinite decimal expansion without repeating patterns.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

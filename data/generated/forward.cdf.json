@@ -1,0 +1,19 @@
+{
+  "token": "forward",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "navigation and movement",
+      "meaning": "to move in a direction away from something or towards something, often with a sense of progress or advancement.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "athletics and sports",
+      "meaning": "in a specific sport, to score points by advancing the ball or puck in a forward direction, as opposed to backward or sideways.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

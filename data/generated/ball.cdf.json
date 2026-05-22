@@ -1,0 +1,19 @@
+{
+  "token": "ball",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "sport and play",
+      "meaning": "a round or roughly spherical object, typically made of leather, rubber, or synthetic materials, used in various games and activities.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and physics",
+      "meaning": "a celestial body that is spherical in shape and orbits the Sun, such as a planet or moon.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

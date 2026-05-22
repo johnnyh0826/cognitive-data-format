@@ -1,0 +1,19 @@
+{
+  "token": "blade",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: cutting tool",
+      "meaning": "a thin, flat piece of metal used for cutting or slicing",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "domain: aviation and sailing",
+      "meaning": "the leading edge of an airplane or sail that cuts through the air",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

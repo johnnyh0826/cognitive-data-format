@@ -1,0 +1,19 @@
+{
+  "token": "cause",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "philosophy",
+      "meaning": "the origin or motivation behind an event, action, or situation",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "law",
+      "meaning": "a reason for legal action or a justification for a lawsuit",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

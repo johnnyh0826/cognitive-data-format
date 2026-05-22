@@ -1,0 +1,19 @@
+{
+  "token": "order",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "a sequence of items or events in a logical or chronological arrangement",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "technology and computing",
+      "meaning": "a protocol or set of rules governing communication between devices or systems",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

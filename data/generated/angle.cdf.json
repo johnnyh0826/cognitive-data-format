@@ -1,0 +1,19 @@
+{
+  "token": "angle",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geometry",
+      "meaning": "a figure formed by two rays diverging from a common point, called the vertex.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "photography",
+      "meaning": "the position of the camera relative to the subject, used to create a specific visual effect.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

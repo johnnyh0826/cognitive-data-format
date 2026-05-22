@@ -1,0 +1,19 @@
+{
+  "token": "crash",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "aeronautics and space exploration",
+      "meaning": "an unintended impact of an aircraft or spacecraft with a surface, resulting in damage or destruction.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing and technology",
+      "meaning": "the failure of a computer program or system to function properly, often causing data loss or corruption.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

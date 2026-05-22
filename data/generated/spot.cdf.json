@@ -1,0 +1,19 @@
+{
+  "token": "spot",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a small area of land or water with distinct features",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medicine",
+      "meaning": "an area on the skin where a rash or other symptom appears",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

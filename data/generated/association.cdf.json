@@ -1,0 +1,19 @@
+{
+  "token": "association",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "psychology and sociology",
+      "meaning": "a connection or link between two or more people, things, or ideas",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "business and marketing",
+      "meaning": "a partnership or collaboration between companies or organizations for mutual benefit",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

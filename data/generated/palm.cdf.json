@@ -1,0 +1,19 @@
+{
+  "token": "palm",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "botany",
+      "meaning": "the thick, fleshy leaf of a palm tree",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "handheld technology",
+      "meaning": "a small, portable computer device with a touchscreen interface",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

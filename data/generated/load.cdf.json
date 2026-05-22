@@ -1,0 +1,19 @@
+{
+  "token": "load",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "to apply a force to an object or system, often in order to move it or change its state.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing and data storage",
+      "meaning": "to transfer or retrieve information from a digital storage device, such as a hard drive or server.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

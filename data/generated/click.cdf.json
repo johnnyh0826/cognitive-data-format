@@ -1,0 +1,19 @@
+{
+  "token": "click",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "to activate a graphical user interface (GUI) element, such as a button or link",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "human-computer interaction",
+      "meaning": "a physical action of pressing or tapping on a surface to trigger an event or selection",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

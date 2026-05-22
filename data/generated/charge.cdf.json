@@ -1,0 +1,19 @@
+{
+  "token": "charge",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "the amount of energy or force applied to an object or system",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "electrical power transmission",
+      "meaning": "the rate at which electric energy is transferred from a source to a load",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

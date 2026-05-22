@@ -1,0 +1,19 @@
+{
+  "token": "audience",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "theater and performance",
+      "meaning": "people gathered to watch a show or presentation",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "marketing and advertising",
+      "meaning": "targeted group of people with shared interests or demographics",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

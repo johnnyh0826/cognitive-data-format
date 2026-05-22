@@ -1,0 +1,19 @@
+{
+  "token": "award",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "to give (something) to someone as a recognition of their achievements or efforts",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "science and technology",
+      "meaning": "in astronomy, a term for the presentation of a celestial object's orbit or path",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

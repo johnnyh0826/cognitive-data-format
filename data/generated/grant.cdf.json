@@ -1,0 +1,19 @@
+{
+  "token": "grant",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "finance",
+      "meaning": "to give or award something, especially a sum of money, to someone or something",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "science",
+      "meaning": "in evolutionary biology, to transfer genes from one organism to another through reproduction",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "strain",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology",
+      "meaning": "a series of genetic or physical variations within a species, often resulting in reduced fitness.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music",
+      "meaning": "to exert great effort to produce a precise and controlled sound, as in playing a musical instrument.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

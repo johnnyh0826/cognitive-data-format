@@ -1,0 +1,19 @@
+{
+  "token": "handle",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "tool domain",
+      "meaning": "a device or tool used for grasping, holding, or manipulating something",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer domain",
+      "meaning": "an object-oriented programming concept that refers to a class or instance of an object",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

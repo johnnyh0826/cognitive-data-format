@@ -1,0 +1,19 @@
+{
+  "token": "attack",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "military and warfare",
+      "meaning": "to launch a deliberate assault on an enemy position or target",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing and cybersecurity",
+      "meaning": "to attempt to gain unauthorized access to a computer system or network",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

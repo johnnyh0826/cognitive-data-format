@@ -1,0 +1,19 @@
+{
+  "token": "skip",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "sports and games",
+      "meaning": "to deliberately avoid or omit a turn, move, or action in a game or competition",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music",
+      "meaning": "to pass over or omit a section of music, often intentionally to create a sense of tension or drama",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

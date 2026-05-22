@@ -1,0 +1,19 @@
+{
+  "token": "taste",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "food and drink",
+      "meaning": "the sensation of flavor or flavorfulness in the mouth",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sensory perception",
+      "meaning": "a subjective experience of pleasure, satisfaction, or delight",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

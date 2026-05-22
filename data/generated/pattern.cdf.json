@@ -1,0 +1,19 @@
+{
+  "token": "pattern",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and design",
+      "meaning": "repeated sequence of shapes or colors in a consistent arrangement",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology and ecology",
+      "meaning": "predictable sequence of events or behaviors exhibited by living organisms",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

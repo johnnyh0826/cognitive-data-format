@@ -1,0 +1,19 @@
+{
+  "token": "age",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology",
+      "meaning": "the measure of time elapsed since an organism's formation or a particular event in its life history.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "social/cultural",
+      "meaning": "a stage of life characterized by specific social norms, expectations, and cultural phenomena.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

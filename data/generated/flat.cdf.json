@@ -1,0 +1,19 @@
+{
+  "token": "flat",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a flat area of land or sea",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "mathematics",
+      "meaning": "in geometry, a two-dimensional shape with no curvature",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

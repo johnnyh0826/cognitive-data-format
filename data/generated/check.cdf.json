@@ -1,0 +1,19 @@
+{
+  "token": "check",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "financial domain",
+      "meaning": "to verify or confirm the accuracy of a financial transaction, account, or statement",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geological domain",
+      "meaning": "to inspect or examine a geological formation or sample for its composition and structure",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

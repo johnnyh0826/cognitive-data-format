@@ -1,0 +1,19 @@
+{
+  "token": "figure",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geometric shape",
+      "meaning": "a self-contained area of space defined by boundaries or edges, such as a rectangle or circle.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "mathematics and statistics",
+      "meaning": "an instance of a mathematical concept, such as a data point or an observed value, that can be plotted on a graph or used in calculations.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

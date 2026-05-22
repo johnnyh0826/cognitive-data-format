@@ -1,0 +1,19 @@
+{
+  "token": "average",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and statistics",
+      "meaning": "a central or typical value in a set of numbers, often used to describe a characteristic or trend",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "everyday language and communication",
+      "meaning": "of moderate quality; neither exceptional nor poor, but ordinary and unremarkable",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

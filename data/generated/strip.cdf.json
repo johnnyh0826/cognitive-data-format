@@ -1,0 +1,19 @@
+{
+  "token": "strip",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "textile domain",
+      "meaning": "a long narrow piece of fabric used for wrapping or carrying something",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "entertainment domain",
+      "meaning": "a scene or act in a play, film, or dance performance where characters remove their clothing to reveal costumes or nakedness",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

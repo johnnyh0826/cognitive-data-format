@@ -1,0 +1,19 @@
+{
+  "token": "test",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "scientific experimentation",
+      "meaning": "to evaluate or measure the performance, quality, or effectiveness of something",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "educational assessment",
+      "meaning": "to assess or evaluate student learning or understanding through quizzes, exams, or assignments",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

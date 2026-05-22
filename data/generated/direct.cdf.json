@@ -1,0 +1,19 @@
+{
+  "token": "direct",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: language and communication",
+      "meaning": "to convey or express something clearly without ambiguity or indirectness",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "domain: military and warfare",
+      "meaning": "to direct a military operation, unit, or movement in a specific manner, often with precision and authority",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "round",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and geometry",
+      "meaning": "a shape that is symmetrical on all sides",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "cooking and hospitality",
+      "meaning": "a meal or party where food is served in a circular pattern",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

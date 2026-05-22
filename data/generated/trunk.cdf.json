@@ -1,0 +1,19 @@
+{
+  "token": "trunk",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "botany",
+      "meaning": "the main stem of a tree, from which branches grow.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "transportation",
+      "meaning": "a large vehicle with an open top and sides, used for carrying goods or people.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

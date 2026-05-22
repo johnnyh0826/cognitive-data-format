@@ -1,0 +1,19 @@
+{
+  "token": "standard",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "normative domain",
+      "meaning": "a level of quality or performance that is widely accepted as a benchmark",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "statistical domain",
+      "meaning": "a value that represents the average or typical case in a dataset",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

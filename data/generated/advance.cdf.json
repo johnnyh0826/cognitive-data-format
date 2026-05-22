@@ -1,0 +1,19 @@
+{
+  "token": "advance",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "to move forward in space, time, or progress.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "technology",
+      "meaning": "in computer programming, to make a function more efficient or effective.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

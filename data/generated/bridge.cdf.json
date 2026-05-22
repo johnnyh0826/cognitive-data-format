@@ -1,0 +1,19 @@
+{
+  "token": "bridge",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "engineering",
+      "meaning": "a structure built over a physical obstacle, such as a river or valley, to connect two land areas.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "card game",
+      "meaning": "the act of playing cards in a specific order to score points, often requiring careful strategy and planning.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

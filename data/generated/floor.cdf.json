@@ -1,0 +1,19 @@
+{
+  "token": "floor",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical domain",
+      "meaning": "a solid surface below a ceiling or roof, typically of a building or structure.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "dance and performance domain",
+      "meaning": "the lowest level of a stage or performance area where dancers or performers move and perform.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

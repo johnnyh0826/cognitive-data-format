@@ -1,0 +1,19 @@
+{
+  "token": "drive",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "transportation",
+      "meaning": "to operate a vehicle, such as a car or truck, for a specific purpose or distance.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology",
+      "meaning": "an unconscious motivation or instinct that drives an individual's behavior or decision-making process.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

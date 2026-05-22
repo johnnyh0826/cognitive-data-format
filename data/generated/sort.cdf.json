@@ -1,0 +1,19 @@
+{
+  "token": "sort",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computation",
+      "meaning": "to arrange data in a specific order or category.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "everyday life",
+      "meaning": "to categorize or prioritize things, such as tasks or objects.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

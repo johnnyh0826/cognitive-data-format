@@ -1,0 +1,19 @@
+{
+  "token": "catch",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "sports",
+      "meaning": "to intercept and hold onto a ball or projectile in a game",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "fishing",
+      "meaning": "to grasp or seize fish with a hook, net, or other device",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "broadcast",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "communication technology",
+      "meaning": "to transmit information to a wide audience through electronic media",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and space exploration",
+      "meaning": "to release or emit particles, energy, or signals into space",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

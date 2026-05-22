@@ -1,0 +1,19 @@
+{
+  "token": "pick",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "technology",
+      "meaning": "to select or choose something from a group, such as a computer file or database record.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music",
+      "meaning": "to play a stringed instrument by plucking the strings with one's fingers, rather than using a pickguard or other mechanical aid.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

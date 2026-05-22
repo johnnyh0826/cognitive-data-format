@@ -1,0 +1,19 @@
+{
+  "token": "wire",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "electronics and technology",
+      "meaning": "a thin flexible strand of conductive material used to transmit electrical signals or data",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and performance",
+      "meaning": "the act of singing or playing an instrument with a smooth, flowing quality",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "trim",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "cosmetics and grooming",
+      "meaning": "to cut or shorten something, typically hair or a plant's foliage, for aesthetic purposes",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "nautical and engineering",
+      "meaning": "to adjust or modify the shape of an object, such as a sail or a piece of equipment, to improve its performance or function",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

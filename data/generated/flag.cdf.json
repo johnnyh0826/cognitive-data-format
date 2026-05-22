@@ -1,0 +1,19 @@
+{
+  "token": "flag",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "symbolism and heraldry",
+      "meaning": "a symbol or emblem, often used to represent a nation, organization, or idea",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "nautical",
+      "meaning": "the topmost part of a ship's mast, typically decorated with flags and other ornaments",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

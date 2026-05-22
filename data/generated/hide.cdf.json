@@ -1,0 +1,19 @@
+{
+  "token": "hide",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "visual arts and design",
+      "meaning": "to conceal or cover something, as in hiding a mistake or imperfection in a drawing or sculpture.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer programming and coding",
+      "meaning": "to conceal or obscure code or data from view, as in hiding variables or functions to improve program security.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

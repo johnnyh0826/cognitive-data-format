@@ -1,0 +1,19 @@
+{
+  "token": "guide",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "travel and tourism",
+      "meaning": "to lead someone or something through unfamiliar terrain, providing directions and support",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "technology and computing",
+      "meaning": "a program or script that automates a process or provides interactive assistance",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

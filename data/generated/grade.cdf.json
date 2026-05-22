@@ -1,0 +1,19 @@
+{
+  "token": "grade",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "education",
+      "meaning": "a level of academic achievement or a score indicating performance",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology and mining",
+      "meaning": "the quality or standard of mineral deposits or ore",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

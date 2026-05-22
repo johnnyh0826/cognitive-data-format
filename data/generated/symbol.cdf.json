@@ -1,0 +1,19 @@
+{
+  "token": "symbol",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics",
+      "meaning": "a mathematical object used to represent a value or quantity",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "linguistics",
+      "meaning": "a unit of meaning in language, conveying information about the relationship between entities",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

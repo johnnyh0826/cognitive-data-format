@@ -1,0 +1,19 @@
+{
+  "token": "expression",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics",
+      "meaning": "a mathematical function that maps input values to specific outputs",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and philosophy",
+      "meaning": "the external display of one's thoughts, feelings, or intentions through verbal or nonverbal means",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

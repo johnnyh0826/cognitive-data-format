@@ -1,0 +1,19 @@
+{
+  "token": "edge",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geometry and spatial reasoning",
+      "meaning": "the boundary or outline of a shape, area, or object",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "finance and economics",
+      "meaning": "a point at which one thing ends and another begins, such as the edge of a market trend",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

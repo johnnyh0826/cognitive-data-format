@@ -1,0 +1,19 @@
+{
+  "token": "file",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computing and data storage",
+      "meaning": "a collection of related information, such as documents or programs, stored in a computer system",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "law and government",
+      "meaning": "a formal complaint or accusation submitted to a court or tribunal for investigation and possible legal action",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "cool",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "temperature and physics",
+      "meaning": "relating to a low temperature, typically below room temperature.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "popular culture and slang",
+      "meaning": "appealing or fashionable, especially among young people.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

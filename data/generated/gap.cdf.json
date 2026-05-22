@@ -1,0 +1,19 @@
+{
+  "token": "gap",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and science",
+      "meaning": "a space or interval between two points, lines, or surfaces",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and human behavior",
+      "meaning": "an emotional or psychological void left by a loss, separation, or change",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

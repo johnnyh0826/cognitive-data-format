@@ -1,0 +1,19 @@
+{
+  "token": "board",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "education and governance",
+      "meaning": "a committee or council of people responsible for a particular area, such as school board or town board",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "games and sports",
+      "meaning": "a flat surface used to play games, such as a chessboard or a skateboard",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "mass",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and astronomy",
+      "meaning": "amount of matter in an object or substance",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Christianity",
+      "meaning": "the consecrated bread of the Eucharist, considered to be the body of Christ",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

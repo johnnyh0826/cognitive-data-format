@@ -1,0 +1,19 @@
+{
+  "token": "asset",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "finance",
+      "meaning": "a valuable or useful thing that someone owns, such as property or shares.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "IT and computing",
+      "meaning": "a resource or piece of data that is available for use by a computer program or system.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

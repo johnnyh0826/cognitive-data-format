@@ -1,0 +1,19 @@
+{
+  "token": "bell",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "acoustics",
+      "meaning": "a device that produces sound waves through vibration or air flow",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "Christianity",
+      "meaning": "a symbol of divine presence, often associated with angels and heavenly events",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "scale",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music",
+      "meaning": "to adjust or modify the pitch of a musical instrument",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography",
+      "meaning": "a series of steps or platforms, typically rocky or sandy, that lead from the beach to deeper water",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "ride",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "transportation domain",
+      "meaning": "to travel on a vehicle, such as a car, bike, or horse, for pleasure or necessity",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy domain",
+      "meaning": "the movement of celestial bodies around each other, particularly in the context of planetary orbits and gravitational forces",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "path",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain: geography",
+      "meaning": "a route or course, especially one used for walking or hiking",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "domain: spirituality and philosophy",
+      "meaning": "a journey of self-discovery or spiritual growth",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

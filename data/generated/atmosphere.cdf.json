@@ -1,0 +1,19 @@
+{
+  "token": "atmosphere",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "meteorology",
+      "meaning": "the layer of gases surrounding the Earth, including the troposphere and stratosphere.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "theatrical production",
+      "meaning": "the mood or emotional tone created by a performance, lighting, sound, or set design.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "tick",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology",
+      "meaning": "a small arachnid that attaches itself to a host animal and feeds on its blood.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "timekeeping",
+      "meaning": "a unit of time equal to 1/60th of an hour, used in clocks and watches.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

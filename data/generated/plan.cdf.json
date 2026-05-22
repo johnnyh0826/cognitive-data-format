@@ -1,0 +1,19 @@
+{
+  "token": "plan",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "astronomy",
+      "meaning": "a celestial body's orbit or trajectory",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "military",
+      "meaning": "a strategic operation or tactic to achieve a goal",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

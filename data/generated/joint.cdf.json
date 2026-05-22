@@ -1,0 +1,19 @@
+{
+  "token": "joint",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology and anatomy",
+      "meaning": "a point of union between two or more bones, cartilages, or other structures in the body",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "joints and connections in engineering and technology",
+      "meaning": "a connection point between two or more components, allowing for movement or flexibility",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "count",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics",
+      "meaning": "to determine or quantify the number of items or occurrences",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology",
+      "meaning": "to assess the quantity or frequency of cells, organisms, or genetic material",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

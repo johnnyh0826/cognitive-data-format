@@ -1,0 +1,19 @@
+{
+  "token": "turn",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "to change direction or orientation, often in a rotational sense.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computer science and programming",
+      "meaning": "to modify the flow of execution or to redirect control in a program.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

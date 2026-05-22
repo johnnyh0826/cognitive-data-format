@@ -1,0 +1,19 @@
+{
+  "token": "burn",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and chemistry",
+      "meaning": "to undergo a chemical reaction that releases heat, light, or sound energy",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "emotional trauma and psychology",
+      "meaning": "to experience intense emotional pain or distress",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "label",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "identification and classification",
+      "meaning": "a tag or sign attached to an object, person, or thing to identify its characteristics, properties, or purpose",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music production",
+      "meaning": "a musical phrase or section repeated at regular intervals in a composition, often used as a structural element",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

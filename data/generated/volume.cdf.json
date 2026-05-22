@@ -1,0 +1,19 @@
+{
+  "token": "volume",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music domain",
+      "meaning": "the amount of sound or music produced by a performer, recording, or instrument",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "physics and engineering domain",
+      "meaning": "a measure of the amount of matter in an object or container, often measured in liters or cubic meters",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

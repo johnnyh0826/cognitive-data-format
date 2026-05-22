@@ -1,0 +1,19 @@
+{
+  "token": "office",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "business and organization",
+      "meaning": "a place where people work, usually in a building with desks, chairs, and equipment.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "government and administration",
+      "meaning": "a department or division within a government agency or organization responsible for a specific function or activity.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

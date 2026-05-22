@@ -1,0 +1,19 @@
+{
+  "token": "mark",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "notation and recording",
+      "meaning": "to make a visible or tangible indication on something, such as a mark on a piece of paper or a mark on an animal",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "commerce and advertising",
+      "meaning": "to identify or distinguish something with a distinctive sign, logo, or label, such as a brand mark or a trademark",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

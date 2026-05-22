@@ -1,0 +1,19 @@
+{
+  "token": "switch",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "electronics",
+      "meaning": "to change or redirect the flow of electric current or signal.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "aeronautics",
+      "meaning": "in aircraft, to adjust or modify the flight trajectory by changing the angle of attack.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

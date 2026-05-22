@@ -1,0 +1,19 @@
+{
+  "token": "application",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "a program or software that performs a specific task or set of tasks",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "academic and professional life",
+      "meaning": "the process of submitting a request, proposal, or request for consideration, approval, or funding",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

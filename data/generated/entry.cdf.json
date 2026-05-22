@@ -1,0 +1,19 @@
+{
+  "token": "entry",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "computer science",
+      "meaning": "the initial point or position in a data structure or algorithm.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sports and fitness",
+      "meaning": "the act of entering a competition, event, or game.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "tone",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music",
+      "meaning": "the quality of sound produced by a musical instrument or voice, used to describe pitch and timbre",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "communication",
+      "meaning": "a person's attitude or manner of speaking, conveyed through their tone of voice, words, and body language",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

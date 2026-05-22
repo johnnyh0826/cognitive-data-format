@@ -1,0 +1,19 @@
+{
+  "token": "heat",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and chemistry",
+      "meaning": "thermal energy or motion of particles due to temperature",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medical treatment",
+      "meaning": "therapeutic application of heat for pain relief, relaxation, or muscle relaxation",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

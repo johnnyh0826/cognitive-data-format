@@ -1,0 +1,19 @@
+{
+  "token": "throw",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical action",
+      "meaning": "to propel or hurl an object through the air with force and intention",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing and gaming",
+      "meaning": "a programming instruction to release control of a process or to interrupt a program's execution",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

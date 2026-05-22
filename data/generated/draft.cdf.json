@@ -1,0 +1,19 @@
+{
+  "token": "draft",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "A preliminary version of a document or plan, often used for feedback and revision.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "sports",
+      "meaning": "In American football, the draft refers to the process by which teams select college players in a predetermined order to join their roster.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

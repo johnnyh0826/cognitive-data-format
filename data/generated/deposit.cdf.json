@@ -1,0 +1,19 @@
+{
+  "token": "deposit",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "finance",
+      "meaning": "to transfer money or assets into a bank account, investment, or other financial institution.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology",
+      "meaning": "the process of laying down sedimentary rock layers, such as sand or silt, over time.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

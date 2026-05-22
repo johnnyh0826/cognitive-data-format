@@ -1,0 +1,19 @@
+{
+  "token": "cast",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "theater and performance",
+      "meaning": "to present a play, show, or production to an audience",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and space exploration",
+      "meaning": "to throw or launch into orbit around the sun, as in a planetary body's trajectory",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

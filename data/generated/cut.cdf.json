@@ -1,0 +1,19 @@
+{
+  "token": "cut",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "to separate or divide something using a sharp edge, blade, or force",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and performance",
+      "meaning": "a sudden stop or ending of a song, scene, or performance",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

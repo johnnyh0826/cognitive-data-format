@@ -1,0 +1,19 @@
+{
+  "token": "pump",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mechanical engineering",
+      "meaning": "a device that transfers fluid or gas from one place to another, often powered by electricity or a motor",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "health and wellness",
+      "meaning": "to stimulate blood flow or circulation in the body, typically through massage or exercise",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "source",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "geography",
+      "meaning": "a place where a river, lake, or stream begins to flow",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "science",
+      "meaning": "the origin or starting point of something, such as an object, process, or phenomenon",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "well",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "a hole or cavity in the ground, typically dug for water storage or irrigation.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology",
+      "meaning": "an opening in the Earth's surface, such as a cave or a sinkhole, that provides access to underground spaces or water sources.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

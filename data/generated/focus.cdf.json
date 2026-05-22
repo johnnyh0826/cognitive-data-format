@@ -1,0 +1,19 @@
+{
+  "token": "focus",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "optics and photography",
+      "meaning": "the point where rays of light converge, or the area of greatest intensity in an image",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "psychology and self-improvement",
+      "meaning": "the ability to direct one's attention and mental resources towards a specific goal or task, often requiring discipline and concentration",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

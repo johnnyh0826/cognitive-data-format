@@ -1,0 +1,19 @@
+{
+  "token": "section",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and science",
+      "meaning": "a part of a whole, often denoted by a letter or symbol (e.g., a section of a mathematical function)",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "publishing and media",
+      "meaning": "a part of a book, magazine, or other written work, often separated from others by blank pages (e.g., a section on gardening)",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

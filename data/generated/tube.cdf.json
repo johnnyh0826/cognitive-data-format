@@ -1,0 +1,19 @@
+{
+  "token": "tube",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mechanical engineering",
+      "meaning": "a hollow cylindrical structure used to convey fluids or gases",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medical treatment",
+      "meaning": "a hollow, flexible tube inserted into the body for surgical procedures or drainage",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

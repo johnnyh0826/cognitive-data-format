@@ -1,0 +1,19 @@
+{
+  "token": "suit",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "clothing and fashion",
+      "meaning": "a set of garments worn together, typically including a jacket and trousers or skirt",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "card games and poker",
+      "meaning": "a set of cards with the same rank, used to make decisions in various card games",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

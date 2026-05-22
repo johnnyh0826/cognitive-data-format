@@ -1,0 +1,19 @@
+{
+  "token": "block",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "construction",
+      "meaning": "a solid mass of material, such as stone or brick, used to build structures",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "computing",
+      "meaning": "a group of instructions that are executed together in a computer program",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "token": "deck",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "nautical domain",
+      "meaning": "a flat surface on a ship or boat, used for navigating or holding cargo",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "playing cards domain",
+      "meaning": "a set of playing cards, typically 52, including suits and ranks",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

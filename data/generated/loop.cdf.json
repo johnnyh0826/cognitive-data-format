@@ -1,0 +1,19 @@
+{
+  "token": "loop",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics and programming",
+      "meaning": "a sequence of instructions or a set of statements that repeat until a condition is met",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "music and audio production",
+      "meaning": "a repeated section in music, often used as an introduction or interlude",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

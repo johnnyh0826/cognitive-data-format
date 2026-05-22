@@ -1,0 +1,19 @@
+{
+  "token": "rush",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "primary domain",
+      "meaning": "to move or act quickly and hastily, often without careful consideration.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography",
+      "meaning": "a rapid movement of water, such as a current or a flood.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

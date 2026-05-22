@@ -1,0 +1,19 @@
+{
+  "token": "rate",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "finance",
+      "meaning": "to evaluate or assess something in terms of value, quality, or performance",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "biology and ecology",
+      "meaning": "the frequency at which a species reproduces or an organism grows",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

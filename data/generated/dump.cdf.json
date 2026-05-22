@@ -1,0 +1,19 @@
+{
+  "token": "dump",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "waste management",
+      "meaning": "to dispose of waste or unwanted material, often in a haphazard manner.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "gaming and technology",
+      "meaning": "in video games, to intentionally sacrifice one's character or resources for the benefit of others, often in a multiplayer setting.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

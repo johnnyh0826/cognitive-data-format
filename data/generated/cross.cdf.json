@@ -1,0 +1,19 @@
+{
+  "token": "cross",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "Christianity",
+      "meaning": "to undergo baptism or confirmation by immersion in water",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geography",
+      "meaning": "a point where two or more roads, paths, or boundaries intersect",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

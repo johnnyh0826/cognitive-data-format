@@ -1,0 +1,19 @@
+{
+  "token": "front",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "anatomy",
+      "meaning": "the foremost part of an organ or structure",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "warfare",
+      "meaning": "the leading edge or position in a battle line or military operation",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

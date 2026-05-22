@@ -1,0 +1,19 @@
+{
+  "token": "launch",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "space exploration",
+      "meaning": "to send a spacecraft or rocket into orbit or flight",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "product marketing",
+      "meaning": "to introduce a new product or service to the market",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

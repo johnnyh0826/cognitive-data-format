@@ -1,0 +1,19 @@
+{
+  "token": "exercise",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physical activity domain",
+      "meaning": "to engage in physical activity to improve or maintain health and fitness",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "philosophical/educational domain",
+      "meaning": "a systematic practice or discipline aimed at developing mental, moral, or spiritual character",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

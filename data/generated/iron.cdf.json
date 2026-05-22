@@ -1,0 +1,19 @@
+{
+  "token": "iron",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "metallurgy",
+      "meaning": "a naturally occurring metal with high iron content",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "geology",
+      "meaning": "a type of rock that is rich in iron oxide and has a reddish hue",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

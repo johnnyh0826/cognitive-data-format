@@ -1,0 +1,19 @@
+{
+  "token": "ship",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "navigation and transportation",
+      "meaning": "a large vessel that travels on water, powered by wind or engines",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "astronomy and space exploration",
+      "meaning": "a spacecraft designed to carry humans or cargo through space",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

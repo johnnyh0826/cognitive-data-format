@@ -1,0 +1,19 @@
+{
+  "token": "divide",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "mathematics",
+      "meaning": "to split or separate into two or more parts, often in a proportionate manner.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "politics and governance",
+      "meaning": "to allocate or distribute something, such as power, resources, or territory, among different groups or entities.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

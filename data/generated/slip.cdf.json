@@ -1,0 +1,19 @@
+{
+  "token": "slip",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics and engineering",
+      "meaning": "to move or fall from a higher position to a lower one due to gravity or loss of traction",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "medical and sports",
+      "meaning": "to strain or injure a joint or muscle, often resulting in pain or stiffness",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

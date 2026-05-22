@@ -1,0 +1,19 @@
+{
+  "token": "note",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "music and performance",
+      "meaning": "a brief, written or printed reminder of something to be performed or remembered",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "writing and documentation",
+      "meaning": "a concise record or summary of information, often used as a reference or for future recall",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

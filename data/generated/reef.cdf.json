@@ -1,0 +1,19 @@
+{
+  "token": "reef",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "marine biology",
+      "meaning": "a submerged structure of coral, rock, or sand that breaks up waves and provides a habitat for marine life.",
+      "added": "first",
+      "source": "llm"
+    },
+    {
+      "id": "02",
+      "context": "scuba diving and snorkeling",
+      "meaning": "a popular destination for underwater exploration due to its unique ecosystems and diverse marine life.",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}
