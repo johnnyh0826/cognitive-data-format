@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "writing and publishing",
-      "meaning": "a thin, flexible material used for writing or printing on.",
+      "meaning": "written or printed material, such as a book, article, or letter.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "science and technology",
-      "meaning": "a thin, translucent sheet of cellulose fibers used as a filter in laboratory settings.",
+      "meaning": "a thin, flexible sheet of cellulose pulp, used to make filters, in medical applications, or as a material for crafts.",
       "added": "accumulated",
       "source": "llm"
     }

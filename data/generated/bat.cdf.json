@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports and games",
-      "meaning": "a flying mammal that uses echolocation to navigate",
+      "context": "sports",
+      "meaning": "a flying mammal that uses echolocation to navigate and hunt in the dark",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "cricket",
-      "meaning": "a type of handheld wooden or metal club used to hit the ball",
+      "context": "computing",
+      "meaning": "a small program or script that runs independently and interacts with an operating system",
       "added": "accumulated",
       "source": "llm"
     }

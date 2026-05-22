@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Physics and Optics",
-      "meaning": "a form of electromagnetic radiation with a specific frequency range",
+      "context": "physics and engineering",
+      "meaning": "a form of electromagnetic radiation with a frequency range that is visible to the human eye",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Photography",
-      "meaning": "the amount of illumination in an image, often measured in stops",
+      "context": "philosophy and spirituality",
+      "meaning": "the divine or sacred, often used to describe a higher power or ultimate reality",
       "added": "accumulated",
       "source": "llm"
     }

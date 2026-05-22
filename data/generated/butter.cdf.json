@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "food and cooking",
-      "meaning": "a soft yellowish fatty substance extracted from milk, used as a spread or in cooking",
+      "context": "food and cuisine",
+      "meaning": "a dairy product made from cream or milk, often used as a spread on bread or in cooking",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "a term for the bright, glowing surface of certain stars, such as red giants and white dwarfs",
+      "context": "cosmetics and personal care",
+      "meaning": "a moisturizing agent used to soften and protect skin, often containing ingredients like shea butter or coconut oil",
       "added": "accumulated",
       "source": "llm"
     }

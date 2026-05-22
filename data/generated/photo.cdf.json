@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "science and technology",
-      "meaning": "an image created using a camera or other device",
+      "meaning": "a two-dimensional representation of a scene or object, typically created using a camera or other imaging device.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "marketing and advertising",
-      "meaning": "a visual representation of an event, product, or service used to promote something",
+      "context": "fine art and culture",
+      "meaning": "an artistic representation of a person, place, or thing, often used to capture a moment in time or convey an idea.",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Psychology and Neuroscience",
-      "meaning": "the process of retaining information, experiences, or skills after initial exposure to them",
+      "context": "cognitive science",
+      "meaning": "the process of retaining and recalling past experiences, events, or information.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Computer Science",
-      "meaning": "a type of data storage that allows for efficient retrieval and manipulation",
+      "context": "computer technology",
+      "meaning": "a unit of storage that holds data temporarily while a computer is running.",
       "added": "accumulated",
       "source": "llm"
     }

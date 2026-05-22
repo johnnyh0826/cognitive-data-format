@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "nautical and sailing",
-      "meaning": "a length of fiber or yarn used to bind or tie things together",
+      "meaning": "a length of fibers or threads twisted together to form a strong, flexible cord for climbing, lifting, or towing.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "rock climbing and mountaineering",
-      "meaning": "a thick, sturdy cord used for protection and safety",
+      "context": "entertainment and performance",
+      "meaning": "a device used to control the movement of an object or a performer, such as in acrobatics, juggling, or puppetry.",
       "added": "accumulated",
       "source": "llm"
     }

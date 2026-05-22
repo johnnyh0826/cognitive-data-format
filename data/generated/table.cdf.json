@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Furniture",
-      "meaning": "a piece of furniture with a flat surface and legs, used for holding objects or serving meals",
+      "context": "furniture",
+      "meaning": "a piece of furniture with a flat surface and legs, used for holding objects or eating",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Science",
-      "meaning": "the uppermost layer of the Earth's crust, composed of rocks, soil, and other materials",
+      "context": "mathematics",
+      "meaning": "an instance of a mathematical function or operation that takes an input value and produces an output value",
       "added": "accumulated",
       "source": "llm"
     }

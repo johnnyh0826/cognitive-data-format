@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Sports and Games",
-      "meaning": "a contest or competition between two teams, individuals, or entities with a common goal of winning or achieving a specific objective.",
+      "context": "sport",
+      "meaning": "a contest or competition between two teams, individuals, or entities to determine a winner",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Chemistry and Materials Science",
-      "meaning": "a chemical compound that has the same properties as another substance, often used to describe a synthetic material mimicking natural materials.",
+      "context": "chemistry and materials science",
+      "meaning": "the pairing of atoms, ions, or molecules with similar chemical properties to form a stable compound",
       "added": "accumulated",
       "source": "llm"
     }

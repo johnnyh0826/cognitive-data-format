@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "container",
-      "meaning": "a vessel used to hold or drink from liquids",
+      "meaning": "a vessel with a single handle, used for drinking or holding liquids.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "golf",
-      "meaning": "the cup is the hole into which a golf ball must be hit",
+      "context": "astronomy",
+      "meaning": "the bright spot at the center of a star or other celestial body that is visible from Earth.",
       "added": "accumulated",
       "source": "llm"
     }

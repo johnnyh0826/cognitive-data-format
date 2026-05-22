@@ -3,7 +3,7 @@
   "tracks": [
     {
       "id": "01",
-      "context": "timekeeping and measurement",
+      "context": "physics and technology",
       "meaning": "a device that measures time, typically displaying hours, minutes, and seconds.",
       "added": "first",
       "source": "llm"
@@ -11,7 +11,7 @@
     {
       "id": "02",
       "context": "astronomy and navigation",
-      "meaning": "an instrument used to measure the position of celestial bodies or to determine a ship's longitude at sea.",
+      "meaning": "an instrument for measuring the passage of celestial bodies or determining longitude at sea.",
       "added": "accumulated",
       "source": "llm"
     }

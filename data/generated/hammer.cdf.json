@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "a tool used to shape or break objects by applying force",
+      "context": "construction and DIY",
+      "meaning": "a tool used to strike or shape objects, typically consisting of a handle and a heavy metal head.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "music and art",
-      "meaning": "a device that strikes a nail or other object to produce sound in music, film, or theater",
+      "context": "astronomy",
+      "meaning": "the process of hitting or striking celestial bodies, such as planets or asteroids, with spacecraft or other objects.",
       "added": "accumulated",
       "source": "llm"
     }

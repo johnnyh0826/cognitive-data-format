@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "medicine",
-      "meaning": "an unpleasant sensation, often caused by injury or illness",
+      "meaning": "an unpleasant intense bodily sensation, often caused by injury or illness.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "philosophy",
-      "meaning": "a fundamental aspect of human experience, often associated with suffering and existential crisis",
+      "context": "emotions and psychology",
+      "meaning": "a feeling of deep suffering or distress, often accompanied by emotional turmoil.",
       "added": "accumulated",
       "source": "llm"
     }

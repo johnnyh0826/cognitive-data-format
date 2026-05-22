@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "electronics",
-      "meaning": "a device that stores electric charge and provides power to devices or systems.",
+      "context": "electronics and technology",
+      "meaning": "a device that stores energy and supplies it to devices or systems.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "aviation",
-      "meaning": "an electrical storage unit used in aircraft, such as a nickel-cadmium battery for starting an engine.",
+      "context": "aviation and aerospace",
+      "meaning": "a container for storing fuel, used in aircraft and spacecraft.",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Architecture and Construction",
-      "meaning": "an opening in a building or vehicle that allows natural light and ventilation",
+      "context": "architecture and construction",
+      "meaning": "an opening in a building or vehicle that allows natural light and air to enter",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Computer Science",
-      "meaning": "a graphical user interface element that displays information or provides interaction",
+      "context": "computing and software",
+      "meaning": "a graphical user interface element used to display and interact with data, such as a spreadsheet or chart",
       "added": "accumulated",
       "source": "llm"
     }

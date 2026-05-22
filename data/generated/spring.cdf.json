@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Seasonal context",
-      "meaning": "The third season of the year, between winter and summer.",
+      "context": "seasonal domain",
+      "meaning": "a season of the year characterized by mild weather and the blooming of flowers.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Agricultural context",
-      "meaning": "The period of growth and development in plants and crops.",
+      "context": "engineering domain",
+      "meaning": "a coiled metal object that stores energy, typically used in clocks or toys.",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "03",
+      "context": "geography and hydrology domain",
+      "meaning": "a natural source of water that is often seasonal and replenished by rainfall or snowmelt.",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "04",
+      "context": "sports domain",
+      "meaning": "to jump or propel oneself forward, especially in athletic activities like gymnastics or track and field.",
       "added": "accumulated",
       "source": "llm"
     }

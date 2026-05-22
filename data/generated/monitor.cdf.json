@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "technology",
-      "meaning": "to track or supervise something, such as a system or process.",
+      "context": "technology and computing",
+      "meaning": "a device that displays information, such as a computer screen or dashboard.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "healthcare",
-      "meaning": "a device used to measure and record physiological activity, such as heart rate or blood pressure.",
+      "context": "biology and medicine",
+      "meaning": "an animal or plant that observes and reports on the behavior of another species or individual.",
       "added": "accumulated",
       "source": "llm"
     }

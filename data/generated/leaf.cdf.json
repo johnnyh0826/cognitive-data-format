@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "botany",
-      "meaning": "a thin, flat part that grows on a plant",
+      "meaning": "a thin, flat, or lance-shaped part that grows on a tree or plant.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "music",
-      "meaning": "a page of written music",
+      "meaning": "a sheet of music with the melody and harmony written in notation.",
       "added": "accumulated",
       "source": "llm"
     }

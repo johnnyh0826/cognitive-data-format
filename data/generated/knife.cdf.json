@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "general language",
-      "meaning": "a cutting instrument with a blade and handle",
+      "context": "cooking and food preparation",
+      "meaning": "a cutting instrument used to prepare and portion food",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "cooking",
-      "meaning": "a tool used to chop, slice, or mince food",
+      "context": "hunting and wilderness survival",
+      "meaning": "a tool used to skin, clean, and prepare animal hides for use as clothing or gear",
       "added": "accumulated",
       "source": "llm"
     }

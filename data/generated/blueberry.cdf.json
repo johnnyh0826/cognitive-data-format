@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "botany",
-      "meaning": "a type of fruit that is typically small, round or oval, and has a sweet-tart taste.",
+      "meaning": "a type of fruit that grows on shrubs and is often eaten fresh or used in baking",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "astronomy",
-      "meaning": "a term used to describe the blue color of certain stars or galaxies due to scattering of light by interstellar dust.",
+      "meaning": "the name given to a celestial object, such as a star or planet, that has a blue color due to its composition and temperature",
       "added": "accumulated",
       "source": "llm"
     }

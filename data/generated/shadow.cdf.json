@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Optics and Physics",
-      "meaning": "the dark area or silhouette that appears on a surface when something blocks light from shining on it",
+      "context": "optics and photography",
+      "meaning": "the dark area or silhouette created by an object blocking light",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Psychology and Psychoanalysis",
-      "meaning": "a repressed or hidden aspect of one's personality, often symbolizing the unconscious mind",
+      "context": "mythology and fantasy",
+      "meaning": "a dark or evil spirit, often associated with the afterlife or death",
       "added": "accumulated",
       "source": "llm"
     }

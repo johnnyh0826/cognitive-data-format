@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Physical Activity",
+      "context": "physics and sports",
       "meaning": "to move quickly on foot, typically in a forward direction",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Computer Science",
-      "meaning": "a program or process that is executed continuously",
+      "context": "computer programming",
+      "meaning": "to execute a program or script, often continuously until completion",
       "added": "accumulated",
       "source": "llm"
     }

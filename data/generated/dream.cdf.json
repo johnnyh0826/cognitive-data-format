@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Psychology",
-      "meaning": "a series of images, thoughts, and emotions that occur during sleep or a state of relaxation",
+      "context": "psychology and philosophy",
+      "meaning": "a series of images, thoughts, and emotions that occur during sleep or when a person is awake but not fully engaged with the environment.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Literary Fiction",
-      "meaning": "a narrative or imaginative sequence of events that can be vividly visualized",
+      "context": "business and economics",
+      "meaning": "a goal or ambition, especially one that seems difficult to achieve, often used in a phrase such as 'chase your dreams'.",
       "added": "accumulated",
       "source": "llm"
     }

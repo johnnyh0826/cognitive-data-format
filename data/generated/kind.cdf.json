@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Philosophy",
-      "meaning": "having a natural tendency to do good or be generous",
+      "context": "human behavior and emotions",
+      "meaning": "having a gentle, benevolent disposition; showing compassion and understanding",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Biology",
-      "meaning": "relating to the classification of living organisms based on their characteristics and evolutionary relationships",
+      "context": "natural history and biology",
+      "meaning": "of the same or similar species; belonging to the same genus or family",
       "added": "accumulated",
       "source": "llm"
     }

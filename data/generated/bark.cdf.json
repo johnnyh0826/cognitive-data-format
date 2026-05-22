@@ -3,15 +3,22 @@
   "tracks": [
     {
       "id": "01",
-      "context": "animal behavior",
-      "meaning": "the sound a dog or other animal makes",
+      "context": "botany",
+      "meaning": "a protective layer covering the trunk and branches of a tree",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "botany",
-      "meaning": "a hard, protective layer on the outside of a tree trunk",
+      "context": "animal behavior",
+      "meaning": "the loud, sharp cry made by some mammals, such as dogs or bears",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "03",
+      "context": "nautical",
+      "meaning": "a type of sailing ship with a flat bottom and straight sides",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Philosophy and Ethics",
-      "meaning": "a feeling of expectation and desire for a particular thing to happen",
+      "context": "Philosophy and Psychology",
+      "meaning": "a feeling of expectation and desire for a particular thing to happen.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "Christianity",
-      "meaning": "confident trust in God's goodness, power, and love",
+      "meaning": "the theological virtue that is the foundation of the Christian life, relying on God's promises and actions.",
       "added": "accumulated",
       "source": "llm"
     }

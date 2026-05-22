@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computing",
-      "meaning": "a device that prints text or images on paper or other materials, typically connected to a computer.",
+      "context": "office technology",
+      "meaning": "a device that produces printed output from digital data",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "in psychoanalysis, the process by which the unconscious mind expresses itself through verbal or written communication.",
+      "context": "photography",
+      "meaning": "a camera or device used to reproduce photographic images",
       "added": "accumulated",
       "source": "llm"
     }

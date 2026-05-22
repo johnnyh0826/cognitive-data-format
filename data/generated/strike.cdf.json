@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports and labor",
-      "meaning": "to stop work or activity in protest, often in a collective manner",
+      "context": "sports",
+      "meaning": "to hit or make a ball move in a particular direction, especially in cricket or baseball",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "geology and mining",
-      "meaning": "the process of breaking off or separating rock fragments from the parent rock",
+      "context": "labor and industry",
+      "meaning": "a work stoppage by employees to protest working conditions, wages, or benefits",
       "added": "accumulated",
       "source": "llm"
     }

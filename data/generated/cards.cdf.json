@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "playing cards and games",
-      "meaning": "small pieces of paper or cardboard with various designs, used for playing games like poker, blackjack, or solitaire.",
+      "meaning": "small pieces of thick paper or thin cardboard with various designs, used for playing games like poker and solitaire.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "photography and graphic design",
-      "meaning": "thin pieces of material coated with light-sensitive chemicals, used to capture images in film photography.",
+      "context": "credit/debit cards and financial transactions",
+      "meaning": "a card issued by a bank or other financial institution, used to make purchases, pay bills, or get cash advances.",
       "added": "accumulated",
       "source": "llm"
     }

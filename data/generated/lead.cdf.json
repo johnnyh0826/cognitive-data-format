@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology and mining",
-      "meaning": "a heavy, bluish-white metal",
+      "context": "chemistry",
+      "meaning": "a heavy, bluish-white metal element with the symbol Pb and atomic number 82.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "the third planet from the Sun in our solar system",
+      "context": "leadership",
+      "meaning": "to guide or direct others, often in a position of authority.",
       "added": "accumulated",
       "source": "llm"
     }

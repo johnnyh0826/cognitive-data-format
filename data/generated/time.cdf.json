@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Physics",
-      "meaning": "a measure of the duration between events or the fourth dimension in spacetime",
+      "context": "Physics and Astronomy",
+      "meaning": "a measure of the duration between two events or the sequence of events in a universe, often described by physical laws.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Philosophy",
-      "meaning": "the human experience, including past, present, and future",
+      "context": "Philosophy and Psychology",
+      "meaning": "a subjective experience that is perceived as passing from the past through the present to the future, influencing human perception, emotion, and decision-making.",
       "added": "accumulated",
       "source": "llm"
     }

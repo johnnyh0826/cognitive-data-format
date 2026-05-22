@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Sports and Recreation",
-      "meaning": "a body of water, typically filled with water, used for swimming or other aquatic activities.",
+      "context": "recreation and leisure",
+      "meaning": "a body of still water used for swimming, diving, or other aquatic activities",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Business and Finance",
-      "meaning": "a group of assets or investments managed by a financial institution or individual.",
+      "context": "mathematics and physics",
+      "meaning": "an open set in a topological space where every point has a neighborhood that is also an open set",
       "added": "accumulated",
       "source": "llm"
     }

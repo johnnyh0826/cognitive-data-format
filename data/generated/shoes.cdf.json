@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "fashion",
-      "meaning": "footwear designed for protection, comfort, and style",
+      "context": "fashion and footwear",
+      "meaning": "footwear that covers and protects the feet",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "athletics",
-      "meaning": "specialized footwear designed for specific sports or activities",
+      "context": "sports and athletics",
+      "meaning": "equipment worn on the feet for protection, support, or traction during various activities",
       "added": "accumulated",
       "source": "llm"
     }

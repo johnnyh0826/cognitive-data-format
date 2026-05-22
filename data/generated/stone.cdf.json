@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "geology",
-      "meaning": "a naturally occurring solid mass of mineral material",
+      "meaning": "a small particle of mineral material, often found on the earth's surface or in rocks and soil.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "symbolism and metaphysics",
-      "meaning": "a symbol of strength, resilience, or spiritual connection",
+      "context": "construction and architecture",
+      "meaning": "a building block or a piece of rock used as a foundation or for decoration.",
       "added": "accumulated",
       "source": "llm"
     }

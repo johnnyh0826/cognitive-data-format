@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Baking and Culinary Arts",
+      "context": "food and cuisine",
       "meaning": "a baked food made from flour, water, yeast, and other ingredients",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Spirituality and Symbolism",
-      "meaning": "a symbol of sustenance, nourishment, and community in many cultures",
+      "context": "Christianity",
+      "meaning": "the staff of life, a symbol of spiritual nourishment",
       "added": "accumulated",
       "source": "llm"
     }

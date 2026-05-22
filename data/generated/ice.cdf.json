@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Geology",
-      "meaning": "a solid, transparent, and brittle form of water that forms naturally in the environment",
+      "context": "physics and chemistry",
+      "meaning": "a solid substance formed by the freezing of water or other liquids",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Culinary",
-      "meaning": "a frozen dessert made from cream, sugar, and flavorings, often served as a sweet treat",
+      "context": "geography",
+      "meaning": "a glacier, typically formed from compacted snow and ice, that flows downhill due to its own gravity",
       "added": "accumulated",
       "source": "llm"
     }

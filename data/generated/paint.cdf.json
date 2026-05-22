@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "art and design",
-      "meaning": "to apply color or other substances to a surface using various techniques",
+      "meaning": "to apply color or other substances to a surface using various techniques and tools",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "construction and engineering",
-      "meaning": "to cover a surface with a layer of paint as part of a finishing process",
+      "context": "science and technology",
+      "meaning": "a substance used to fill in gaps or cover surfaces, often made from liquid pigments mixed with solvents",
       "added": "accumulated",
       "source": "llm"
     }

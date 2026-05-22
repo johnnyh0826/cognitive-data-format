@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "food and drink",
-      "meaning": "an alcoholic beverage made from fermented grapes or other fruits, often served as a beverage or used in cooking",
+      "meaning": "a fermented beverage made from grapes or other fruits",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
       "context": "religion and spirituality",
-      "meaning": "a sacrament or ritualistic drink consumed during religious ceremonies, symbolizing the blood of Christ",
+      "meaning": "a symbol of the blood of Christ in Christian tradition",
       "added": "accumulated",
       "source": "llm"
     }

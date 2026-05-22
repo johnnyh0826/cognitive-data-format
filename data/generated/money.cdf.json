@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance and economics",
-      "meaning": "a medium of exchange, unit of account, and store of value.",
+      "context": "finance",
+      "meaning": "a medium of exchange, a unit of account, and a store of value.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "psychology and motivation",
-      "meaning": "a driving force or motivator that can influence behavior and decision-making.",
+      "context": "psychology",
+      "meaning": "a measure of success, status, or worth in social interactions.",
       "added": "accumulated",
       "source": "llm"
     }

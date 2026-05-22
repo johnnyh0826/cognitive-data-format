@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "food and drink",
-      "meaning": "an intoxicating beverage made from fermented grains, hops, and water.",
+      "meaning": "an alcoholic beverage made from fermented grains, typically barley, wheat, or rye",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "transportation",
-      "meaning": "a type of fuel or energy source for vehicles, such as biodiesel beer or bio-based diesel fuel.",
+      "context": "ceremonial and cultural",
+      "meaning": "a symbol of hospitality, community, and celebration in many cultures",
       "added": "accumulated",
       "source": "llm"
     }

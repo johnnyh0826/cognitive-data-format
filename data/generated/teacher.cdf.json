@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Education",
-      "meaning": "An adult who helps students learn and understand new things.",
+      "context": "education",
+      "meaning": "a person who helps students learn and understand new things in a school or classroom setting",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Spirituality",
-      "meaning": "A guide or mentor who imparts spiritual knowledge and wisdom.",
+      "context": "spirituality",
+      "meaning": "one who guides others on a spiritual path, often through teachings, mentorship, and personal example",
       "added": "accumulated",
       "source": "llm"
     }

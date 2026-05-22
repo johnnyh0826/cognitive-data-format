@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "food and drink",
-      "meaning": "a hot beverage made from roasted coffee beans, often consumed in the morning.",
+      "context": "botany",
+      "meaning": "the seeds of the Coffea plant, used to make coffee beans",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "medicine and health",
-      "meaning": "a stimulant found in coffee that can help increase alertness and energy.",
+      "context": "geography",
+      "meaning": "a port city in Yemen on the Red Sea, known for its historical significance and trade routes",
       "added": "accumulated",
       "source": "llm"
     }

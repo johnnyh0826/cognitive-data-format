@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "botany",
-      "meaning": "a living organism that grows in soil, typically having a stem, leaves, and roots",
+      "context": "biology and horticulture",
+      "meaning": "a living organism that grows in soil or water, typically having leaves, stems, and roots.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "garden design",
-      "meaning": "a decorative element or feature in an outdoor space",
+      "context": "theater and performance",
+      "meaning": "to introduce an actor or actress by name before a role is performed.",
       "added": "accumulated",
       "source": "llm"
     }

@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "physics and engineering",
-      "meaning": "a device that creates a partial vacuum, often used to clean floors or remove debris",
+      "meaning": "a region in space where the pressure is significantly lower than surrounding regions, often created by a pump or fan.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "astronomy and space exploration",
-      "meaning": "the absence of matter in a region of space, typically created by the collapse of a star",
+      "context": "household appliances and cleaning",
+      "meaning": "an electrical device that uses suction to remove dirt, dust, and debris from surfaces, often used for vacuuming floors and upholstery.",
       "added": "accumulated",
       "source": "llm"
     }

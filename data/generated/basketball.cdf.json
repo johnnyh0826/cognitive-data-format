@@ -10,8 +10,8 @@
     },
     {
       "id": "02",
-      "context": "education",
-      "meaning": "an object used in gym classes to teach coordination and teamwork skills.",
+      "context": "statistics",
+      "meaning": "a statistical measure used to track player performance, such as points per game or rebounds per game.",
       "added": "accumulated",
       "source": "llm"
     }

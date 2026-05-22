@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Meteorology",
-      "meaning": "liquid precipitation that falls from the sky",
+      "context": "meteorology/science",
+      "meaning": "liquid precipitation that falls from the sky, typically in droplets or flakes.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Biblical metaphor",
-      "meaning": "divine judgment or punishment",
+      "context": "music",
+      "meaning": "a musical composition with a slow and mournful quality, often evoking feelings of sadness or melancholy.",
       "added": "accumulated",
       "source": "llm"
     }

@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "astronomy",
-      "meaning": "a celestial body orbiting a star, such as Earth or Mars",
+      "meaning": "a celestial body orbiting a star, typically large enough to be rounded by its own gravity.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "metaphor and poetry",
-      "meaning": "a place of great beauty, wonder, or significance, often used to describe a beloved home or community",
+      "context": "symbolism and fantasy fiction",
+      "meaning": "a place or realm that is distant, often mystical, and can represent a character's emotional state or inner world.",
       "added": "accumulated",
       "source": "llm"
     }

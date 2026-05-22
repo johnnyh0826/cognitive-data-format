@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Philosophy",
-      "meaning": "a person unknown to one, often used to describe someone who is unfamiliar or outside a particular group.",
+      "context": "sociology/anthropology",
+      "meaning": "a person who is not a member of one's family, community, or social group.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Film and Theater",
-      "meaning": "an actor or character appearing in a film or play, often used to describe someone who is not part of the main cast.",
+      "context": "philosophy",
+      "meaning": "an individual with whom one has no prior acquaintance or connection.",
       "added": "accumulated",
       "source": "llm"
     }

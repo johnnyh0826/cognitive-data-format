@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Physics and Engineering",
-      "meaning": "a circular object that rotates around a central axis, often used to transmit power or motion",
+      "context": "mechanical engineering",
+      "meaning": "a circular structure with a central axis and spokes or rim, used for rotation or movement.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Transportation",
-      "meaning": "the circular part of a vehicle, such as a car or bicycle, that allows it to move",
+      "context": "astronomy",
+      "meaning": "the disk-shaped appearance of the Sun, Moon, or planets when viewed from Earth.",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Physics and Engineering",
-      "meaning": "the center of rotation or reference point in a coordinate system",
+      "context": "family and domesticity",
+      "meaning": "a person's primary place of residence, where they live with their family or alone",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Real Estate",
-      "meaning": "a property that can be owned, rented, or sold",
+      "context": "computer science",
+      "meaning": "the directory or folder on a computer that contains the user's files and settings",
       "added": "accumulated",
       "source": "llm"
     }

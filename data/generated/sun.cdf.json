@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Astronomy",
-      "meaning": "the star at the center of our solar system",
+      "context": "astronomy and science",
+      "meaning": "the star at the center of our solar system, a massive ball of hot, glowing gas.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Mythology",
-      "meaning": "a god or goddess in ancient cultures, often associated with light and life",
+      "context": "religion and spirituality",
+      "meaning": "a symbol of divine power, light, and life, often associated with deities or higher beings.",
       "added": "accumulated",
       "source": "llm"
     }

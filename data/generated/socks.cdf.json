@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "clothing and fashion",
-      "meaning": "a type of fabric covering for the feet, typically worn with shoes",
+      "context": "Fashion and Clothing",
+      "meaning": "A type of clothing worn on the feet to keep them warm and comfortable.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "sports and fitness",
-      "meaning": "a piece of equipment used to grip a racquet or paddle in certain sports, such as squash or table tennis",
+      "context": "Sports and Fitness",
+      "meaning": "In athletic competitions, a sock is a type of fabric covering worn by athletes to prevent blisters and improve performance.",
       "added": "accumulated",
       "source": "llm"
     }

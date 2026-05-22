@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "general language",
-      "meaning": "a container made of wood, plastic, or other materials used to hold or store things",
+      "context": "container domain",
+      "meaning": "a container made of material such as wood, plastic, or paper used to hold or store things",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "a data structure that stores and organizes data in a hierarchical manner",
+      "context": "computing domain",
+      "meaning": "a self-contained unit of executable code and data that can be run independently",
       "added": "accumulated",
       "source": "llm"
     }

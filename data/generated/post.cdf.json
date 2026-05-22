@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "philosophy",
-      "meaning": "a position or stance taken in a debate or discussion",
+      "context": "communication and media",
+      "meaning": "to publish or make publicly available on a platform such as social media, forums, or blogs",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "internet and social media",
-      "meaning": "an online message, typically in the form of a comment or update",
+      "context": "biology and ecology",
+      "meaning": "a structure used by plants to support their stems and leaves above the ground",
       "added": "accumulated",
       "source": "llm"
     }

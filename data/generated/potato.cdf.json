@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "botany",
-      "meaning": "a starchy root vegetable that is a type of tuber.",
+      "context": "food and agriculture",
+      "meaning": "a starchy root vegetable often eaten cooked or raw",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Astronomy",
-      "meaning": "the name of a small, irregular moon of Saturn.",
+      "context": "astronomy and space exploration",
+      "meaning": "a term used to describe the shape of some galaxies, resembling a potato",
       "added": "accumulated",
       "source": "llm"
     }

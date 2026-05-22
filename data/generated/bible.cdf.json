@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Christianity and Judaism",
-      "meaning": "a sacred book revered by Christians and Jews, containing stories, teachings, and prophecies",
+      "context": "religion",
+      "meaning": "a sacred book containing the fundamental principles and stories of a faith or religion",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "reference work",
-      "meaning": "an authoritative source of information on a wide range of topics, often used as a reference",
+      "context": "literary term",
+      "meaning": "the most important or influential book in a particular genre, era, or movement",
       "added": "accumulated",
       "source": "llm"
     }

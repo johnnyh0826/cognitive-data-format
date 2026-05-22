@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Architecture and Construction",
-      "meaning": "a movable structure that opens to allow entry or exit from a building, room, or vehicle",
+      "context": "architecture and construction",
+      "meaning": "a movable barrier that opens or closes to allow entry or exit from a building, room, or vehicle",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Music",
-      "meaning": "the opening or closing of a musical piece, often marked by a dramatic change in tempo or mood",
+      "context": "physics and engineering",
+      "meaning": "the threshold of a system or device that marks the transition from one state to another, such as a door in a circuit breaker",
       "added": "accumulated",
       "source": "llm"
     }

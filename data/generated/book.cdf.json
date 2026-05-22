@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "General Lexicon",
-      "meaning": "A written or printed work consisting of pages glued or sewn together",
+      "context": "literary domain",
+      "meaning": "a written or printed work consisting of pages glued or sewn together",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Library Science",
-      "meaning": "A collection of sheets bound together, typically with a cover and spine",
+      "context": "accounting domain",
+      "meaning": "an accounting record or ledger entry, especially one recording a financial transaction",
       "added": "accumulated",
       "source": "llm"
     }

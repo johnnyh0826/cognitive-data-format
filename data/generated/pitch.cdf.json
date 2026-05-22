@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music",
-      "meaning": "a short, sharp sound or a musical phrase",
+      "context": "sports",
+      "meaning": "to throw or propel a ball, disc, or other object in a specific way",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "baseball",
-      "meaning": "the act of throwing the ball to the batter",
+      "context": "business and marketing",
+      "meaning": "a persuasive presentation to sell an idea, product, or service",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,36 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Finance",
-      "meaning": "a financial institution that provides banking services",
+      "context": "finance",
+      "meaning": "a financial institution that provides banking services to customers.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Geography",
-      "meaning": "the side of a river or lake",
+      "context": "geography",
+      "meaning": "the edge of a river or lake, especially one with a flat or sloping surface.",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "03",
+      "context": "aviation",
+      "meaning": "to tilt an aircraft to change its direction or attitude.",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "04",
+      "context": "healthcare",
+      "meaning": "a facility that collects and distributes blood for transfusions.",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "to hit a ball, especially in pool or billiards, so that it goes into a pocket or off the table.",
       "added": "accumulated",
       "source": "llm"
     }

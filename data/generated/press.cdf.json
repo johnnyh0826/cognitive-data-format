@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Printing and Publishing",
-      "meaning": "to apply pressure to an object, typically using a machine or tool",
+      "context": "journalism and publishing",
+      "meaning": "to exert force or pressure to get something done, often in a political or social context",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Journalism and Media",
-      "meaning": "to gather and disseminate information through written articles, photographs, or other forms of media",
+      "context": "photography and printing",
+      "meaning": "to apply physical force or weight to an object, such as pressing the shutter button on a camera or applying pressure to an ink plate in printing",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "furniture",
-      "meaning": "a piece of furniture for sitting or reclining",
+      "context": "Furniture",
+      "meaning": "A piece of furniture for sitting or reclining, typically having a back and arms.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "sports",
-      "meaning": "to score a goal in a game by pushing the ball into the opponent's net, as in soccer",
+      "context": "Sailing",
+      "meaning": "The upper deck or platform on the side of a ship where sailors can sit or stand while underway.",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Philosophy",
-      "meaning": "a fundamental and universal human emotion, often accompanied by anxiety or apprehension.",
+      "context": "psychology and emotion",
+      "meaning": "an unpleasant emotional response to a perceived threat or danger.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Psychology",
-      "meaning": "an emotional response to a perceived threat or danger, characterized by increased heart rate and blood pressure.",
+      "context": "philosophy and ethics",
+      "meaning": "a feeling of anxiety or apprehension about the unknown, death, or the consequences of one's actions.",
       "added": "accumulated",
       "source": "llm"
     }

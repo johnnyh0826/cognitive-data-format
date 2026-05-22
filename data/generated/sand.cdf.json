@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Geology",
-      "meaning": "small particles of rock or mineral fragments",
+      "context": "geology",
+      "meaning": "a granular material formed from the weathering of rocks.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Construction",
-      "meaning": "a mixture of small particles and cement used as a building material",
+      "context": "beach life",
+      "meaning": "a substance used for recreational activities, such as building castles or making sculptures.",
       "added": "accumulated",
       "source": "llm"
     }

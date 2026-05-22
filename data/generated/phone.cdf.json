@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication technology",
-      "meaning": "a device used for communication through voice or text messages, emails, and phone calls",
+      "context": "technology",
+      "meaning": "a portable electronic device used for communication and other purposes",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "medical equipment",
-      "meaning": "an instrument used to measure the electrical activity of the heart, also known as an electrocardiogram (ECG)",
+      "context": "law enforcement",
+      "meaning": "a device used by authorities to communicate with each other or the public during emergencies",
       "added": "accumulated",
       "source": "llm"
     }

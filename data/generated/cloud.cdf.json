@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Meteorology",
-      "meaning": "a visible mass of water droplets or ice crystals suspended in the air",
+      "context": "meteorology",
+      "meaning": "a visible mass of water droplets suspended in the air, typically white and puffy.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Computer Science",
-      "meaning": "a distributed computing platform providing scalable and on-demand access to a shared pool of configurable computing resources",
+      "context": "computing",
+      "meaning": "a remote storage system that provides on-demand access to a shared pool of configurable computing resources (e.g., servers, applications).",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "seasonal",
-      "meaning": "the period of the year when leaves turn color and temperatures drop",
+      "context": "seasonal domain",
+      "meaning": "to change from a higher to a lower position or state, especially in autumn.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "physics",
-      "meaning": "an object's descent from a higher to a lower position under the influence of gravity",
+      "context": "geological domain",
+      "meaning": "a sudden and rapid decrease in the level of a lake or sea due to tectonic activity.",
       "added": "accumulated",
       "source": "llm"
     }

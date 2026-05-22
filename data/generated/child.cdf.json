@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Biology",
-      "meaning": "a human being between birth and puberty",
+      "context": "biology/medicine",
+      "meaning": "a human being in the early stages of development from birth to puberty.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Law",
-      "meaning": "a person under the age of 18, lacking legal capacity",
+      "context": "law/legislation",
+      "meaning": "a person under a certain age, typically 18, who is not considered legally responsible or competent.",
       "added": "accumulated",
       "source": "llm"
     }

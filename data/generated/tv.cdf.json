@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Technology",
-      "meaning": "A type of electronic device for receiving and displaying video and audio signals.",
+      "context": "technology",
+      "meaning": "a device for receiving and displaying video and audio signals, typically used for entertainment or information purposes.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Cinema and Theater",
-      "meaning": "The television industry, including production, broadcasting, and reception of TV shows and movies.",
+      "context": "broadcasting",
+      "meaning": "a medium for transmitting television programs to a wide audience, often with commercial breaks and advertising.",
       "added": "accumulated",
       "source": "llm"
     }

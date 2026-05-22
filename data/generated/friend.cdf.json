@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "General Language",
-      "meaning": "a person who is a close and trusted companion, often with shared interests or experiences.",
+      "context": "social relationships",
+      "meaning": "a person with whom one has a strong bond of affection, trust, and loyalty.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Business and Networking",
-      "meaning": "an individual with whom one has a professional relationship, often for mutual benefit or collaboration.",
+      "context": "business and commerce",
+      "meaning": "a person or organization that collaborates or partners with another to achieve a common goal.",
       "added": "accumulated",
       "source": "llm"
     }

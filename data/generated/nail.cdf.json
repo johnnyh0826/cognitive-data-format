@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "construction and DIY",
-      "meaning": "a small, thin piece of metal used to fasten things together",
+      "meaning": "a small metal fastener used to hold things together",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "anatomy and medicine",
-      "meaning": "the horny or keratinized plate at the end of a finger or toe",
+      "context": "medicine and healthcare",
+      "meaning": "a thin, pointed piece of metal or plastic used for piercing the skin to administer medication or take blood samples",
       "added": "accumulated",
       "source": "llm"
     }

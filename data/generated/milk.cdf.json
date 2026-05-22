@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "food and nutrition",
-      "meaning": "a liquid produced by mammary glands of female mammals for their young, used as a food source in humans",
+      "meaning": "a liquid produced by mammary glands of female mammals, used as a nutritious beverage or ingredient in cooking.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "chemistry and biology",
-      "meaning": "a type of fluid secreted by mammary glands in female mammals, composed of water, carbohydrates, proteins, fats, vitamins, and minerals",
+      "context": "science and technology",
+      "meaning": "the fatty substance secreted by the mammary glands of female mammals to nourish their young, used in various industrial processes.",
       "added": "accumulated",
       "source": "llm"
     }

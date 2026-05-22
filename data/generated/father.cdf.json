@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Biblical and religious contexts",
-      "meaning": "the male parent in a family, often seen as a spiritual leader",
+      "context": "biology and genetics",
+      "meaning": "the male parent of an individual",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Psychological and therapeutic contexts",
-      "meaning": "a symbol of authority, protection, and guidance in a child's life",
+      "context": "Christianity",
+      "meaning": "a term used to refer to God in some Christian traditions",
       "added": "accumulated",
       "source": "llm"
     }

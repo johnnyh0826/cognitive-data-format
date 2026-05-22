@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "food and beverage",
-      "meaning": "a hot or cold beverage made from the leaves of the Camellia sinensis plant",
+      "context": "Beverage and Food",
+      "meaning": "A hot or cold drink made from the leaves of the Camellia sinensis plant, often flavored with herbs, spices, or other ingredients.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "culture and tradition",
-      "meaning": "a ritualistic ceremony, often with a calming or meditative purpose, typically involving the preparation and consumption of tea",
+      "context": "Chinese Culture and Tradition",
+      "meaning": "A ceremonial ritual in which tea is prepared and served to honor guests, often accompanied by meditation, conversation, or other cultural practices.",
       "added": "accumulated",
       "source": "llm"
     }

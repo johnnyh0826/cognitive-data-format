@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "a compound that enhances flavor and preserves food by reducing bacterial growth",
+      "context": "chemistry and food",
+      "meaning": "a crystalline mineral composed of sodium chloride, used as a seasoning and preservative.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "religion",
-      "meaning": "a symbol of purification, used in Christian baptismal rites to represent spiritual cleansing",
+      "context": "geology and mining",
+      "meaning": "a type of sedimentary rock formed from the evaporation of seawater or the concentration of salt in solution.",
       "added": "accumulated",
       "source": "llm"
     }

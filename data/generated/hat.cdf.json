@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "fashion and clothing",
-      "meaning": "a head covering worn for warmth, protection, or as a fashion statement",
+      "context": "headgear",
+      "meaning": "a covering for the head, typically worn for warmth, protection, or as a fashion statement",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "theater and performance",
-      "meaning": "a prop worn by an actor to represent a character's occupation or status",
+      "context": "astronomy",
+      "meaning": "the hat-shaped cloud formation that appears as a distinctive shape in the sky",
       "added": "accumulated",
       "source": "llm"
     }

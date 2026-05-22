@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "food and cuisine",
-      "meaning": "a type of staple food made from the grains of Oryza sativa, often served as a side dish or used in various dishes.",
+      "meaning": "a type of staple food made from the grains of Oryza sativa, often served cooked or processed in various forms",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "biology and agriculture",
-      "meaning": "the edible seeds of the rice plant, cultivated as a crop for human consumption and animal feed.",
+      "context": "Japanese culture and martial arts",
+      "meaning": "a traditional Japanese art that focuses on the use of empty-handed techniques to defeat an opponent, often practiced in a dojang or dojo",
       "added": "accumulated",
       "source": "llm"
     }

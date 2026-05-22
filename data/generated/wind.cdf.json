@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Meteorology",
-      "meaning": "air moving in a natural way, especially in the atmosphere",
+      "context": "meteorology",
+      "meaning": "natural air movement, especially in the atmosphere",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Nautical",
-      "meaning": "the direction from which the wind is coming",
+      "context": "nautical",
+      "meaning": "the direction from which a ship or boat is being blown by the wind",
       "added": "accumulated",
       "source": "llm"
     }

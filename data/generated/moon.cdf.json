@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Astronomy",
-      "meaning": "the natural satellite of Earth, orbiting it every 27.3 days",
+      "context": "astronomy",
+      "meaning": "the natural satellite of Earth, orbiting our planet.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Folklore and Mythology",
-      "meaning": "a symbol of femininity, mystery, and intuition in many cultures",
+      "context": "culture and symbolism",
+      "meaning": "a symbol of femininity, intuition, and the subconscious in various mythologies and spiritual traditions.",
       "added": "accumulated",
       "source": "llm"
     }

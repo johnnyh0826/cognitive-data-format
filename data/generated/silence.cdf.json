@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Acoustics and Physics",
-      "meaning": "the absence of sound or audible noise",
+      "context": "music and sound art",
+      "meaning": "the absence of audible sound, often used to create a dramatic effect or emphasize a moment",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "Philosophy and Ethics",
-      "meaning": "a deliberate choice to refrain from speaking, often used in debates or protests",
+      "context": "philosophy and psychology",
+      "meaning": "a state of quiet contemplation or introspection, often used to describe a mental or emotional stillness",
       "added": "accumulated",
       "source": "llm"
     }

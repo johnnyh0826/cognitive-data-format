@@ -4,14 +4,14 @@
     {
       "id": "01",
       "context": "architecture and engineering",
-      "meaning": "a barrier or entrance to a place, typically consisting of two vertical posts with a horizontal beam across the top.",
+      "meaning": "a portal or entrance to a building, city, or enclosed area.",
       "added": "first",
       "source": "llm"
     },
     {
       "id": "02",
-      "context": "technology and computing",
-      "meaning": "an electronic device that controls access to a network or system, often used for security purposes.",
+      "context": "computer science and networking",
+      "meaning": "a logical point of entry or exit in computer networks or protocols.",
       "added": "accumulated",
       "source": "llm"
     }
