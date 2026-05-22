@@ -1,0 +1,1129 @@
+{
+  "timestamp": "2026-05-22T20:02:32.910338Z",
+  "model_raw": "claude-sonnet-4-6",
+  "model_cdf": "claude-haiku-4-5-20251001",
+  "total_cases": 50,
+  "valid_cases": 50,
+  "condition_a": {
+    "accuracy": 1.0,
+    "avg_confidence": 0.9872000000000001,
+    "avg_time": 2.392,
+    "avg_tokens_in": 104.7,
+    "avg_tokens_out": 39.02,
+    "avg_cost_usd": 0.0008993999999999997
+  },
+  "condition_b": {
+    "accuracy": 0.96,
+    "avg_confidence": 0.9363999999999995,
+    "avg_time": 1.4660000000000002,
+    "avg_tokens_in": 462.54,
+    "avg_tokens_out": 50.18,
+    "avg_cost_usd": 0.000570752
+  },
+  "accuracy_improvement_pct": -4.0,
+  "confidence_improvement_pct": -5.1,
+  "token_efficiency_gain_pct": -256.7,
+  "cost_saving_pct": 36.5,
+  "results": [
+    {
+      "sentence": "I need to visit the bank before it closes at 5pm",
+      "word": "bank",
+      "correct_context": "finance",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.8,
+        "tokens_in": 108,
+        "tokens_out": 34,
+        "cost_usd": 0.000834
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 0.7,
+        "tokens_in": 387,
+        "tokens_out": 43,
+        "cost_usd": 0.0004816
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The fisherman sat on the bank watching his line",
+      "word": "bank",
+      "correct_context": "geography",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.7,
+        "tokens_in": 105,
+        "tokens_out": 43,
+        "cost_usd": 0.00096
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 0.8,
+        "tokens_in": 384,
+        "tokens_out": 49,
+        "cost_usd": 0.0005032000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The spring snapped under the weight of the machine",
+      "word": "spring",
+      "correct_context": "mechanics",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.7,
+        "tokens_in": 105,
+        "tokens_out": 41,
+        "cost_usd": 0.00093
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.1,
+        "tokens_in": 376,
+        "tokens_out": 50,
+        "cost_usd": 0.0005008
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "We went hiking when spring arrived and the flowers bloomed",
+      "word": "spring",
+      "correct_context": "seasons",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.8,
+        "tokens_in": 106,
+        "tokens_out": 41,
+        "cost_usd": 0.000933
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.4,
+        "tokens_in": 377,
+        "tokens_out": 51,
+        "cost_usd": 0.0005056
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "Fresh water bubbled up from the spring in the hillside",
+      "word": "spring",
+      "correct_context": "hydrology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.3,
+        "tokens_in": 107,
+        "tokens_out": 38,
+        "cost_usd": 0.000891
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 378,
+        "tokens_out": 44,
+        "cost_usd": 0.00047840000000000003
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The sales team prepared a pitch for the new investors",
+      "word": "pitch",
+      "correct_context": "sales",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 3.3,
+        "tokens_in": 105,
+        "tokens_out": 41,
+        "cost_usd": 0.00093
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.0,
+        "tokens_in": 668,
+        "tokens_out": 51,
+        "cost_usd": 0.0007384
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The musician adjusted the pitch before the performance",
+      "word": "pitch",
+      "correct_context": "music",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.4,
+        "tokens_in": 103,
+        "tokens_out": 48,
+        "cost_usd": 0.001029
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.9,
+        "tokens_in": 666,
+        "tokens_out": 58,
+        "cost_usd": 0.0007648
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The players warmed up on the pitch before kickoff",
+      "word": "pitch",
+      "correct_context": "sports",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 4.1,
+        "tokens_in": 106,
+        "tokens_out": 38,
+        "cost_usd": 0.000888
+      },
+      "condition_b": {
+        "correct": false,
+        "confidence": 0.0,
+        "time": 2.3,
+        "tokens_in": 669,
+        "tokens_out": 210,
+        "cost_usd": 0.0013752
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The detective followed every lead in the case",
+      "word": "lead",
+      "correct_context": "investigation",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.6,
+        "tokens_in": 103,
+        "tokens_out": 37,
+        "cost_usd": 0.000864
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.3,
+        "tokens_in": 556,
+        "tokens_out": 49,
+        "cost_usd": 0.0006408
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The pipes were made of lead and needed replacing",
+      "word": "lead",
+      "correct_context": "chemistry",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.8,
+        "tokens_in": 104,
+        "tokens_out": 43,
+        "cost_usd": 0.000957
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 557,
+        "tokens_out": 52,
+        "cost_usd": 0.0006536000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She took the lead role in the school play",
+      "word": "lead",
+      "correct_context": "performance",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 104,
+        "tokens_out": 31,
+        "cost_usd": 0.000777
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 557,
+        "tokens_out": 44,
+        "cost_usd": 0.0006216
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The dog let out a sharp bark at the stranger",
+      "word": "bark",
+      "correct_context": "animal",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 105,
+        "tokens_out": 35,
+        "cost_usd": 0.00084
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 354,
+        "tokens_out": 44,
+        "cost_usd": 0.0004592
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The bark of the oak tree was rough and deeply grooved",
+      "word": "bark",
+      "correct_context": "botany",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.5,
+        "tokens_in": 107,
+        "tokens_out": 38,
+        "cost_usd": 0.000891
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.0,
+        "tokens_in": 356,
+        "tokens_out": 45,
+        "cost_usd": 0.0004648
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She struck a match to light the candle",
+      "word": "match",
+      "correct_context": "fire",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.8,
+        "tokens_in": 104,
+        "tokens_out": 40,
+        "cost_usd": 0.000912
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.0,
+        "tokens_in": 361,
+        "tokens_out": 48,
+        "cost_usd": 0.00048080000000000003
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The two teams played a match that lasted three hours",
+      "word": "match",
+      "correct_context": "sports",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 105,
+        "tokens_out": 34,
+        "cost_usd": 0.000825
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.7,
+        "tokens_in": 362,
+        "tokens_out": 43,
+        "cost_usd": 0.0004616
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The colours don't match \u2014 try a different shade",
+      "word": "match",
+      "correct_context": "similarity",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.2,
+        "tokens_in": 105,
+        "tokens_out": 38,
+        "cost_usd": 0.000885
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.89,
+        "time": 1.8,
+        "tokens_in": 362,
+        "tokens_out": 47,
+        "cost_usd": 0.0004776
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The children splashed in the pool all afternoon",
+      "word": "pool",
+      "correct_context": "swimming",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.0,
+        "tokens_in": 104,
+        "tokens_out": 41,
+        "cost_usd": 0.000927
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.8,
+        "tokens_in": 454,
+        "tokens_out": 42,
+        "cost_usd": 0.0005312
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The company set up a car pool to reduce commuting costs",
+      "word": "pool",
+      "correct_context": "transport",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.9,
+        "tokens_in": 107,
+        "tokens_out": 43,
+        "cost_usd": 0.000966
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 457,
+        "tokens_out": 48,
+        "cost_usd": 0.0005576
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He sank the eight ball in the corner pocket playing pool",
+      "word": "pool",
+      "correct_context": "billiards",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 3.0,
+        "tokens_in": 107,
+        "tokens_out": 47,
+        "cost_usd": 0.001026
+      },
+      "condition_b": {
+        "correct": false,
+        "confidence": 0.02,
+        "time": 1.9,
+        "tokens_in": 457,
+        "tokens_out": 47,
+        "cost_usd": 0.0005536
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The workers went on strike demanding better pay",
+      "word": "strike",
+      "correct_context": "labour",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.6,
+        "tokens_in": 103,
+        "tokens_out": 42,
+        "cost_usd": 0.000939
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 0.8,
+        "tokens_in": 527,
+        "tokens_out": 46,
+        "cost_usd": 0.0006056
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He knocked down all ten pins for a strike",
+      "word": "strike",
+      "correct_context": "bowling",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 104,
+        "tokens_out": 39,
+        "cost_usd": 0.000897
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 528,
+        "tokens_out": 46,
+        "cost_usd": 0.0006064000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The press reported on the election results",
+      "word": "press",
+      "correct_context": "media",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.9,
+        "tokens_in": 102,
+        "tokens_out": 39,
+        "cost_usd": 0.000891
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 509,
+        "tokens_out": 46,
+        "cost_usd": 0.0005912000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She used the press to extract olive oil from the harvest",
+      "word": "press",
+      "correct_context": "mechanics",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.8,
+        "tokens_in": 106,
+        "tokens_out": 44,
+        "cost_usd": 0.000978
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.9,
+        "tokens_in": 513,
+        "tokens_out": 48,
+        "cost_usd": 0.0006024000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He sent his suit to be dry cleaned and pressed",
+      "word": "press",
+      "correct_context": "clothing",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.4,
+        "tokens_in": 105,
+        "tokens_out": 40,
+        "cost_usd": 0.000915
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.96,
+        "time": 3.5,
+        "tokens_in": 512,
+        "tokens_out": 42,
+        "cost_usd": 0.0005776
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The batter swung the bat and hit a home run",
+      "word": "bat",
+      "correct_context": "sports",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.1,
+        "tokens_in": 107,
+        "tokens_out": 35,
+        "cost_usd": 0.000846
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.0,
+        "tokens_in": 375,
+        "tokens_out": 52,
+        "cost_usd": 0.000508
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "A bat flew out of the cave at dusk",
+      "word": "bat",
+      "correct_context": "animal",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.5,
+        "tokens_in": 105,
+        "tokens_out": 43,
+        "cost_usd": 0.00096
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 373,
+        "tokens_out": 54,
+        "cost_usd": 0.0005144000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The board of directors met to discuss quarterly results",
+      "word": "board",
+      "correct_context": "governance",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.3,
+        "tokens_in": 104,
+        "tokens_out": 40,
+        "cost_usd": 0.000912
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 505,
+        "tokens_out": 53,
+        "cost_usd": 0.000616
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "Passengers began to board the aircraft",
+      "word": "board",
+      "correct_context": "transport",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.7,
+        "tokens_in": 102,
+        "tokens_out": 39,
+        "cost_usd": 0.000891
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.6,
+        "tokens_in": 503,
+        "tokens_out": 49,
+        "cost_usd": 0.0005984000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The couple had a terrible row about money",
+      "word": "row",
+      "correct_context": "conflict",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 7.6,
+        "tokens_in": 103,
+        "tokens_out": 33,
+        "cost_usd": 0.000804
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 410,
+        "tokens_out": 40,
+        "cost_usd": 0.000488
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "They rowed the boat across the lake at sunrise",
+      "word": "row",
+      "correct_context": "transport",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.6,
+        "tokens_in": 105,
+        "tokens_out": 33,
+        "cost_usd": 0.00081
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.1,
+        "tokens_in": 412,
+        "tokens_out": 47,
+        "cost_usd": 0.0005176
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She submitted the tax file before the deadline",
+      "word": "file",
+      "correct_context": "document",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.1,
+        "tokens_in": 103,
+        "tokens_out": 43,
+        "cost_usd": 0.000954
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.85,
+        "time": 1.0,
+        "tokens_in": 390,
+        "tokens_out": 47,
+        "cost_usd": 0.0005
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He used a file to smooth the rough metal edge",
+      "word": "file",
+      "correct_context": "tools",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.6,
+        "tokens_in": 105,
+        "tokens_out": 49,
+        "cost_usd": 0.00105
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 392,
+        "tokens_out": 53,
+        "cost_usd": 0.0005256
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The current carried the boat downstream rapidly",
+      "word": "current",
+      "correct_context": "hydrology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.5,
+        "tokens_in": 102,
+        "tokens_out": 40,
+        "cost_usd": 0.000906
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 310,
+        "tokens_out": 48,
+        "cost_usd": 0.00044
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The electrician checked the current in the wire",
+      "word": "current",
+      "correct_context": "electricity",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.1,
+        "tokens_in": 104,
+        "tokens_out": 35,
+        "cost_usd": 0.000837
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.8,
+        "tokens_in": 312,
+        "tokens_out": 47,
+        "cost_usd": 0.0004376
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She weighed the ingredients on a kitchen scale",
+      "word": "scale",
+      "correct_context": "measurement",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.5,
+        "tokens_in": 104,
+        "tokens_out": 46,
+        "cost_usd": 0.001002
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.2,
+        "tokens_in": 596,
+        "tokens_out": 43,
+        "cost_usd": 0.0006487999999999999
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The musician practiced scales for an hour each morning",
+      "word": "scale",
+      "correct_context": "music",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.0,
+        "tokens_in": 104,
+        "tokens_out": 42,
+        "cost_usd": 0.000942
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.0,
+        "tokens_in": 596,
+        "tokens_out": 47,
+        "cost_usd": 0.0006648
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He submitted the first draft of the report for review",
+      "word": "draft",
+      "correct_context": "writing",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 105,
+        "tokens_out": 37,
+        "cost_usd": 0.00087
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 479,
+        "tokens_out": 51,
+        "cost_usd": 0.0005872000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The young men received their draft notice in the mail",
+      "word": "draft",
+      "correct_context": "military",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.6,
+        "tokens_in": 105,
+        "tokens_out": 36,
+        "cost_usd": 0.000855
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.2,
+        "tokens_in": 479,
+        "tokens_out": 45,
+        "cost_usd": 0.0005632
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "A cold draft blew in through the gap under the door",
+      "word": "draft",
+      "correct_context": "weather",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.1,
+        "tokens_in": 107,
+        "tokens_out": 39,
+        "cost_usd": 0.000906
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 481,
+        "tokens_out": 44,
+        "cost_usd": 0.0005608
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She received a parking fine for overstaying the limit",
+      "word": "fine",
+      "correct_context": "penalty",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 106,
+        "tokens_out": 39,
+        "cost_usd": 0.000903
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.0,
+        "tokens_in": 408,
+        "tokens_out": 46,
+        "cost_usd": 0.0005104
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The craftsmanship was of the finest quality",
+      "word": "fine",
+      "correct_context": "quality",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.9,
+        "tokens_in": 105,
+        "tokens_out": 33,
+        "cost_usd": 0.00081
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 407,
+        "tokens_out": 44,
+        "cost_usd": 0.0005016
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "It was a fine sunny day with no clouds",
+      "word": "fine",
+      "correct_context": "weather",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 104,
+        "tokens_out": 33,
+        "cost_usd": 0.000807
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.4,
+        "tokens_in": 406,
+        "tokens_out": 41,
+        "cost_usd": 0.0004888000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The tyre went flat halfway through the journey",
+      "word": "flat",
+      "correct_context": "mechanics",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 6.7,
+        "tokens_in": 104,
+        "tokens_out": 43,
+        "cost_usd": 0.000957
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.9,
+        "tokens_in": 537,
+        "tokens_out": 48,
+        "cost_usd": 0.0006216
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She rented a flat in the city centre",
+      "word": "flat",
+      "correct_context": "accommodation",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.5,
+        "tokens_in": 104,
+        "tokens_out": 36,
+        "cost_usd": 0.000852
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.6,
+        "tokens_in": 537,
+        "tokens_out": 35,
+        "cost_usd": 0.0005696000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The musician played a note that was slightly flat",
+      "word": "flat",
+      "correct_context": "music",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 104,
+        "tokens_out": 37,
+        "cost_usd": 0.000867
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.1,
+        "tokens_in": 537,
+        "tokens_out": 56,
+        "cost_usd": 0.0006536000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She planted seeds in a long straight row in the garden",
+      "word": "row",
+      "correct_context": "arrangement",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.9,
+        "tokens_in": 106,
+        "tokens_out": 38,
+        "cost_usd": 0.000888
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.1,
+        "tokens_in": 413,
+        "tokens_out": 47,
+        "cost_usd": 0.0005184000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He cut the wood using a long flat board",
+      "word": "board",
+      "correct_context": "material",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.6,
+        "tokens_in": 104,
+        "tokens_out": 42,
+        "cost_usd": 0.000942
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.7,
+        "tokens_in": 505,
+        "tokens_out": 43,
+        "cost_usd": 0.000576
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The map was drawn to a scale of one to fifty thousand",
+      "word": "scale",
+      "correct_context": "geography",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.5,
+        "tokens_in": 107,
+        "tokens_out": 41,
+        "cost_usd": 0.000936
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.2,
+        "tokens_in": 599,
+        "tokens_out": 48,
+        "cost_usd": 0.0006712
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "What is the current status of the project?",
+      "word": "current",
+      "correct_context": "time",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 103,
+        "tokens_out": 33,
+        "cost_usd": 0.000804
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.8,
+        "tokens_in": 311,
+        "tokens_out": 42,
+        "cost_usd": 0.0004168
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The strike hit the target precisely at dawn",
+      "word": "strike",
+      "correct_context": "military",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.95,
+        "time": 2.3,
+        "tokens_in": 103,
+        "tokens_out": 31,
+        "cost_usd": 0.000774
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.9,
+        "tokens_in": 527,
+        "tokens_out": 46,
+        "cost_usd": 0.0006056
+      },
+      "cdf_available": true
+    }
+  ]
+}

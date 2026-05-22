@@ -1,0 +1,1613 @@
+{
+  "timestamp": "2026-05-22T20:55:07.594828Z",
+  "model_raw": "claude-sonnet-4-6",
+  "model_cdf": "claude-haiku-4-5-20251001",
+  "total_cases": 72,
+  "valid_cases": 72,
+  "condition_a": {
+    "accuracy": 1.0,
+    "avg_confidence": 0.9809722222222219,
+    "avg_time": 2.3194444444444438,
+    "avg_tokens_in": 104.40277777777777,
+    "avg_tokens_out": 38.56944444444444,
+    "avg_cost_usd": 0.00089175
+  },
+  "condition_b": {
+    "accuracy": 0.9722222222222222,
+    "avg_confidence": 0.9620833333333331,
+    "avg_time": 1.5638888888888887,
+    "avg_tokens_in": 451.7361111111111,
+    "avg_tokens_out": 46.875,
+    "avg_cost_usd": 0.0005488888888888888
+  },
+  "accuracy_improvement_pct": -2.8,
+  "confidence_improvement_pct": -1.9,
+  "token_efficiency_gain_pct": -248.7,
+  "cost_saving_pct": 38.4,
+  "results": [
+    {
+      "sentence": "She gave a wave as the train pulled out of the station",
+      "word": "wave",
+      "correct_context": "communication",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.5,
+        "tokens_in": 107,
+        "tokens_out": 42,
+        "cost_usd": 0.000951
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.2,
+        "tokens_in": 509,
+        "tokens_out": 51,
+        "cost_usd": 0.0006112
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The surfer caught a massive wave near the reef",
+      "word": "wave",
+      "correct_context": "hydrology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 4.3,
+        "tokens_in": 105,
+        "tokens_out": 49,
+        "cost_usd": 0.00105
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 507,
+        "tokens_out": 55,
+        "cost_usd": 0.0006256
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "A new wave of technology is transforming the industry",
+      "word": "wave",
+      "correct_context": "informal",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.5,
+        "tokens_in": 105,
+        "tokens_out": 36,
+        "cost_usd": 0.000855
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.96,
+        "time": 0.7,
+        "tokens_in": 507,
+        "tokens_out": 49,
+        "cost_usd": 0.0006016
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She left a generous tip for the waiter",
+      "word": "tip",
+      "correct_context": "finance",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.4,
+        "tokens_in": 104,
+        "tokens_out": 45,
+        "cost_usd": 0.000987
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 435,
+        "tokens_out": 51,
+        "cost_usd": 0.000552
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He balanced carefully on the tip of the diving board",
+      "word": "tip",
+      "correct_context": "anatomy",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.3,
+        "tokens_in": 105,
+        "tokens_out": 34,
+        "cost_usd": 0.000825
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 0.9,
+        "tokens_in": 436,
+        "tokens_out": 48,
+        "cost_usd": 0.0005407999999999999
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The police received a tip about the suspect location",
+      "word": "tip",
+      "correct_context": "law",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.8,
+        "tokens_in": 104,
+        "tokens_out": 40,
+        "cost_usd": 0.000912
+      },
+      "condition_b": {
+        "correct": false,
+        "confidence": 0.92,
+        "time": 1.6,
+        "tokens_in": 435,
+        "tokens_out": 46,
+        "cost_usd": 0.000532
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The athlete ran the fastest time on the track",
+      "word": "track",
+      "correct_context": "sports",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.8,
+        "tokens_in": 104,
+        "tokens_out": 39,
+        "cost_usd": 0.000897
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.8,
+        "tokens_in": 512,
+        "tokens_out": 41,
+        "cost_usd": 0.0005736000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She downloaded the title track from the new album",
+      "word": "track",
+      "correct_context": "music",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.7,
+        "tokens_in": 104,
+        "tokens_out": 34,
+        "cost_usd": 0.000822
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.7,
+        "tokens_in": 512,
+        "tokens_out": 43,
+        "cost_usd": 0.0005816
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The detective tried to track down the missing witness",
+      "word": "track",
+      "correct_context": "investigation",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.4,
+        "tokens_in": 104,
+        "tokens_out": 37,
+        "cost_usd": 0.000867
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 2.2,
+        "tokens_in": 512,
+        "tokens_out": 44,
+        "cost_usd": 0.0005856
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She caught the early morning train to the city",
+      "word": "train",
+      "correct_context": "transport",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.0,
+        "tokens_in": 104,
+        "tokens_out": 45,
+        "cost_usd": 0.000987
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 346,
+        "tokens_out": 50,
+        "cost_usd": 0.0004768
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The coach began to train the team for the championship",
+      "word": "train",
+      "correct_context": "sports",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.3,
+        "tokens_in": 105,
+        "tokens_out": 44,
+        "cost_usd": 0.000975
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.5,
+        "tokens_in": 347,
+        "tokens_out": 50,
+        "cost_usd": 0.0004776
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "A long train of thought led him to the answer",
+      "word": "train",
+      "correct_context": "psychology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.5,
+        "tokens_in": 105,
+        "tokens_out": 41,
+        "cost_usd": 0.00093
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 347,
+        "tokens_out": 48,
+        "cost_usd": 0.00046960000000000003
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "It was her turn to present the quarterly results",
+      "word": "turn",
+      "correct_context": "general",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.7,
+        "tokens_in": 104,
+        "tokens_out": 38,
+        "cost_usd": 0.000882
+      },
+      "condition_b": {
+        "correct": false,
+        "confidence": 0.92,
+        "time": 1.5,
+        "tokens_in": 641,
+        "tokens_out": 49,
+        "cost_usd": 0.0007088000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The car made a sharp turn at the junction",
+      "word": "turn",
+      "correct_context": "movement",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.6,
+        "tokens_in": 104,
+        "tokens_out": 40,
+        "cost_usd": 0.000912
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.5,
+        "tokens_in": 641,
+        "tokens_out": 46,
+        "cost_usd": 0.0006968
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The century turn brought major technological changes",
+      "word": "turn",
+      "correct_context": "time",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.5,
+        "tokens_in": 102,
+        "tokens_out": 48,
+        "cost_usd": 0.001026
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.3,
+        "tokens_in": 639,
+        "tokens_out": 53,
+        "cost_usd": 0.0007232
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She began to type the report on her laptop",
+      "word": "type",
+      "correct_context": "computing",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.6,
+        "tokens_in": 104,
+        "tokens_out": 34,
+        "cost_usd": 0.000822
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.4,
+        "tokens_in": 472,
+        "tokens_out": 42,
+        "cost_usd": 0.0005456
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He had a rare blood type that complicated the surgery",
+      "word": "type",
+      "correct_context": "medicine",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.0,
+        "tokens_in": 105,
+        "tokens_out": 42,
+        "cost_usd": 0.000945
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.7,
+        "tokens_in": 473,
+        "tokens_out": 54,
+        "cost_usd": 0.0005944000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "What type of music do you prefer for studying",
+      "word": "type",
+      "correct_context": "general",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 4.4,
+        "tokens_in": 104,
+        "tokens_out": 31,
+        "cost_usd": 0.000777
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 3.5,
+        "tokens_in": 472,
+        "tokens_out": 46,
+        "cost_usd": 0.0005616
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She turned up the volume on the radio",
+      "word": "volume",
+      "correct_context": "sound",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.8,
+        "tokens_in": 103,
+        "tokens_out": 39,
+        "cost_usd": 0.000894
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.8,
+        "tokens_in": 464,
+        "tokens_out": 36,
+        "cost_usd": 0.0005152000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The library holds a volume of rare manuscripts",
+      "word": "volume",
+      "correct_context": "publishing",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.7,
+        "tokens_in": 103,
+        "tokens_out": 44,
+        "cost_usd": 0.000969
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 3.3,
+        "tokens_in": 464,
+        "tokens_out": 47,
+        "cost_usd": 0.0005592
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The volume of water in the reservoir was critically low",
+      "word": "volume",
+      "correct_context": "measurement",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.3,
+        "tokens_in": 105,
+        "tokens_out": 40,
+        "cost_usd": 0.000915
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.1,
+        "tokens_in": 466,
+        "tokens_out": 46,
+        "cost_usd": 0.0005568
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She felt perfectly well after a night of rest",
+      "word": "well",
+      "correct_context": "health",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.3,
+        "tokens_in": 104,
+        "tokens_out": 33,
+        "cost_usd": 0.000807
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 410,
+        "tokens_out": 43,
+        "cost_usd": 0.0005
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The village drew water from a deep stone well",
+      "word": "well",
+      "correct_context": "geography",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.6,
+        "tokens_in": 104,
+        "tokens_out": 36,
+        "cost_usd": 0.000852
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.4,
+        "tokens_in": 410,
+        "tokens_out": 43,
+        "cost_usd": 0.0005
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He performed well under pressure during the interview",
+      "word": "well",
+      "correct_context": "general",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.7,
+        "tokens_in": 103,
+        "tokens_out": 34,
+        "cost_usd": 0.000819
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 409,
+        "tokens_out": 45,
+        "cost_usd": 0.0005072000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She submitted her latest work to the gallery",
+      "word": "work",
+      "correct_context": "art",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 3.1,
+        "tokens_in": 103,
+        "tokens_out": 33,
+        "cost_usd": 0.000804
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 0.9,
+        "tokens_in": 419,
+        "tokens_out": 50,
+        "cost_usd": 0.0005352
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He had to work overtime to meet the deadline",
+      "word": "work",
+      "correct_context": "employment",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.1,
+        "tokens_in": 104,
+        "tokens_out": 40,
+        "cost_usd": 0.000912
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.0,
+        "tokens_in": 420,
+        "tokens_out": 46,
+        "cost_usd": 0.00052
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The mechanic checked to see if the engine would work",
+      "word": "work",
+      "correct_context": "mechanics",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 106,
+        "tokens_out": 29,
+        "cost_usd": 0.000753
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.6,
+        "tokens_in": 422,
+        "tokens_out": 44,
+        "cost_usd": 0.0005136
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The farm produced a high yield of wheat this season",
+      "word": "yield",
+      "correct_context": "agriculture",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.6,
+        "tokens_in": 105,
+        "tokens_out": 39,
+        "cost_usd": 0.0009
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.4,
+        "tokens_in": 407,
+        "tokens_out": 44,
+        "cost_usd": 0.0005016
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The bond offered a yield of five percent annually",
+      "word": "yield",
+      "correct_context": "finance",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 3.0,
+        "tokens_in": 104,
+        "tokens_out": 39,
+        "cost_usd": 0.000897
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.0,
+        "tokens_in": 406,
+        "tokens_out": 45,
+        "cost_usd": 0.0005048
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She refused to yield to pressure from her opponents",
+      "word": "yield",
+      "correct_context": "psychology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.8,
+        "tokens_in": 104,
+        "tokens_out": 36,
+        "cost_usd": 0.000852
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.5,
+        "tokens_in": 406,
+        "tokens_out": 45,
+        "cost_usd": 0.0005048
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The doctor used a firm but reassuring tone throughout",
+      "word": "tone",
+      "correct_context": "communication",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.1,
+        "tokens_in": 105,
+        "tokens_out": 40,
+        "cost_usd": 0.000915
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.1,
+        "tokens_in": 442,
+        "tokens_out": 50,
+        "cost_usd": 0.0005536
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She practised scales to improve her tone on the piano",
+      "word": "tone",
+      "correct_context": "music",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.8,
+        "tokens_in": 106,
+        "tokens_out": 36,
+        "cost_usd": 0.000858
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.3,
+        "tokens_in": 443,
+        "tokens_out": 53,
+        "cost_usd": 0.0005664000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The gym programme helped her improve her muscle tone",
+      "word": "tone",
+      "correct_context": "anatomy",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.3,
+        "tokens_in": 104,
+        "tokens_out": 44,
+        "cost_usd": 0.000972
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 441,
+        "tokens_out": 39,
+        "cost_usd": 0.0005088
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She built a strong professional network over the years",
+      "word": "network",
+      "correct_context": "business",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.1,
+        "tokens_in": 104,
+        "tokens_out": 38,
+        "cost_usd": 0.000882
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.0,
+        "tokens_in": 428,
+        "tokens_out": 48,
+        "cost_usd": 0.0005344000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The company upgraded its entire IT network last quarter",
+      "word": "network",
+      "correct_context": "computing",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.4,
+        "tokens_in": 104,
+        "tokens_out": 37,
+        "cost_usd": 0.000867
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 428,
+        "tokens_out": 52,
+        "cost_usd": 0.0005504
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The television network broadcast the game live",
+      "word": "network",
+      "correct_context": "media",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.7,
+        "tokens_in": 102,
+        "tokens_out": 37,
+        "cost_usd": 0.000861
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 426,
+        "tokens_out": 49,
+        "cost_usd": 0.0005367999999999999
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The trigger on the old rifle was stiff and unreliable",
+      "word": "trigger",
+      "correct_context": "military",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.5,
+        "tokens_in": 108,
+        "tokens_out": 42,
+        "cost_usd": 0.000954
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.5,
+        "tokens_in": 444,
+        "tokens_out": 49,
+        "cost_usd": 0.0005512000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "Stress can trigger a migraine in some patients",
+      "word": "trigger",
+      "correct_context": "medicine",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 105,
+        "tokens_out": 36,
+        "cost_usd": 0.000855
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 0.9,
+        "tokens_in": 441,
+        "tokens_out": 53,
+        "cost_usd": 0.0005648
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The announcement was the trigger for widespread protests",
+      "word": "trigger",
+      "correct_context": "psychology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.0,
+        "tokens_in": 103,
+        "tokens_out": 34,
+        "cost_usd": 0.000819
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 6.1,
+        "tokens_in": 439,
+        "tokens_out": 45,
+        "cost_usd": 0.0005312
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The company had developed a strong culture of innovation",
+      "word": "culture",
+      "correct_context": "business",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.8,
+        "tokens_in": 104,
+        "tokens_out": 46,
+        "cost_usd": 0.001002
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 425,
+        "tokens_out": 43,
+        "cost_usd": 0.000512
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She studied the culture of ancient Rome at university",
+      "word": "culture",
+      "correct_context": "history",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.2,
+        "tokens_in": 104,
+        "tokens_out": 47,
+        "cost_usd": 0.001017
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 425,
+        "tokens_out": 45,
+        "cost_usd": 0.00052
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The lab technician prepared a bacterial culture for testing",
+      "word": "culture",
+      "correct_context": "biology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.1,
+        "tokens_in": 105,
+        "tokens_out": 48,
+        "cost_usd": 0.001035
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.8,
+        "tokens_in": 426,
+        "tokens_out": 44,
+        "cost_usd": 0.0005168
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She went for a cycle along the riverside path",
+      "word": "cycle",
+      "correct_context": "sports",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.6,
+        "tokens_in": 104,
+        "tokens_out": 32,
+        "cost_usd": 0.000792
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.2,
+        "tokens_in": 526,
+        "tokens_out": 37,
+        "cost_usd": 0.0005688
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The washing machine completed its cycle in forty minutes",
+      "word": "cycle",
+      "correct_context": "technology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.1,
+        "tokens_in": 104,
+        "tokens_out": 38,
+        "cost_usd": 0.000882
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.96,
+        "time": 1.0,
+        "tokens_in": 526,
+        "tokens_out": 45,
+        "cost_usd": 0.0006008
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The economic cycle tends to repeat every few years",
+      "word": "cycle",
+      "correct_context": "finance",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.5,
+        "tokens_in": 104,
+        "tokens_out": 45,
+        "cost_usd": 0.000987
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 526,
+        "tokens_out": 47,
+        "cost_usd": 0.0006087999999999999
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She completed her degree in three years",
+      "word": "degree",
+      "correct_context": "education",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 102,
+        "tokens_out": 38,
+        "cost_usd": 0.000876
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 0.9,
+        "tokens_in": 373,
+        "tokens_out": 49,
+        "cost_usd": 0.0004944
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The temperature dropped by ten degrees overnight",
+      "word": "degree",
+      "correct_context": "measurement",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.5,
+        "tokens_in": 102,
+        "tokens_out": 39,
+        "cost_usd": 0.000891
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.0,
+        "tokens_in": 373,
+        "tokens_out": 40,
+        "cost_usd": 0.00045840000000000003
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He burned his hand to a minor degree on the hot surface",
+      "word": "degree",
+      "correct_context": "medicine",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.93,
+        "time": 2.0,
+        "tokens_in": 107,
+        "tokens_out": 37,
+        "cost_usd": 0.000876
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.7,
+        "tokens_in": 378,
+        "tokens_out": 57,
+        "cost_usd": 0.0005304000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She booked a flight to Tokyo for the conference",
+      "word": "flight",
+      "correct_context": "transport",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.2,
+        "tokens_in": 105,
+        "tokens_out": 32,
+        "cost_usd": 0.000795
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.5,
+        "tokens_in": 449,
+        "tokens_out": 45,
+        "cost_usd": 0.0005392000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The suspect took flight when he saw the police arrive",
+      "word": "flight",
+      "correct_context": "movement",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.4,
+        "tokens_in": 105,
+        "tokens_out": 35,
+        "cost_usd": 0.00084
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.7,
+        "tokens_in": 449,
+        "tokens_out": 40,
+        "cost_usd": 0.0005192
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The staircase had two flights leading to the upper floor",
+      "word": "flight",
+      "correct_context": "construction",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.8,
+        "tokens_in": 107,
+        "tokens_out": 33,
+        "cost_usd": 0.000816
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.9,
+        "tokens_in": 451,
+        "tokens_out": 47,
+        "cost_usd": 0.0005488
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She filled out the application form carefully",
+      "word": "form",
+      "correct_context": "administration",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 9.2,
+        "tokens_in": 102,
+        "tokens_out": 34,
+        "cost_usd": 0.000816
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.0,
+        "tokens_in": 569,
+        "tokens_out": 41,
+        "cost_usd": 0.0006192000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The athlete was in peak form ahead of the championship",
+      "word": "form",
+      "correct_context": "sports",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.4,
+        "tokens_in": 105,
+        "tokens_out": 38,
+        "cost_usd": 0.000885
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 2.7,
+        "tokens_in": 572,
+        "tokens_out": 46,
+        "cost_usd": 0.0006416
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "Water can change its form depending on temperature",
+      "word": "form",
+      "correct_context": "chemistry",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 3.5,
+        "tokens_in": 103,
+        "tokens_out": 40,
+        "cost_usd": 0.000909
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.8,
+        "tokens_in": 570,
+        "tokens_out": 49,
+        "cost_usd": 0.000652
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She placed flowers on the grave of her grandfather",
+      "word": "grave",
+      "correct_context": "death",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.2,
+        "tokens_in": 104,
+        "tokens_out": 33,
+        "cost_usd": 0.000807
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 3.1,
+        "tokens_in": 278,
+        "tokens_out": 49,
+        "cost_usd": 0.0004184
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The situation was grave and required immediate action",
+      "word": "grave",
+      "correct_context": "general",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.1,
+        "tokens_in": 103,
+        "tokens_out": 40,
+        "cost_usd": 0.000909
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 277,
+        "tokens_out": 44,
+        "cost_usd": 0.0003976
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The musician played the passage in a grave and solemn tempo",
+      "word": "grave",
+      "correct_context": "music",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.1,
+        "tokens_in": 108,
+        "tokens_out": 44,
+        "cost_usd": 0.000984
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 282,
+        "tokens_out": 42,
+        "cost_usd": 0.0003936
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She acted as host for the charity dinner",
+      "word": "host",
+      "correct_context": "social",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.0,
+        "tokens_in": 103,
+        "tokens_out": 39,
+        "cost_usd": 0.000894
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.6,
+        "tokens_in": 399,
+        "tokens_out": 48,
+        "cost_usd": 0.0005112000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The parasite depends entirely on its host to survive",
+      "word": "host",
+      "correct_context": "biology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 4.6,
+        "tokens_in": 105,
+        "tokens_out": 44,
+        "cost_usd": 0.000975
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.6,
+        "tokens_in": 401,
+        "tokens_out": 56,
+        "cost_usd": 0.0005447999999999999
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The television host interviewed three guests on the show",
+      "word": "host",
+      "correct_context": "media",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.5,
+        "tokens_in": 104,
+        "tokens_out": 40,
+        "cost_usd": 0.000912
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.8,
+        "tokens_in": 400,
+        "tokens_out": 48,
+        "cost_usd": 0.000512
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The company planned to launch the product in spring",
+      "word": "launch",
+      "correct_context": "business",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.8,
+        "tokens_in": 104,
+        "tokens_out": 37,
+        "cost_usd": 0.000867
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.96,
+        "time": 1.5,
+        "tokens_in": 430,
+        "tokens_out": 44,
+        "cost_usd": 0.00052
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The rocket launch was delayed by bad weather",
+      "word": "launch",
+      "correct_context": "technology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.0,
+        "tokens_in": 103,
+        "tokens_out": 36,
+        "cost_usd": 0.000849
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.1,
+        "tokens_in": 429,
+        "tokens_out": 49,
+        "cost_usd": 0.0005392000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "They took the launch across the harbour to the island",
+      "word": "launch",
+      "correct_context": "nautical",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.5,
+        "tokens_in": 105,
+        "tokens_out": 35,
+        "cost_usd": 0.00084
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 431,
+        "tokens_out": 45,
+        "cost_usd": 0.0005248
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She filled the water to exactly the right level",
+      "word": "level",
+      "correct_context": "measurement",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.7,
+        "tokens_in": 104,
+        "tokens_out": 36,
+        "cost_usd": 0.000852
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 0.8,
+        "tokens_in": 466,
+        "tokens_out": 47,
+        "cost_usd": 0.0005608
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The builder used a level to check the surface was flat",
+      "word": "level",
+      "correct_context": "construction",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 3.3,
+        "tokens_in": 106,
+        "tokens_out": 45,
+        "cost_usd": 0.000993
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.0,
+        "tokens_in": 468,
+        "tokens_out": 48,
+        "cost_usd": 0.0005664000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "He remained calm and level-headed throughout the crisis",
+      "word": "level",
+      "correct_context": "psychology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.7,
+        "tokens_in": 105,
+        "tokens_out": 37,
+        "cost_usd": 0.00087
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.96,
+        "time": 0.9,
+        "tokens_in": 467,
+        "tokens_out": 44,
+        "cost_usd": 0.0005496
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She worked as a model for a fashion house in Paris",
+      "word": "model",
+      "correct_context": "fashion",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.9,
+        "tokens_in": 106,
+        "tokens_out": 43,
+        "cost_usd": 0.000963
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.8,
+        "tokens_in": 605,
+        "tokens_out": 51,
+        "cost_usd": 0.000688
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The scientists built a model to simulate climate change",
+      "word": "model",
+      "correct_context": "science",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.2,
+        "tokens_in": 104,
+        "tokens_out": 41,
+        "cost_usd": 0.000927
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 2.0,
+        "tokens_in": 603,
+        "tokens_out": 47,
+        "cost_usd": 0.0006704000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The new car model was unveiled at the motor show",
+      "word": "model",
+      "correct_context": "automotive",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.6,
+        "tokens_in": 105,
+        "tokens_out": 34,
+        "cost_usd": 0.000825
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.92,
+        "time": 1.7,
+        "tokens_in": 604,
+        "tokens_out": 49,
+        "cost_usd": 0.0006792
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "She pulled on her coat before heading out into the cold",
+      "word": "coat",
+      "correct_context": "clothing",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.6,
+        "tokens_in": 106,
+        "tokens_out": 39,
+        "cost_usd": 0.000903
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.1,
+        "tokens_in": 390,
+        "tokens_out": 55,
+        "cost_usd": 0.000532
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The painter applied a second coat to the wooden surface",
+      "word": "coat",
+      "correct_context": "construction",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.2,
+        "tokens_in": 105,
+        "tokens_out": 33,
+        "cost_usd": 0.00081
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 389,
+        "tokens_out": 48,
+        "cost_usd": 0.0005032000000000001
+      },
+      "cdf_available": true
+    },
+    {
+      "sentence": "The dog had a thick winter coat that shed in spring",
+      "word": "coat",
+      "correct_context": "biology",
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.5,
+        "tokens_in": 106,
+        "tokens_out": 34,
+        "cost_usd": 0.000828
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 390,
+        "tokens_out": 48,
+        "cost_usd": 0.000504
+      },
+      "cdf_available": true
+    }
+  ]
+}
