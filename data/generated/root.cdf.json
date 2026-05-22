@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "botany",
-      "meaning": "the underground part of a plant that absorbs water and nutrients from the soil.",
+      "context": "biology",
+      "meaning": "(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "mathematics",
-      "meaning": "a number that is not rational, having an infinite decimal expansion without repeating patterns.",
+      "context": "beginning",
+      "meaning": "the place where something begins, where it springs into being",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "(linguistics) the form of a word after all affixes are removed",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "the top-most directory or folder in a file system, often referred to as the 'home' directory",
       "added": "accumulated",
       "source": "llm"
     }

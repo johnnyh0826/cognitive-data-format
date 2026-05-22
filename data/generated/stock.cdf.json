@@ -4,14 +4,28 @@
     {
       "id": "01",
       "context": "finance",
-      "meaning": "a company's ownership interest represented by shares of stock.",
+      "meaning": "the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "the plant stem or stalk that supports the leaves and flowers of a plant.",
+      "context": "object",
+      "meaning": "the merchandise that a shop has on hand",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "finance",
+      "meaning": "a portfolio of financial assets, such as securities or commodities",
       "added": "accumulated",
       "source": "llm"
     }

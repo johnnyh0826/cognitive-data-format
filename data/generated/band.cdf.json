@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music",
-      "meaning": "a group of musicians playing together",
+      "context": "group",
+      "meaning": "an unofficial association of people or groups",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology",
-      "meaning": "a strip or layer of rock formations",
+      "context": "group",
+      "meaning": "instrumentalists not including string players",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "a stripe or stripes of contrasting color",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music genre",
+      "meaning": "a style of popular music characterized by a strong rhythmic emphasis and often featuring electric instruments",
       "added": "accumulated",
       "source": "llm"
     }

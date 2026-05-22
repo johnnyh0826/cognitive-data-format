@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "anatomy and physiology",
-      "meaning": "a limb that connects the shoulder to the hand or wrist.",
+      "context": "anatomy",
+      "meaning": "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "military and warfare",
-      "meaning": "a branch of a country's armed forces, such as the Army, Navy, or Air Force.",
+      "context": "object",
+      "meaning": "any projection that is thought to resemble a human arm",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "weapon",
+      "meaning": "any instrument or instrumentality used in fighting or hunting",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a musical term referring to a section of an orchestra or band that plays a specific part in a composition",
       "added": "accumulated",
       "source": "llm"
     }

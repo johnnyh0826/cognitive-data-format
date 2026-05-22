@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computing",
-      "meaning": "a connection between two or more devices, systems, or networks.",
+      "context": "relationship",
+      "meaning": "the means of connection between things linked in series",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "journalism and media",
-      "meaning": "an article or section of a publication that connects two related topics or ideas.",
+      "context": "object",
+      "meaning": "a fastener that serves to join or connect",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "connection",
+      "meaning": "the state of being connected",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a reference or pointer in a digital document, such as an HTML link",
       "added": "accumulated",
       "source": "llm"
     }

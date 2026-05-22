@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "real estate",
-      "meaning": "a unit of land or a plot of ground, often with buildings or other structures",
+      "context": "batch",
+      "meaning": "(often followed by `of') a large number or amount or extent",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "gaming and chance",
-      "meaning": "a portion or share of something, such as a prize or reward, determined by chance or random selection",
+      "context": "geography",
+      "meaning": "a parcel of land having fixed boundaries",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "an unofficial association of people or groups",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a random or unpredictable event or outcome, especially in a game",
       "added": "accumulated",
       "source": "llm"
     }

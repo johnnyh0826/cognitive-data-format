@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "art and sculpture",
-      "meaning": "a three-dimensional work of art, typically figurative and often humorous or satirical",
+      "context": "flop",
+      "meaning": "a complete failure",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "police and law enforcement",
-      "meaning": "to arrest someone, especially suddenly or unexpectedly",
+      "context": "female chest",
+      "meaning": "the chest of a woman",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a sculpture of the head and shoulders of a person",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "nautical",
+      "meaning": "to fill with wind, especially a sail",
       "added": "accumulated",
       "source": "llm"
     }

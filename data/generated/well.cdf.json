@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "a hole or cavity in the ground, typically dug for water storage or irrigation.",
+      "context": "object",
+      "meaning": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology",
-      "meaning": "an opening in the Earth's surface, such as a cave or a sinkhole, that provides access to underground spaces or water sources.",
+      "context": "object",
+      "meaning": "a cavity or vessel used to contain liquid",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "an abundant source",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": " idiomatic expression",
+      "meaning": "a place or situation where something is going well or smoothly",
       "added": "accumulated",
       "source": "llm"
     }

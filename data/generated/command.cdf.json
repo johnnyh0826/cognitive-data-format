@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "to direct or order something to be done, often in a formal or official capacity",
+      "context": "communication",
+      "meaning": "an authoritative direction or instruction to do something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "military and emergency services",
-      "meaning": "a specific instruction or set of instructions given by a commander to carry out a particular action or operation",
+      "context": "group",
+      "meaning": "a military unit or region under the control of a single officer",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "the power or authority to command",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "IT and computing",
+      "meaning": "a sequence of instructions that a computer can execute",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,22 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "of good quality or satisfactory",
+      "context": "finance",
+      "meaning": "money extracted as a penalty",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology",
-      "meaning": "of a high degree of fineness, especially in gemstones",
+      "context": "ticket",
+      "meaning": "issue a ticket or a fine to as a penalty",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "health and wellness",
+      "meaning": "in a satisfactory or good condition; healthy, robust, or vigorous",
       "added": "accumulated",
       "source": "llm"
     }

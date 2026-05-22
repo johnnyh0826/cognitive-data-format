@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music",
-      "meaning": "lead or direct a musical performance or ensemble",
+      "context": "behavior",
+      "meaning": "manner of acting or controlling yourself",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "science and engineering",
-      "meaning": "to guide or control the movement of an object, such as an aircraft or spacecraft",
+      "context": "demeanor",
+      "meaning": "(behavioral attributes) the way a person behaves toward other people",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "social",
+      "meaning": "direct the course of; manage or control",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "to lead or direct a musical group, orchestra, etc.",
       "added": "accumulated",
       "source": "llm"
     }

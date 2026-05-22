@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and physics",
-      "meaning": "to change the form or shape of an object or system without changing its underlying structure or essence.",
+      "context": "change",
+      "meaning": "subject to a mathematical transformation",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science and programming",
-      "meaning": "to convert data from one format to another, often using algorithms or software tools.",
+      "context": "change",
+      "meaning": "change or alter in form, appearance, or nature",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "change",
+      "meaning": "change in outward structure or looks",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Psychology",
+      "meaning": "to change one's perspective or attitude, often as a result of new information or experience",
       "added": "accumulated",
       "source": "llm"
     }

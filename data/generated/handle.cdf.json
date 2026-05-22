@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "tool domain",
-      "meaning": "a device or tool used for grasping, holding, or manipulating something",
+      "context": "object",
+      "meaning": "the appendage to an object that is designed to be held in order to use or move it",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer domain",
-      "meaning": "an object-oriented programming concept that refers to a class or instance of an object",
+      "context": "manage",
+      "meaning": "be in charge of, act on, or dispose of",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "treat",
+      "meaning": "interact in a certain way",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "to control or manipulate a game element, such as a character or object",
       "added": "accumulated",
       "source": "llm"
     }

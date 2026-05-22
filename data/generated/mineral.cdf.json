@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology",
-      "meaning": "a naturally occurring inorganic substance with a specific chemical composition and physical properties",
+      "context": "chemistry",
+      "meaning": "solid homogeneous inorganic substances occurring in nature having a definite chemical composition",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "cosmetics",
-      "meaning": "a type of powder or pigment used to enhance skin tone or eye color",
+      "context": "geology",
+      "meaning": "a naturally occurring substance extracted from the earth, often used in jewelry or decorative objects",
       "added": "accumulated",
       "source": "llm"
     }

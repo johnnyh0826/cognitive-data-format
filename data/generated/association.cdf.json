@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology and sociology",
-      "meaning": "a connection or link between two or more people, things, or ideas",
+      "context": "group",
+      "meaning": "a formal organization of people or groups of people",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "business and marketing",
-      "meaning": "a partnership or collaboration between companies or organizations for mutual benefit",
+      "context": "action",
+      "meaning": "the act of consorting with or joining with others",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "state",
+      "meaning": "the state of being connected together as in memory or imagination",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "the process of linking two or more pieces of information together in memory, often based on their similarity or relevance",
       "added": "accumulated",
       "source": "llm"
     }

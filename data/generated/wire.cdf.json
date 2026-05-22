@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "electronics and technology",
-      "meaning": "a thin flexible strand of conductive material used to transmit electrical signals or data",
+      "context": "object",
+      "meaning": "ligament made of metal and used to fasten things or make cages or fences etc",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and performance",
-      "meaning": "the act of singing or playing an instrument with a smooth, flowing quality",
+      "context": "object",
+      "meaning": "a metal conductor that carries electricity over a distance",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "the finishing line on a racetrack",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a thin, flexible string used in musical instruments such as guitars and harps",
       "added": "accumulated",
       "source": "llm"
     }

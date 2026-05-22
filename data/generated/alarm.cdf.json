@@ -1,0 +1,33 @@
+{
+  "token": "alarm",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "emotion",
+      "meaning": "fear resulting from the awareness of danger",
+      "added": "first",
+      "source": "wordnet"
+    },
+    {
+      "id": "02",
+      "context": "object",
+      "meaning": "a device that signals the occurrence of some undesirable event",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "an automatic signal (usually a sound) warning of danger",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a loud, insistent sound in music, often used to signal the end of a piece or section",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

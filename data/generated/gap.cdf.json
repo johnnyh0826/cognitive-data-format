@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and science",
-      "meaning": "a space or interval between two points, lines, or surfaces",
+      "context": "property",
+      "meaning": "a conspicuous disparity or difference as between two figures",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology and human behavior",
-      "meaning": "an emotional or psychological void left by a loss, separation, or change",
+      "context": "opening",
+      "meaning": "an open or empty space in or between things",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a narrow opening",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "a period of time when a person's skills or knowledge are not being utilized, often leading to feelings of boredom or stagnation",
       "added": "accumulated",
       "source": "llm"
     }

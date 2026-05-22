@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "business and organization",
-      "meaning": "a place where people work, usually in a building with desks, chairs, and equipment.",
+      "context": "object",
+      "meaning": "place of business where professional or clerical duties are performed",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "government and administration",
-      "meaning": "a department or division within a government agency or organization responsible for a specific function or activity.",
+      "context": "agency",
+      "meaning": "an administrative unit of government",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "function",
+      "meaning": "the actions and activities assigned to or required or expected of a person or group",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "social gathering",
+      "meaning": "a place where people meet and work together in a relaxed atmosphere, often outside of formal business settings",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "military",
-      "meaning": "a position or level of authority within a military hierarchy",
+      "context": "group",
+      "meaning": "a row or line of people (especially soldiers or police) standing abreast of one another",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "sports",
-      "meaning": "the order of finish in a competition, such as a tournament or game",
+      "context": "state",
+      "meaning": "relative status",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "rank and file",
+      "meaning": "the ordinary members of an organization (such as the enlisted soldiers of an army)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a player's position or standing in a game, especially in relation to others",
       "added": "accumulated",
       "source": "llm"
     }

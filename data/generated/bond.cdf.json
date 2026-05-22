@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "a debt or investment security issued by a corporation or government",
+      "context": "chemical bond",
+      "meaning": "an electrical force linking atoms",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "chemistry",
-      "meaning": "a chemical bond is the attractive force that holds atoms together in a molecule",
+      "context": "finance",
+      "meaning": "a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "alliance",
+      "meaning": "a connection based on kinship or marriage or common interest",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "finance",
+      "meaning": "a type of investment that represents a share in ownership of a company or asset, often traded on a stock exchange",
       "added": "accumulated",
       "source": "llm"
     }

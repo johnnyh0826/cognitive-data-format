@@ -1,0 +1,33 @@
+{
+  "token": "seed",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology",
+      "meaning": "a small hard fruit",
+      "added": "first",
+      "source": "wordnet"
+    },
+    {
+      "id": "02",
+      "context": "biology",
+      "meaning": "a mature fertilized plant ovule consisting of an embryo and its food source and having a protective coat or testa",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "seeded player",
+      "meaning": "one of the outstanding players in a tournament",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "biology",
+      "meaning": "a structure that produces a plant, such as an ovary or pistil in flowering plants",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

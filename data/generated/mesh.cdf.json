@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geometric and engineering domain",
-      "meaning": "a network of interconnected points or lines forming a pattern or structure",
+      "context": "measurement",
+      "meaning": "the number of openings per linear inch of a screen; measures size of particles",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science and networking domain",
-      "meaning": "a data structure composed of nodes and edges, used to represent relationships between entities",
+      "context": "engagement",
+      "meaning": "contact by fitting together",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "mesh topology",
+      "meaning": "the topology of a network whose components are all connected directly to every other component",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "geology",
+      "meaning": "a network of interconnected rock fractures or faults",
       "added": "accumulated",
       "source": "llm"
     }

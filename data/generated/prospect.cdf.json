@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology",
-      "meaning": "a geological formation or deposit of mineral ore, coal, or other valuable material",
+      "context": "state",
+      "meaning": "the possibility of future success",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "business and economics",
-      "meaning": "a potential customer or client with a likelihood of purchasing a product or service",
+      "context": "expectation",
+      "meaning": "belief about (or mental picture of) the future",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "candidate",
+      "meaning": "someone who is considered for something (for an office or prize or honor etc.)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "geology",
+      "meaning": "a geological formation or structure that has not yet been fully explored or excavated",
       "added": "accumulated",
       "source": "llm"
     }

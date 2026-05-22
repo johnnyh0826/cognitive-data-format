@@ -1,0 +1,33 @@
+{
+  "token": "pound",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "measurement",
+      "meaning": "16 ounces avoirdupois",
+      "added": "first",
+      "source": "wordnet"
+    },
+    {
+      "id": "02",
+      "context": "british pound",
+      "meaning": "the basic unit of money in Great Britain and Northern Ireland; equal to 100 pence",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "measurement",
+      "meaning": "a unit of apothecary weight equal to 12 ounces troy",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "cooking",
+      "meaning": "a unit of force, equivalent to 4,500 Newtons or approximately 1,000 pounds-force",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

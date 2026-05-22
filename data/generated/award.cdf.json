@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "to give (something) to someone as a recognition of their achievements or efforts",
+      "context": "action",
+      "meaning": "a grant made by a law court",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "science and technology",
-      "meaning": "in astronomy, a term for the presentation of a celestial object's orbit or path",
+      "context": "communication",
+      "meaning": "a tangible symbol signifying approval or distinction",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "prize",
+      "meaning": "something given for victory or superiority in a contest or competition or for winning a lottery",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "academic or professional recognition",
+      "meaning": "a honorarium or monetary prize given for outstanding achievement or performance",
       "added": "accumulated",
       "source": "llm"
     }

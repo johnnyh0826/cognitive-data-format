@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "optics",
-      "meaning": "free from obstruction or distortion, allowing light to pass through unimpeded.",
+      "context": "state",
+      "meaning": "the state of being free of suspicion",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "meteorology",
-      "meaning": "completely cloudless and sunny, with no precipitation expected.",
+      "context": "open",
+      "meaning": "a clear or unobstructed space or expanse of land or water",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "unclutter",
+      "meaning": "rid of obstructions",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "communication",
+      "meaning": "easy to understand, concise and straightforward",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "philosophy",
-      "meaning": "the origin or motivation behind an event, action, or situation",
+      "context": "event",
+      "meaning": "events that provide the generative force that is the origin of something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "law",
-      "meaning": "a reason for legal action or a justification for a lawsuit",
+      "context": "communication",
+      "meaning": "a justification for something existing or happening",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "campaign",
+      "meaning": "a series of actions advancing a principle or tending toward a particular end",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "philosophy",
+      "meaning": "the underlying reason or explanation for something's existence or nature",
       "added": "accumulated",
       "source": "llm"
     }

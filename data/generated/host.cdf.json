@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: hospitality",
-      "meaning": "to receive and entertain guests, often in a formal setting",
+      "context": "person",
+      "meaning": "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing",
-      "meaning": "a computer that provides services to other computers over a network",
+      "context": "horde",
+      "meaning": "a vast multitude",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "biology",
+      "meaning": "an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a computer or device that provides a service or functionality, such as a web server or database",
       "added": "accumulated",
       "source": "llm"
     }

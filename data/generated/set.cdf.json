@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics",
-      "meaning": "a set of unique elements, often denoted by curly braces {}",
+      "context": "group",
+      "meaning": "a group of things of the same kind that belong together and are so used",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "theater and performance arts",
-      "meaning": "a group of actors or dancers performing together",
+      "context": "group",
+      "meaning": "(mathematics) an abstract collection of numbers or symbols",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "several exercises intended to be done in series",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "photography",
+      "meaning": "a collection of photographs taken in a single session or location",
       "added": "accumulated",
       "source": "llm"
     }

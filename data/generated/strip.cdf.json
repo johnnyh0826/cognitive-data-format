@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "textile domain",
-      "meaning": "a long narrow piece of fabric used for wrapping or carrying something",
+      "context": "object",
+      "meaning": "a relatively long narrow piece of something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "entertainment domain",
-      "meaning": "a scene or act in a play, film, or dance performance where characters remove their clothing to reveal costumes or nakedness",
+      "context": "object",
+      "meaning": "artifact consisting of a narrow flat piece of material",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "airstrip",
+      "meaning": "an airfield without normal airport facilities",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "entertainment",
+      "meaning": "a sequence of images or frames displayed in rapid succession, typically accompanied by music or sound effects",
       "added": "accumulated",
       "source": "llm"
     }

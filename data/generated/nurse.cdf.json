@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "medicine",
-      "meaning": "a trained person who cares for patients in a hospital or other healthcare setting",
+      "context": "person",
+      "meaning": "one skilled in caring for young children or the sick (usually under the supervision of a physician)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "aviation",
-      "meaning": "the act of guiding an aircraft through takeoff, landing, and taxiing",
+      "context": "nanny",
+      "meaning": "a woman who is the custodian of children",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "anatomy",
+      "meaning": "try to cure by special care of treatment, of an illness or injury",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "education",
+      "meaning": "a person who is trained or qualified to care for others, often in a school or hospital setting",
       "added": "accumulated",
       "source": "llm"
     }

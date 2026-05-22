@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "to pay off a debt or obligation",
+      "context": "object",
+      "meaning": "a long wooden bench with a back",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "to come to rest on the bottom of a body of water, such as a lake or sea",
+      "context": "movement",
+      "meaning": "settle into a position, usually on a surface or ground",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "decide",
+      "meaning": "bring to an end; settle conclusively",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "finance",
+      "meaning": "to pay off a debt or obligation, especially in full",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "to move or act quickly and hastily, often without careful consideration.",
+      "context": "haste",
+      "meaning": "the act of moving hurriedly and in a careless manner",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "a rapid movement of water, such as a current or a flood.",
+      "context": "event",
+      "meaning": "a sudden forceful flow",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "biology",
+      "meaning": "grasslike plants growing in wet places and having cylindrical often hollow stems",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a style of music characterized by fast tempo and energetic rhythm",
       "added": "accumulated",
       "source": "llm"
     }

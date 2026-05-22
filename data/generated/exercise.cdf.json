@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical activity domain",
-      "meaning": "to engage in physical activity to improve or maintain health and fitness",
+      "context": "action",
+      "meaning": "the activity of exerting your muscles in various ways to keep fit",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "philosophical/educational domain",
-      "meaning": "a systematic practice or discipline aimed at developing mental, moral, or spiritual character",
+      "context": "action",
+      "meaning": "the act of using",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "systematic training by multiple repetitions",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mental or emotional",
+      "meaning": "a mental or physical activity done to improve one's mental well-being, reduce stress, and increase self-esteem",
       "added": "accumulated",
       "source": "llm"
     }

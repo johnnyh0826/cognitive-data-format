@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "A problem or difficulty that needs to be solved.",
+      "context": "psychology",
+      "meaning": "an important question that is in dispute and must be settled",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "technology",
-      "meaning": "In software development, a release of the product with new features, bug fixes, or improvements.",
+      "context": "communication",
+      "meaning": "one of a series published periodically",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "topic",
+      "meaning": "some situation or event that is thought about",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Business",
+      "meaning": "a problem or challenge that needs to be addressed or solved",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "crime and law",
-      "meaning": "to attack or strike someone with force, often violently",
+      "context": "action",
+      "meaning": "close fighting during the culmination of a military attack",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "medicine and health",
-      "meaning": "a sudden onset of symptoms in a patient, often requiring urgent medical attention",
+      "context": "action",
+      "meaning": "a threatened or attempted physical attack by someone who appears to be able to cause bodily harm if not stopped",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "biology",
+      "meaning": "thoroughbred that won the triple crown in 1946",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "law enforcement",
+      "meaning": "the act of using force or violence against another person, often resulting in physical harm or injury",
       "added": "accumulated",
       "source": "llm"
     }

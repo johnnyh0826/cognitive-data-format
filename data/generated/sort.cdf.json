@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computation",
-      "meaning": "to arrange data in a specific order or category.",
+      "context": "kind",
+      "meaning": "a category of things distinguished by some common characteristic or quality",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "everyday life",
-      "meaning": "to categorize or prioritize things, such as tasks or objects.",
+      "context": "property",
+      "meaning": "an approximate definition or example",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "a person of a particular character or nature",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "to arrange data in a specific order, such as alphabetical or chronological",
       "added": "accumulated",
       "source": "llm"
     }

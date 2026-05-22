@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and science",
-      "meaning": "a part of a whole, often denoted by a letter or symbol (e.g., a section of a mathematical function)",
+      "context": "communication",
+      "meaning": "a self-contained part of a larger composition (written or musical)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "publishing and media",
-      "meaning": "a part of a book, magazine, or other written work, often separated from others by blank pages (e.g., a section on gardening)",
+      "context": "object",
+      "meaning": "a very thin slice (of tissue or mineral or other substance) for examination under a microscope",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "a distinct region or subdivision of a territorial or political area or community or group of people",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "academic or research",
+      "meaning": "a distinct part of a study, investigation, or experiment",
       "added": "accumulated",
       "source": "llm"
     }

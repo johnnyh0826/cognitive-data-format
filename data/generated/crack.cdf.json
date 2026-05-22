@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology",
-      "meaning": "a fracture or opening in a rock, soil, or other geological formation",
+      "context": "object",
+      "meaning": "a long narrow opening",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "pharmacy and medicine",
-      "meaning": "a small opening or fissure in the skin, often used to administer medication",
+      "context": "object",
+      "meaning": "a narrow opening",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "crevice",
+      "meaning": "a long narrow depression in a surface",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "slang",
+      "meaning": "a clever or skillful idea or solution",
       "added": "accumulated",
       "source": "llm"
     }

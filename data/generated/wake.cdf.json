@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sleep and consciousness",
-      "meaning": "to become or cause to become awake, often from a state of sleep or unconsciousness.",
+      "context": "aftermath",
+      "meaning": "the consequences of an event (especially a catastrophic event)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "nautical and maritime",
-      "meaning": "the point on the horizon where the sun appears above the sea level, marking the beginning of daylight.",
+      "context": "wake island",
+      "meaning": "an island in the western Pacific between Guam and Hawaii",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "the wave that spreads behind a boat as it moves forward",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "physical activity",
+      "meaning": "to become or make something more alert, conscious, and responsive",
       "added": "accumulated",
       "source": "llm"
     }

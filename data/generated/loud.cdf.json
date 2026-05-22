@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "acoustics and physics",
-      "meaning": "measured by decibel levels, exceeding a standard threshold",
+      "context": "all",
+      "meaning": "characterized by or producing sound of great volume or intensity",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and performance",
-      "meaning": "characterized by intense volume, often accompanied by emotional intensity or energy",
+      "context": "brassy",
+      "meaning": "tastelessly showy",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "forte",
+      "meaning": "used chiefly as a direction or description in music",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychological domain",
+      "meaning": "causing a strong emotional reaction or attention",
       "added": "accumulated",
       "source": "llm"
     }

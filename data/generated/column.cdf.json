@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "architecture",
-      "meaning": "a vertical structure supporting a building or providing structural integrity",
+      "context": "group",
+      "meaning": "a line of units following one after another",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "publishing",
-      "meaning": "a regular feature in a newspaper, magazine, or online publication presenting information or opinion",
+      "context": "object",
+      "meaning": "a vertical glass tube used in column chromatography; a mixture is poured in the top and washed through a stationary substance where components of the mixture are adsorbed selectively to form colored bands",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "a vertical array of numbers or other information",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "architecture",
+      "meaning": "a vertical structure or pillar in a building's design, often used for support or aesthetic purposes",
       "added": "accumulated",
       "source": "llm"
     }

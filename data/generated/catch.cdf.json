@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports",
-      "meaning": "to intercept and hold onto a ball or projectile in a game",
+      "context": "property",
+      "meaning": "a drawback or difficulty that is not readily evident",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "fishing",
-      "meaning": "to grasp or seize fish with a hook, net, or other device",
+      "context": "measurement",
+      "meaning": "the quantity that was caught",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "a person regarded as a good matrimonial prospect",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "to gain possession of (a ball, puck, etc.) in a game",
       "added": "accumulated",
       "source": "llm"
     }

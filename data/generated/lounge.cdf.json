@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: hospitality",
-      "meaning": "a room or area in a hotel, airport, or other public place where people can relax and enjoy refreshments",
+      "context": "sofa",
+      "meaning": "an upholstered seat for more than one person",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "distinct domain: automotive",
-      "meaning": "an upholstered seat or couch in a car, typically designed for passengers to sit comfortably during travel",
+      "context": "object",
+      "meaning": "a room (as in a hotel or airport) with seating where people can wait",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "sit or recline comfortably",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "entertainment",
+      "meaning": "a type of music or performance, typically featuring a relaxed atmosphere and informal seating",
       "added": "accumulated",
       "source": "llm"
     }

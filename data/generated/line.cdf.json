@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and geometry",
-      "meaning": "a set of points connected by a continuous curve or shape",
+      "context": "group",
+      "meaning": "a formation of people or things one beside another",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "graph theory",
-      "meaning": "a path that connects two nodes in a graph, often representing a flow or connection",
+      "context": "communication",
+      "meaning": "a mark that is long relative to its width",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "a formation of people or things one behind another",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "a set of connected points that extend infinitely in two directions, forming a plane figure",
       "added": "accumulated",
       "source": "llm"
     }

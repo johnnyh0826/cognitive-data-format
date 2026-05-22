@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "to move or redirect funds from one account to another",
+      "context": "transportation",
+      "meaning": "the act of moving something from one location to another",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "information technology",
-      "meaning": "to copy data or files from a source device to a destination device",
+      "context": "person",
+      "meaning": "someone who transfers or is transferred from one position to another",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "the act of transfering something from one form to another",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Finance",
+      "meaning": "the act of transferring ownership or title of an asset, such as a stock or property, from one person to another",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics/chemistry",
-      "meaning": "to move upward or increase in amount, volume, or intensity",
+      "context": "event",
+      "meaning": "a growth in strength or number or importance",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "the process of an object moving from a lower to a higher position, such as the sun rising in the morning",
+      "context": "action",
+      "meaning": "the act of changing location in an upward direction",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "ascent",
+      "meaning": "an upward slope or grade (as in a road)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "financial",
+      "meaning": "an increase in value or price, especially of a stock or investment",
       "added": "accumulated",
       "source": "llm"
     }

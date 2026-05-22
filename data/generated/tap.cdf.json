@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "water management",
-      "meaning": "to draw or obtain liquid from a source, such as a faucet or well",
+      "context": "event",
+      "meaning": "the sound made by a gentle blow",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "theater and performance",
-      "meaning": "a brief, informal presentation or demonstration, often used to test material or gauge audience reaction",
+      "context": "event",
+      "meaning": "a gentle blow",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "water faucet",
+      "meaning": "a faucet for drawing water from a pipe or cask",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "to press a button or controller to perform an action in a game",
       "added": "accumulated",
       "source": "llm"
     }

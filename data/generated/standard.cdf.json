@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "normative domain",
-      "meaning": "a level of quality or performance that is widely accepted as a benchmark",
+      "context": "communication",
+      "meaning": "a basis for comparison; a reference point against which other things can be evaluated",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "statistical domain",
-      "meaning": "a value that represents the average or typical case in a dataset",
+      "context": "criterion",
+      "meaning": "the ideal in terms of which something can be judged",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "measurement",
+      "meaning": "a board measure = 1980 board feet",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "a level of quality or excellence that is widely accepted and expected",
       "added": "accumulated",
       "source": "llm"
     }

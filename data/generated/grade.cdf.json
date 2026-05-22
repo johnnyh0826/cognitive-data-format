@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "education",
-      "meaning": "a level of academic achievement or a score indicating performance",
+      "context": "class",
+      "meaning": "a body of students who are taught together",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology and mining",
-      "meaning": "the quality or standard of mineral deposits or ore",
+      "context": "state",
+      "meaning": "a relative position or degree of value in a graded group",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "the gradient of a slope or road or other surface",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "academic evaluation",
+      "meaning": "a score or rating given to a student's performance, typically on a scale of A to F",
       "added": "accumulated",
       "source": "llm"
     }

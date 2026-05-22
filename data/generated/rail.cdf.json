@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "transportation",
-      "meaning": "a track or series of tracks used for guiding trains, trams, or other vehicles",
+      "context": "railing",
+      "meaning": "a barrier consisting of a horizontal bar and supports",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology",
-      "meaning": "a type of rock formation characterized by a layering or banding effect",
+      "context": "object",
+      "meaning": "short for railway",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "track",
+      "meaning": "a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gymnastics",
+      "meaning": "a horizontal bar used for gymnastic exercises",
       "added": "accumulated",
       "source": "llm"
     }

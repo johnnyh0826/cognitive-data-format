@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain (physical/verbal)",
-      "meaning": "to give or offer help, encouragement, or assistance",
+      "context": "action",
+      "meaning": "the activity of providing for or maintaining by supplying with money or necessities",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "technical/military",
-      "meaning": "to provide military backup or reinforcement, especially in a tactical situation",
+      "context": "action",
+      "meaning": "aiding the cause or policy or interests of",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "something providing immaterial assistance to a person or cause or interest",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "emotional or psychological backing, encouragement, or validation",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "identification and classification",
-      "meaning": "a tag or sign attached to an object, person, or thing to identify its characteristics, properties, or purpose",
+      "context": "communication",
+      "meaning": "a brief description given for purposes of identification",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music production",
-      "meaning": "a musical phrase or section repeated at regular intervals in a composition, often used as a structural element",
+      "context": "communication",
+      "meaning": "trade name of a company that produces musical recordings",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "chemistry",
+      "meaning": "a radioactive isotope that is used in a compound in order to trace the mechanism of a chemical reaction",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a unique identifier assigned to a variable or object in programming",
       "added": "accumulated",
       "source": "llm"
     }

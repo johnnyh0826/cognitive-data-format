@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "economics and finance",
-      "meaning": "the city or town where a country's government is located, often considered its center of power",
+      "context": "finance",
+      "meaning": "assets available for use in the production of further assets",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology and ecology",
-      "meaning": "the highest or most developed part of an organism, such as the capital city of a tree's root system",
+      "context": "finance",
+      "meaning": "wealth in the form of money or property owned by a person or business and human resources of economic value",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "a seat of government",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "geography",
+      "meaning": "the city or town that is the seat of government of a country, state, or region",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "nautical domain",
-      "meaning": "a heavy object attached to a ship's hull or a boat's keel to stabilize it in the water",
+      "context": "object",
+      "meaning": "a mechanical device that prevents a vessel from moving",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "broadcasting domain",
-      "meaning": "a fixed point for a television program, providing continuity and stability for viewers",
+      "context": "psychology",
+      "meaning": "a central cohesive source of support and stability",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "a television reporter who coordinates a broadcast to which several correspondents contribute",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a fixed point or reference in a musical composition, used for tuning and pitch control",
       "added": "accumulated",
       "source": "llm"
     }

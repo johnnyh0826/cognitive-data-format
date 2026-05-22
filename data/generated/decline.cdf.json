@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology",
-      "meaning": "a downward movement or bending of a rock layer or sedimentary bed",
+      "context": "process",
+      "meaning": "change toward something smaller or lower",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "the decrease in number or amount of cells, organisms, or populations over time",
+      "context": "state",
+      "meaning": "a condition inferior to an earlier condition; a gradual falling off from a better state",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "decay",
+      "meaning": "a gradual decrease; as of stored charge or current",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "to refuse or turn down an offer, proposal, or request",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "photography",
-      "meaning": "to release the shutter of a camera to capture an image",
+      "context": "catch",
+      "meaning": "the act of catching an object with the hands",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "cooking",
-      "meaning": "to break or shatter food, such as crackers or cookies, into pieces",
+      "context": "time",
+      "meaning": "a spell of cold weather",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "snap bean",
+      "meaning": "tender green beans without strings that easily snap into sections",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "photography",
+      "meaning": "a sudden, sharp camera shot or capture",
       "added": "accumulated",
       "source": "llm"
     }

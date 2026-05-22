@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "the amount of energy or force applied to an object or system",
+      "context": "action",
+      "meaning": "an impetuous rush toward someone or something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "electrical power transmission",
-      "meaning": "the rate at which electric energy is transferred from a source to a load",
+      "context": "communication",
+      "meaning": "(criminal law) a pleading describing some wrong or offense",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "finance",
+      "meaning": "the price charged for some article or service",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "physics",
+      "meaning": "the flow of electric current into or out of an object, device, or circuit",
       "added": "accumulated",
       "source": "llm"
     }

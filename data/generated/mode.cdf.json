@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computing and technology",
-      "meaning": "a setting or configuration that determines the behavior of a system or device",
+      "context": "manner",
+      "meaning": "how something is done or how it happens",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "fashion and design",
-      "meaning": "a style or aesthetic that is characteristic of a particular era, movement, or cultural group",
+      "context": "state",
+      "meaning": "a particular functioning condition or arrangement",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "modality",
+      "meaning": "a classification of propositions on the basis of whether they claim necessity or possibility or impossibility",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a specific set of notes or pitches used in a piece of music",
       "added": "accumulated",
       "source": "llm"
     }

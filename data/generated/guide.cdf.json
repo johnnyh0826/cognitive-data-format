@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "travel and tourism",
-      "meaning": "to lead someone or something through unfamiliar terrain, providing directions and support",
+      "context": "usher",
+      "meaning": "someone employed to conduct others",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "technology and computing",
-      "meaning": "a program or script that automates a process or provides interactive assistance",
+      "context": "person",
+      "meaning": "someone who shows the way by leading or advising",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "guidebook",
+      "meaning": "something that offers basic information or instruction",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a program that provides interactive help and guidance, often in a graphical user interface",
       "added": "accumulated",
       "source": "llm"
     }

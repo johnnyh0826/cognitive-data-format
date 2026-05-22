@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and astronomy",
-      "meaning": "amount of matter in an object or substance",
+      "context": "property",
+      "meaning": "the property of a body that causes it to have weight in a gravitational field",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "Christianity",
-      "meaning": "the consecrated bread of the Eucharist, considered to be the body of Christ",
+      "context": "batch",
+      "meaning": "(often followed by `of') a large number or amount or extent",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "an ill-structured collection of similar things (objects or people)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "physics",
+      "meaning": "the amount of matter in an object or substance, often used as a measure of its density",
       "added": "accumulated",
       "source": "llm"
     }

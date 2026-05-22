@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mechanical engineering",
-      "meaning": "a long, thin piece of wood or metal used to transmit power from a wheel or pulley to another part of a machine.",
+      "context": "communication",
+      "meaning": "a line that forms the length of an arrow pointer",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "the axis around which a planet rotates, especially in relation to its orbit around the sun.",
+      "context": "shot",
+      "meaning": "an aggressive remark directed at a person like a missile and intended to have a telling effect",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a long rod or pole (especially the handle of an implement or the body of a weapon like a spear or arrow)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "engineering",
+      "meaning": "a vertical or inclined passageway or tunnel, especially in a building or structure",
       "added": "accumulated",
       "source": "llm"
     }

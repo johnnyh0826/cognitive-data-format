@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "a substance formed by chemically combining two or more elements, substances, or ions.",
+      "context": "psychology",
+      "meaning": "a whole formed by a union of two or more elements or parts",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "real estate",
-      "meaning": "a single building or structure that is occupied by multiple families or individuals under a single ownership or rental agreement.",
+      "context": "chemistry",
+      "meaning": "(chemistry) a substance formed by chemical union of two or more elements or ingredients in definite proportion by weight",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "an enclosure of residences and other building (especially in the Orient)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "a combination of two or more companies, often with a shared goal or interest",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "textile domain",
-      "meaning": "a continuous length of yarn or other material used for sewing or weaving",
+      "context": "object",
+      "meaning": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing domain",
-      "meaning": "a sequence of instructions that a computer program executes, either serially or concurrently",
+      "context": "ribbon",
+      "meaning": "any long object resembling a thin line",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "train of thought",
+      "meaning": "the connections that link the various parts of an event or argument together",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a sequence of instructions or tasks that are executed in a specific order",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology and anatomy",
-      "meaning": "the physical structure of an organism, typically comprising a head, torso, arms, and legs.",
+      "context": "anatomy",
+      "meaning": "the entire structure of an organism (an animal, plant, or human being)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "philosophy and spirituality",
-      "meaning": "the physical manifestation of a person's consciousness or soul, often seen as the seat of their being.",
+      "context": "group",
+      "meaning": "a group of persons associated by some common tie or occupation and regarded as an entity",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "anatomy",
+      "meaning": "a natural object consisting of a dead animal or person",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "biology",
+      "meaning": "the main mass of an organism, excluding its head and limbs",
       "added": "accumulated",
       "source": "llm"
     }

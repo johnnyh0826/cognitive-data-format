@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "document formatting",
-      "meaning": "to make a part of text or image stand out visually to draw attention",
+      "context": "relationship",
+      "meaning": "the most interesting or memorable part",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "photography and film",
-      "meaning": "to emphasize or focus on a specific aspect, person, or object in an image or scene",
+      "context": "property",
+      "meaning": "an area of lightness in a picture",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "foreground",
+      "meaning": "move into the foreground to make more visible or prominent",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "journalism",
+      "meaning": "to emphasize or draw attention to a particular aspect of a story or issue",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "technology",
-      "meaning": "to select or choose something from a group, such as a computer file or database record.",
+      "context": "choice",
+      "meaning": "the person or thing chosen or selected",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music",
-      "meaning": "to play a stringed instrument by plucking the strings with one's fingers, rather than using a pickguard or other mechanical aid.",
+      "context": "picking",
+      "meaning": "the quantity of a crop that is harvested",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "cream",
+      "meaning": "the best people or things in a group",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "verb phrase",
+      "meaning": "to take or remove something, typically with a sudden or forceful motion",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: agriculture and farming",
-      "meaning": "to produce or allow to grow or develop something, such as a crop or an idea.",
+      "context": "output",
+      "meaning": "production of a certain amount",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "another distinct domain: finance and economics",
-      "meaning": "to generate revenue or profit from an investment or asset, often in the form of interest or dividends.",
+      "context": "return",
+      "meaning": "the income or profit arising from such transactions as the sale of land or other property",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "an amount of a product",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "the ratio of the distance an object has fallen to the distance it would have fallen if dropped from a certain height, used to describe the efficiency of a system",
       "added": "accumulated",
       "source": "llm"
     }

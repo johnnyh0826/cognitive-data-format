@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "funeral and mourning",
-      "meaning": "a hole in the ground for burying a dead body",
+      "context": "time",
+      "meaning": "death of a person",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology and archaeology",
-      "meaning": "an accumulation of sediment or debris, often forming a layer or deposit",
+      "context": "object",
+      "meaning": "a place for the burial of a corpse (especially beneath the ground and marked by a tombstone)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "grave accent",
+      "meaning": "a mark (`) placed above a vowel to indicate pronunciation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "idiomatic expression",
+      "meaning": "a serious or solemn mood, as if one is standing at a grave",
       "added": "accumulated",
       "source": "llm"
     }

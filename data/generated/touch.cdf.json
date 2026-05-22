@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical interaction",
-      "meaning": "to make physical contact with something or someone",
+      "context": "event",
+      "meaning": "the event of something coming in contact with the body",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "emotional resonance",
-      "meaning": "to evoke a strong emotional response in someone, often through empathy or understanding",
+      "context": "psychology",
+      "meaning": "the faculty by which external objects or forces are perceived through contact with the body (especially the hands)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a suggestion of some quality",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "emotion",
+      "meaning": "to evoke a sense of warmth or intimacy",
       "added": "accumulated",
       "source": "llm"
     }

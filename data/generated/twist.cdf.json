@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "textile and sewing",
-      "meaning": "to turn or manipulate fabric in a specific way to create a desired shape or pattern.",
+      "context": "turn",
+      "meaning": "an unforeseen development",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "dance and performance",
-      "meaning": "a movement or series of movements characterized by rotation around a central axis, often used in styles such as jazz or contemporary dance.",
+      "context": "construction",
+      "meaning": "an interpretation of a text or action",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "device",
+      "meaning": "any clever maneuver",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "physical activity",
+      "meaning": "a movement of the body involving rotation or turning",
       "added": "accumulated",
       "source": "llm"
     }

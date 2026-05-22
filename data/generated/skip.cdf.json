@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports and games",
-      "meaning": "to deliberately avoid or omit a turn, move, or action in a game or competition",
+      "context": "action",
+      "meaning": "a gait in which steps and hops alternate",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "omission",
+      "meaning": "a mistake resulting from neglect",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "jump",
+      "meaning": "bypass",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "music",
-      "meaning": "to pass over or omit a section of music, often intentionally to create a sense of tension or drama",
+      "meaning": "to omit or leave out (a section of music) in performance",
       "added": "accumulated",
       "source": "llm"
     }

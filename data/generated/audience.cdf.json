@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "theater and performance",
-      "meaning": "people gathered to watch a show or presentation",
+      "context": "group",
+      "meaning": "a gathering of spectators or listeners at a (usually public) performance",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "marketing and advertising",
-      "meaning": "targeted group of people with shared interests or demographics",
+      "context": "group",
+      "meaning": "the part of the general public interested in a source of information or entertainment",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "hearing",
+      "meaning": "an opportunity to state your case and be heard",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "a group of people who are influenced by a particular idea, trend, or style",
       "added": "accumulated",
       "source": "llm"
     }

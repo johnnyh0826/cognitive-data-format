@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "government",
-      "meaning": "a sovereign entity with its own government, laws, and international recognition.",
+      "context": "geography",
+      "meaning": "the territory occupied by one of the constituent administrative districts of a nation",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "Tops",
+      "meaning": "the way something is with respect to its main attributes",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "the group of people comprising the government of a sovereign state",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "psychology",
-      "meaning": "a mental state of being, such as conscious or unconscious, that influences an individual's thoughts, feelings, and behaviors.",
+      "meaning": "a mental state, such as a mood or emotional condition",
       "added": "accumulated",
       "source": "llm"
     }

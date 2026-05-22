@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "financial domain",
-      "meaning": "a record or statement of financial transactions and their resulting balances, typically used for tax purposes or to monitor spending.",
+      "context": "history",
+      "meaning": "a record or narrative description of past events",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "social media domain",
-      "meaning": "an online profile or page representing an individual or entity's presence and activities, often used for networking and sharing information.",
+      "context": "report",
+      "meaning": "a short account of the news",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "state",
+      "meaning": "a formal contractual relationship established to provide for regular banking or brokerage or business services",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "financial planning",
+      "meaning": "a person's financial situation or status, especially in relation to their income and expenses",
       "added": "accumulated",
       "source": "llm"
     }

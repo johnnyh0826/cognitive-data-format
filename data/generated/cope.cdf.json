@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology and mental health",
-      "meaning": "to deal with or manage a difficult situation, challenge, or emotion",
+      "context": "header",
+      "meaning": "brick that is laid sideways at the top of a wall",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography and climate",
-      "meaning": "to adapt to or adjust one's behavior in response to changing environmental conditions",
+      "context": "object",
+      "meaning": "a long cloak; worn by a priest or bishop on ceremonial occasions",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "social",
+      "meaning": "come to terms with",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "to manage or deal with a difficult situation, problem, or emotion",
       "added": "accumulated",
       "source": "llm"
     }

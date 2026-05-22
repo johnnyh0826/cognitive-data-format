@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "economy and finance",
-      "meaning": "to trade or barter goods, services, or assets for others",
+      "context": "phenomenon",
+      "meaning": "chemical process in which one atom or ion or group changes places with another",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "linguistics and communication",
-      "meaning": "the act of giving or taking something in return for something else, such as an idea or a promise",
+      "context": "communication",
+      "meaning": "a mutual expression of views (especially an unpleasant one)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "the act of changing one thing for another thing",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Finance",
+      "meaning": "the act of buying or selling a financial instrument, such as a security or currency, in order to profit from price movements",
       "added": "accumulated",
       "source": "llm"
     }

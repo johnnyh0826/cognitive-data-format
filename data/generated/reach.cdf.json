@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical action",
-      "meaning": "to extend one's hand or arm to touch, grasp, or manipulate something",
+      "context": "range",
+      "meaning": "the limits within which something can be effective",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "figurative extension",
-      "meaning": "to attain or achieve a goal, objective, or level of understanding",
+      "context": "scope",
+      "meaning": "an area in which something acts or operates or has power or control:",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "the act of physically reaching or thrusting out",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "to connect or establish a sense of understanding or empathy with someone",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics",
-      "meaning": "a slender, elongated object that resists being bent or broken",
+      "context": "object",
+      "meaning": "an implement consisting of a length of wood",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "golf",
-      "meaning": "a thin, flexible rod used to manipulate and position golf balls on the green",
+      "context": "biology",
+      "meaning": "a small thin branch of a tree",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a lever used by a pilot to control the ailerons and elevators of an airplane",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a unit of measurement in some video games, typically representing a small distance or amount",
       "added": "accumulated",
       "source": "llm"
     }

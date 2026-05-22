@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "democracy and governance",
-      "meaning": "a vote or survey of opinions, typically by a large number of people",
+      "context": "psychology",
+      "meaning": "an inquiry into public opinion conducted by interviewing a random sample of people",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "botany and horticulture",
-      "meaning": "the act of transferring pollen from the male organ of a plant to the female organ, often resulting in fertilization",
+      "context": "pate",
+      "meaning": "the top of the head",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "anatomy",
+      "meaning": "the part of the head between the ears",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "voting",
+      "meaning": "a vote or ballot, especially in a political election",
       "added": "accumulated",
       "source": "llm"
     }

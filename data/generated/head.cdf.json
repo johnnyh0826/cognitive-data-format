@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "anatomy and physiology",
-      "meaning": "the upper part of the human body containing the brain, eyes, ears, nose, mouth, and facial features",
+      "context": "anatomy",
+      "meaning": "the upper part of the human body or the front part of the body in animals; contains the face and brains",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "leadership and authority",
-      "meaning": "the person in charge or at the top of an organization's hierarchy",
+      "context": "biology",
+      "meaning": "a single domestic animal",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "mind",
+      "meaning": "that which is responsible for one's thoughts and feelings; the seat of the faculty of reason",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "leadership",
+      "meaning": "the person in charge or leader of a team, organization, or project",
       "added": "accumulated",
       "source": "llm"
     }

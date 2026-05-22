@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "maritime and shipping",
-      "meaning": "a location on a body of water where ships can dock or anchor",
+      "context": "geography",
+      "meaning": "a place (seaport or airport) where people and merchandise can enter or leave a country",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "an interface that connects a computer to the internet, allowing data transfer",
+      "context": "food",
+      "meaning": "sweet dark-red dessert wine originally from Portugal",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "an opening (in a wall or ship or armored vehicle) for firing through",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a protocol used for establishing and configuring network connections",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical domain",
-      "meaning": "to be in a state of being not closed or obstructed, allowing entry or access.",
+      "context": "geography",
+      "meaning": "a clear or unobstructed space or expanse of land or water",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing and technology",
-      "meaning": "to make available for use or to create an opportunity for something to be accessed or used.",
+      "context": "outdoors",
+      "meaning": "where the air is unconfined",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "a tournament in which both professionals and amateurs may play",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a file or program that can be read and written by different applications without being locked or modified",
       "added": "accumulated",
       "source": "llm"
     }

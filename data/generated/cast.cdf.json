@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "theater and performance",
-      "meaning": "to present a play, show, or production to an audience",
+      "context": "group",
+      "meaning": "the actors in a play",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy and space exploration",
-      "meaning": "to throw or launch into orbit around the sun, as in a planetary body's trajectory",
+      "context": "mold",
+      "meaning": "container into which liquid is poured to create a given shape when it hardens",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geometry",
+      "meaning": "the distinctive form in which a thing is made",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "astronomy",
+      "meaning": "the apparent position of a celestial body in the sky, especially as seen from Earth",
       "added": "accumulated",
       "source": "llm"
     }

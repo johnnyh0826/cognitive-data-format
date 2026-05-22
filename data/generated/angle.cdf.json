@@ -4,14 +4,28 @@
     {
       "id": "01",
       "context": "geometry",
-      "meaning": "a figure formed by two rays diverging from a common point, called the vertex.",
+      "meaning": "the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "photography",
-      "meaning": "the position of the camera relative to the subject, used to create a specific visual effect.",
+      "context": "slant",
+      "meaning": "a biased way of looking at or presenting something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "a member of a Germanic people who conquered England and merged with the Saxons and Jutes to become Anglo-Saxons",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "a measure of the steepness of a curve or surface, often used in computer graphics and game development",
       "added": "accumulated",
       "source": "llm"
     }

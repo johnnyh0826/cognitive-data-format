@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "nautical domain",
-      "meaning": "a flat surface on a ship or boat, used for navigating or holding cargo",
+      "context": "object",
+      "meaning": "any of various platforms built into a vessel",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "playing cards domain",
-      "meaning": "a set of playing cards, typically 52, including suits and ranks",
+      "context": "object",
+      "meaning": "street name for a packet of illegal drugs",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "pack of cards",
+      "meaning": "a pack of 52 playing cards",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "nautical",
+      "meaning": "the flat surface at the back of a ship or boat, typically used for storage or as a platform",
       "added": "accumulated",
       "source": "llm"
     }

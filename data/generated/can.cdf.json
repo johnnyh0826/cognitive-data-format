@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "container domain",
-      "meaning": "a container made of metal, plastic, or other materials to hold or store something",
+      "context": "object",
+      "meaning": "airtight sealed metal container for food or drink or paint etc.",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "ability domain",
-      "meaning": "to be capable or able to do something, often used in phrases like 'can I' or 'can you'",
+      "context": "measurement",
+      "meaning": "the quantity contained in a can",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a buoy with a round bottom and conical top",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "ability",
+      "meaning": "to be able or permitted to do something",
       "added": "accumulated",
       "source": "llm"
     }

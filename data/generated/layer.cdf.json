@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology",
-      "meaning": "a layer is a horizontal or nearly horizontal stratum of rock, sediment, or soil.",
+      "context": "object",
+      "meaning": "single thickness of usually some homogeneous substance",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer graphics",
-      "meaning": "in computer graphics and game development, a layer refers to a two-dimensional or three-dimensional space that contains visual elements such as images, text, or shapes.",
+      "context": "geography",
+      "meaning": "a relatively thin sheetlike expanse or region lying over or under another",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "level",
+      "meaning": "an abstract place usually conceived as having depth",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "art and design",
+      "meaning": "a level or stage in a creative process, such as painting or architecture",
       "added": "accumulated",
       "source": "llm"
     }

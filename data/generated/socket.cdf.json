@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a connector that allows two devices to communicate or transfer data",
+      "context": "anatomy",
+      "meaning": "a bony hollow into which a structure fits",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "anatomy",
-      "meaning": "the opening at the base of a tooth, allowing passage of nerves and blood vessels",
+      "context": "object",
+      "meaning": "receptacle where something (a pipe or probe or end of a bone) is inserted",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a receptacle into which an electric device can be inserted",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Computer Science",
+      "meaning": "A socket in computer networking is a endpoint for sending and receiving data, often used in protocols such as TCP/IP",
       "added": "accumulated",
       "source": "llm"
     }

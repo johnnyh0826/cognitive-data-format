@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical and biological domain",
-      "meaning": "a state of inactivity or sleep, often characterized by reduced metabolic activity.",
+      "context": "remainder",
+      "meaning": "something left after other parts have been taken away",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computational and technical domain",
-      "meaning": "the process of leaving a system or network idle for a period of time to conserve resources or prevent degradation.",
+      "context": "action",
+      "meaning": "freedom from activity (work or strain or responsibility)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "respite",
+      "meaning": "a pause for relaxation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a period of silence or quiet music between movements in a musical composition",
       "added": "accumulated",
       "source": "llm"
     }

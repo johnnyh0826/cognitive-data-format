@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "transportation",
-      "meaning": "a self-propelled vehicle on rails for carrying passengers or freight",
+      "context": "object",
+      "meaning": "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "meditation and self-improvement",
-      "meaning": "a system of meditation and self-reflection, often involving visualization and goal-setting",
+      "context": "string",
+      "meaning": "a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "caravan",
+      "meaning": "a procession (of wagons or mules or camels) traveling together in single file",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "education",
+      "meaning": "a series of connected learning experiences or modules, often leading to a certification or degree",
       "added": "accumulated",
       "source": "llm"
     }

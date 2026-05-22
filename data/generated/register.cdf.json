@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "to store data in a database or program",
+      "context": "communication",
+      "meaning": "an official written record of names or events or transactions",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "official records and documents",
-      "meaning": "to record information formally, such as births, marriages, and deaths",
+      "context": "property",
+      "meaning": "(music) the timbre that is characteristic of a certain range and manner of production of the human voice or of different pipe organ stops or of different musical instruments",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "finance",
+      "meaning": "a book in which names and transactions are listed",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a data structure that maps keys to values",
       "added": "accumulated",
       "source": "llm"
     }

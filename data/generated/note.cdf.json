@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music and performance",
-      "meaning": "a brief, written or printed reminder of something to be performed or remembered",
+      "context": "communication",
+      "meaning": "a brief written record",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "writing and documentation",
-      "meaning": "a concise record or summary of information, often used as a reference or for future recall",
+      "context": "communication",
+      "meaning": "a short personal letter",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a notation representing the pitch and duration of a musical sound",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "financial",
+      "meaning": "a brief written record of a financial transaction or account entry",
       "added": "accumulated",
       "source": "llm"
     }

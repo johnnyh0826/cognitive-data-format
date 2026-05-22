@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "having a high resistance to deformation or flow, as in metals or other materials.",
+      "context": "difficult",
+      "meaning": "not easy; requiring great physical or mental effort to accomplish or comprehend or endure",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "requiring significant processing power and memory resources, such as a computationally hard problem.",
+      "context": "all",
+      "meaning": "dispassionate",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "all",
+      "meaning": "resisting weight or pressure",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "emotional state",
+      "meaning": "difficult or unpleasant to deal with; stressful",
       "added": "accumulated",
       "source": "llm"
     }

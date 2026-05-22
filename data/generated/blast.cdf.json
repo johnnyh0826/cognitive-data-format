@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and chemistry",
-      "meaning": "a sudden release of energy, often accompanied by a loud noise or explosion",
+      "context": "action",
+      "meaning": "a very long fly ball",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy and space exploration",
-      "meaning": "the process of propelling a spacecraft through space using rocket engines",
+      "context": "bang",
+      "meaning": "a sudden very loud noise",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "gust",
+      "meaning": "a strong current of air",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "astronomy",
+      "meaning": "a sudden and intense release of energy from a star, often resulting in a supernova",
       "added": "accumulated",
       "source": "llm"
     }

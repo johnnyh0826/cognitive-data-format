@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "engineering and construction",
-      "meaning": "a planned undertaking with specific goals and timelines",
+      "context": "undertaking",
+      "meaning": "any piece of work that is undertaken or attempted",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology and motivation",
-      "meaning": "an individual's mental effort to achieve a desired outcome or goal",
+      "context": "psychology",
+      "meaning": "a planned undertaking",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "communicate vividly",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business domain",
+      "meaning": "a set of tasks or activities with a specific goal or objective",
       "added": "accumulated",
       "source": "llm"
     }

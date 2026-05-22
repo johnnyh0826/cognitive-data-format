@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music",
-      "meaning": "the quality of sound produced by a musical instrument or voice, used to describe pitch and timbre",
+      "context": "communication",
+      "meaning": "the quality of a person's voice",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a person's attitude or manner of speaking, conveyed through their tone of voice, words, and body language",
+      "context": "property",
+      "meaning": "(linguistics) a pitch or change in pitch of the voice that serves to distinguish words in tonal languages",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "timbre",
+      "meaning": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "emotional intelligence",
+      "meaning": "the prevailing emotional atmosphere or attitude, as sensed by others",
       "added": "accumulated",
       "source": "llm"
     }

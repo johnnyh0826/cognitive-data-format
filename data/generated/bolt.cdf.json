@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "fastener technology",
-      "meaning": "a metal or plastic device used to join two things together, typically by screwing or unscrewing.",
+      "context": "thunderbolt",
+      "meaning": "a discharge of lightning accompanied by thunder",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy and meteorology",
-      "meaning": "a sudden release of energy in the atmosphere, often accompanied by a bright flash of light and a loud crackling sound.",
+      "context": "object",
+      "meaning": "a sliding bar in a breech-loading firearm that ejects an empty cartridge and replaces it and closes the breech",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "the part of a lock that is engaged or withdrawn with a key",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mechanical engineering",
+      "meaning": "a fastener with a threaded shaft and a hexagonal head, used to join two parts together",
       "added": "accumulated",
       "source": "llm"
     }

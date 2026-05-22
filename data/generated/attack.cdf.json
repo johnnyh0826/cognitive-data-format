@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "military and warfare",
-      "meaning": "to launch a deliberate assault on an enemy position or target",
+      "context": "action",
+      "meaning": "(military) an offensive against an enemy (using weapons)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing and cybersecurity",
-      "meaning": "to attempt to gain unauthorized access to a computer system or network",
+      "context": "action",
+      "meaning": "an offensive move in a sport or game",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "fire",
+      "meaning": "intense adverse criticism",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a sudden and intense demand for a resource or service, often resulting in overload or failure",
       "added": "accumulated",
       "source": "llm"
     }

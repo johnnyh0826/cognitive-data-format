@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: psychology",
-      "meaning": "to participate actively and intentionally in a mental or emotional process, such as a conversation or conflict resolution.",
+      "context": "prosecute",
+      "meaning": "carry out or participate in an activity; be involved in",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "another distinct domain: technology",
-      "meaning": "to interact with a computer system, software, or application through user input, such as clicking or typing.",
+      "context": "absorb",
+      "meaning": "consume all of one's attention or time",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "hire",
+      "meaning": "engage or hire for work",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "to focus one's mental resources and attention on a particular task or activity",
       "added": "accumulated",
       "source": "llm"
     }

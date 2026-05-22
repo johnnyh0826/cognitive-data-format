@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "space exploration",
-      "meaning": "to send a spacecraft or rocket into orbit or flight",
+      "context": "object",
+      "meaning": "a motorboat with an open deck or a half deck",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "product marketing",
-      "meaning": "to introduce a new product or service to the market",
+      "context": "launching",
+      "meaning": "the act of propelling with force",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "establish",
+      "meaning": "set up or found",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "astronomy",
+      "meaning": "to send or direct a spacecraft into orbit or towards another celestial body",
       "added": "accumulated",
       "source": "llm"
     }

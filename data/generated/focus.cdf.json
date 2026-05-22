@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "optics and photography",
-      "meaning": "the point where rays of light converge, or the area of greatest intensity in an image",
+      "context": "psychology",
+      "meaning": "the concentration of attention or energy on something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology and self-improvement",
-      "meaning": "the ability to direct one's attention and mental resources towards a specific goal or task, often requiring discipline and concentration",
+      "context": "property",
+      "meaning": "maximum clarity or distinctness of an image rendered by an optical system",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "maximum clarity or distinctness of an idea",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "prioritizing goals and objectives, often in a strategic plan",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "commerce and finance",
-      "meaning": "to give back or pay back something, such as money owed or a product purchased.",
+      "context": "tax return",
+      "meaning": "document giving the tax collector information about the taxpayer's tax liability",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy and physics",
-      "meaning": "the act of an object or spacecraft coming back to its original position or orbit after being launched or sent elsewhere.",
+      "context": "action",
+      "meaning": "a coming to or returning home",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "the occurrence of a change in direction back in the opposite direction",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Business",
+      "meaning": "to bring back or restore something, such as an investment or a product, to its original state or condition",
       "added": "accumulated",
       "source": "llm"
     }

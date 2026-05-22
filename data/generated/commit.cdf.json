@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "to save changes to a version control system or database",
+      "context": "perpetrate",
+      "meaning": "perform an act, usually with a negative connotation",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "to make a conscious decision or take responsibility for one's actions",
+      "context": "give",
+      "meaning": "give entirely to a specific person, activity, or cause",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "finance",
+      "meaning": "cause to be admitted; of persons to an institution",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "to save changes made to a project or code in a version control system, such as Git",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "furniture and design",
-      "meaning": "a piece of furniture with horizontal or vertical bars for holding objects, such as tools or dishes.",
+      "context": "object",
+      "meaning": "framework for holding objects",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "a network of celestial bodies, particularly stars and galaxies, that are aligned in a specific pattern.",
+      "context": "food",
+      "meaning": "rib section of a forequarter of veal or pork or especially lamb or mutton",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "wrack",
+      "meaning": "the destruction or collapse of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a series of notes or sounds in a particular pattern or sequence",
       "added": "accumulated",
       "source": "llm"
     }

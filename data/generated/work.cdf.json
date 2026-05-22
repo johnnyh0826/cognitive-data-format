@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: occupational activity",
-      "meaning": "to perform a task or series of tasks to earn a living or achieve a goal",
+      "context": "action",
+      "meaning": "activity directed toward making or doing something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "domain: psychology and motivation",
-      "meaning": "an effort or activity that is undertaken with the intention of achieving a desired outcome, often driven by personal fulfillment or satisfaction",
+      "context": "object",
+      "meaning": "a product produced or accomplished through the effort or activity or agency of a person or thing",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "employment",
+      "meaning": "the occupation for which you are paid",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "personal development",
+      "meaning": "the process of self-improvement and skill-building, often requiring effort and dedication",
       "added": "accumulated",
       "source": "llm"
     }

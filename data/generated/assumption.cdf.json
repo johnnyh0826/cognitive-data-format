@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "logic and argumentation",
-      "meaning": "a conclusion drawn from incomplete or uncertain information, often without explicit evidence",
+      "context": "premise",
+      "meaning": "a statement that is assumed to be true and from which a conclusion can be drawn",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science and programming",
-      "meaning": "an initial value assigned to a variable before its actual value is determined by the program's execution",
+      "context": "psychology",
+      "meaning": "a hypothesis that is taken for granted",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "the act of taking possession of or power over something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "a mental construct or framework that influences one's thoughts, feelings, and behaviors",
       "added": "accumulated",
       "source": "llm"
     }

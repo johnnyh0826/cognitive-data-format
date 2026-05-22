@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and design",
-      "meaning": "repeated sequence of shapes or colors in a consistent arrangement",
+      "context": "form",
+      "meaning": "a perceptual structure",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology and ecology",
-      "meaning": "predictable sequence of events or behaviors exhibited by living organisms",
+      "context": "practice",
+      "meaning": "a customary way of operation or behavior",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "design",
+      "meaning": "a decorative or artistic work",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "a regular or repeated sequence of numbers, shapes, or other mathematical elements",
       "added": "accumulated",
       "source": "llm"
     }

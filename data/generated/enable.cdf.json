@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "to make a computer system or software functional, operational, or accessible",
+      "context": "change",
+      "meaning": "render capable or able for some task",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "education and training",
-      "meaning": "to equip someone with the skills, knowledge, or authority to perform a task or function",
+      "context": "computer science",
+      "meaning": "to make something operational or functional, typically by providing necessary input or configuration",
       "added": "accumulated",
       "source": "llm"
     }

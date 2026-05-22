@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical activity",
-      "meaning": "to engage in a sequence of movements, typically on a bicycle or other vehicle, for exercise or recreation",
+      "context": "time",
+      "meaning": "an interval during which a recurring sequence of events occurs",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology and ecology",
-      "meaning": "a process in which an organism's life stage is repeated, often with a specific role or function, such as the cycle of a butterfly from egg to adult",
+      "context": "group",
+      "meaning": "a series of poems or songs on the same theme",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "a periodically repeated sequence of events",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "transportation",
+      "meaning": "a sequence of pedaling movements on a bicycle, typically for exercise or transportation",
       "added": "accumulated",
       "source": "llm"
     }

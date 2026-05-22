@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: making things",
-      "meaning": "to make or create something using skill and labor, often by hand",
+      "context": "trade",
+      "meaning": "the skilled practice of a practical occupation",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "domain of sailing and navigation",
-      "meaning": "a type of boat or ship, typically small and maneuverable",
+      "context": "object",
+      "meaning": "a vehicle designed for navigation in or on water or air or through outer space",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "people who perform a particular kind of skilled work",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "artistic domain",
+      "meaning": "the creative activity of making something with skill and imagination",
       "added": "accumulated",
       "source": "llm"
     }

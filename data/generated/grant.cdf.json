@@ -4,14 +4,28 @@
     {
       "id": "01",
       "context": "finance",
-      "meaning": "to give or award something, especially a sum of money, to someone or something",
+      "meaning": "any monetary aid",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "science",
-      "meaning": "in evolutionary biology, to transfer genes from one organism to another through reproduction",
+      "context": "action",
+      "meaning": "the act of providing a subsidy",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "finance",
+      "meaning": "(law) a transfer of property by deed of conveyance",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "academic",
+      "meaning": "the awarding of a privilege or opportunity, especially in education or research",
       "added": "accumulated",
       "source": "llm"
     }

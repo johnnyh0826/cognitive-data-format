@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "education and governance",
-      "meaning": "a committee or council of people responsible for a particular area, such as school board or town board",
+      "context": "group",
+      "meaning": "a committee having supervisory powers",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "games and sports",
-      "meaning": "a flat surface used to play games, such as a chessboard or a skateboard",
+      "context": "chemistry",
+      "meaning": "a stout length of sawn timber; made in a wide variety of sizes and used for many purposes",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a flat piece of material designed for a special purpose",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a flat surface used for playing games, such as chess or backgammon",
       "added": "accumulated",
       "source": "llm"
     }

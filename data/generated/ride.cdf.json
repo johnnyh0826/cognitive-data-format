@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "transportation domain",
-      "meaning": "to travel on a vehicle, such as a car, bike, or horse, for pleasure or necessity",
+      "context": "drive",
+      "meaning": "a journey in a vehicle (usually an automobile)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy domain",
-      "meaning": "the movement of celestial bodies around each other, particularly in the context of planetary orbits and gravitational forces",
+      "context": "object",
+      "meaning": "a mechanical device that you ride for amusement or excitement",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "movement",
+      "meaning": "sit and travel on the back of animal, usually while controlling its motions",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "to participate in a ride, such as a bicycle or horseback ride, for exercise or competition",
       "added": "accumulated",
       "source": "llm"
     }

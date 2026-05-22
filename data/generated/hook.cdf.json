@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "fishing and sailing",
-      "meaning": "a curved or angled piece of metal, wood, or other material used to catch fish or tie up a boat",
+      "context": "object",
+      "meaning": "a catch for locking a door",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and performance",
-      "meaning": "a device for holding or attaching something, such as a musical instrument or costume, to the body",
+      "context": "geometry",
+      "meaning": "a sharp curve or crook; a shape resembling a hook",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "bait",
+      "meaning": "anything that serves as an enticement",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "fishing",
+      "meaning": "a device used to catch fish, typically consisting of a curved or angled piece of metal",
       "added": "accumulated",
       "source": "llm"
     }

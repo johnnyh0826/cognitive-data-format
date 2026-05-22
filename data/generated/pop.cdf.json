@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music",
-      "meaning": "a brief, sharp sound made by a sudden release of air or pressure, typically from a drumhead or a bottle.",
+      "context": "person",
+      "meaning": "an informal term for a father; probably derived from baby talk",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "culinary",
-      "meaning": "a carbonated beverage, such as soda water or champagne, that is poured or opened with a sudden release of pressure and gas.",
+      "context": "food",
+      "meaning": "a sweet drink containing carbonated water and flavoring",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "a sharp explosive sound as from a gunshot or drawing a cork",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a sudden, brief musical phrase or riff",
       "added": "accumulated",
       "source": "llm"
     }

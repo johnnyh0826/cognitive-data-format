@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "medicine",
-      "meaning": "the release of a fluid or gas from the body, especially urine or stool",
+      "context": "event",
+      "meaning": "the sudden giving off of energy",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "law",
-      "meaning": "a formal document issued by a court, such as a divorce decree or a judgment against a defendant",
+      "context": "action",
+      "meaning": "the act of venting",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "chemistry",
+      "meaning": "a substance that is emitted or released",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Medical",
+      "meaning": "the termination of a patient's treatment or hospital stay",
       "added": "accumulated",
       "source": "llm"
     }

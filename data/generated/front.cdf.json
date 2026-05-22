@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "anatomy",
-      "meaning": "the foremost part of an organ or structure",
+      "context": "geography",
+      "meaning": "the side that is forward or prominent",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "warfare",
-      "meaning": "the leading edge or position in a battle line or military operation",
+      "context": "battlefront",
+      "meaning": "the line along which opposing armies face each other",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "the outward appearance of a person",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business domain",
+      "meaning": "the most visible or prominent aspect of a company's operations or products",
       "added": "accumulated",
       "source": "llm"
     }

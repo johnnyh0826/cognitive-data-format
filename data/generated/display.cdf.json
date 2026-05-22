@@ -1,0 +1,33 @@
+{
+  "token": "display",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "communication",
+      "meaning": "something intended to communicate a particular impression",
+      "added": "first",
+      "source": "wordnet"
+    },
+    {
+      "id": "02",
+      "context": "action",
+      "meaning": "something shown to the public",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a visual representation of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a graphical user interface component that presents information or a visual representation of data",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

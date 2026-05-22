@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "theater and performance",
-      "meaning": "a setting or environment in which a story, play, or other performance takes place",
+      "context": "geography",
+      "meaning": "the place where some action occurs",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "photography and filmmaking",
-      "meaning": "the visual composition of a photograph or film, including lighting, subject placement, and camera angle",
+      "context": "event",
+      "meaning": "an incident (real or imaginary)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "view",
+      "meaning": "the visual percept of a region",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Film and Theater",
+      "meaning": "a sequence of events or actions that take place in a story, play, or film",
       "added": "accumulated",
       "source": "llm"
     }

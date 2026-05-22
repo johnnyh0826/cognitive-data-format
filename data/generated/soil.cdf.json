@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology and agriculture",
-      "meaning": "a naturally formed layer of rock, mineral, or organic matter on the surface of the Earth.",
+      "context": "dirt",
+      "meaning": "the state of being covered with unclean things",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "horticulture and gardening",
-      "meaning": "the mixture of decomposed organic matter, minerals, and other substances that support plant growth.",
+      "context": "chemistry",
+      "meaning": "the part of the earth's surface consisting of humus and disintegrated rock",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "land",
+      "meaning": "material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "garden design",
+      "meaning": "the mixture of organic matter, minerals, and living organisms that supports plant growth",
       "added": "accumulated",
       "source": "llm"
     }

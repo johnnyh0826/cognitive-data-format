@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: furniture and household",
-      "meaning": "a piece of furniture for sleeping or resting on",
+      "context": "object",
+      "meaning": "a piece of furniture that provides a place to sleep",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "medical domain: healthcare and medicine",
-      "meaning": "a device or equipment used in medical treatment or recovery",
+      "context": "object",
+      "meaning": "a plot of ground in which plants are growing",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a depression forming the ground under a body of water",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "education",
+      "meaning": "a place where students sleep or rest during school trips or camps",
       "added": "accumulated",
       "source": "llm"
     }

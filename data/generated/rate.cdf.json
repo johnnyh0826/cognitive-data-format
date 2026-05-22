@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "to evaluate or assess something in terms of value, quality, or performance",
+      "context": "time",
+      "meaning": "a magnitude or frequency relative to a time unit",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology and ecology",
-      "meaning": "the frequency at which a species reproduces or an organism grows",
+      "context": "finance",
+      "meaning": "amount of a charge or payment relative to some basis",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "pace",
+      "meaning": "the relative speed of progress or change",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "evaluation or assessment",
+      "meaning": "a judgment or opinion about the quality, value, or performance of something",
       "added": "accumulated",
       "source": "llm"
     }

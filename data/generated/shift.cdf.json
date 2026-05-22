@@ -3,16 +3,30 @@
   "tracks": [
     {
       "id": "01",
-      "context": "astronomy",
-      "meaning": "a change in position or orientation of celestial bodies, such as a planetary shift.",
-      "added": "accumulated",
-      "source": "llm"
+      "context": "event",
+      "meaning": "an event in which something is displaced without rotation",
+      "added": "first",
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "workplace",
-      "meaning": "the act of changing to a different work schedule, duty, or assignment.",
-      "added": "first",
+      "context": "transformation",
+      "meaning": "a qualitative change",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "time",
+      "meaning": "the time period during which you are at work",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "astronomy",
+      "meaning": "a change in the position of a celestial body relative to its orbit or trajectory",
+      "added": "accumulated",
       "source": "llm"
     }
   ]

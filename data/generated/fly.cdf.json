@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "aviation",
-      "meaning": "to move through the air, typically by flapping wings or using an engine.",
+      "context": "biology",
+      "meaning": "two-winged insects characterized by active flight",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "insectology",
-      "meaning": "to move through the air using wings, characteristic of insects such as flies and bees.",
+      "context": "tent-fly",
+      "meaning": "flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "aviation",
+      "meaning": "to operate an aircraft, especially a helicopter or a plane",
       "added": "accumulated",
       "source": "llm"
     }

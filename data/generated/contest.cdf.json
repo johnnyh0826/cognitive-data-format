@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "competition and sports",
-      "meaning": "a competition or rivalry between two or more people, teams, or entities to achieve a goal or win a prize.",
+      "context": "event",
+      "meaning": "an occasion on which a winner is selected from among two or more contestants",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "academic and professional",
-      "meaning": "an examination or test of one's knowledge, skills, or abilities, often in the form of an oral presentation, paper, or project.",
+      "context": "action",
+      "meaning": "a struggle between rivals",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "to make the subject of dispute, contention, or litigation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "education",
+      "meaning": "an event or competition where students or teams demonstrate their skills, knowledge, or creativity",
       "added": "accumulated",
       "source": "llm"
     }

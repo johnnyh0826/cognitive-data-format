@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "law",
-      "meaning": "a request made to a higher court for review and reconsideration of a decision.",
+      "context": "entreaty",
+      "meaning": "earnest or urgent request",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "property",
+      "meaning": "attractiveness that interests or pleases or stimulates",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "(law) a legal proceeding in which the appellant resorts to a higher court for the purpose of obtaining a review of a lower court decision and a reversal of the lower court's judgment or the granting of a new trial",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "marketing",
-      "meaning": "an attempt to persuade or influence someone's opinion, action, or purchase through advertising, promotion, or public relations.",
+      "meaning": "a persuasive or compelling quality that motivates people to take action or support a cause",
       "added": "accumulated",
       "source": "llm"
     }

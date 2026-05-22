@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics",
-      "meaning": "to rotate around a central axis",
+      "context": "event",
+      "meaning": "a swift whirling motion (usually of a missile)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "textile manufacturing",
-      "meaning": "to twist fibers together to form yarn",
+      "context": "action",
+      "meaning": "the act of rotating rapidly",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "a short drive in a car",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "entertainment",
+      "meaning": "a type of dance move or performance, often characterized by rapid rotation and fluid movement",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "a small arachnid that attaches itself to a host animal and feeds on its blood.",
+      "context": "event",
+      "meaning": "a metallic tapping sound",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "biology",
+      "meaning": "any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "check mark",
+      "meaning": "a mark indicating that something has been noted or completed etc.",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "timekeeping",
-      "meaning": "a unit of time equal to 1/60th of an hour, used in clocks and watches.",
+      "meaning": "a small unit of time, equivalent to one-sixtieth of a minute",
       "added": "accumulated",
       "source": "llm"
     }

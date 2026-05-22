@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "to move closer to something, often with a sense of gradual increase in intensity or magnitude",
+      "context": "action",
+      "meaning": "ideas or actions intended to deal with a problem or situation",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy and space exploration",
-      "meaning": "to enter the gravitational influence of a celestial body, such as approaching a planet or moon",
+      "context": "action",
+      "meaning": "the act of drawing spatially closer to something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "access",
+      "meaning": "a way of entering or leaving",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "a mental or emotional attitude towards a person, situation, or idea",
       "added": "accumulated",
       "source": "llm"
     }

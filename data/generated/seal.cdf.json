@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology and ecology",
-      "meaning": "a mammal of the order Carnivora, typically having a streamlined body and flippers.",
+      "context": "sealing wax",
+      "meaning": "fastener consisting of a resinous composition that is plastic when warm; used for sealing documents and parcels and letters",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "shipping and navigation",
-      "meaning": "a device used to secure or fasten something, such as cargo or a hatch.",
+      "context": "object",
+      "meaning": "a device incised to make an impression; used to secure a closing or to authenticate documents",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "chemistry",
+      "meaning": "the pelt or fur (especially the underfur) of a seal",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "nautical",
+      "meaning": "a device used to close or secure a ship's hatch or opening",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and mechanics",
-      "meaning": "to cause to move along a curved or circular path, often under the influence of gravity.",
+      "context": "axial rotation",
+      "meaning": "rotary motion of an object around its own axis",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "photography",
-      "meaning": "to rotate the camera around its central axis to adjust the position of the subject or modify the composition.",
+      "context": "communication",
+      "meaning": "a list of names",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "roller",
+      "meaning": "a long heavy sea wave as it advances towards the shore",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "to manipulate or control a game's outcome, often unfairly",
       "added": "accumulated",
       "source": "llm"
     }

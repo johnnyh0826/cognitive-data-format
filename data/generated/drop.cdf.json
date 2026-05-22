@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics",
-      "meaning": "the sudden release of a physical object from a higher to a lower position, often due to gravity.",
+      "context": "geometry",
+      "meaning": "a shape that is spherical and small",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "chemistry",
-      "meaning": "to release or precipitate a substance from a solution or mixture.",
+      "context": "measurement",
+      "meaning": "a small indefinite quantity (especially of a liquid); ; ; ; --Kipling",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "a sudden sharp decrease in some quantity",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a sudden stop or pause in a performance or recording",
       "added": "accumulated",
       "source": "llm"
     }

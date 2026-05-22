@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "government and politics",
-      "meaning": "a person or group with power to make decisions and enforce rules",
+      "context": "property",
+      "meaning": "the power or right to give orders or make decisions",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "education and academia",
-      "meaning": "an expert in a particular field, recognized for their knowledge and expertise",
+      "context": "person",
+      "meaning": "(usually plural) persons who exercise (administrative) control over others",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "an expert whose views are taken as definitive",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "philosophy",
+      "meaning": "a legitimate source of knowledge or truth",
       "added": "accumulated",
       "source": "llm"
     }

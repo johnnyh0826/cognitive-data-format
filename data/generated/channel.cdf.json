@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication technology",
-      "meaning": "a path or route for transmitting data or signals",
+      "context": "communication",
+      "meaning": "a path over which electrical signals can pass",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography and environment",
-      "meaning": "a natural or artificial watercourse that connects two bodies of water",
+      "context": "object",
+      "meaning": "a passage for water (or other fluids) to flow through",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "groove",
+      "meaning": "a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "broadcasting",
+      "meaning": "a medium for transmitting information, entertainment, or news to a wide audience through various means such as television, radio, internet, etc.",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "meteorology",
-      "meaning": "the layer of gases surrounding the Earth, including the troposphere and stratosphere.",
+      "context": "state",
+      "meaning": "a particular environment or surrounding influence",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "theatrical production",
-      "meaning": "the mood or emotional tone created by a performance, lighting, sound, or set design.",
+      "context": "standard atmosphere",
+      "meaning": "a unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "the mass of air surrounding the Earth",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "astronomy",
+      "meaning": "the envelope of gases surrounding a planet or moon, as opposed to its solid surface",
       "added": "accumulated",
       "source": "llm"
     }

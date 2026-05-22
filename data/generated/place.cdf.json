@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "a location on Earth's surface, such as a city, town, or village.",
+      "context": "topographic point",
+      "meaning": "a point located with respect to surface features of some region",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "philosophy and sociology",
-      "meaning": "an environment or setting where social interactions occur, such as a workplace, home, or community.",
+      "context": "geography",
+      "meaning": "any area set aside for a particular purpose",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "an abstract mental location",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "geography",
+      "meaning": "a location on a map or in a particular region, often used for navigation or orientation",
       "added": "accumulated",
       "source": "llm"
     }

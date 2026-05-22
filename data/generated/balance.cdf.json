@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "a state of equilibrium between opposing forces or moments",
+      "context": "state",
+      "meaning": "a state of equilibrium",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "accounting and finance",
-      "meaning": "a situation where an individual's income equals their expenses, neither exceeding nor falling short",
+      "context": "finance",
+      "meaning": "equality between the totals of the credit and debit sides of an account",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "proportion",
+      "meaning": "harmonious arrangement or relation of parts or elements within a whole (as in a design); - John Ruskin",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "physical fitness",
+      "meaning": "a state of physical well-being, where one's body is in harmony with itself and its surroundings",
       "added": "accumulated",
       "source": "llm"
     }

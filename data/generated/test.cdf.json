@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "scientific experimentation",
-      "meaning": "to evaluate or measure the performance, quality, or effectiveness of something",
+      "context": "trial",
+      "meaning": "trying something to find out about it",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "educational assessment",
-      "meaning": "to assess or evaluate student learning or understanding through quizzes, exams, or assignments",
+      "context": "action",
+      "meaning": "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "examination",
+      "meaning": "a set of questions or exercises evaluating skill or knowledge",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "an experiment or trial run, especially in a scientific or psychological study",
       "added": "accumulated",
       "source": "llm"
     }

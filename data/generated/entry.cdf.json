@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "the initial point or position in a data structure or algorithm.",
+      "context": "communication",
+      "meaning": "an item inserted in a written record",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "sports and fitness",
-      "meaning": "the act of entering a competition, event, or game.",
+      "context": "introduction",
+      "meaning": "the act of beginning something new",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "finance",
+      "meaning": "a written record of a commercial transaction",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a single instance of data inserted into a database or data structure",
       "added": "accumulated",
       "source": "llm"
     }

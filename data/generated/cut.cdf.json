@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "to separate or divide something using a sharp edge, blade, or force",
+      "context": "finance",
+      "meaning": "a share of the profits",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and performance",
-      "meaning": "a sudden stop or ending of a song, scene, or performance",
+      "context": "communication",
+      "meaning": "(film) an immediate transition from one shot to the next",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a trench resembling a furrow that was made by erosion or excavation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "verb",
+      "meaning": "to reduce or shorten something, typically by dividing it along a line or plane",
       "added": "accumulated",
       "source": "llm"
     }

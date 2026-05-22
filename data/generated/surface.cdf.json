@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "the outer layer or upper part of a natural feature, such as a mountain or lake.",
+      "context": "object",
+      "meaning": "the outer boundary of an artifact or a material layer constituting or resembling such a boundary",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "a level or plane in computer graphics or game development, often used to describe a 3D model's outer layer.",
+      "context": "geography",
+      "meaning": "the extended two-dimensional outer boundary of a three-dimensional object",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "the outermost level of the land or sea",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "geology",
+      "meaning": "the uppermost layer of rock or soil that is exposed at the Earth's surface",
       "added": "accumulated",
       "source": "llm"
     }

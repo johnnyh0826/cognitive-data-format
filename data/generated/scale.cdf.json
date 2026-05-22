@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music",
-      "meaning": "to adjust or modify the pitch of a musical instrument",
+      "context": "relationship",
+      "meaning": "an ordered reference standard",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "a series of steps or platforms, typically rocky or sandy, that lead from the beach to deeper water",
+      "context": "relationship",
+      "meaning": "relative magnitude",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "relationship",
+      "meaning": "the ratio between the size of something and a representation of it",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a series of musical notes or sounds, typically ascending or descending in pitch",
       "added": "accumulated",
       "source": "llm"
     }

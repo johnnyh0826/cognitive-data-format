@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "acoustics",
-      "meaning": "a device that produces sound waves through vibration or air flow",
+      "context": "object",
+      "meaning": "a hollow device made of metal that makes a ringing sound when struck",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "Christianity",
-      "meaning": "a symbol of divine presence, often associated with angels and heavenly events",
+      "context": "doorbell",
+      "meaning": "a push button at an outer door that gives a ringing or buzzing signal when pushed",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "the sound of a bell being struck",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "nautical",
+      "meaning": "a ship's bell is rung at regular intervals to mark time, often used in navigation",
       "added": "accumulated",
       "source": "llm"
     }

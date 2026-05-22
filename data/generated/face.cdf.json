@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "human anatomy and physiology",
-      "meaning": "the front part of the human head, including the eyes, nose, mouth, and jaw",
+      "context": "anatomy",
+      "meaning": "the front of the human head from the forehead to the chin and ear to ear",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "social interaction and communication",
-      "meaning": "a person's expression or appearance as an indicator of their emotions or intentions",
+      "context": "expression",
+      "meaning": "the feelings expressed on a person's face",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "the general outward appearance of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Computing",
+      "meaning": "A graphical user interface (GUI) element that displays information or provides a way for users to interact with an application",
       "added": "accumulated",
       "source": "llm"
     }

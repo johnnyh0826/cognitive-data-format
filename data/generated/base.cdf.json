@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geometry",
-      "meaning": "a starting or initial point in a coordinate system",
+      "context": "object",
+      "meaning": "installation from which a military force initiates operations",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "foundation",
+      "meaning": "lowest support of a structure",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a place that the runner must touch before scoring",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "mathematics",
-      "meaning": "the value of a logarithmic function, especially the natural logarithm",
+      "meaning": "the value of a logarithm in a given base",
       "added": "accumulated",
       "source": "llm"
     }

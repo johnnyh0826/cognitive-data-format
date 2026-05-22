@@ -1,0 +1,33 @@
+{
+  "token": "bear",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "biology",
+      "meaning": "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
+      "added": "first",
+      "source": "wordnet"
+    },
+    {
+      "id": "02",
+      "context": "person",
+      "meaning": "an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "state",
+      "meaning": "have",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "idiom",
+      "meaning": "to bear with someone means to patiently tolerate or endure something unpleasant, often in a situation where one might normally react negatively",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

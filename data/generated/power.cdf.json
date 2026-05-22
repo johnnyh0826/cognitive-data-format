@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical science",
-      "meaning": "the ability to do work, typically measured in watts.",
+      "context": "property",
+      "meaning": "possession of controlling influence",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "politics and governance",
-      "meaning": "the ability to influence or control the actions of others, often through authority or coercion.",
+      "context": "phenomenon",
+      "meaning": "(physics) the rate of doing work; measured in watts (= joules/second)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "ability",
+      "meaning": "possession of the qualities (especially mental qualities) required to do something or get something done",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "politics",
+      "meaning": "the authority or control that a person or group has over others, often in a government or organization",
       "added": "accumulated",
       "source": "llm"
     }

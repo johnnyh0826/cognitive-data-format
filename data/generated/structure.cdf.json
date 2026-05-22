@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and physics",
-      "meaning": "a set of rules or patterns that govern the behavior of a system",
+      "context": "object",
+      "meaning": "a thing constructed; a complex entity constructed of many parts",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science and architecture",
-      "meaning": "the arrangement of components in relation to each other, such as software modules or building elements",
+      "context": "property",
+      "meaning": "the manner of construction of something and the arrangement of its parts",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "the complex composition of knowledge as elements and their combinations",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "biology",
+      "meaning": "the organization of cells, tissues, and organs in an organism",
       "added": "accumulated",
       "source": "llm"
     }

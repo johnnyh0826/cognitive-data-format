@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "law and economics",
-      "meaning": "a thing or things belonging to someone, especially a piece of land or a building",
+      "context": "finance",
+      "meaning": "something owned; any tangible or intangible possession that is owned by someone",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "information technology",
-      "meaning": "metadata that describes the characteristics of a digital asset, such as a file or an image",
+      "context": "property",
+      "meaning": "a basic or essential attribute shared by all members of a class",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "place",
+      "meaning": "any area set aside for a particular purpose",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "law and government",
+      "meaning": "a right or interest held by someone in a thing, such as land or an asset",
       "added": "accumulated",
       "source": "llm"
     }

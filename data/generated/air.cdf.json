@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and chemistry",
-      "meaning": "a colorless, odorless, tasteless gas that surrounds the Earth and is essential for life",
+      "context": "chemistry",
+      "meaning": "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "aviation and aerospace",
-      "meaning": "the thin layer of gases surrounding a celestial body or aircraft, influencing flight dynamics",
+      "context": "geography",
+      "meaning": "the region above the ground",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "a distinctive but intangible quality surrounding a person or thing",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "meteorology",
+      "meaning": "the layer of gases surrounding the Earth, extending from the surface up to about 10 km",
       "added": "accumulated",
       "source": "llm"
     }

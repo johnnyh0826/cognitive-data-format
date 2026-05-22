@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports",
-      "meaning": "to hit or make a ball move in a particular direction, especially in cricket or baseball",
+      "context": "action",
+      "meaning": "a group's refusal to work in protest against low pay or bad work conditions",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "labor and industry",
-      "meaning": "a work stoppage by employees to protest working conditions, wages, or benefits",
+      "context": "action",
+      "meaning": "an attack that is intended to seize or inflict damage on or destroy an objective",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "a gentle blow",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "a sudden movement of a ball or player in a game, often resulting in a scoring opportunity",
       "added": "accumulated",
       "source": "llm"
     }

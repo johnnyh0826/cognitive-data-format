@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "publishing",
-      "meaning": "a self-contained piece of writing in a newspaper, magazine, or journal",
+      "context": "communication",
+      "meaning": "nonfictional prose forming an independent part of a publication",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "grammar",
-      "meaning": "a noun that refers to an object or concept",
+      "context": "Tops",
+      "meaning": "one of a class of artifacts",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a separate section of a legal document (as a statute or contract or will)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "journalism",
+      "meaning": "a written piece on a particular topic, typically published in a newspaper or magazine",
       "added": "accumulated",
       "source": "llm"
     }

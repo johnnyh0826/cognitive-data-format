@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics",
-      "meaning": "to propel oneself upward by muscular force, typically from a standing or seated position.",
+      "context": "event",
+      "meaning": "a sudden and decisive increase",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "a programming instruction that transfers control to another part of the program.",
+      "context": "leap",
+      "meaning": "an abrupt transition",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "(film) an abrupt transition from one scene to another",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "to suddenly and quickly move a character or avatar in a game, often to avoid obstacles or reach new areas",
       "added": "accumulated",
       "source": "llm"
     }

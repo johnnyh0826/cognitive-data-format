@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "the measure of how far down or in a structure extends, such as the depth of a well or a building's foundation.",
+      "context": "property",
+      "meaning": "the extent downward or backward or inward",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology and philosophy",
-      "meaning": "the state or quality of being profound, thoughtful, or introspective; the ability to understand and explore complex ideas and emotions.",
+      "context": "property",
+      "meaning": "degree of psychological or intellectual profundity",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "(usually plural) the deepest and most remote part",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "photography",
+      "meaning": "the distance of a subject from the camera, measured along the line of sight",
       "added": "accumulated",
       "source": "llm"
     }

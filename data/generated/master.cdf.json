@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "A person who has complete control or authority over something, such as a ship, a project, or an organization.",
+      "context": "maestro",
+      "meaning": "an artist of consummate skill",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and performance",
-      "meaning": "A skilled musician or performer who has achieved a high level of expertise and reputation in their field.",
+      "context": "overlord",
+      "meaning": "a person who has general authority over others",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "victor",
+      "meaning": "a combatant who is able to defeat rivals",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "academic or research",
+      "meaning": "a person who has expert knowledge in a particular field, often considered the most authoritative figure",
       "added": "accumulated",
       "source": "llm"
     }

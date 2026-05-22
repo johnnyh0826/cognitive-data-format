@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and geometry",
-      "meaning": "a shape that is symmetrical on all sides",
+      "context": "object",
+      "meaning": "a charge of ammunition for a single shot",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "cooking and hospitality",
-      "meaning": "a meal or party where food is served in a circular pattern",
+      "context": "cycle",
+      "meaning": "an interval during which a recurring sequence of events occurs",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "beat",
+      "meaning": "a regular route for a sentry or policeman",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Geometry",
+      "meaning": "a shape or figure that is symmetrical on all sides, with equal distance from a central point",
       "added": "accumulated",
       "source": "llm"
     }

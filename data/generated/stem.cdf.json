@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "botany",
-      "meaning": "the main part of a plant, such as a leaf or flower stem.",
+      "context": "root",
+      "meaning": "(linguistics) the form of a word after all affixes are removed",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": " mathematics",
-      "meaning": "a line segment that extends from the vertex of an angle to one of its arms.",
+      "context": "stalk",
+      "meaning": "a slender or elongated structure that supports a plant or fungus or a plant part or plant organ",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "shank",
+      "meaning": "cylinder forming a long narrow part of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "medicine",
+      "meaning": "the narrow end of a needle or other sharp instrument",
       "added": "accumulated",
       "source": "llm"
     }

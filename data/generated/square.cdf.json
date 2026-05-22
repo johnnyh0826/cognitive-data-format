@@ -4,14 +4,28 @@
     {
       "id": "01",
       "context": "geometry",
-      "meaning": "a two-dimensional shape with four sides and four angles, where all internal angles are right angles.",
+      "meaning": "(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "architecture",
-      "meaning": "a building or structure with a flat roof and walls, often used for commercial or residential purposes.",
+      "context": "measurement",
+      "meaning": "the product of two equal terms",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "public square",
+      "meaning": "an open area at the meeting of two or more streets",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a type of dance characterized by a series of steps that form a square shape",
       "added": "accumulated",
       "source": "llm"
     }

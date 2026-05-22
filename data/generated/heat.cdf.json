@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and chemistry",
-      "meaning": "thermal energy or motion of particles due to temperature",
+      "context": "phenomenon",
+      "meaning": "a form of energy that is transferred by a difference in temperature",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "medical treatment",
-      "meaning": "therapeutic application of heat for pain relief, relaxation, or muscle relaxation",
+      "context": "hotness",
+      "meaning": "the presence of heat",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "the sensation caused by heat energy",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "weather forecasting",
+      "meaning": "a measure of the intensity or severity of a heatwave",
       "added": "accumulated",
       "source": "llm"
     }

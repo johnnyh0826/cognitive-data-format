@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical appearance",
-      "meaning": "a shape or structure that gives something its outline",
+      "context": "communication",
+      "meaning": "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "mathematics and science",
-      "meaning": "the arrangement of elements in a particular way, such as the form of an equation or the structure of a molecule",
+      "context": "kind",
+      "meaning": "a category of things distinguished by some common characteristic or quality",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "a perceptual structure",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "design and architecture",
+      "meaning": "a template or blueprint for something, such as a document, application, or interface",
       "added": "accumulated",
       "source": "llm"
     }

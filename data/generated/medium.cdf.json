@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communications",
-      "meaning": "a channel or means of communication, such as a medium like radio or television.",
+      "context": "communication",
+      "meaning": "a means or instrumentality for storing or communicating information",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "paranormal",
-      "meaning": "a supposed psychic or spiritual entity that serves as a bridge between the physical and spiritual worlds, such as an medium who communicates with spirits.",
+      "context": "geography",
+      "meaning": "the surrounding environment",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "an intervening substance through which signals can travel as a means for communication",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "photography",
+      "meaning": "a type of camera or photography technique that captures a balance between light and dark, neither too bright nor too dim",
       "added": "accumulated",
       "source": "llm"
     }

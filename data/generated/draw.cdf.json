@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "visual arts",
-      "meaning": "to create a representation of something by using lines, shapes, and colors on paper or computer screen",
+      "context": "object",
+      "meaning": "a gully that is shallower than a ravine",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "gaming and entertainment",
-      "meaning": "to win a game or competition without the need for additional rounds or matches",
+      "context": "drawing card",
+      "meaning": "an entertainer who attracts large audiences",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "the finish of a contest in which the score is tied and the winner is undecided",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "artistic process",
+      "meaning": "to create a representation of something on a surface using various tools and techniques, such as pencils, paints, or digital software",
       "added": "accumulated",
       "source": "llm"
     }

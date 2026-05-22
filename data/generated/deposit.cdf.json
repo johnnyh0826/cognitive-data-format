@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "to transfer money or assets into a bank account, investment, or other financial institution.",
+      "context": "phenomenon",
+      "meaning": "the phenomenon of sediment or gravel accumulating",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology",
-      "meaning": "the process of laying down sedimentary rock layers, such as sand or silt, over time.",
+      "context": "sediment",
+      "meaning": "matter that has been deposited by some natural process",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "deposition",
+      "meaning": "the natural process of laying down a deposit of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Finance",
+      "meaning": "the act of placing money or assets into a bank account, investment, or other financial institution",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "electronics",
-      "meaning": "a path or route for electric current to flow through a device or network",
+      "context": "object",
+      "meaning": "an electrical device that provides a path for electrical current to flow",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "gymnastics",
-      "meaning": "a sequence of movements or skills performed on an apparatus, such as the trampoline or uneven bars",
+      "context": "tour",
+      "meaning": "a journey or route all the way around a particular place or area",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "an established itinerary of venues or events that a particular group of people travel to",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a sequence of instructions or operations that are executed in a specific order",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports",
-      "meaning": "a flying mammal that uses echolocation to navigate and hunt in the dark",
+      "context": "biology",
+      "meaning": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing",
-      "meaning": "a small program or script that runs independently and interacts with an operating system",
+      "context": "action",
+      "meaning": "(baseball) a turn trying to get a hit",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "squash racket",
+      "meaning": "a small racket with a long handle used for playing squash",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "symbolism",
+      "meaning": "a symbol of darkness, fear, or chaos in various cultures and mythologies",
       "added": "accumulated",
       "source": "llm"
     }

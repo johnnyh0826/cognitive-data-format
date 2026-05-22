@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "to move air or gas through a medium, often with force",
+      "context": "action",
+      "meaning": "a powerful stroke with the fist or a weapon",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and performance",
-      "meaning": "to play an instrument or sing loudly and with enthusiasm",
+      "context": "event",
+      "meaning": "an impact (as from a collision)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "reverse",
+      "meaning": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": " idioms and phrases",
+      "meaning": "to spend money freely or wastefully, often in a way that is considered foolish",
       "added": "accumulated",
       "source": "llm"
     }

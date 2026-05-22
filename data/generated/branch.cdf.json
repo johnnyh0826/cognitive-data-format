@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "a part of a tree that grows out from the trunk or main stem.",
+      "context": "group",
+      "meaning": "a division of some larger or more complex organization",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "biology",
+      "meaning": "a division of a stem, or secondary stem arising from the main stem of a plant",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geometry",
+      "meaning": "a part of a forked or branching shape",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "computer science",
-      "meaning": "an instance of a program or algorithm, often used to refer to a specific version or iteration.",
+      "meaning": "a path or direction in a decision tree or flowchart",
       "added": "accumulated",
       "source": "llm"
     }

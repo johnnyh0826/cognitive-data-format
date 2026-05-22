@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "business and commerce",
-      "meaning": "a type of organization with a fixed capital structure, perpetual existence, and limited liability, often characterized by a formal agreement among its members.",
+      "context": "group",
+      "meaning": "the members of a business organization that owns or operates one or more establishments",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology and mining",
-      "meaning": "a type of rock or mineral deposit that is compact and dense, often resulting from the cooling and solidification of magma.",
+      "context": "tauten",
+      "meaning": "become taut or tauter",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "tauten",
+      "meaning": "make taut or tauter",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "firm in one's resolve or opinion; resolute",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "visual arts and design",
-      "meaning": "to conceal or cover something, as in hiding a mistake or imperfection in a drawing or sculpture.",
+      "context": "chemistry",
+      "meaning": "the dressed skin of an animal (especially a large animal)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer programming and coding",
-      "meaning": "to conceal or obscure code or data from view, as in hiding variables or functions to improve program security.",
+      "context": "biology",
+      "meaning": "body covering of a living animal",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "perception",
+      "meaning": "prevent from being seen or discovered",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "photography",
+      "meaning": "to conceal or mask a subject's features in an image, often for artistic effect",
       "added": "accumulated",
       "source": "llm"
     }

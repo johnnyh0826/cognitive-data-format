@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "botany",
-      "meaning": "the thick, fleshy leaf of a palm tree",
+      "context": "anatomy",
+      "meaning": "the inner surface of the hand from the wrist to the base of the fingers",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "handheld technology",
-      "meaning": "a small, portable computer device with a touchscreen interface",
+      "context": "measurement",
+      "meaning": "a linear unit based on the length or width of the human hand",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "biology",
+      "meaning": "any plant of the family Palmae having an unbranched trunk crowned by large pinnate or palmate leaves",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a control or button on a game controller, typically located at the top of the device",
       "added": "accumulated",
       "source": "llm"
     }

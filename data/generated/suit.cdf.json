@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "clothing and fashion",
-      "meaning": "a set of garments worn together, typically including a jacket and trousers or skirt",
+      "context": "object",
+      "meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "card games and poker",
-      "meaning": "a set of cards with the same rank, used to make decisions in various card games",
+      "context": "lawsuit",
+      "meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "(slang) a businessman dressed in a business suit",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "card games",
+      "meaning": "a set of cards with a specific combination and ranking, used in various card games such as bridge or poker",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "the measure of time elapsed since an organism's formation or a particular event in its life history.",
+      "context": "property",
+      "meaning": "how long something has existed",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "social/cultural",
-      "meaning": "a stage of life characterized by specific social norms, expectations, and cultural phenomena.",
+      "context": "historic period",
+      "meaning": "an era of history having some distinctive feature",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "time",
+      "meaning": "a time of life (usually defined in years) at which some particular qualification or power arises",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "a stage of development or maturity in an individual's life, often referring to a specific phase of emotional, social, or cognitive growth",
       "added": "accumulated",
       "source": "llm"
     }

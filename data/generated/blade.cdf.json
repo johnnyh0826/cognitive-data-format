@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: cutting tool",
-      "meaning": "a thin, flat piece of metal used for cutting or slicing",
+      "context": "biology",
+      "meaning": "especially a leaf of grass or the broad portion of a leaf as distinct from the petiole",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "domain: aviation and sailing",
-      "meaning": "the leading edge of an airplane or sail that cuts through the air",
+      "context": "person",
+      "meaning": "a dashing young man",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "something long and thin resembling a blade of grass",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "kitchenware",
+      "meaning": "a sharp-edged tool used for cutting or slicing food",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "a natural elevation of the earth's surface, typically forming a peak or ridge.",
+      "context": "saddle horse",
+      "meaning": "a lightweight horse kept for riding only",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy",
-      "meaning": "the ground-based platform supporting a telescope or other astronomical equipment to observe celestial objects.",
+      "context": "climb",
+      "meaning": "the act of climbing something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "mountain",
+      "meaning": "a land mass that projects well above its surroundings; higher than a hill",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "geology",
+      "meaning": "a geological formation that is higher and more prominent than a hill, but not necessarily a mountain",
       "added": "accumulated",
       "source": "llm"
     }

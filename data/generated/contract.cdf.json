@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "law and business",
-      "meaning": "a written or spoken agreement between two or more parties with mutually binding obligations",
+      "context": "communication",
+      "meaning": "a binding agreement between two or more persons that is enforceable by law",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology and medicine",
-      "meaning": "the formation of a union between gametes to produce a zygote, resulting in the development of a new individual",
+      "context": "communication",
+      "meaning": "(contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "a variety of bridge in which the bidder receives points toward game only for the number of tricks he bid",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "a written agreement between two or more parties that outlines the terms and conditions of a business deal",
       "added": "accumulated",
       "source": "llm"
     }

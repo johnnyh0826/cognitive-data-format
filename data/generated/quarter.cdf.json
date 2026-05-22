@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "time measurement",
-      "meaning": "a unit of time equal to one-fourth of an hour or day",
+      "context": "one-fourth",
+      "meaning": "one of four equal parts",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "coinage and currency",
-      "meaning": "the 25-cent coin in the United States, Canada, and Australia",
+      "context": "geography",
+      "meaning": "a district of a city having some distinguishing character",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "time",
+      "meaning": "(football, professional basketball) one of four divisions into which some games are divided",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a period of three minutes, especially in a jazz performance",
       "added": "accumulated",
       "source": "llm"
     }

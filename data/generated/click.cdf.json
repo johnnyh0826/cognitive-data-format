@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "to activate a graphical user interface (GUI) element, such as a button or link",
+      "context": "chink",
+      "meaning": "a short light metallic sound",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "human-computer interaction",
-      "meaning": "a physical action of pressing or tapping on a surface to trigger an event or selection",
+      "context": "suction stop",
+      "meaning": "a stop consonant made by the suction of air into the mouth (as in Bantu)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "pawl",
+      "meaning": "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer interaction",
+      "meaning": "to activate a button or hyperlink on a digital interface, typically by using a mouse or touch screen",
       "added": "accumulated",
       "source": "llm"
     }

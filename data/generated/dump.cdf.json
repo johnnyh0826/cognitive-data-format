@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "waste management",
-      "meaning": "to dispose of waste or unwanted material, often in a haphazard manner.",
+      "context": "shit",
+      "meaning": "a coarse term for defecation",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "gaming and technology",
-      "meaning": "in video games, to intentionally sacrifice one's character or resources for the benefit of others, often in a multiplayer setting.",
+      "context": "geography",
+      "meaning": "a piece of land where waste materials are dumped",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "(computer science) a copy of the contents of a computer storage device; sometimes used in debugging programs",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "transportation",
+      "meaning": "to throw away or dispose of something, especially in a careless or hasty manner",
       "added": "accumulated",
       "source": "llm"
     }

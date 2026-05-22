@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "a label or identification given to a person, place, or thing",
+      "context": "communication",
+      "meaning": "a language unit by which a person or thing is known",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "onomastics and linguistics",
-      "meaning": "the origin and history of a personal name, including its etymology and cultural significance",
+      "context": "state",
+      "meaning": "a person's reputation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "family based on male descent",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "identification",
+      "meaning": "a unique identifier given to a person, place, or thing",
       "added": "accumulated",
       "source": "llm"
     }

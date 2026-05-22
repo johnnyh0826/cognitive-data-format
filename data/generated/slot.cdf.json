@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a sequence of characters or symbols that a computer program uses to represent data",
+      "context": "communication",
+      "meaning": "a position in a grammatical linguistic construction in which a variety of alternative units are interchangeable",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "gaming and entertainment",
-      "meaning": "a position or opening in a game, such as a video game or slot machine",
+      "context": "object",
+      "meaning": "a small slit (as for inserting a coin or depositing mail)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "time slot",
+      "meaning": "a time assigned on a schedule or agenda",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a position or opening in a game, such as a slot machine or a video game",
       "added": "accumulated",
       "source": "llm"
     }

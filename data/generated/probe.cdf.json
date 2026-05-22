@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Astronomy",
-      "meaning": "to investigate or study a celestial body using instruments and data.",
+      "context": "psychology",
+      "meaning": "an inquiry into unfamiliar or questionable activities",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "Computer Science",
-      "meaning": "a program or algorithm that tests the boundaries of a system, network, or software to identify vulnerabilities.",
+      "context": "object",
+      "meaning": "a flexible slender surgical instrument with a blunt end that is used to explore wounds or body cavities",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "an exploratory action or expedition",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "astronomy",
+      "meaning": "a device used to measure the distance of celestial objects from Earth",
       "added": "accumulated",
       "source": "llm"
     }

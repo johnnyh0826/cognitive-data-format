@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "marine biology",
-      "meaning": "a submerged structure of coral, rock, or sand that breaks up waves and provides a habitat for marine life.",
+      "context": "object",
+      "meaning": "a submerged ridge of rock or coral near the surface of the water",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "scuba diving and snorkeling",
-      "meaning": "a popular destination for underwater exploration due to its unique ecosystems and diverse marine life.",
+      "context": "witwatersrand",
+      "meaning": "a rocky region in the southern Transvaal in northeastern South Africa; contains rich gold deposits and coal and manganese",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "one of several strips across a sail that can be taken in or rolled up to lessen the area of the sail that is exposed to the wind",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "ecology",
+      "meaning": "a shallow, tropical marine ecosystem characterized by coral and sea anemones",
       "added": "accumulated",
       "source": "llm"
     }

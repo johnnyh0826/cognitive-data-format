@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "shoemaking",
-      "meaning": "the rear part of a shoe or boot",
+      "context": "object",
+      "meaning": "the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "dance and performance",
-      "meaning": "a raised section at the back of a stage, used for dramatic effect",
+      "context": "anatomy",
+      "meaning": "the back part of the human foot",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "someone who is morally reprehensible",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "the back edge of a golf club or similar sporting equipment",
       "added": "accumulated",
       "source": "llm"
     }

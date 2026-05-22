@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics",
-      "meaning": "to determine or quantify the number of items or occurrences",
+      "context": "measurement",
+      "meaning": "the total number counted",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "to assess the quantity or frequency of cells, organisms, or genetic material",
+      "context": "action",
+      "meaning": "the act of counting; reciting numbers in ascending order",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "a nobleman (in various countries) having rank equal to a British earl",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "accounting",
+      "meaning": "the number of units or items in a particular category, such as count of assets or liabilities",
       "added": "accumulated",
       "source": "llm"
     }

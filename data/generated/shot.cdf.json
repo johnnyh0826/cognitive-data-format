@@ -1,0 +1,33 @@
+{
+  "token": "shot",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "shooting",
+      "meaning": "the act of firing a projectile",
+      "added": "first",
+      "source": "wordnet"
+    },
+    {
+      "id": "02",
+      "context": "object",
+      "meaning": "a solid missile discharged from a firearm",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "stroke",
+      "meaning": "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "photography",
+      "meaning": "a brief exposure of a camera's shutter to capture an image",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

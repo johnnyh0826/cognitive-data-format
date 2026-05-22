@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "transportation",
-      "meaning": "a person who drives a vehicle, especially for hire or as part of their job.",
+      "context": "person",
+      "meaning": "(sports) someone in charge of training an athlete or a team",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "education and training",
-      "meaning": "an instructor or trainer in a particular field or activity, who helps people learn and improve their skills.",
+      "context": "person",
+      "meaning": "a person who gives private instruction (as in singing, acting, etc.)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "passenger car",
+      "meaning": "a railcar where passengers ride",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a software framework that helps developers build scalable and maintainable applications",
       "added": "accumulated",
       "source": "llm"
     }

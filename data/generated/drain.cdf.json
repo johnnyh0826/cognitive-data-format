@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "plumbing and engineering",
-      "meaning": "a pipe or channel that carries waste or excess water away from a location",
+      "context": "action",
+      "meaning": "emptying something accomplished by allowing liquid to run out of it",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology and therapy",
-      "meaning": "to mentally process or release emotional tension or stress, often through talking or sharing",
+      "context": "object",
+      "meaning": "tube inserted into a body cavity (as during surgery) to remove unwanted material",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a pipe through which liquid is carried away",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "financial",
+      "meaning": "to reduce or eliminate a financial burden or debt",
       "added": "accumulated",
       "source": "llm"
     }

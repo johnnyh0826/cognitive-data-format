@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "the outer layer of an animal or plant, typically hard and protective",
+      "context": "object",
+      "meaning": "ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "a user interface that resembles a physical device, such as a command-line shell",
+      "context": "chemistry",
+      "meaning": "the material that forms the hard outer covering of many animals",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "carapace",
+      "meaning": "hard outer covering or case of certain organisms such as arthropods and turtles",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a command-line interface or terminal emulator, often used for Unix-like operating systems",
       "added": "accumulated",
       "source": "llm"
     }

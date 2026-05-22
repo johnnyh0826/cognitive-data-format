@@ -4,14 +4,28 @@
     {
       "id": "01",
       "context": "geography",
-      "meaning": "a region or area with a distinct character, climate, or culture.",
+      "meaning": "a locally circumscribed place characterized by some distinctive features",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "physics and engineering",
-      "meaning": "a specific range of frequency or energy level in electromagnetic radiation or sound waves.",
+      "context": "geography",
+      "meaning": "any of the regions of the surface of the Earth loosely divided according to latitude or longitude",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "an area or region distinguished from adjacent parts by a distinctive feature or characteristic",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "a designated area in a sports facility, such as a tennis zone or a free throw zone",
       "added": "accumulated",
       "source": "llm"
     }

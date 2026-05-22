@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Christianity",
-      "meaning": "to undergo baptism or confirmation by immersion in water",
+      "context": "object",
+      "meaning": "a wooden structure consisting of an upright post with a transverse piece",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "a point where two or more roads, paths, or boundaries intersect",
+      "context": "crisscross",
+      "meaning": "a marking that consists of lines that cross each other",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a representation of the structure on which Jesus was crucified; used as an emblem of Christianity or in heraldry",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Navigation",
+      "meaning": "to intersect or meet at a point, especially in a journey or route",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports",
-      "meaning": "to throw or propel a ball, disc, or other object in a specific way",
+      "context": "property",
+      "meaning": "the property of sound that varies with variation in the frequency of vibration",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "business and marketing",
-      "meaning": "a persuasive presentation to sell an idea, product, or service",
+      "context": "action",
+      "meaning": "(baseball) the act of throwing a baseball by a pitcher to a batter",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "a vendor's position (especially on the sidewalk)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "the act of singing or playing a musical instrument in a particular way, often with enthusiasm and energy",
       "added": "accumulated",
       "source": "llm"
     }

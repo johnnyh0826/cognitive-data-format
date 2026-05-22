@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "amusement and entertainment",
-      "meaning": "to engage in an activity for enjoyment or recreation",
+      "context": "communication",
+      "meaning": "a dramatic work intended for performance by actors on a stage",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "theater and performance",
-      "meaning": "a dramatic work, especially one written specifically for the stage",
+      "context": "communication",
+      "meaning": "a theatrical performance of a drama",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "a preset plan of action in team sports",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "recreation",
+      "meaning": "to engage in an activity for enjoyment or amusement",
       "added": "accumulated",
       "source": "llm"
     }

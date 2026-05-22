@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "philosophy and academia",
-      "meaning": "a person or thing being studied, discussed, or written about",
+      "context": "communication",
+      "meaning": "the subject matter of a conversation or discussion",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "grammar and syntax",
-      "meaning": "the noun or pronoun that is the focus of a sentence or clause",
+      "context": "object",
+      "meaning": "something (a person or object or scene) selected by an artist or photographer for graphic representation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "discipline",
+      "meaning": "a branch of knowledge",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "the person or entity being studied, observed, or experimented on in a psychological study",
       "added": "accumulated",
       "source": "llm"
     }

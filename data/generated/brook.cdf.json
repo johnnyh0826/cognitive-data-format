@@ -3,15 +3,22 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "a small stream or creek, typically flowing into a larger body of water.",
+      "context": "object",
+      "meaning": "a natural stream of water smaller than a river (and often a tributary of a river)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "digest",
+      "meaning": "put up with something or somebody unpleasant",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
       "context": "music",
-      "meaning": "in jazz and folk music, a brook is a type of slow, lyrical melody or tune.",
+      "meaning": "a slow and soothing piece of music, typically played on a flute or other gentle instrument",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "a substance composed of a mixture of gas bubbles trapped in a liquid",
+      "context": "object",
+      "meaning": "a mass of small bubbles formed in or on a liquid",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "sailing",
-      "meaning": "the frothy top layer of water on the surface of a sea or ocean, formed by wind and waves",
+      "context": "chemistry",
+      "meaning": "a lightweight material in cellular form; made by introducing gas bubbles during manufacture",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "change",
+      "meaning": "become bubbly or frothy or foaming",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "weather",
+      "meaning": "a thick, cloudy layer of water vapor near the ground",
       "added": "accumulated",
       "source": "llm"
     }

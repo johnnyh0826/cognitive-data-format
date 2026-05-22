@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports",
-      "meaning": "to strike or propel with the foot, especially in football, soccer, or martial arts",
+      "context": "action",
+      "meaning": "the act of delivering a blow with the foot",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music",
-      "meaning": "a sudden, sharp blow or attack on a drumhead, used to emphasize rhythm or create dramatic effect",
+      "context": "bang",
+      "meaning": "the swift release of a store of affective force",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "recoil",
+      "meaning": "the backward jerk of a gun when it is fired",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "to strike a ball or puck with one's foot, as in soccer or ice hockey",
       "added": "accumulated",
       "source": "llm"
     }

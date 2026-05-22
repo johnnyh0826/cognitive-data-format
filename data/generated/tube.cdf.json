@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mechanical engineering",
-      "meaning": "a hollow cylindrical structure used to convey fluids or gases",
+      "context": "object",
+      "meaning": "conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "medical treatment",
-      "meaning": "a hollow, flexible tube inserted into the body for surgical procedures or drainage",
+      "context": "object",
+      "meaning": "electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "pipe",
+      "meaning": "a hollow cylindrical shape",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "transportation",
+      "meaning": "a section of a railroad track, especially one with a smooth surface for high-speed trains",
       "added": "accumulated",
       "source": "llm"
     }

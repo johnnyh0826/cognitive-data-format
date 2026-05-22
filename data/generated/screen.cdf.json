@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer and technology",
-      "meaning": "a display device that shows images or text on a computer, phone, or other electronic device.",
+      "context": "object",
+      "meaning": "a white or silvered surface where pictures can be projected for viewing",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "theater and performance",
-      "meaning": "a surface on which a visual image is projected during a movie or play, often made of translucent material.",
+      "context": "blind",
+      "meaning": "a protective covering that keeps things out or hinders sight",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "the display that is electronically created on the surface of the large end of a cathode-ray tube",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "entertainment",
+      "meaning": "a surface on which a movie or play is projected for viewing",
       "added": "accumulated",
       "source": "llm"
     }

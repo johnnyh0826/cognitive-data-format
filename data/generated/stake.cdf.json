@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "gaming & betting",
-      "meaning": "a sum of money or other value risked on an uncertain outcome",
+      "context": "interest",
+      "meaning": "(law) a right or legal share of something; a financial involvement with something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "land ownership & territory",
-      "meaning": "a piece of land or a claim to it, especially as a means of securing a right or privilege",
+      "context": "post",
+      "meaning": "a pole or stake set up to mark something (as the start or end of a race track)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "instrument of execution consisting of a vertical post that a victim is tied to for burning",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a player's character or avatar in a game, especially one that is being controlled by another player",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: archery & sports",
-      "meaning": "to bend or curve forward, typically using a piece of wood, plastic, or other material to propel an arrow or projectile.",
+      "context": "object",
+      "meaning": "a knot with two loops and loose ends; used to tie shoelaces",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "another distinct domain: music & performance",
-      "meaning": "to perform a courteous and humble act of respect, often by bending the head or body forward, as in paying homage to someone.",
+      "context": "object",
+      "meaning": "a slightly curved piece of resilient wood with taut horsehair strands; used in playing certain stringed instruments",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "front part of a vessel or aircraft",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "ceremonial",
+      "meaning": "a gesture of respect or reverence, often accompanied by a slight inclination of the head",
       "added": "accumulated",
       "source": "llm"
     }

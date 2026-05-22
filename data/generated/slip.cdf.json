@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "to move or fall from a higher position to a lower one due to gravity or loss of traction",
+      "context": "faux pas",
+      "meaning": "a socially awkward or tactless act",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "medical and sports",
-      "meaning": "to strain or injure a joint or muscle, often resulting in pain or stiffness",
+      "context": "action",
+      "meaning": "a minor inadvertent mistake usually observed in speech or writing or in small accidents or memory lapses etc.",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "chemistry",
+      "meaning": "potter's clay that is thinned and used for coating or decorating ceramics",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "nautical",
+      "meaning": "a rope or line used for hauling or securing something on a ship or boat",
       "added": "accumulated",
       "source": "llm"
     }

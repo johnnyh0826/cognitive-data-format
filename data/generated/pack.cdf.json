@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: animal behavior",
-      "meaning": "a group of animals, typically of the same species, that stay together and cooperate",
+      "context": "battalion",
+      "meaning": "a large indefinite number",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "another distinct domain: computer science",
-      "meaning": "a collection of data or instructions stored in a contiguous block of memory",
+      "context": "group",
+      "meaning": "a complete collection of similar things",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a convenient package or parcel (as of cigarettes or film)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Sports",
+      "meaning": "a group of animals, typically horses or dogs, that are trained and ridden by a handler",
       "added": "accumulated",
       "source": "llm"
     }

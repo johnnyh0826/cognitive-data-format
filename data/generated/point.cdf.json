@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and geometry",
-      "meaning": "a location in space, defined by coordinates or a set of coordinates.",
+      "context": "psychology",
+      "meaning": "a geometric element that has position but no extension",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "debate and argumentation",
-      "meaning": "a specific aspect or feature of an idea or proposal to be discussed or debated.",
+      "context": "geography",
+      "meaning": "the precise location of something; a spatially limited location",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a brief version of the essential meaning of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "a value on a graph or chart that corresponds to a specific point in time or space",
       "added": "accumulated",
       "source": "llm"
     }

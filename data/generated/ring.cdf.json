@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "jewelry and adornment",
-      "meaning": "a circular band worn on the finger as a symbol of commitment, status, or personal style",
+      "context": "property",
+      "meaning": "a characteristic sound",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "physics and astronomy",
-      "meaning": "a circular shape formed by the intersection of two or more curves or surfaces",
+      "context": "geometry",
+      "meaning": "a toroidal shape",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "hoop",
+      "meaning": "a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "jewelry",
+      "meaning": "a circular piece of jewelry worn on the finger as a symbol of commitment or celebration",
       "added": "accumulated",
       "source": "llm"
     }

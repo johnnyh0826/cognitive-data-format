@@ -1,0 +1,33 @@
+{
+  "token": "heavy",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "person",
+      "meaning": "an actor who plays villainous roles",
+      "added": "first",
+      "source": "wordnet"
+    },
+    {
+      "id": "02",
+      "context": "psychology",
+      "meaning": "a serious (or tragic) role in a play",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "physics",
+      "meaning": "having a large mass or weight",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "with a slow and solemn tempo",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

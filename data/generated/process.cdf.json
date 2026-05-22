@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a series of instructions executed by a computer to achieve a specific task or goal",
+      "context": "procedure",
+      "meaning": "a particular course of action intended to achieve a result",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology and cognitive science",
-      "meaning": "the mental action or process of attending to an object, thought, or activity",
+      "context": "psychology",
+      "meaning": "(psychology) the performance of some composite cognitive activity; an operation that affects mental contents",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "summons",
+      "meaning": "a writ issued by authority of law; usually compels the defendant's attendance in a civil suit; failure to appear results in a default judgment against the defendant",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "a series of steps taken in a specific order to achieve a goal or complete a task, often used in project management",
       "added": "accumulated",
       "source": "llm"
     }

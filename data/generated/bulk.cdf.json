@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "a large quantity of something, often used to describe a substantial amount of goods or materials.",
+      "context": "majority",
+      "meaning": "the property resulting from being or relating to the greater in number of two parts; the main part",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "data processing",
-      "meaning": "the act of storing data in large blocks or chunks for efficient processing and storage.",
+      "context": "property",
+      "meaning": "the property of something that is great in magnitude",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "the property possessed by a large mass",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "a large quantity of goods or materials purchased or sold at a reduced price",
       "added": "accumulated",
       "source": "llm"
     }

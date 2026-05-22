@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "a word or phrase used to identify and distinguish one thing from another, such as a name or label.",
+      "context": "communication",
+      "meaning": "a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "academic and professional",
-      "meaning": "the name of a published work, such as a book or article, that reflects the author's reputation and expertise.",
+      "context": "communication",
+      "meaning": "the name of a work of art or literary composition etc.",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a general or descriptive heading for a section of a written work",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "news and journalism",
+      "meaning": "the name or headline of a news article or story",
       "added": "accumulated",
       "source": "llm"
     }

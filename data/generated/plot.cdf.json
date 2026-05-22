@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "theatre and storytelling",
-      "meaning": "a series of events that make up a story or drama",
+      "context": "psychology",
+      "meaning": "a secret scheme to do something (especially something underhand or illegal)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography and cartography",
-      "meaning": "an area of land with specific characteristics, such as climate, soil, or vegetation",
+      "context": "geography",
+      "meaning": "a small area of ground covered by specific vegetation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "the story that is told in a novel or play or movie etc.",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "a set of points in a plane, connected by line segments or curves",
       "added": "accumulated",
       "source": "llm"
     }

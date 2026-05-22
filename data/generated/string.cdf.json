@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music and performance",
-      "meaning": "a sequence of connected notes or sounds in music, dance, or theater",
+      "context": "object",
+      "meaning": "a lightweight cord",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing and programming",
-      "meaning": "a series of characters in a programming language used to define variables, functions, or data structures",
+      "context": "bowed stringed instrument",
+      "meaning": "stringed instruments that are played with a bow",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a tightly stretched cord of wire or gut, which makes sound when plucked, struck, or bowed",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a sequence of characters in a programming language, used to represent text or data",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a logical link between devices or systems in a network.",
+      "context": "relationship",
+      "meaning": "a relation between things or events (as in the case of one causing the other or sharing features with it)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "social relationships",
-      "meaning": "the bond or tie that exists between people, fostering communication and understanding.",
+      "context": "state",
+      "meaning": "the state of being connected",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "an instrumentality that connects",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "a sense of unity or rapport between people, often characterized by trust and understanding",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a numerical value or position in a sequence that identifies an item, such as a page number or a database record.",
+      "context": "relationship",
+      "meaning": "a numerical scale used to compare variables with one another or with some reference number",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology and medicine",
-      "meaning": "a finger-like projection on the surface of some organs, such as the pancreas or liver, used for attachment and support.",
+      "context": "communication",
+      "meaning": "a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "exponent",
+      "meaning": "a mathematical notation indicating the number of times a quantity is multiplied by itself",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a list or table of items, often used as a starting point for searching or navigating",
       "added": "accumulated",
       "source": "llm"
     }

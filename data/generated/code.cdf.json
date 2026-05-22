@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a set of instructions written in a programming language to solve a problem or perform a task",
+      "context": "communication",
+      "meaning": "a set of rules or principles or laws (especially written ones)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "secret messages and cryptography",
-      "meaning": "a system of symbols, letters, or numbers used to conceal the meaning of a message",
+      "context": "communication",
+      "meaning": "a coding system used for transmitting messages requiring brevity or secrecy",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a sequence of musical notes or a composition written in a specific style",
       "added": "accumulated",
       "source": "llm"
     }

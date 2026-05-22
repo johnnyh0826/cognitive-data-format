@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "calendaring and scheduling",
-      "meaning": "a specific point in time, often used to plan meetings or appointments",
+      "context": "time",
+      "meaning": "the specified day of the month",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology and paleontology",
-      "meaning": "a layer of sedimentary rock formed from the accumulation of organic matter",
+      "context": "person",
+      "meaning": "a participant in a date",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "a meeting arranged in advance",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "calendar",
+      "meaning": "a specific point in time, often used to describe a particular moment or occasion",
       "added": "accumulated",
       "source": "llm"
     }

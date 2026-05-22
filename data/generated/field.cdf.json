@@ -4,14 +4,28 @@
     {
       "id": "01",
       "context": "geography",
-      "meaning": "a piece of land with distinct characteristics, such as climate and vegetation.",
+      "meaning": "a piece of land cleared of trees and usually enclosed",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "sports",
-      "meaning": "an area designated for a specific sport or game, often marked by lines or boundaries.",
+      "context": "battlefield",
+      "meaning": "a region where a battle is being (or has been) fought",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "astronomy",
+      "meaning": "a region of space where stars or other celestial objects are concentrated",
       "added": "accumulated",
       "source": "llm"
     }

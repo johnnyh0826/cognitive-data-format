@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "accommodation domain",
-      "meaning": "a building or structure for temporary stay, especially in a wilderness area.",
+      "context": "person",
+      "meaning": "English physicist who studied electromagnetic radiation and was a pioneer of radiotelegraphy (1851-1940)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "freemasonry domain",
-      "meaning": "a secret society of craftsmen and traders that originated in the Middle Ages.",
+      "context": "club",
+      "meaning": "a formal association of people with similar interests",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "small house at the entrance to the grounds of a country mansion; usually occupied by a gatekeeper or gardener",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "accommodation",
+      "meaning": "a place where people can stay, typically in a natural setting, such as a campsite or a vacation home",
       "added": "accumulated",
       "source": "llm"
     }

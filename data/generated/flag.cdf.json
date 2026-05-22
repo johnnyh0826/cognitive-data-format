@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "symbolism and heraldry",
-      "meaning": "a symbol or emblem, often used to represent a nation, organization, or idea",
+      "context": "object",
+      "meaning": "emblem usually consisting of a rectangular piece of cloth of distinctive design",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "masthead",
+      "meaning": "a listing printed in all issues of a newspaper or magazine (usually on the editorial page) that gives the name of the publication and the names of the editorial staff, etc.",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "iris",
+      "meaning": "plants with sword-shaped leaves and erect stalks bearing bright-colored flowers composed of three petals and three drooping sepals",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "nautical",
-      "meaning": "the topmost part of a ship's mast, typically decorated with flags and other ornaments",
+      "meaning": "a piece of fabric or material used to make a flag",
       "added": "accumulated",
       "source": "llm"
     }

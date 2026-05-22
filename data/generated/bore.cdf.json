@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology",
-      "meaning": "to drill or excavate a hole in the earth's surface",
+      "context": "person",
+      "meaning": "a person who evokes boredom",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "nautical",
-      "meaning": "to make a ship or boat move through the water by pushing it with a pole",
+      "context": "tidal bore",
+      "meaning": "a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "diameter of a tube or gun barrel",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "geology",
+      "meaning": "a hole or passage in a rock or soil, especially one that is difficult to navigate",
       "added": "accumulated",
       "source": "llm"
     }

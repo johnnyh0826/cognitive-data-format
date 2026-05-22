@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "publishing and media",
-      "meaning": "a self-contained unit of written or printed content, typically in a book, magazine, or newspaper.",
+      "context": "communication",
+      "meaning": "one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer graphics and design",
-      "meaning": "an area on a computer screen or display device that can be manipulated independently of other areas.",
+      "context": "person",
+      "meaning": "English industrialist who pioneered in the design and manufacture of aircraft (1885-1962)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "United States diplomat and writer about the Old South (1853-1922)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": " computing",
+      "meaning": "a unit of memory or storage capacity, typically measured in kilobytes (KB), megabytes (MB), or gigabytes (GB)",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "engineering and construction",
-      "meaning": "a tubular structure for conveying fluids or gases",
+      "context": "object",
+      "meaning": "a tube with a small bowl at one end; used for smoking tobacco",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and art",
-      "meaning": "a device used to produce a musical sound, typically made of wood or plastic",
+      "context": "object",
+      "meaning": "a long tube made of metal or plastic that is used to carry water or oil or gas etc.",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geometry",
+      "meaning": "a hollow cylindrical shape",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a sequence of musical notes played on a pipe organ or other instrument",
       "added": "accumulated",
       "source": "llm"
     }

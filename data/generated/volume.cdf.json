@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music domain",
-      "meaning": "the amount of sound or music produced by a performer, recording, or instrument",
+      "context": "measurement",
+      "meaning": "the amount of 3-dimensional space occupied by an object",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "physics and engineering domain",
-      "meaning": "a measure of the amount of matter in an object or container, often measured in liters or cubic meters",
+      "context": "bulk",
+      "meaning": "the property of something that is great in magnitude",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "book",
+      "meaning": "physical objects consisting of a number of pages bound together",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "audio",
+      "meaning": "the amount of sound or noise produced by a device or instrument",
       "added": "accumulated",
       "source": "llm"
     }

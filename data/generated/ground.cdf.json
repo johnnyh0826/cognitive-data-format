@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology",
-      "meaning": "the surface of the Earth or other celestial body, including its physical features and composition.",
+      "context": "land",
+      "meaning": "the solid part of the earth's surface",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "physics",
-      "meaning": "a fundamental force that attracts two objects with mass towards each other.",
+      "context": "reason",
+      "meaning": "a rational motive for a belief or action",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "earth",
+      "meaning": "the loose soft material that makes up a large part of the land surface",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "the area of a sports field or court, especially in American football and baseball",
       "added": "accumulated",
       "source": "llm"
     }

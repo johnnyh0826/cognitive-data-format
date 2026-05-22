@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "a natural flow of water, such as a river or brook",
+      "context": "object",
+      "meaning": "a natural body of running water flowing on or under the earth",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "a continuous flow of data transmitted over the internet, often used for video or audio content",
+      "context": "group",
+      "meaning": "dominant course (suggestive of running water) of successive events or ideas",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "flow",
+      "meaning": "the act of flowing or streaming; continuous progression",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "broadcasting",
+      "meaning": "a continuous flow of audio or video content, such as a live broadcast or podcast",
       "added": "accumulated",
       "source": "llm"
     }

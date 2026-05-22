@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "a flat area of land or sea",
+      "context": "object",
+      "meaning": "a level tract of land",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "mathematics",
-      "meaning": "in geometry, a two-dimensional shape with no curvature",
+      "context": "object",
+      "meaning": "a shallow box in which seedlings are started",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a musical notation indicating one half step lower than the note named",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "photography",
+      "meaning": "a type of photography where the subject is captured from a low angle, often emphasizing its size or dominance",
       "added": "accumulated",
       "source": "llm"
     }

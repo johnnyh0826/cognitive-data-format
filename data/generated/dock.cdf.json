@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "maritime domain",
-      "meaning": "a structure built parallel to the bank of a waterway for loading and unloading ships",
+      "context": "object",
+      "meaning": "an enclosure in a court of law where the defendant sits during the trial",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music domain",
-      "meaning": "to adjust or fine-tune the pitch of an instrument, especially in jazz or blues music",
+      "context": "biology",
+      "meaning": "any of certain coarse weedy plants with long taproots, sometimes used as table greens or in folk medicine",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "pier",
+      "meaning": "a platform built out from the shore into the water and supported by piles; provides access to ships and boats",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a software framework for building web applications, providing a modular and flexible way to create web-based interfaces",
       "added": "accumulated",
       "source": "llm"
     }

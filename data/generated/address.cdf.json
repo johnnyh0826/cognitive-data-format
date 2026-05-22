@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "a statement or description that locates a person, organization, or place",
+      "context": "communication",
+      "meaning": "(computer science) the code that identifies where a piece of information is stored",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "a memory location and the data stored at that location in computer storage",
+      "context": "geography",
+      "meaning": "the place where a person or organization can be found or communicated with",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "the act of delivering a formal spoken communication to an audience",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "law",
+      "meaning": "a location or place where a court or legal proceeding takes place",
       "added": "accumulated",
       "source": "llm"
     }

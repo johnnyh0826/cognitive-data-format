@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and statistics",
-      "meaning": "a central or typical value in a set of numbers, often used to describe a characteristic or trend",
+      "context": "psychology",
+      "meaning": "a statistic describing the location of a distribution",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "everyday language and communication",
-      "meaning": "of moderate quality; neither exceptional nor poor, but ordinary and unremarkable",
+      "context": "relationship",
+      "meaning": "(sports) the ratio of successful performances to opportunities",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "an intermediate scale value regarded as normal or usual",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "everyday life",
+      "meaning": "a standard or typical value that is considered normal or acceptable",
       "added": "accumulated",
       "source": "llm"
     }

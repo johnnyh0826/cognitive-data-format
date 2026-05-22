@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "astronomy",
-      "meaning": "a period of time characterized by a distinct set of astronomical phenomena, such as stars and constellations.",
+      "context": "time",
+      "meaning": "a period of the year marked by special events or activities in some field",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "fashion",
-      "meaning": "a specific period of time when clothing styles or trends are popular, often characterized by a unique aesthetic or cultural influence.",
+      "context": "time",
+      "meaning": "one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "time",
+      "meaning": "a recurrent time marked by major holidays",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a period of time characterized by a particular style or genre of music, often used to describe a era in music history",
       "added": "accumulated",
       "source": "llm"
     }

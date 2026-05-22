@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics",
-      "meaning": "a mathematical function that maps input values to specific outputs",
+      "context": "property",
+      "meaning": "the feelings expressed on a person's face",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology and philosophy",
-      "meaning": "the external display of one's thoughts, feelings, or intentions through verbal or nonverbal means",
+      "context": "communication",
+      "meaning": "expression without words",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "the communication (in speech or writing) of your beliefs or opinions",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "a mathematical function that describes a relationship between variables",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "journalism and publishing",
-      "meaning": "to exert force or pressure to get something done, often in a political or social context",
+      "context": "imperativeness",
+      "meaning": "the state of demanding notice or attention",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "photography and printing",
-      "meaning": "to apply physical force or weight to an object, such as pressing the shutter button on a camera or applying pressure to an ink plate in printing",
+      "context": "communication",
+      "meaning": "the print media responsible for gathering and publishing news in the form of newspapers or magazines",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a machine used for printing",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mechanics",
+      "meaning": "to exert force or pressure on something, typically in order to shape or mold it",
       "added": "accumulated",
       "source": "llm"
     }

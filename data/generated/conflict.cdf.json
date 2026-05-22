@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "politics and international relations",
-      "meaning": "a state of open and usually prolonged feud, struggle, or fight between nations, groups of people, or individuals",
+      "context": "action",
+      "meaning": "an open clash between two opposing groups (or individuals); --Thomas Paine",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology and social sciences",
-      "meaning": "a perceived opposition or incompatibility between two or more ideas, values, or goals that may lead to psychological distress or emotional turmoil",
+      "context": "emotion",
+      "meaning": "opposition between two simultaneous but incompatible feelings",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "battle",
+      "meaning": "a hostile meeting of opposing military forces in the course of a war",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "a state of mental tension or stress resulting from incompatible demands, needs, or desires",
       "added": "accumulated",
       "source": "llm"
     }

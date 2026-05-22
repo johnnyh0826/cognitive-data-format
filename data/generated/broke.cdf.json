@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "to be unable to pay debts or financial obligations",
+      "context": "interrupt",
+      "meaning": "terminate",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "physical activity",
-      "meaning": "to break or shatter something, often accidentally",
+      "context": "break",
+      "meaning": "become separated into pieces or fragments",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "break",
+      "meaning": "render inoperable or ineffective",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "financial",
+      "meaning": "without sufficient funds or money",
       "added": "accumulated",
       "source": "llm"
     }

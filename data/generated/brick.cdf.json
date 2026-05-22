@@ -3,15 +3,22 @@
   "tracks": [
     {
       "id": "01",
-      "context": "construction and architecture",
-      "meaning": "a small, rectangular block of fired clay or other material used in building",
+      "context": "object",
+      "meaning": "rectangular block of clay baked by the sun or in a kiln; used as a building or paving material",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "slang and informal use",
-      "meaning": "a person who is stubbornly uncooperative or resistant to change",
+      "context": "person",
+      "meaning": "a good fellow; helpful and trustworthy",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "construction",
+      "meaning": "a unit of a building material, often used in quantity or as part of a larger structure",
       "added": "accumulated",
       "source": "llm"
     }

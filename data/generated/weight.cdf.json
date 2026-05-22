@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and science",
-      "meaning": "the force that attracts two objects with mass towards each other",
+      "context": "property",
+      "meaning": "the vertical force exerted by a mass as a result of gravity",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "dieting and nutrition",
-      "meaning": "a measure of the amount of food consumed by a person or animal",
+      "context": "object",
+      "meaning": "sports equipment used in calisthenic exercises and weightlifting; it is not attached to anything and is raised and lowered by use of the hands and arms",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "property",
+      "meaning": "the relative importance granted to something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "the emotional or psychological burden of a situation, task, or responsibility",
       "added": "accumulated",
       "source": "llm"
     }

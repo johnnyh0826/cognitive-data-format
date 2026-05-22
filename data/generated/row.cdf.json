@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "a line of objects or people in a straight line",
+      "context": "group",
+      "meaning": "an arrangement of objects or people side by side in a line",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and performance",
-      "meaning": "a section of seats in an auditorium or theater",
+      "context": "quarrel",
+      "meaning": "an angry dispute",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a long continuous strip (usually running horizontally)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "nautical",
+      "meaning": "a line of anchors or buoys in a body of water",
       "added": "accumulated",
       "source": "llm"
     }

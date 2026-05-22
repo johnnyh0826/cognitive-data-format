@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "ceramics and tableware",
-      "meaning": "a dish or plate made of ceramic, glass, or other material for serving food",
+      "context": "home plate",
+      "meaning": "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology and mining",
-      "meaning": "a layer or stratum of rock or soil in the earth's crust",
+      "context": "object",
+      "meaning": "a sheet of metal or wood or glass or plastic",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a full-page illustration (usually on slick paper)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "tableware",
+      "meaning": "a dish or container used for serving and eating food",
       "added": "accumulated",
       "source": "llm"
     }

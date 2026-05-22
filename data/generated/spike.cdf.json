@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports",
-      "meaning": "a sharp and sudden increase in score or momentum, especially in team sports.",
+      "context": "event",
+      "meaning": "a transient variation in voltage or current",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "technology",
-      "meaning": "a small metal rod used to connect electronic components or a type of electrical connector.",
+      "context": "object",
+      "meaning": "sports equipment consisting of a sharp point on the sole of a shoe worn by athletes",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "biology",
+      "meaning": "fruiting spike of a cereal plant especially corn",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a sudden and brief increase in processing power or activity, often used to describe a computer's performance",
       "added": "accumulated",
       "source": "llm"
     }

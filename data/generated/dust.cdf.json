@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics",
-      "meaning": "tiny particles suspended in air or water, including atmospheric particulate matter and sediment",
+      "context": "chemistry",
+      "meaning": "fine powdery material such as dry earth or pollen that can be blown about in the air",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "cosmetology",
-      "meaning": "powdered substance used to remove dead skin cells and smooth the skin's surface, often containing abrasive particles",
+      "context": "debris",
+      "meaning": "the remains of something that has been destroyed or broken up",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "chemistry",
+      "meaning": "free microscopic particles of solid material",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a type of jazz music characterized by improvisation and a strong emphasis on rhythm",
       "added": "accumulated",
       "source": "llm"
     }

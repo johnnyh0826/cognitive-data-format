@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primarily hunting and wildlife management",
-      "meaning": "a device for capturing or killing animals, such as a snare or pitfall.",
+      "context": "object",
+      "meaning": "a device in which something (usually an animal) can be caught and penned",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and performance art",
-      "meaning": "a sudden, loud sound made by the fingers on the strings of a musical instrument, often used to add emphasis or create tension.",
+      "context": "object",
+      "meaning": "drain consisting of a U-shaped section of drainpipe that holds liquid and so prevents a return flow of sewer gas",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "something (often something deceptively attractive) that catches you unawares",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a type of drumbeat or rhythm in music, often characterized by a strong emphasis on the 'off-beat' or second beat",
       "added": "accumulated",
       "source": "llm"
     }

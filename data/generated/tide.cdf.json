@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "astronomy",
-      "meaning": "the periodic rise and fall of the sea level caused by gravitational forces between the Earth, Moon, and Sun.",
+      "context": "event",
+      "meaning": "the periodic rise and fall of the sea level under the gravitational pull of the moon",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "surfing",
-      "meaning": "a wave's movement from shallow to deep water, often indicating a change in surfing conditions.",
+      "context": "event",
+      "meaning": "something that may increase or decrease (like the tides of the sea)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "time",
+      "meaning": "there are usually two high and two low tides each day",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "linguistics",
+      "meaning": "a recurring pattern or cycle in a sequence of events, ideas, or emotions",
       "added": "accumulated",
       "source": "llm"
     }

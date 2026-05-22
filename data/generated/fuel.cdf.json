@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "energy and transportation",
-      "meaning": "a substance that provides energy for a machine, vehicle, or process",
+      "context": "chemistry",
+      "meaning": "a substance that can be consumed to produce energy",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "chemistry and materials science",
-      "meaning": "a chemical compound that releases heat or light when burned, used as an energy source",
+      "context": "finance",
+      "meaning": "provide with a combustible substance that provides energy",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "finance",
+      "meaning": "provide with fuel",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "industry",
+      "meaning": "a type of investment or capital that drives growth and development",
       "added": "accumulated",
       "source": "llm"
     }

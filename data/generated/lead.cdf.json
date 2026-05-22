@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "a heavy, bluish-white metal element with the symbol Pb and atomic number 82.",
+      "context": "property",
+      "meaning": "an advantage held by a competitor in a race",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "leadership",
-      "meaning": "to guide or direct others, often in a position of authority.",
+      "context": "chemistry",
+      "meaning": "a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "evidence pointing to a possible solution",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "to guide or direct (a person or organization) in a particular direction or course of action",
       "added": "accumulated",
       "source": "llm"
     }

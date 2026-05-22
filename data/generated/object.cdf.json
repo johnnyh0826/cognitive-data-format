@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "philosophy",
-      "meaning": "a thing that exists independently and is perceived as having its own existence",
+      "context": "Tops",
+      "meaning": "a tangible and visible entity; an entity that can cast a shadow",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "an instance of a class or concept, often referring to an entity in memory or storage",
+      "context": "psychology",
+      "meaning": "the goal intended to be attained (and which is believed to be attainable)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "(grammar) a constituent that is acted upon",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "philosophy",
+      "meaning": "a thing that exists independently of its properties or relationships with other things",
       "added": "accumulated",
       "source": "llm"
     }

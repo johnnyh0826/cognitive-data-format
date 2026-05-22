@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "blacksmithing",
-      "meaning": "to shape or fabricate metal using heat and pressure",
+      "context": "object",
+      "meaning": "furnace consisting of a special hearth where metal is heated before shaping",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing",
-      "meaning": "to create a fake or manipulated digital record or identity",
+      "context": "object",
+      "meaning": "a workplace where metal is worked by heating and hammering",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "creation",
+      "meaning": "create by hammering",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "idiom",
+      "meaning": "to invent or fabricate something, often in a deceptive manner",
       "added": "accumulated",
       "source": "llm"
     }

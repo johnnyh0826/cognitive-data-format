@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "a sudden release of pressure or energy, often accompanied by a loud noise",
+      "context": "explosion",
+      "meaning": "the act of exploding or bursting",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer networking",
-      "meaning": "the sudden and unexpected loss of connectivity between devices or nodes",
+      "context": "fusillade",
+      "meaning": "rapid simultaneous discharge of firearms",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "a sudden flurry of activity (often for no obvious reason)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a sudden increase in processing power or data transfer rate",
       "added": "accumulated",
       "source": "llm"
     }

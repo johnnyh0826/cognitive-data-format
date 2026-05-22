@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a small piece of a semiconductor material used to create integrated circuits",
+      "context": "object",
+      "meaning": "a small fragment of something broken off from the whole",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "food and drink",
-      "meaning": "a thin slice or fragment of food, especially a potato or vegetable",
+      "context": "object",
+      "meaning": "a triangular wooden float attached to the end of a log line",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a piece of dried bovine dung",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a small piece of semiconductor material, typically used in integrated circuits",
       "added": "accumulated",
       "source": "llm"
     }

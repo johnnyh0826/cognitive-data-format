@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geometric shape",
-      "meaning": "a self-contained area of space defined by boundaries or edges, such as a rectangle or circle.",
+      "context": "communication",
+      "meaning": "a diagram or picture illustrating textual material",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "mathematics and statistics",
-      "meaning": "an instance of a mathematical concept, such as a data point or an observed value, that can be plotted on a graph or used in calculations.",
+      "context": "human body",
+      "meaning": "alternative names for the body of a human being",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "digit",
+      "meaning": "one of the elements that collectively form a system of numeration",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "a mathematical object with a fixed number of dimensions, often used in geometry and calculus",
       "added": "accumulated",
       "source": "llm"
     }

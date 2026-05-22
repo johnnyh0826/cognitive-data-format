@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "the highest point of something, such as a mountain or hill",
+      "context": "extremum",
+      "meaning": "the most extreme possible amount or value",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "photography",
-      "meaning": "the optimal angle or position for capturing an image",
+      "context": "flower",
+      "meaning": "the period of greatest prosperity or productivity",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "acme",
+      "meaning": "the highest level or degree attainable; the highest stage of development",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "geography",
+      "meaning": "the highest point on a mountain or hill",
       "added": "accumulated",
       "source": "llm"
     }

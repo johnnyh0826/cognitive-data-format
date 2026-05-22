@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "aviation and transportation",
-      "meaning": "the act of flying or traveling through the air, typically in an aircraft",
+      "context": "group",
+      "meaning": "a formation of aircraft in flight",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology and medicine",
-      "meaning": "a sudden or uncontrolled movement of a part of the body, such as a muscle or limb",
+      "context": "action",
+      "meaning": "an instance of traveling by air",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a stairway (set of steps) between one floor or landing and the next",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "medical",
+      "meaning": "a sudden and intense feeling of excitement or euphoria, often accompanied by a sense of weightlessness",
       "added": "accumulated",
       "source": "llm"
     }

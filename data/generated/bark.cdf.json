@@ -3,22 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "botany",
-      "meaning": "a protective layer covering the trunk and branches of a tree",
+      "context": "biology",
+      "meaning": "tough protective covering of the woody stems and roots of trees and other woody plants",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "animal behavior",
-      "meaning": "the loud, sharp cry made by some mammals, such as dogs or bears",
+      "context": "event",
+      "meaning": "a noise resembling the bark of a dog",
       "added": "accumulated",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "03",
-      "context": "nautical",
-      "meaning": "a type of sailing ship with a flat bottom and straight sides",
+      "context": "object",
+      "meaning": "a sailing ship with 3 (or more) masts",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "medicine",
+      "meaning": "a thin layer of skin that covers a wound or cut",
       "added": "accumulated",
       "source": "llm"
     }

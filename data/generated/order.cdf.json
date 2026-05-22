@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "a sequence of items or events in a logical or chronological arrangement",
+      "context": "communication",
+      "meaning": "(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "technology and computing",
-      "meaning": "a protocol or set of rules governing communication between devices or systems",
+      "context": "property",
+      "meaning": "a degree in a continuum of size or quantity",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "state",
+      "meaning": "established customary state (especially of society)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "a sequence of items or tasks, such as a list of products to be delivered or a series of steps in a process",
       "added": "accumulated",
       "source": "llm"
     }

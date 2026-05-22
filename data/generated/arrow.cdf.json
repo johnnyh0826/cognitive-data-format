@@ -3,15 +3,22 @@
   "tracks": [
     {
       "id": "01",
-      "context": "archery and hunting",
-      "meaning": "a pointed device made of metal, carbon or other materials, used for propelling through the air with a bow or by hand.",
+      "context": "communication",
+      "meaning": "a mark to indicate a direction or relation",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "nautical and navigation",
-      "meaning": "a visual indicator on a compass dial showing the direction of magnetic north.",
+      "context": "object",
+      "meaning": "a projectile with a straight thin shaft and an arrowhead on one end and stabilizing vanes on the other; intended to be shot from a bow",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "mathematics",
+      "meaning": "a symbol \u2192 used in graph theory and category theory to represent a morphism or an arrow",
       "added": "accumulated",
       "source": "llm"
     }

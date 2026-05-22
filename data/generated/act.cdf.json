@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "theatrical performance",
-      "meaning": "a dramatic performance, often with a script and actors",
+      "context": "communication",
+      "meaning": "a legal document codifying the result of deliberations of a committee or society or legislative body",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "law and legislation",
-      "meaning": "a proposal or bill passed by a legislative body to become law",
+      "context": "Tops",
+      "meaning": "something that people do or cause to happen",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a subdivision of a play or opera or ballet",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "theatre",
+      "meaning": "a performance or role in a play, opera, or ballet",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "language and communication",
-      "meaning": "to remain in a particular place or condition, often used to convey a sense of stability or continuity",
+      "context": "action",
+      "meaning": "continuing or remaining in a place or state",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "medical treatment",
-      "meaning": "to continue receiving medical care or therapy without interruption, often in the context of chronic illness or ongoing treatment",
+      "context": "arrest",
+      "meaning": "the state of inactivity following an interruption",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a judicial order forbidding some action until an event occurs or the order is lifted",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "social relationships",
+      "meaning": "to remain in a romantic or platonic relationship with someone, often implying a commitment or loyalty",
       "added": "accumulated",
       "source": "llm"
     }

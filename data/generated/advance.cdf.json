@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "to move forward in space, time, or progress.",
+      "context": "progress",
+      "meaning": "a movement forward",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "technology",
-      "meaning": "in computer programming, to make a function more efficient or effective.",
+      "context": "improvement",
+      "meaning": "a change for the better; progress in development",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "overture",
+      "meaning": "a tentative suggestion designed to elicit the reactions of others",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Business",
+      "meaning": "to promote or publicize something, such as a product or service, in order to increase its visibility and appeal",
       "added": "accumulated",
       "source": "llm"
     }

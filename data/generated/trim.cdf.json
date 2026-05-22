@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "cosmetics and grooming",
-      "meaning": "to cut or shorten something, typically hair or a plant's foliage, for aesthetic purposes",
+      "context": "state",
+      "meaning": "a state of arrangement or appearance",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "nautical and engineering",
-      "meaning": "to adjust or modify the shape of an object, such as a sail or a piece of equipment, to improve its performance or function",
+      "context": "trimming",
+      "meaning": "a decoration or adornment on a garment",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "relationship",
+      "meaning": "attitude of an aircraft in flight when allowed to take its own orientation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Finance",
+      "meaning": "to reduce or eliminate unnecessary costs or expenses",
       "added": "accumulated",
       "source": "llm"
     }

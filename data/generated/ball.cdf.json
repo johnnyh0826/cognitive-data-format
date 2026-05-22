@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sport and play",
-      "meaning": "a round or roughly spherical object, typically made of leather, rubber, or synthetic materials, used in various games and activities.",
+      "context": "object",
+      "meaning": "round object that is hit or thrown or kicked in games",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy and physics",
-      "meaning": "a celestial body that is spherical in shape and orbits the Sun, such as a planet or moon.",
+      "context": "musket ball",
+      "meaning": "a solid projectile that is shot by a musket",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geometry",
+      "meaning": "an object with a spherical shape",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "astronomy",
+      "meaning": "a celestial body that is spherical in shape and orbits around a star",
       "added": "accumulated",
       "source": "llm"
     }

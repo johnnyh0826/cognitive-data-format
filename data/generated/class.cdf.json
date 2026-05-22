@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "education",
-      "meaning": "a group of students in a school or university, typically taught by one teacher.",
+      "context": "group",
+      "meaning": "a collection of things sharing a common attribute",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "social hierarchy",
-      "meaning": "a social grouping or stratum within a society, often characterized by shared characteristics, interests, or behaviors.",
+      "context": "group",
+      "meaning": "a body of students who are taught together",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "people having the same social, economic, or educational status",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "education",
+      "meaning": "a level of academic standing or ranking, such as a class of freshman or senior students",
       "added": "accumulated",
       "source": "llm"
     }

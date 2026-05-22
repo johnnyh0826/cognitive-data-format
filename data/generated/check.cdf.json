@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "financial domain",
-      "meaning": "to verify or confirm the accuracy of a financial transaction, account, or statement",
+      "context": "finance",
+      "meaning": "a written order directing a bank to pay money",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geological domain",
-      "meaning": "to inspect or examine a geological formation or sample for its composition and structure",
+      "context": "assay",
+      "meaning": "an appraisal of the state of affairs",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "the bill in a restaurant",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a test or trial performance, especially of a piece of music",
       "added": "accumulated",
       "source": "llm"
     }

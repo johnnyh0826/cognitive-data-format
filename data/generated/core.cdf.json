@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "the central or innermost part of something, such as a physical system or a computer program.",
+      "context": "group",
+      "meaning": "a small group of indispensable persons or things",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "anatomy and biology",
-      "meaning": "the center or central part of an organ or tissue, often referring to its most vital or essential function.",
+      "context": "geography",
+      "meaning": "the center of an object",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "the central part of the Earth",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "the central processing unit of a computer or other electronic device",
       "added": "accumulated",
       "source": "llm"
     }

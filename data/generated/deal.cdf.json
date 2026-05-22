@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "business and economics",
-      "meaning": "to agree on terms or conditions, often in a commercial transaction",
+      "context": "action",
+      "meaning": "a particular instance of buying or selling",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "card games and poker",
-      "meaning": "the cards dealt to a player at the start of a game or hand",
+      "context": "bargain",
+      "meaning": "an agreement between parties (usually arrived at after discussion) fixing obligations of each",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "batch",
+      "meaning": "(often followed by `of') a large number or amount or extent",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "negotiation",
+      "meaning": "an advantageous arrangement or outcome, especially one that is mutually beneficial",
       "added": "accumulated",
       "source": "llm"
     }

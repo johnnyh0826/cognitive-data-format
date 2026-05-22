@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "architecture and construction",
-      "meaning": "to construct or assemble something, such as a building or a structure",
+      "context": "physique",
+      "meaning": "constitution of the human body",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer programming and software development",
-      "meaning": "to create or generate something, such as a program or a product, using software tools and techniques",
+      "context": "human body",
+      "meaning": "alternative names for the body of a human being",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "construct",
+      "meaning": "make by combining materials and parts",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "architecture",
+      "meaning": "to design and construct (something, such as a building or a system) according to plans",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "recreation and leisure",
-      "meaning": "a body of still water used for swimming, diving, or other aquatic activities",
+      "context": "object",
+      "meaning": "an excavation that is (usually) filled with water",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "mathematics and physics",
-      "meaning": "an open set in a topological space where every point has a neighborhood that is also an open set",
+      "context": "pond",
+      "meaning": "a small lake",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "an organization of people or resources that can be shared",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a collection of game levels or challenges that can be played repeatedly",
       "added": "accumulated",
       "source": "llm"
     }

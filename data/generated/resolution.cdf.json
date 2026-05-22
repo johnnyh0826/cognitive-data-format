@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "science and technology",
-      "meaning": "the process of finding a solution to a problem or conflict",
+      "context": "communication",
+      "meaning": "a formal expression by a meeting; agreed to by a vote",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "politics and governance",
-      "meaning": "a formal decision or agreement reached by a group, such as a government or organization",
+      "context": "resolving power",
+      "meaning": "the ability of a microscope or telescope to measure the angular separation of images that are close together",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "resoluteness",
+      "meaning": "the trait of being resolute",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "the number of bits required to represent a value in a binary format",
       "added": "accumulated",
       "source": "llm"
     }

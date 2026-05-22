@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "a basic structural and functional unit of living organisms, such as a plant or animal cell.",
+      "context": "object",
+      "meaning": "any small compartment",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "architecture",
-      "meaning": "a compartmentalized space within a building, often used for storage or utility purposes.",
+      "context": "Tops",
+      "meaning": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a device that delivers an electric current as the result of a chemical reaction",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "finance",
+      "meaning": "a unit of account in a financial system, such as a stock market or investment portfolio",
       "added": "accumulated",
       "source": "llm"
     }

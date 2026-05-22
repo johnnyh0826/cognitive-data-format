@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: agriculture",
-      "meaning": "to grow or cultivate plants, animals, or food products.",
+      "context": "food",
+      "meaning": "fresh fruits and vegetable grown for the market",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "secondary domain: television and film production",
-      "meaning": "the act of creating a movie, show, or other form of visual content.",
+      "context": "creation",
+      "meaning": "bring forth or yield",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "creation",
+      "meaning": "create or manufacture a man-made product",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "to generate or produce a certain amount of revenue or profit",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology and medicine",
-      "meaning": "a drop of liquid that falls from an eye or a wound due to injury or disease",
+      "context": "anatomy",
+      "meaning": "a drop of the clear salty saline solution secreted by the lacrimal glands",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "sewing and fabric",
-      "meaning": "to remove the edge of a garment, especially by cutting or pulling it away from the body",
+      "context": "object",
+      "meaning": "an opening made forcibly as by pulling apart",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "bust",
+      "meaning": "an occasion for excessive eating or drinking",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "emotional state",
+      "meaning": "a feeling of sadness or sorrow, often accompanied by crying",
       "added": "accumulated",
       "source": "llm"
     }

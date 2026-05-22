@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and science",
-      "meaning": "a variable or quantity that affects the behavior of a system or process",
+      "context": "event",
+      "meaning": "anything that contributes causally to a result",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "business and economics",
-      "meaning": "an element or circumstance that contributes to a decision, outcome, or situation",
+      "context": "component",
+      "meaning": "an abstract part of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "divisor",
+      "meaning": "one of two or more integers that can be exactly divided into another integer",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "a quantity that is multiplied by another quantity to produce a product",
       "added": "accumulated",
       "source": "llm"
     }

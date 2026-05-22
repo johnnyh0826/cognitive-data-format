@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "electrical engineering",
-      "meaning": "a change in an electrical quantity, such as voltage or current, that occurs at a specific point in time.",
+      "context": "communication",
+      "meaning": "any nonverbal action or gesture that encodes a message",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "communication theory",
-      "meaning": "information sent through a channel to convey meaning or intent, which may be explicit or implicit.",
+      "context": "motivation",
+      "meaning": "any incitement to action",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "phenomenon",
+      "meaning": "an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "statistics",
+      "meaning": "a statistical pattern or trend that is observed and measured",
       "added": "accumulated",
       "source": "llm"
     }

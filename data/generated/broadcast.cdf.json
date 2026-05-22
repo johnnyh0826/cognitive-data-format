@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication technology",
-      "meaning": "to transmit information to a wide audience through electronic media",
+      "context": "communication",
+      "meaning": "message that is transmitted by radio or television",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy and space exploration",
-      "meaning": "to release or emit particles, energy, or signals into space",
+      "context": "communication",
+      "meaning": "a radio or television show",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "broadcast over the airwaves, as in radio or television",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "the process of distributing software updates or patches to multiple devices simultaneously",
       "added": "accumulated",
       "source": "llm"
     }

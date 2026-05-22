@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry and materials science",
-      "meaning": "to bring together or combine substances to form a single entity",
+      "context": "dressed ore",
+      "meaning": "the desired mineral that is left after impurities have been removed from mined ore",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "business and productivity",
-      "meaning": "to focus one's attention on a specific task or goal, eliminating distractions",
+      "context": "food",
+      "meaning": "a concentrated form of a foodstuff; the bulk is reduced by removing water",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "a concentrated example of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "to focus one's attention or mental effort on a particular task or problem",
       "added": "accumulated",
       "source": "llm"
     }

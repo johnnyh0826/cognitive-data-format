@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "medicine",
-      "meaning": "a sudden loss of brain function due to a blockage or rupture in blood vessels.",
+      "context": "action",
+      "meaning": "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "art and design",
-      "meaning": "a swift and bold brush stroke, often used to add texture or emphasize a particular area of the artwork.",
+      "context": "throw",
+      "meaning": "the maximum movement available to a pivoted or reciprocating piece by a cam",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "state",
+      "meaning": "a sudden loss of consciousness resulting when the rupture or occlusion of a blood vessel leads to oxygen lack in the brain",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "art",
+      "meaning": "a swift and bold movement of a brush or tool in painting or drawing",
       "added": "accumulated",
       "source": "llm"
     }

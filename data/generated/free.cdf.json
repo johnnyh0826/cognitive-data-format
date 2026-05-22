@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "unrestricted or unimpeded in movement, action, or expression.",
+      "context": "group",
+      "meaning": "people who are free",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "economics and finance",
-      "meaning": "not requiring payment or having a zero cost.",
+      "context": "social",
+      "meaning": "grant freedom to; free from confinement",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "finance",
+      "meaning": "relieve from",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "financial",
+      "meaning": "without cost or expense; at no charge",
       "added": "accumulated",
       "source": "llm"
     }

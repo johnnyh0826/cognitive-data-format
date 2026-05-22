@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "structure",
-      "meaning": "a small, simple building or enclosure",
+      "context": "object",
+      "meaning": "an outbuilding with a single story; used for shelter or storage",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "garden and landscaping",
-      "meaning": "to remove or cut back overgrown plants",
+      "context": "action",
+      "meaning": "get rid of",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "spill",
+      "meaning": "pour out in drops or small quantities or as if in drops or small quantities",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "garden",
+      "meaning": "a structure for growing plants or flowers, typically outdoors",
       "added": "accumulated",
       "source": "llm"
     }

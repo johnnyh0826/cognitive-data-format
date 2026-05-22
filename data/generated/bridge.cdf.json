@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "engineering",
-      "meaning": "a structure built over a physical obstacle, such as a river or valley, to connect two land areas.",
+      "context": "object",
+      "meaning": "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "card game",
-      "meaning": "the act of playing cards in a specific order to score points, often requiring careful strategy and planning.",
+      "context": "object",
+      "meaning": "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "relationship",
+      "meaning": "something resembling a bridge in form or function",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "metaphor",
+      "meaning": "a connection or link between two things, often facilitating understanding or progress",
       "added": "accumulated",
       "source": "llm"
     }

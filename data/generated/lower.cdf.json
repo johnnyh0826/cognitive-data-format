@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "to reduce or decrease in height, size, or magnitude",
+      "context": "lower berth",
+      "meaning": "the lower of two berths",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and performance",
-      "meaning": "in opera, to sing a lower vocal part or to perform a role requiring a lower range",
+      "context": "movement",
+      "meaning": "move something or somebody to a lower position",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "change",
+      "meaning": "set lower",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Physical Geography",
+      "meaning": "relating to a lower elevation or region, such as a lower valley or lower plateau",
       "added": "accumulated",
       "source": "llm"
     }

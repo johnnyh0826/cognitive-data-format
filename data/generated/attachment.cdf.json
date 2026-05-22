@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology and relationships",
-      "meaning": "a strong emotional tie or bond between two people, often characterized by intimacy, affection, and commitment.",
+      "context": "emotion",
+      "meaning": "a feeling of affection for a person or an institution",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science and technology",
-      "meaning": "a file or data structure that is linked to another file or program, allowing for the sharing of information and resources.",
+      "context": "object",
+      "meaning": "a supplementary part or accessory",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a writ authorizing the seizure of property that may be needed for the payment of a judgment in a judicial proceeding",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a file or data structure that is linked to a larger document or program, often used in email and messaging",
       "added": "accumulated",
       "source": "llm"
     }

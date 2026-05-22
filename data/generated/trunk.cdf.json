@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "botany",
-      "meaning": "the main stem of a tree, from which branches grow.",
+      "context": "biology",
+      "meaning": "the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "transportation",
-      "meaning": "a large vehicle with an open top and sides, used for carrying goods or people.",
+      "context": "object",
+      "meaning": "luggage consisting of a large strong case used when traveling or for storage",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "torso",
+      "meaning": "the body excluding the head and neck and limbs",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "automotive",
+      "meaning": "the main supporting structure of a vehicle, such as a car or truck, that connects the body to the wheels",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "to emit a visible gas or vapor, typically in a cloud or plume.",
+      "context": "phenomenon",
+      "meaning": "a cloud of fine particles suspended in a gas",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography and environment",
-      "meaning": "a layer of particles suspended in the air, often reducing visibility.",
+      "context": "process",
+      "meaning": "a hot vapor containing fine particles of carbon being produced by combustion",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "an indication of some hidden activity",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": " idiomatic expression",
+      "meaning": "to gossip or spread rumors about someone",
       "added": "accumulated",
       "source": "llm"
     }

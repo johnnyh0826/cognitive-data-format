@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "a principle or standard governing an action or procedure.",
+      "context": "psychology",
+      "meaning": "a principle or condition that customarily governs behavior",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "a set of instructions that a computer follows to perform a specific task.",
+      "context": "convention",
+      "meaning": "something regarded as a normative example",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "prescribed guide for conduct or action",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "game theory",
+      "meaning": "a set of instructions that defines the behavior or actions of an agent in a game",
       "added": "accumulated",
       "source": "llm"
     }

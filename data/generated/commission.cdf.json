@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "business and finance",
-      "meaning": "to receive a payment or fee for services rendered",
+      "context": "committee",
+      "meaning": "a special group delegated to consider some matter;  - Milton Berle",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "art and entertainment",
-      "meaning": "a work of art created by an artist, often commissioned by a patron",
+      "context": "finance",
+      "meaning": "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "the act of granting authority to undertake certain functions",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "a payment or reward given for a job well done, especially as an incentive to motivate employees",
       "added": "accumulated",
       "source": "llm"
     }

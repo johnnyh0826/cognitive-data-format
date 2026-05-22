@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "notation and recording",
-      "meaning": "to make a visible or tangible indication on something, such as a mark on a piece of paper or a mark on an animal",
+      "context": "psychology",
+      "meaning": "a number or letter indicating quality (especially of a student's performance)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "commerce and advertising",
-      "meaning": "to identify or distinguish something with a distinctive sign, logo, or label, such as a brand mark or a trademark",
+      "context": "marker",
+      "meaning": "a distinguishing symbol",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "target",
+      "meaning": "a reference point to shoot at",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a musical note or sign indicating pitch, rhythm, or expression",
       "added": "accumulated",
       "source": "llm"
     }

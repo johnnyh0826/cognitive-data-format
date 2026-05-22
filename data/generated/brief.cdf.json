@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "law and contracts",
-      "meaning": "a written document that summarizes an agreement or settlement",
+      "context": "communication",
+      "meaning": "a document stating the facts and points of law of a client's case",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "military and defense",
-      "meaning": "a concise explanation of a situation, plan, or briefing",
+      "context": "communication",
+      "meaning": "a condensed written summary or abstract",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "give essential information to someone",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "to discuss or present a matter in a concise manner, often in a meeting or proposal",
       "added": "accumulated",
       "source": "llm"
     }

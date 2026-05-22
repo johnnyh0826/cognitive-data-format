@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics",
-      "meaning": "a single quantity of a measurement system, such as inches or meters.",
+      "context": "unit of measurement",
+      "meaning": "any division of quantity accepted as a standard of measurement or exchange",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "physics and engineering",
-      "meaning": "a fundamental physical quantity, such as length, mass, or time, used to describe the properties of an object or system.",
+      "context": "relationship",
+      "meaning": "an individual or group or structure or other entity regarded as a structural or functional constituent of a whole",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "an organization regarded as part of a larger social group",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "a quantity of one in a mathematical expression or equation",
       "added": "accumulated",
       "source": "llm"
     }

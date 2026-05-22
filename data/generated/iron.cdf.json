@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "metallurgy",
-      "meaning": "a naturally occurring metal with high iron content",
+      "context": "chemistry",
+      "meaning": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology",
-      "meaning": "a type of rock that is rich in iron oxide and has a reddish hue",
+      "context": "object",
+      "meaning": "a golf club that has a relatively narrow metal head",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "implement used to brand live stock",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "figurative sense",
+      "meaning": "a strong and unyielding will or determination",
       "added": "accumulated",
       "source": "llm"
     }

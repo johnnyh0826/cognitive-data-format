@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "commerce",
-      "meaning": "a business that sells goods or services to customers",
+      "context": "shop",
+      "meaning": "a mercantile establishment for the retail sale of goods or services",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "a location in memory where data is stored",
+      "context": "finance",
+      "meaning": "a supply of something available for future use",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "memory",
+      "meaning": "an electronic memory device",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a location where data is stored, such as a database or file system",
       "added": "accumulated",
       "source": "llm"
     }

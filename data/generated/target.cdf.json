@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "military domain",
-      "meaning": "a military objective or goal, especially one that is to be captured or destroyed",
+      "context": "communication",
+      "meaning": "a reference point to shoot at",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing and technology domain",
-      "meaning": "a specific location on a computer screen or in an application where a user can interact with the system, such as clicking on a button or entering data",
+      "context": "prey",
+      "meaning": "a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "the location of the target that is to be hit",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Statistics and Research",
+      "meaning": "the intended recipient of a marketing campaign, survey, or other research effort",
       "added": "accumulated",
       "source": "llm"
     }

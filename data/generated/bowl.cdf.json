@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sports",
-      "meaning": "a round or oval container used to play a sport, such as bowling or curling",
+      "context": "object",
+      "meaning": "a round vessel that is open at the top; used chiefly for holding food or liquids",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "ceremonial and cultural practices",
-      "meaning": "a ritualistic or ceremonial vessel used for offerings, prayers, or meditation",
+      "context": "geometry",
+      "meaning": "a concave shape with an open top",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a dish that is round and open at the top for serving foods",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "a round container used in various sports, such as bowling or curling",
       "added": "accumulated",
       "source": "llm"
     }

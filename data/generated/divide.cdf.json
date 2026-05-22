@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics",
-      "meaning": "to split or separate into two or more parts, often in a proportionate manner.",
+      "context": "state",
+      "meaning": "a serious disagreement between two groups of people (typically producing tension or hostility)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "politics and governance",
-      "meaning": "to allocate or distribute something, such as power, resources, or territory, among different groups or entities.",
+      "context": "watershed",
+      "meaning": "a ridge of land that separates two adjacent river systems",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "social",
+      "meaning": "separate into parts or portions",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "to split a quantity or value into two or more parts, often in a ratio or proportion",
       "added": "accumulated",
       "source": "llm"
     }

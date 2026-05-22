@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "digital computing",
-      "meaning": "a unit of information, typically represented as a sequence of binary digits (0s and 1s).",
+      "context": "spot",
+      "meaning": "a small piece or quantity of something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology",
-      "meaning": "a small particle or fragment of stone, rock, or mineral.",
+      "context": "object",
+      "meaning": "a small fragment of something broken off from the whole",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "moment",
+      "meaning": "an indefinitely short time",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Computer Science",
+      "meaning": "a unit of digital information, typically represented by a binary digit (0 or 1)",
       "added": "accumulated",
       "source": "llm"
     }

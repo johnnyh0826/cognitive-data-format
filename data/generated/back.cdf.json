@@ -4,14 +4,28 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "the posterior part of the human body, including the spine and buttocks.",
+      "meaning": "the posterior part of a human (or animal) body from the neck to the end of the spine",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "sailing",
-      "meaning": "the direction from which the wind is coming, opposite to the bow.",
+      "context": "rear",
+      "meaning": "the side that goes last or is not normally seen",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "the part of something that is furthest from the normal viewer",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "the back of a musical instrument, such as a violin or guitar",
       "added": "accumulated",
       "source": "llm"
     }

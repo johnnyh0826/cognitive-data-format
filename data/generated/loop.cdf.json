@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics and programming",
-      "meaning": "a sequence of instructions or a set of statements that repeat until a condition is met",
+      "context": "cringle",
+      "meaning": "fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "music and audio production",
-      "meaning": "a repeated section in music, often used as an introduction or interlude",
+      "context": "geometry",
+      "meaning": "anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "iteration",
+      "meaning": "(computer science) a single execution of a set of instructions that are to be repeated",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a musical composition that is repeated, often with variations or embellishments",
       "added": "accumulated",
       "source": "llm"
     }

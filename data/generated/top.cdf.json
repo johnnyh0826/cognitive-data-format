@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "clothing and textiles",
-      "meaning": "the uppermost part of an article of clothing, such as a shirt or coat.",
+      "context": "geography",
+      "meaning": "the upper part of anything",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "mathematics and physics",
-      "meaning": "the highest point or position in a hierarchy, graph, or structure.",
+      "context": "geography",
+      "meaning": "the highest or uppermost side of anything",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "peak",
+      "meaning": "the top or extreme point of something (usually a mountain or hill)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "the highest or most prominent note in a melody or harmony",
       "added": "accumulated",
       "source": "llm"
     }

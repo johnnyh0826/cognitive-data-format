@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "education",
-      "meaning": "a series of educational lessons or experiences",
+      "context": "action",
+      "meaning": "education imparted in a series of lessons or meetings",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "group",
+      "meaning": "a connected series of events or actions or developments",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "general line of orientation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "golf",
-      "meaning": "the path or direction that a golf ball follows after being hit",
+      "meaning": "a round of golf played over a specified number of holes",
       "added": "accumulated",
       "source": "llm"
     }

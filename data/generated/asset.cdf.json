@@ -3,15 +3,15 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "a valuable or useful thing that someone owns, such as property or shares.",
+      "context": "property",
+      "meaning": "a useful or valuable quality",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "IT and computing",
-      "meaning": "a resource or piece of data that is available for use by a computer program or system.",
+      "context": "Finance",
+      "meaning": "A financial asset is a tangible or intangible resource that has value and can be bought, sold, or traded.",
       "added": "accumulated",
       "source": "llm"
     }

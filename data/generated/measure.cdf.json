@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "to determine the size or quantity of something using a standard unit",
+      "context": "action",
+      "meaning": "any maneuver made as part of progress toward a goal",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "social sciences and statistics",
-      "meaning": "to evaluate or quantify the magnitude or frequency of something, such as opinions or events",
+      "context": "Tops",
+      "meaning": "how much there is or how many there are of something that you can quantify",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "bill",
+      "meaning": "a statute in draft before it becomes law",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Business",
+      "meaning": "the extent or amount of something, such as a company's financial performance or market share",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geology",
-      "meaning": "a naturally occurring solid mass of mineral material",
+      "context": "object",
+      "meaning": "a lump or mass of hard consolidated mineral matter",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "chemistry",
+      "meaning": "material consisting of the aggregate of minerals like those making up the Earth's crust",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "United States gynecologist and devout Catholic who conducted the first clinical trials of the oral contraceptive pill (1890-1984)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "music",
-      "meaning": "a rhythmic pattern or beat, often repeated and varied",
+      "meaning": "a type of music characterized by a strong rhythmic beat, often with electric instruments and drums",
       "added": "accumulated",
       "source": "llm"
     }

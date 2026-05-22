@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "food and drink",
-      "meaning": "to provide food or refreshments to someone",
+      "context": "action",
+      "meaning": "(sports) a stroke that puts the ball in play",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "sports and games",
-      "meaning": "to hit or throw a ball or puck in a way that allows it to be caught or scored by another player",
+      "context": "state",
+      "meaning": "serve a purpose, role, or function",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "sports",
+      "meaning": "do duty or hold offices; serve in a specific function",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "social",
+      "meaning": "to attend to someone's needs or provide for them, often in a formal or professional setting",
       "added": "accumulated",
       "source": "llm"
     }

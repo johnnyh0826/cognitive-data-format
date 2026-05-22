@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology/law",
-      "meaning": "a strong and often unreciprocated infatuation, typically felt by a person towards another.",
+      "context": "crushed leather",
+      "meaning": "leather that has had its grain pattern accentuated",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geology/mining",
-      "meaning": "to compress or flatten something, often resulting in the release of valuable minerals or materials.",
+      "context": "group",
+      "meaning": "a dense crowd of people",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "puppy love",
+      "meaning": "temporary love of an adolescent",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "a strong and intense effort or performance, often used to describe a remarkable achievement in a particular sport",
       "added": "accumulated",
       "source": "llm"
     }

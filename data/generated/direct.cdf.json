@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: language and communication",
-      "meaning": "to convey or express something clearly without ambiguity or indirectness",
+      "context": "communication",
+      "meaning": "command with authority",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "domain: military and warfare",
-      "meaning": "to direct a military operation, unit, or movement in a specific manner, often with precision and authority",
+      "context": "target",
+      "meaning": "intend (something) to move towards a certain goal",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "creation",
+      "meaning": "guide the actors in (plays and films)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "financial",
+      "meaning": "to receive or obtain something, such as a payment or an investment, without any intermediate steps or agents",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "financial domain",
-      "meaning": "to give money in exchange for goods or services",
+      "context": "wage",
+      "meaning": "something that remunerates",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychological domain",
-      "meaning": "to make a sacrifice or effort to achieve a goal",
+      "context": "finance",
+      "meaning": "give money, usually in exchange for goods or services",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "give",
+      "meaning": "convey, as of a compliment, regards, attention, etc.; bestow",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "financial planning",
+      "meaning": "to settle a debt or obligation",
       "added": "accumulated",
       "source": "llm"
     }

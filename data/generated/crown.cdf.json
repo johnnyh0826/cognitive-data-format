@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "royalty and government",
-      "meaning": "a monarch's headdress or headgear, often symbolizing authority and power.",
+      "context": "communication",
+      "meaning": "the Crown (or the reigning monarch) as the symbol of the power and authority of a monarchy",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "botany",
-      "meaning": "the upper portion of a tree trunk, typically above the branches.",
+      "context": "anatomy",
+      "meaning": "the part of a tooth above the gum that is covered with enamel",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a wreath or garland worn on the head to signify victory",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "jewelry",
+      "meaning": "a decorative piece worn on the head, typically made of precious materials and symbolizing status or achievement",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "textile and packaging",
-      "meaning": "to enclose or cover something with a material, such as cloth or plastic.",
+      "context": "object",
+      "meaning": "cloak that is folded or wrapped around a person",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "mathematics and science",
-      "meaning": "in geometry, to envelop or surround an object with a curve or surface.",
+      "context": "food",
+      "meaning": "a sandwich in which the filling is rolled up in a soft tortilla",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "wrapping",
+      "meaning": "the covering (usually paper or cellophane) in which something is wrapped",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "mathematics",
+      "meaning": "to enclose or surround something, such as an equation or a set of values",
       "added": "accumulated",
       "source": "llm"
     }

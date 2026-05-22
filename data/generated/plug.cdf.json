@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "electrical domain",
-      "meaning": "a device for connecting two electrical circuits together",
+      "context": "object",
+      "meaning": "blockage consisting of an object designed to fill a hole tightly",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "gaming domain",
-      "meaning": "to insert a game cartridge or disc into a gaming console",
+      "context": "chew",
+      "meaning": "a wad of something chewable as tobacco",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "ballyhoo",
+      "meaning": "blatant or sensational promotion",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "electrical engineering",
+      "meaning": "a device for connecting or disconnecting an electrical circuit",
       "added": "accumulated",
       "source": "llm"
     }

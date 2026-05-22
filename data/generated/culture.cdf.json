@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "human society and anthropology",
-      "meaning": "the integrated system of shared attitudes, values, goals, and practices that a group of people possess and transmit from one generation to the next",
+      "context": "group",
+      "meaning": "a particular society at a particular time and place",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biological and ecological systems",
-      "meaning": "the complex network of interactions between organisms, including symbiotic relationships, predator-prey dynamics, and nutrient cycling",
+      "context": "psychology",
+      "meaning": "the tastes in art and manners that are favored by a social group",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "acculturation",
+      "meaning": "all the knowledge and values shared by a society",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "biology",
+      "meaning": "the set of characteristics that define a species or group of organisms",
       "added": "accumulated",
       "source": "llm"
     }

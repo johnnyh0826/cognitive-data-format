@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical movement",
-      "meaning": "to move one's foot forward in walking or dancing",
+      "context": "measure",
+      "meaning": "any maneuver made as part of progress toward a goal",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy and space exploration",
-      "meaning": "a process of lowering oneself to the lunar surface from a spacecraft",
+      "context": "footstep",
+      "meaning": "the distance covered by a step",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "the act of changing location by raising the foot and setting it down",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music",
+      "meaning": "a rhythmic pattern or sequence of sounds in music, often used as a basis for further development",
       "added": "accumulated",
       "source": "llm"
     }

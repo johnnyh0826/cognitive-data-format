@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "philosophy and logic",
-      "meaning": "a set of statements or propositions offered as true, with the intention of demonstrating their truth through reasoning.",
+      "context": "communication",
+      "meaning": "a fact or assertion offered as evidence that something is true",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing and programming",
-      "meaning": "a sequence of commands or instructions that are executed by a computer program to achieve a specific task or solve a problem.",
+      "context": "controversy",
+      "meaning": "a contentious speech act; a dispute where there is strong disagreement",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a discussion in which reasons are advanced for and against some proposition or proposal",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Logic and Reasoning",
+      "meaning": "A set of statements or propositions that are used to support or justify a conclusion",
       "added": "accumulated",
       "source": "llm"
     }

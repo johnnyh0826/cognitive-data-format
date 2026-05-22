@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "publishing and media",
-      "meaning": "to produce copies of written or visual content, such as books, magazines, or images.",
+      "context": "communication",
+      "meaning": "the text appearing in a book, newspaper, or other printed publication",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "3D printing and manufacturing",
-      "meaning": "to create a physical object from digital designs using additive processes like Fused Deposition Modeling (FDM) or Stereolithography (SLA).",
+      "context": "object",
+      "meaning": "a picture or design printed from an engraving",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "mark",
+      "meaning": "a visible indication made on a surface",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Computer Science",
+      "meaning": "the process of outputting data or text onto a physical medium, such as paper or plastic",
       "added": "accumulated",
       "source": "llm"
     }

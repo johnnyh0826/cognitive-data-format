@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical movement",
-      "meaning": "to change one's position or location in space",
+      "context": "action",
+      "meaning": "the act of deciding to do something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychological response",
-      "meaning": "to change one's emotional state or attitude towards something",
+      "context": "action",
+      "meaning": "the act of changing your residence or place of business",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "motion",
+      "meaning": "a change of position that does not entail a change of location",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "physical activity",
+      "meaning": "to change one's position or posture, often in a deliberate manner",
       "added": "accumulated",
       "source": "llm"
     }

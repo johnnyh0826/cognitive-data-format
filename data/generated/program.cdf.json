@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a set of instructions that a computer can execute",
+      "context": "plan",
+      "meaning": "a series of steps to be carried out or goals to be accomplished",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "education",
-      "meaning": "a planned series of courses or activities, typically leading to certification or a degree",
+      "context": "psychology",
+      "meaning": "a system of projects or services intended to meet a public need",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "broadcast",
+      "meaning": "a radio or television show",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a set of instructions that a computer can execute",
       "added": "accumulated",
       "source": "llm"
     }

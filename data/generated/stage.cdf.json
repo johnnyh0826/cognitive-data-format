@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "theater and performance",
-      "meaning": "a raised platform or structure used for performances, speeches, or presentations",
+      "context": "phase",
+      "meaning": "any distinct time period in a sequence of events",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology and ecology",
-      "meaning": "an area of land or water where animals live, breed, and raise their young",
+      "context": "degree",
+      "meaning": "a specific identifiable position in a continuum or series or especially in a process",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a large platform on which people can stand and can be seen by an audience",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "theater",
+      "meaning": "a platform or area where a play, dance, or other performance takes place",
       "added": "accumulated",
       "source": "llm"
     }

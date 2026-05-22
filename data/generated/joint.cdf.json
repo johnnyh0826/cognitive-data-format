@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology and anatomy",
-      "meaning": "a point of union between two or more bones, cartilages, or other structures in the body",
+      "context": "anatomy",
+      "meaning": "(anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "joints and connections in engineering and technology",
-      "meaning": "a connection point between two or more components, allowing for movement or flexibility",
+      "context": "object",
+      "meaning": "a disreputable place of entertainment",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "articulation",
+      "meaning": "the shape or manner in which things come together and a connection is made",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "business",
+      "meaning": "a collaborative effort or partnership between two or more organizations or individuals",
       "added": "accumulated",
       "source": "llm"
     }

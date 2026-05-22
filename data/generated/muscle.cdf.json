@@ -1,0 +1,33 @@
+{
+  "token": "muscle",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "anatomy",
+      "meaning": "one of the contractile organs of the body",
+      "added": "first",
+      "source": "wordnet"
+    },
+    {
+      "id": "02",
+      "context": "anatomy",
+      "meaning": "animal tissue consisting predominantly of contractile cells",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "muscleman",
+      "meaning": "a bully employed as a thug or bodyguard",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Sports and fitness",
+      "meaning": "a group of people working together to achieve a common goal or objective, often in a competitive environment",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

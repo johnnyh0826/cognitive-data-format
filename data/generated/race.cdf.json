@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology and genetics",
-      "meaning": "a group of organisms within a species that share a common gene pool and are capable of interbreeding",
+      "context": "event",
+      "meaning": "any competition",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "human rights and social justice",
-      "meaning": "the struggle for equal opportunities and treatment based on characteristics such as ethnicity, gender, or religion",
+      "context": "event",
+      "meaning": "a contest of speed",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "group",
+      "meaning": "people who are believed to belong to the same genetic stock",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "society",
+      "meaning": "a group of people who share a common ancestry or cultural heritage",
       "added": "accumulated",
       "source": "llm"
     }

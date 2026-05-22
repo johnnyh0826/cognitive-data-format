@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "a flow of electric charge or a flow of fluid, such as water or air.",
+      "context": "phenomenon",
+      "meaning": "a flow of electricity through a conductor",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "journalism and news",
-      "meaning": "up-to-date information or events that are happening now, often used to describe a story or topic that is being followed closely.",
+      "context": "event",
+      "meaning": "a steady flow of a fluid (usually from natural causes)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "stream",
+      "meaning": "dominant course (suggestive of running water) of successive events or ideas",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "time",
+      "meaning": "the time period in which something is happening or relevant",
       "added": "accumulated",
       "source": "llm"
     }

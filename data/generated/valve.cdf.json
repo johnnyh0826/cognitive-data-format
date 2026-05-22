@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mechanical engineering",
-      "meaning": "a device controlling the flow of a fluid or gas",
+      "context": "anatomy",
+      "meaning": "a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "anatomy and physiology",
-      "meaning": "a structure regulating blood flow in a circulatory system",
+      "context": "object",
+      "meaning": "device in a brass wind instrument for varying the length of the air column to alter the pitch of a tone",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "control consisting of a mechanical device for controlling the flow of a fluid",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "engineering",
+      "meaning": "a device that regulates the flow of a fluid, such as air or gas, in an industrial process",
       "added": "accumulated",
       "source": "llm"
     }

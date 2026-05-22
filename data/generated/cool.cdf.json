@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "temperature and physics",
-      "meaning": "relating to a low temperature, typically below room temperature.",
+      "context": "property",
+      "meaning": "the quality of being at a refreshingly low temperature",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "popular culture and slang",
-      "meaning": "appealing or fashionable, especially among young people.",
+      "context": "aplomb",
+      "meaning": "great coolness and composure under strain",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "change",
+      "meaning": "make cool or cooler",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "fashion domain",
+      "meaning": "trendy or fashionable, especially in a youthful or modern sense",
       "added": "accumulated",
       "source": "llm"
     }

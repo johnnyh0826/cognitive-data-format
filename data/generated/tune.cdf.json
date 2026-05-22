@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music",
-      "meaning": "a melodic pattern or sequence of notes in music",
+      "context": "communication",
+      "meaning": "a succession of notes forming a distinctive sequence",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "mechanical engineering",
-      "meaning": "the precise adjustment of a machine's parts to achieve optimal performance",
+      "context": "property",
+      "meaning": "the property of producing accurately a note of a given pitch",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "the adjustment of a radio receiver or other circuit to a required frequency",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "music genre",
+      "meaning": "a style of music characterized by a distinctive sound or mood, often used to describe jazz or popular music",
       "added": "accumulated",
       "source": "llm"
     }

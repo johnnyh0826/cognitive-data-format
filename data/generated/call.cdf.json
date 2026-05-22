@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "telecommunications",
-      "meaning": "to initiate a telephone or internet connection",
+      "context": "communication",
+      "meaning": "a telephone connection",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "politics and government",
-      "meaning": "to summon or request the presence of someone, often in an official capacity",
+      "context": "psychology",
+      "meaning": "a special disposition (as if from a divine source) to pursue a particular course",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a loud utterance; often in protest or opposition",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "a signal or invitation to start a game, contest, or competition",
       "added": "accumulated",
       "source": "llm"
     }

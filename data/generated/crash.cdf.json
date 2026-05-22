@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "aeronautics and space exploration",
-      "meaning": "an unintended impact of an aircraft or spacecraft with a surface, resulting in damage or destruction.",
+      "context": "clang",
+      "meaning": "a loud resonant repeating noise",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing and technology",
-      "meaning": "the failure of a computer program or system to function properly, often causing data loss or corruption.",
+      "context": "event",
+      "meaning": "a serious accident (usually involving one or more vehicles)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "a sudden large decline of business or the prices of stocks (especially one that causes additional failures)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a program or process that stops functioning correctly and is terminated, often due to a bug or error",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,22 @@
   "tracks": [
     {
       "id": "01",
-      "context": "mathematics",
-      "meaning": "a mathematical object used to represent a value or quantity",
+      "context": "communication",
+      "meaning": "an arbitrary sign (written or printed) that has acquired a conventional significance",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "linguistics",
-      "meaning": "a unit of meaning in language, conveying information about the relationship between entities",
+      "context": "psychology",
+      "meaning": "something visible that by association or convention represents something else that is invisible",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "mathematics",
+      "meaning": "a mathematical expression or equation that represents a quantity, relationship, or operation",
       "added": "accumulated",
       "source": "llm"
     }

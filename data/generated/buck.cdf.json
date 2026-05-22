@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "one unit of currency, especially in the United States",
+      "context": "vaulting horse",
+      "meaning": "a gymnastic horse without pommels and with one end elongated; used lengthwise for vaulting",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "hunting and wildlife management",
-      "meaning": "the male of certain mammals, such as deer or antelope",
+      "context": "dollar",
+      "meaning": "a piece of paper money worth one dollar",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "person",
+      "meaning": "United States author whose novels drew on her experiences as a missionary in China (1892-1973)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "zoology",
+      "meaning": "a male deer, especially in North America",
       "added": "accumulated",
       "source": "llm"
     }

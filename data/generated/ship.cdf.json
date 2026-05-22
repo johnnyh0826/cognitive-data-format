@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "navigation and transportation",
-      "meaning": "a large vessel that travels on water, powered by wind or engines",
+      "context": "object",
+      "meaning": "a vessel that carries passengers or freight",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "astronomy and space exploration",
-      "meaning": "a spacecraft designed to carry humans or cargo through space",
+      "context": "transport",
+      "meaning": "transport commercially",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "social",
+      "meaning": "hire for work on a ship",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "nautical",
+      "meaning": "a vessel that is a unit of measurement for speed, typically one knot per hour",
       "added": "accumulated",
       "source": "llm"
     }

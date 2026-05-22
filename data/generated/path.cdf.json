@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain: geography",
-      "meaning": "a route or course, especially one used for walking or hiking",
+      "context": "action",
+      "meaning": "a course of conduct",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "domain: spirituality and philosophy",
-      "meaning": "a journey of self-discovery or spiritual growth",
+      "context": "object",
+      "meaning": "a way especially designed for a particular use",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geography",
+      "meaning": "an established line of travel or access",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a sequence of characters or commands in a file system or operating system",
       "added": "accumulated",
       "source": "llm"
     }

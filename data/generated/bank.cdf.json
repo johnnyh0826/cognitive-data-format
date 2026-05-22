@@ -3,36 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "a financial institution that provides banking services to customers.",
+      "context": "object",
+      "meaning": "sloping land (especially the slope beside a body of water)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "the edge of a river or lake, especially one with a flat or sloping surface.",
+      "context": "depository financial institution",
+      "meaning": "a financial institution that accepts deposits and channels the money into lending activities",
       "added": "accumulated",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "03",
-      "context": "aviation",
-      "meaning": "to tilt an aircraft to change its direction or attitude.",
+      "context": "object",
+      "meaning": "a long ridge or pile",
       "added": "accumulated",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "04",
-      "context": "healthcare",
-      "meaning": "a facility that collects and distributes blood for transfusions.",
-      "added": "accumulated",
-      "source": "llm"
-    },
-    {
-      "id": "05",
-      "context": "sports",
-      "meaning": "to hit a ball, especially in pool or billiards, so that it goes into a pocket or off the table.",
+      "context": "nautical",
+      "meaning": "the side of a ship or boat that is opposite the stem (front) and includes the quarterdeck",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physical action",
-      "meaning": "to propel or hurl an object through the air with force and intention",
+      "context": "action",
+      "meaning": "the act of throwing (propelling something with a rapid movement of the arm and wrist)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing and gaming",
-      "meaning": "a programming instruction to release control of a process or to interrupt a program's execution",
+      "context": "state",
+      "meaning": "a single chance or instance",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "event",
+      "meaning": "the maximum movement available to a pivoted or reciprocating piece by a cam",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "idiomatic expression",
+      "meaning": "to give up or abandon something, as if throwing it away",
       "added": "accumulated",
       "source": "llm"
     }

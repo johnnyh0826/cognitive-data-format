@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sport",
-      "meaning": "a contest or competition between two teams, individuals, or entities to determine a winner",
+      "context": "object",
+      "meaning": "lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "chemistry and materials science",
-      "meaning": "the pairing of atoms, ions, or molecules with similar chemical properties to form a stable compound",
+      "context": "event",
+      "meaning": "a formal contest in which two or more persons or teams compete",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a burning piece of wood or cardboard",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "a compatible or harmonious relationship between two people, often referring to a romantic partnership",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a mistake or error in a program's code",
+      "context": "biology",
+      "meaning": "general term for any insect or similar creeping or crawling invertebrate",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "entomology",
-      "meaning": "a small insect, typically an arthropod with six legs and a segmented body",
+      "context": "state",
+      "meaning": "a fault or defect in a computer program, system, or machine",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a small hidden microphone; for listening secretly",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "software testing",
+      "meaning": "a mistake or error in a program's behavior, often causing unexpected results",
       "added": "accumulated",
       "source": "llm"
     }

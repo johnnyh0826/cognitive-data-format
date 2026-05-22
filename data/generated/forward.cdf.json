@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "navigation and movement",
-      "meaning": "to move in a direction away from something or towards something, often with a sense of progress or advancement.",
+      "context": "person",
+      "meaning": "the person who plays the position of forward in certain games, such as basketball, soccer, or hockey",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "athletics and sports",
-      "meaning": "in a specific sport, to score points by advancing the ball or puck in a forward direction, as opposed to backward or sideways.",
+      "context": "action",
+      "meaning": "a position on a basketball, soccer, or hockey team",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "movement",
+      "meaning": "send or ship onward from an intermediate post or station in transit",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "direction",
+      "meaning": "moving or facing towards a specific point, goal, or objective",
       "added": "accumulated",
       "source": "llm"
     }

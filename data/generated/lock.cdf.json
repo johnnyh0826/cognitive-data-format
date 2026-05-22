@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain (mechanical engineering)",
-      "meaning": "a mechanical device for securing or fastening something.",
+      "context": "object",
+      "meaning": "a fastener fitted to a door or drawer to keep it firmly closed",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "another distinct domain (nautical)",
-      "meaning": "the forward part of a sailing ship, where the anchor is stowed.",
+      "context": "anatomy",
+      "meaning": "a strand or cluster of hair",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a mechanism that detonates the charge of a gun",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a type of encryption mechanism that secures data by controlling access to it",
       "added": "accumulated",
       "source": "llm"
     }

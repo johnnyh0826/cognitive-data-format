@@ -1,0 +1,33 @@
+{
+  "token": "bound",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "boundary",
+      "meaning": "a line determining the limits of an area",
+      "added": "first",
+      "source": "wordnet"
+    },
+    {
+      "id": "02",
+      "context": "boundary",
+      "meaning": "the line or plane indicating the limit or extent of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "limit",
+      "meaning": "the greatest possible degree of something",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "emotional or psychological state",
+      "meaning": "feeling of being restricted or confined",
+      "added": "accumulated",
+      "source": "llm"
+    }
+  ]
+}

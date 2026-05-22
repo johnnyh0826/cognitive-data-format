@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "electronics",
-      "meaning": "to change or redirect the flow of electric current or signal.",
+      "context": "object",
+      "meaning": "control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "aeronautics",
-      "meaning": "in aircraft, to adjust or modify the flight trajectory by changing the angle of attack.",
+      "context": "substitution",
+      "meaning": "an event in which one thing is substituted for another",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "hairpiece consisting of a tress of false hair; used by women to give shape to a coiffure",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "to change or alternate between different game modes, characters, or settings",
       "added": "accumulated",
       "source": "llm"
     }

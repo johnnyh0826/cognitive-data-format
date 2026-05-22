@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "transportation",
-      "meaning": "to operate a vehicle, such as a car or truck, for a specific purpose or distance.",
+      "context": "action",
+      "meaning": "the act of applying force to propel something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "an unconscious motivation or instinct that drives an individual's behavior or decision-making process.",
+      "context": "object",
+      "meaning": "a mechanism by which force or power is transmitted in a machine",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "campaign",
+      "meaning": "a series of actions advancing a principle or tending toward a particular end",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a software application that provides a graphical user interface for managing and controlling a computer or other device",
       "added": "accumulated",
       "source": "llm"
     }

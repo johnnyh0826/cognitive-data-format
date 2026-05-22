@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "music",
-      "meaning": "a rhythmic pattern or meter in music, often created by drums or percussion instruments.",
+      "context": "geography",
+      "meaning": "a regular route for a sentry or policeman",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "the process of circulating blood through the body's organs and tissues, regulated by the heart and vascular system.",
+      "context": "pulse",
+      "meaning": "the rhythmic contraction and expansion of the arteries with each beat of the heart",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "rhythm",
+      "meaning": "the basic rhythmic unit in a piece of music",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a pattern of actions or moves in a game that is repeated to achieve a specific goal",
       "added": "accumulated",
       "source": "llm"
     }

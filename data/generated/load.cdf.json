@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "to apply a force to an object or system, often in order to move it or change its state.",
+      "context": "object",
+      "meaning": "weight to be borne or conveyed",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computing and data storage",
-      "meaning": "to transfer or retrieve information from a digital storage device, such as a hard drive or server.",
+      "context": "measurement",
+      "meaning": "a quantity that can be processed or transported at one time",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "cargo",
+      "meaning": "goods carried by a large vehicle",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "to initialize or set up a program, software, or system for operation",
       "added": "accumulated",
       "source": "llm"
     }

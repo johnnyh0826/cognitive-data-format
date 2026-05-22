@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain",
-      "meaning": "a small amount of money given to someone, such as a waiter or bartender, in appreciation for service",
+      "context": "geography",
+      "meaning": "the extreme end of something; especially something pointed",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "geography and navigation",
-      "meaning": "the top or highest point of something, such as the tip of a mountain or the tip of an iceberg",
+      "context": "gratuity",
+      "meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "an indication of potential opportunity",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "gaming",
+      "meaning": "a bonus or reward, especially in a video game",
       "added": "accumulated",
       "source": "llm"
     }

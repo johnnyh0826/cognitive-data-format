@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "astronomy",
-      "meaning": "a celestial body's orbit or trajectory",
+      "context": "psychology",
+      "meaning": "a series of steps to be carried out or goals to be accomplished",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "military",
-      "meaning": "a strategic operation or tactic to achieve a goal",
+      "context": "design",
+      "meaning": "an arrangement scheme",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "scale drawing of a structure",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "astronomy",
+      "meaning": "a celestial body's orbit or path",
       "added": "accumulated",
       "source": "llm"
     }

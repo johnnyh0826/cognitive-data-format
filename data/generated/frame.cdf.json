@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "photography and art",
-      "meaning": "a structure that holds a picture or other artwork in place",
+      "context": "object",
+      "meaning": "the framework for a pair of eyeglasses",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer programming",
-      "meaning": "an abstract representation of data, such as a window or container",
+      "context": "object",
+      "meaning": "a single one of a series of still transparent pictures forming a cinema, television or video film",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "human body",
+      "meaning": "alternative names for the body of a human being",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "photography",
+      "meaning": "a single exposure or capture in a photographic series",
       "added": "accumulated",
       "source": "llm"
     }

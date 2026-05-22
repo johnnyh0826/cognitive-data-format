@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and mechanics",
-      "meaning": "to cause or experience a sudden release of energy, often resulting in separation or discontinuity",
+      "context": "interruption",
+      "meaning": "some abrupt occurrence that interrupts an ongoing activity",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "psychology and psychiatry",
-      "meaning": "to experience a mental or emotional crisis, often accompanied by feelings of fragmentation or disintegration",
+      "context": "event",
+      "meaning": "an unexpected piece of good luck",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "fault",
+      "meaning": "(geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "a temporary suspension or pause in one's mental or emotional state, often resulting from a change in circumstances",
       "added": "accumulated",
       "source": "llm"
     }

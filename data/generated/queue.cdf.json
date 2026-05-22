@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computing and technology",
-      "meaning": "a data structure in which elements are arranged in a first-in, first-out order",
+      "context": "group",
+      "meaning": "a line of people or vehicles waiting for something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "transportation and logistics",
-      "meaning": "a line of vehicles or people waiting to be served or move forward in an orderly manner",
+      "context": "communication",
+      "meaning": "(information processing) an ordered list of tasks to be performed or messages to be transmitted",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "anatomy",
+      "meaning": "a braid of hair at the back of the head",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a data structure that follows a First-In-First-Out (FIFO) principle, where elements are added and removed in a linear sequence",
       "added": "accumulated",
       "source": "llm"
     }

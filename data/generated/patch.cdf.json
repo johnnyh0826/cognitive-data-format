@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "textile and sewing",
-      "meaning": "a small piece of fabric used to mend or repair a tear or hole in clothing or other materials",
+      "context": "spot",
+      "meaning": "a small contrasting part of something",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer programming",
-      "meaning": "a small piece of code that fixes or modifies the behavior of a program to correct errors or add new functionality",
+      "context": "plot",
+      "meaning": "a small area of ground covered by specific vegetation",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a piece of cloth used as decoration or to mend or cover a hole",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a small piece of code or data that is applied to a program or system to correct errors or improve performance",
       "added": "accumulated",
       "source": "llm"
     }

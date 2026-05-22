@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "food and drink",
-      "meaning": "the sensation of flavor or flavorfulness in the mouth",
+      "context": "psychology",
+      "meaning": "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "sensory perception",
-      "meaning": "a subjective experience of pleasure, satisfaction, or delight",
+      "context": "preference",
+      "meaning": "a strong liking",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "psychology",
+      "meaning": "delicate discrimination (especially of aesthetic values)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "food and drink preparation",
+      "meaning": "the quality of something that is being cooked or prepared, especially in terms of its flavor profile",
       "added": "accumulated",
       "source": "llm"
     }

@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geometry and spatial reasoning",
-      "meaning": "the boundary or outline of a shape, area, or object",
+      "context": "geography",
+      "meaning": "the boundary of a surface",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "finance and economics",
-      "meaning": "a point at which one thing ends and another begins, such as the edge of a market trend",
+      "context": "boundary",
+      "meaning": "a line determining the limits of an area",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "a sharp side formed by the intersection of two surfaces of an object",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "Computing",
+      "meaning": "A network interface or a boundary in a data structure, such as an edge node or an edge of a graph",
       "added": "accumulated",
       "source": "llm"
     }

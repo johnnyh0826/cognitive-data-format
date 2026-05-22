@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "photography",
-      "meaning": "to release a photograph from a camera",
+      "context": "biology",
+      "meaning": "a new branch",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "hunting/fishing",
-      "meaning": "to cause an animal to die or be killed, typically with a projectile",
+      "context": "action",
+      "meaning": "the act of shooting at targets",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "sports",
+      "meaning": "hit with a missile from a weapon",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "photography",
+      "meaning": "to take a photograph, especially quickly or casually",
       "added": "accumulated",
       "source": "llm"
     }

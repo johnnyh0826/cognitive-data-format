@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computing and technology",
-      "meaning": "a record of events or actions, especially in a computer system.",
+      "context": "chemistry",
+      "meaning": "a segment of the trunk of a tree when stripped of branches",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "forestry and ecology",
-      "meaning": "the trunk or main stem of a tree, especially one that is dead or has fallen.",
+      "context": "logarithm",
+      "meaning": "the exponent required to produce a given number",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "communication",
+      "meaning": "a written record of messages sent or received",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computing",
+      "meaning": "a file or stream of data recording events, actions, or transactions",
       "added": "accumulated",
       "source": "llm"
     }

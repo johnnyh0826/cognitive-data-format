@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "computer science",
-      "meaning": "a collection of interconnected devices or systems that communicate with each other.",
+      "context": "group",
+      "meaning": "an interconnected system of things or people",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "social and cultural dynamics",
-      "meaning": "a system of relationships between people, groups, or organizations that facilitate exchange and collaboration.",
+      "context": "object",
+      "meaning": "(broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "object",
+      "meaning": "an open fabric of string or rope or wire woven together at regular intervals",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "computer science",
+      "meaning": "a system of interconnected devices, such as computers and servers, that can communicate with each other",
       "added": "accumulated",
       "source": "llm"
     }

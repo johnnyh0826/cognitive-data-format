@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physics and engineering",
-      "meaning": "to change direction or orientation, often in a rotational sense.",
+      "context": "bend",
+      "meaning": "a circular segment of a curve",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "computer science and programming",
-      "meaning": "to modify the flow of execution or to redirect control in a program.",
+      "context": "action",
+      "meaning": "the act of changing or reversing the direction of the course",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "action",
+      "meaning": "(game) the activity of doing something in an agreed succession",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "verb phrase",
+      "meaning": "to cause something to change or move in a new direction",
       "added": "accumulated",
       "source": "llm"
     }

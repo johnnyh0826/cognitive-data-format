@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "primary domain (food)",
-      "meaning": "to prepare and combine ingredients in a culinary process to create a dish or meal",
+      "context": "person",
+      "meaning": "someone who cooks food",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
-      "context": "domain of chemistry",
-      "meaning": "to heat or treat materials, such as polymers or biological samples, in a controlled environment to achieve a specific chemical reaction or property",
+      "context": "person",
+      "meaning": "English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "creation",
+      "meaning": "prepare a hot meal",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
+      "context": "recipe",
+      "meaning": "to combine ingredients in a specific way according to a recipe",
       "added": "accumulated",
       "source": "llm"
     }

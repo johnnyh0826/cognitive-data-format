@@ -3,15 +3,29 @@
   "tracks": [
     {
       "id": "01",
-      "context": "construction",
-      "meaning": "a solid mass of material, such as stone or brick, used to build structures",
+      "context": "object",
+      "meaning": "a solid piece of something (usually having flat rectangular sides)",
       "added": "first",
-      "source": "llm"
+      "source": "wordnet"
     },
     {
       "id": "02",
+      "context": "geography",
+      "meaning": "a rectangular area in a city surrounded by streets and usually containing several buildings",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "03",
+      "context": "geometry",
+      "meaning": "a three-dimensional shape with six square or rectangular sides",
+      "added": "accumulated",
+      "source": "wordnet"
+    },
+    {
+      "id": "04",
       "context": "computing",
-      "meaning": "a group of instructions that are executed together in a computer program",
+      "meaning": "a sequence of instructions or commands that can be executed by a computer",
       "added": "accumulated",
       "source": "llm"
     }
