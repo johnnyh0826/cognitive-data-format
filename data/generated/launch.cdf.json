@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a motorboat with an open deck or a half deck",
+      "context": "action",
+      "meaning": "to set something in motion or begin something for the first time",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.283
     },
     {
       "id": "02",
-      "context": "launching",
-      "meaning": "the act of propelling with force",
+      "context": "business",
+      "meaning": "to introduce a new product or service to the market",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.222
     },
     {
       "id": "03",
-      "context": "establish",
-      "meaning": "set up or found",
+      "context": "military",
+      "meaning": "to send a missile, rocket, or spacecraft into the air or into space",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.121
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "to send or direct a spacecraft into orbit or towards another celestial body",
+      "context": "nautical",
+      "meaning": "to set a boat or ship into the water for the first time",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "to throw or propel a ball or object at the start of play",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "to release or deploy a software application or digital service",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.152
+    },
+    {
+      "id": "07",
+      "context": "finance",
+      "meaning": "to begin a financial campaign such as an initial public offering or fundraising round",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "08",
+      "context": "theatre",
+      "meaning": "to premiere or open a theatrical production or performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "a boat or vessel designed for fast travel, typically open and motorized",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to throw or hurl something forcefully",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "time",
+      "meaning": "to start or commence an event, project, or undertaking at a specific moment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

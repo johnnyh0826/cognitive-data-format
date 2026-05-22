@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "path",
-      "meaning": "a line or route along which something travels or moves",
+      "context": "movement",
+      "meaning": "a mark or series of marks left behind by the passage of a person, animal, or vehicle",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.147
     },
     {
       "id": "02",
-      "context": "lead",
-      "meaning": "evidence pointing to a possible solution",
+      "context": "music",
+      "meaning": "a separate song or piece of music on a recording or album",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.176
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a pair of parallel rails providing a runway for wheels",
+      "context": "sports",
+      "meaning": "a course or circuit laid out for racing or athletics",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.118
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a sequence of sounds or music recorded in a single take",
+      "context": "technology",
+      "meaning": "to monitor or record the location, progress, or performance of something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.216
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "one of the concentric rings on a magnetic disk where data is stored",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "railway",
+      "meaning": "a pair of parallel metal rails on which trains run",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "an armored vehicle with an endless metal band driven by wheels",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "to maintain awareness of or monitor the progress of something over time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.118
+    },
+    {
+      "id": "09",
+      "context": "action",
+      "meaning": "to keep or maintain a record of something systematically",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "10",
+      "context": "psychology",
+      "meaning": "a state of concentration or engagement with a topic or activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "time",
+      "meaning": "one of several possible paths or sequences of development or progression",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "farming",
+      "meaning": "the wear or damage caused by repeated passage over the same area",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "informal",
+      "meaning": "to keep pace or stay level with someone or something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "education",
+      "meaning": "a level or stream within a system of academic classification for students of different abilities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

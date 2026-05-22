@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "difficult",
-      "meaning": "not easy; requiring great physical or mental effort to accomplish or comprehend or endure",
+      "context": "action",
+      "meaning": "requiring or involving great effort, difficulty, or energy to accomplish",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.343
     },
     {
       "id": "02",
-      "context": "all",
-      "meaning": "dispassionate",
+      "context": "physics",
+      "meaning": "solid, firm, and resistant to pressure or deformation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.196
     },
     {
       "id": "03",
-      "context": "all",
-      "meaning": "resisting weight or pressure",
+      "context": "anatomy",
+      "meaning": "relating to solid tissues or structural parts of the body, as opposed to soft tissues",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.049
     },
     {
       "id": "04",
-      "context": "emotional state",
-      "meaning": "difficult or unpleasant to deal with; stressful",
+      "context": "computing",
+      "meaning": "permanent storage on a physical disk drive, as opposed to volatile memory",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "harsh, severe, or unsympathetic in manner or treatment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.118
+    },
+    {
+      "id": "06",
+      "context": "chemistry",
+      "meaning": "containing dissolved minerals that reduce the ability of water to lather with soap",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "07",
+      "context": "weather",
+      "meaning": "freezing or characterized by frost, as in a hard frost or hard freeze",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "08",
+      "context": "metallurgy",
+      "meaning": "resistant to cutting, scratching, or bending due to molecular structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "difficult to bear emotionally or mentally; causing distress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "based on facts or clear evidence rather than opinions or interpretations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "11",
+      "context": "food",
+      "meaning": "not soft or tender; requiring significant chewing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "medicine",
+      "meaning": "tense or rigid, typically describing muscles or tissue",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "law",
+      "meaning": "based on provable facts rather than circumstantial evidence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

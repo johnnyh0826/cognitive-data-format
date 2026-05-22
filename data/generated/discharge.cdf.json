@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "the sudden giving off of energy",
+      "context": "medicine",
+      "meaning": "the release of a substance or fluid from the body, such as pus, blood, or other bodily matter",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "the act of venting",
+      "context": "law",
+      "meaning": "the formal release of a person from legal obligation, accusation, or custody",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "chemistry",
-      "meaning": "a substance that is emitted or released",
+      "context": "military",
+      "meaning": "the release or firing of a weapon, ammunition, or explosive device",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "Medical",
-      "meaning": "the termination of a patient's treatment or hospital stay",
+      "context": "action",
+      "meaning": "to fire or shoot a gun, cannon, or other weapon",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "the flowing out or emission of liquid, gas, or other matter from a source",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "electricity",
+      "meaning": "the release of accumulated electrical energy or charge",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "employment",
+      "meaning": "the termination of a person's employment or dismissal from a job",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "the ejection of reproductive material or sperm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "finance",
+      "meaning": "the payment or settlement of a debt, obligation, or financial claim",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "10",
+      "context": "nautical",
+      "meaning": "the unloading of cargo from a ship or vessel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "11",
+      "context": "penalty",
+      "meaning": "the official release of a player from a team's roster in sports",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

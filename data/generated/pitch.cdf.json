@@ -3,31 +3,139 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "the property of sound that varies with variation in the frequency of vibration",
+      "context": "music",
+      "meaning": "The highness or lowness of a sound, determined by the frequency of vibration of the sound waves produced by it.",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.178
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "(baseball) the act of throwing a baseball by a pitcher to a batter",
+      "context": "business",
+      "meaning": "A persuasive sales presentation or proposal made to potential investors, clients, or customers.",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.149
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "a vendor's position (especially on the sidewalk)",
+      "context": "sports",
+      "meaning": "The act of throwing a ball toward a batter in baseball or softball.",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.119
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "the act of singing or playing a musical instrument in a particular way, often with enthusiasm and energy",
+      "context": "construction",
+      "meaning": "A dark, sticky, viscous substance derived from tar, coal, or petroleum, used for waterproofing and binding.",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "The angle or degree of slope of a roof, hillside, or other inclined surface.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.099
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "To throw or hurl something forcefully.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.119
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "The act of falling forward or being thrown violently in a particular direction.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "08",
+      "context": "nautical",
+      "meaning": "The forward and backward tilting motion of a ship moving through waves.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "chemistry",
+      "meaning": "A resinous substance exuded by various plants, particularly pine trees.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "The tone, modulation, or delivery used when speaking or presenting information.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "A sales talk or advertising line delivered with the intent to persuade or convince someone.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "12",
+      "context": "gambling",
+      "meaning": "The amount of money wagered or the stakes in a betting situation.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "technology",
+      "meaning": "The distance between corresponding points on adjacent teeth of a gear or screw thread.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "printing",
+      "meaning": "The distance between the top of one line of type and the top of the next line.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "15",
+      "context": "geology",
+      "meaning": "The angle that a layer of rock or mineral vein makes with the horizontal plane.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "16",
+      "context": "military",
+      "meaning": "A temporary military camp or fortified position.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "17",
+      "context": "theatre",
+      "meaning": "The perceived quality or characteristic manner of delivering lines or performing on stage.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

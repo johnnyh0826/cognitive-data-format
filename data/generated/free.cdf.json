@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "people who are free",
+      "context": "action",
+      "meaning": "to release someone from captivity, imprisonment, or restraint",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "social",
-      "meaning": "grant freedom to; free from confinement",
+      "context": "finance",
+      "meaning": "available for use or not allocated to a specific purpose",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "finance",
-      "meaning": "relieve from",
+      "context": "law",
+      "meaning": "not subject to or constrained by legal obligations or restrictions",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "financial",
-      "meaning": "without cost or expense; at no charge",
+      "context": "computing",
+      "meaning": "software or code available for use without charge and typically with source code accessible",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "not blocked or obstructed; open and passable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.11
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "not confined or constrained by physical bonds or attachments",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "psychology",
+      "meaning": "unoccupied or available; not busy or engaged in an activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "liberated or relieved from a burden, obligation, or problem",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "a sports play in which a penalty shot or kick is awarded without defensive opposition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "nautical",
+      "meaning": "not constrained by moorings, anchors, or land; at liberty on the water",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "chemistry",
+      "meaning": "not chemically bonded; existing as an unattached element or radical",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "biology",
+      "meaning": "not parasitized or infected; in a healthy state",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "storage",
+      "meaning": "unoccupied or available space for use",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
     }
   ]
 }

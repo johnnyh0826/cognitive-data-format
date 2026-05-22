@@ -4,30 +4,90 @@
     {
       "id": "01",
       "context": "geometry",
-      "meaning": "(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon",
+      "meaning": "a plane figure with four equal sides and four right angles",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
       "context": "measurement",
-      "meaning": "the product of two equal terms",
+      "meaning": "the product of a number multiplied by itself, expressed as n\u00b2",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "public square",
-      "meaning": "an open area at the meeting of two or more streets",
+      "context": "action",
+      "meaning": "to multiply a number by itself",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a type of dance characterized by a series of steps that form a square shape",
+      "context": "geography",
+      "meaning": "an open public space in a town or city, typically rectangular and surrounded by buildings",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "a person who is old-fashioned, conventional, or not fashionable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "the area in which boxing or wrestling matches take place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "construction",
+      "meaning": "a tool with a right angle used for marking or checking square angles",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "08",
+      "context": "military",
+      "meaning": "a formation of troops arranged in a rectangular block",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "a pixel or unit cell in a grid-based display or game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "10",
+      "context": "law",
+      "meaning": "to settle or resolve a dispute or legal matter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "business",
+      "meaning": "to account for or reconcile financial records",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

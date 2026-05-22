@@ -4,23 +4,98 @@
     {
       "id": "01",
       "context": "communication",
-      "meaning": "an arbitrary sign (written or printed) that has acquired a conventional significance",
+      "meaning": "a sign, character, or object that represents or stands for something else, especially an idea or quality",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.337
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "something visible that by association or convention represents something else that is invisible",
+      "context": "mathematics",
+      "meaning": "a written character or sign used to represent a mathematical operation, quantity, or concept",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "03",
-      "context": "mathematics",
-      "meaning": "a mathematical expression or equation that represents a quantity, relationship, or operation",
+      "context": "technology",
+      "meaning": "a graphic representation or icon used in computing interfaces to represent files, functions, or applications",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "04",
+      "context": "psychology",
+      "meaning": "something that represents an unconscious idea, desire, or feeling in dreams or the mind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "05",
+      "context": "religion",
+      "meaning": "a sign, object, or image used to represent sacred, spiritual, or religious concepts and meanings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "06",
+      "context": "semiotics",
+      "meaning": "in linguistics and philosophy, a mark or sign that has an arbitrary relationship to the thing it represents",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "07",
+      "context": "chemistry",
+      "meaning": "a one or two-letter abbreviation representing a chemical element on the periodic table",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "a trademark, logo, or distinctive mark used to identify and protect intellectual property",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "09",
+      "context": "currency",
+      "meaning": "a token or coin that represents a certain value in a monetary or exchange system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "10",
+      "context": "music",
+      "meaning": "a written character or notation used to represent musical notes, rests, or performance instructions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a small gift, gesture, or token that shows appreciation, love, or acknowledgment of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "12",
+      "context": "status",
+      "meaning": "an emblem, badge, or recognizable object that signifies membership, rank, or allegiance to a group",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
     }
   ]
 }

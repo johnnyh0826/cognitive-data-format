@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "education imparted in a series of lessons or meetings",
+      "context": "education",
+      "meaning": "a program of study or training offered by an educational institution, typically lasting a specific duration",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "a connected series of events or actions or developments",
+      "context": "movement",
+      "meaning": "the direction or path along which something moves or progresses",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "general line of orientation",
+      "context": "action",
+      "meaning": "a sequence of events or actions that unfold naturally or as part of a process",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "golf",
-      "meaning": "a round of golf played over a specified number of holes",
+      "context": "food",
+      "meaning": "the main component or dish served as part of a meal",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "time",
+      "meaning": "the duration or passage of time during which events occur",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "the ground or terrain that one travels over, particularly on horseback or on foot",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "the heading or direction a ship or boat is traveling",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "sports",
+      "meaning": "a track or racecourse where sporting events take place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a normal or expected way that events are progressing or expected to progress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "10",
+      "context": "astronomy",
+      "meaning": "the path or trajectory followed by a celestial body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "law",
+      "meaning": "a specific legal proceeding or track of action in a lawsuit or legal matter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "medicine",
+      "meaning": "the natural progression or expected development of a disease or medical condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

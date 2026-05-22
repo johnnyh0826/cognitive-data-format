@@ -4,30 +4,74 @@
     {
       "id": "01",
       "context": "action",
-      "meaning": "an open clash between two opposing groups (or individuals); --Thomas Paine",
+      "meaning": "a disagreement or argument between two or more people or groups",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.424
     },
     {
       "id": "02",
-      "context": "emotion",
-      "meaning": "opposition between two simultaneous but incompatible feelings",
+      "context": "military",
+      "meaning": "armed fighting or battle between opposing forces",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "03",
-      "context": "battle",
-      "meaning": "a hostile meeting of opposing military forces in the course of a war",
+      "context": "psychology",
+      "meaning": "a state of psychological tension or emotional struggle between opposing desires or beliefs",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.121
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a state of mental tension or stress resulting from incompatible demands, needs, or desires",
+      "context": "law",
+      "meaning": "a disagreement or dispute that may lead to legal proceedings",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "a lack of agreement between statements, accounts, or pieces of information",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.152
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "a situation where two computer processes or operations interfere with or hinder each other",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "a clash between competing interests, priorities, or objectives within an organization or deal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "a contraindication where one treatment or medication interferes with the effectiveness or safety of another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a personal disagreement or tension between individuals in casual contexts",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

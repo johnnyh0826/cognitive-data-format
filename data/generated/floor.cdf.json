@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+      "context": "construction",
+      "meaning": "the bottom surface of a room or building on which people walk",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+      "context": "anatomy",
+      "meaning": "the bottom surface of the foot or paw of an animal",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a lower limit",
+      "context": "geography",
+      "meaning": "a story or level of a building, or the ground level itself",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "the lowest-pitched part or section of a musical instrument or ensemble",
+      "context": "action",
+      "meaning": "to knock someone down or cause them to fall to the ground",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "formal debate",
+      "meaning": "the right to speak next in a parliamentary or legislative session",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "the minimum acceptable price or terms that a seller will accept",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "storage",
+      "meaning": "the space or area allocated to display goods in a retail environment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to confuse or perplex someone completely, rendering them unable to respond",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "09",
+      "context": "music",
+      "meaning": "a continuous instrumental backing track or rhythm section supporting vocalists or soloists",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "the lowest-level or foundational layer of a system or network architecture",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

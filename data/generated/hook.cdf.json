@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a catch for locking a door",
+      "context": "action",
+      "meaning": "to catch or fasten something with a curved or bent device designed for this purpose",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "geometry",
-      "meaning": "a sharp curve or crook; a shape resembling a hook",
+      "context": "fishing",
+      "meaning": "a curved or barbed device attached to a line and used to catch fish",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "bait",
-      "meaning": "anything that serves as an enticement",
+      "context": "anatomy",
+      "meaning": "a curved or loop-shaped anatomical structure, such as a hook in the small intestine",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "fishing",
-      "meaning": "a device used to catch fish, typically consisting of a curved or angled piece of metal",
+      "context": "sports",
+      "meaning": "a boxing punch delivered with a bent arm and rotational body movement",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "music",
+      "meaning": "a catchy or memorable part of a song designed to lodge in a listener's mind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "an attention-grabbing opening line or element designed to engage an audience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to steal or take something dishonestly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "theatre",
+      "meaning": "a curved device used to retrieve performers or props from the stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "printing",
+      "meaning": "a curved typographic element or flourish used in printing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "penalty",
+      "meaning": "a means of escaping or freeing oneself from difficulty or obligation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "11",
+      "context": "technology",
+      "meaning": "to establish a connection or link in a computing or network system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "shit",
-      "meaning": "a coarse term for defecation",
+      "context": "action",
+      "meaning": "to discard or get rid of something unwanted by throwing it away",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "a piece of land where waste materials are dumped",
+      "context": "storage",
+      "meaning": "a place where waste, garbage, or unwanted materials are deposited",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "(computer science) a copy of the contents of a computer storage device; sometimes used in debugging programs",
+      "context": "computing",
+      "meaning": "to copy data from a computer's memory to storage, typically for backup purposes",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "transportation",
-      "meaning": "to throw away or dispose of something, especially in a careless or hasty manner",
+      "context": "military",
+      "meaning": "a temporary camp or settlement used by soldiers or military personnel",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to unload cargo or goods from a vehicle, ship, or container",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "to sell a large quantity of securities or commodities at a low price, often causing a market decline",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a slovenly, unkempt, or unattractive person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "to express troubling thoughts, feelings, or problems onto another person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "technology",
+      "meaning": "the process of transferring data from a computer system to another location or device",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "farming",
+      "meaning": "to deposit manure or organic matter onto farmland as fertilizer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "food",
+      "meaning": "a dish consisting of mixed leftover ingredients or cheap ingredients prepared hastily",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

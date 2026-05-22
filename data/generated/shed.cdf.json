@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "an outbuilding with a single story; used for shelter or storage",
+      "context": "storage",
+      "meaning": "a small simple roofed structure used for storing garden tools, bicycles, or other items",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
       "context": "action",
-      "meaning": "get rid of",
+      "meaning": "to cast off, discard, or get rid of something unwanted",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "spill",
-      "meaning": "pour out in drops or small quantities or as if in drops or small quantities",
+      "context": "biology",
+      "meaning": "to lose hair, skin, or feathers naturally or gradually",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "garden",
-      "meaning": "a structure for growing plants or flowers, typically outdoors",
+      "context": "anatomy",
+      "meaning": "a layer of tissue or membrane in the body that forms a protective covering",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "farming",
+      "meaning": "a light temporary structure or hut built on agricultural land",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to lose weight or become thinner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "to move along or forward with effort or difficulty",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "time",
+      "meaning": "a period of time or interval during which something occurs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "to avoid or evade legal consequences or responsibility",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

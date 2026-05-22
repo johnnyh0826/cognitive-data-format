@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "the members of a business organization that owns or operates one or more establishments",
+      "context": "business",
+      "meaning": "a company or commercial enterprise engaged in business",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "tauten",
-      "meaning": "become taut or tauter",
+      "context": "action",
+      "meaning": "to make something solid, compact, or stable",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "tauten",
-      "meaning": "make taut or tauter",
+      "context": "anatomy",
+      "meaning": "solid and well-developed in muscles or physique",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "firm in one's resolve or opinion; resolute",
+      "context": "informal",
+      "meaning": "definite, decided, or not subject to change",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "pressure",
+      "meaning": "exerting steady, strong, or unyielding force",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "unwavering in conviction or resolve; resolute",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "a partnership or organization of professionals in law or medicine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "printing",
+      "meaning": "pressing ink onto paper or the impression made by type",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "to confirm or validate something as final",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

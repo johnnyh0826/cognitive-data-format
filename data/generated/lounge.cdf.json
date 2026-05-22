@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sofa",
-      "meaning": "an upholstered seat for more than one person",
+      "context": "furniture",
+      "meaning": "a comfortable sofa or couch designed for sitting or reclining",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a room (as in a hotel or airport) with seating where people can wait",
+      "context": "hospitality",
+      "meaning": "a room in a hotel, airport, or club designed for relaxation and socializing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.3
     },
     {
       "id": "03",
       "context": "action",
-      "meaning": "sit or recline comfortably",
+      "meaning": "to recline or sprawl in a relaxed manner on a chair or sofa",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "entertainment",
-      "meaning": "a type of music or performance, typically featuring a relaxed atmosphere and informal seating",
+      "context": "movement",
+      "meaning": "to move about in a leisurely or aimless manner without fixed purpose",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to spend time idly or lazily without engaging in productive activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "fashion",
+      "meaning": "a loose comfortable garment or robe worn for relaxation at home",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "theatre",
+      "meaning": "a public room in a theatre or cinema for waiting or socializing between performances",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

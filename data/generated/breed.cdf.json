@@ -3,31 +3,43 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a special variety of domesticated animals within a species",
+      "context": "biology",
+      "meaning": "a group of animals or plants produced by controlled mating or cultivation from a common ancestor",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "a special type",
+      "context": "action",
+      "meaning": "to produce or cause something to develop or arise",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "engender",
-      "meaning": "call forth",
+      "context": "farming",
+      "meaning": "to keep and cultivate livestock or crops for reproduction or sale",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "biology",
-      "meaning": "a group of organisms that share a common ancestor and exhibit similar characteristics",
+      "context": "informal",
+      "meaning": "a type or variety of person, typically defined by characteristics or behavior",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "to bring about or create a particular emotional state or habit through repeated exposure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

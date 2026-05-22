@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "phenomenon",
-      "meaning": "a flow of electricity through a conductor",
+      "context": "electricity",
+      "meaning": "the flow of electric charge through a conductor, measured in amperes",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "a steady flow of a fluid (usually from natural causes)",
+      "context": "time",
+      "meaning": "occurring in or belonging to the present moment",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "03",
-      "context": "stream",
-      "meaning": "dominant course (suggestive of running water) of successive events or ideas",
+      "context": "nautical",
+      "meaning": "a flowing body of water or air moving in a definite direction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "time",
-      "meaning": "the time period in which something is happening or relevant",
+      "context": "finance",
+      "meaning": "presently in use or in effect, as in current prices or current rates",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "fashionable, popular, or widely accepted at the present time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "medicine",
+      "meaning": "a therapeutic application of electric current to the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "weather",
+      "meaning": "an air or water stream moving continuously in a particular direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

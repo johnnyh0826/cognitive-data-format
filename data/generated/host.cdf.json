@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "person",
-      "meaning": "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there",
+      "context": "computing",
+      "meaning": "a computer or server that stores data, runs applications, or provides services to other computers on a network",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "horde",
-      "meaning": "a vast multitude",
+      "context": "biology",
+      "meaning": "an organism that harbors a parasite, pathogen, or symbiotic partner within or on its body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "biology",
-      "meaning": "an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association",
+      "context": "theatre",
+      "meaning": "a person who presents a show, concert, or other entertainment event to an audience",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a computer or device that provides a service or functionality, such as a web server or database",
+      "context": "social",
+      "meaning": "a person who receives guests or provides hospitality at a gathering or event",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "a person or organization that arranges and conducts a business or commercial event",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "a person who leads or moderates a radio show, television program, or public event",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a large number or multitude of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "military",
+      "meaning": "a fortified position or stronghold that serves as a defensive location",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "action",
+      "meaning": "to act as the master of ceremonies or to organize and conduct an event",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "power to direct or determine",
+      "context": "action",
+      "meaning": "to exercise power or influence over something or someone; to direct or manage",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.272
     },
     {
       "id": "02",
-      "context": "relationship",
-      "meaning": "a relation of constraint of one entity (thing or person or group) by another",
+      "context": "technology",
+      "meaning": "a mechanism or interface used to regulate or operate a device or system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.175
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "(physiology) regulation or maintenance of a function or action or reflex etc",
+      "context": "psychology",
+      "meaning": "the ability to manage one's emotions, impulses, or behavior in a disciplined way",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.155
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "the process of governing or regulating the flow of data, instructions, or other digital information",
+      "context": "law",
+      "meaning": "a standard or condition imposed by an authority to regulate conduct or activity",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "a software feature or program that monitors and regulates system operations or user access",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "the act of tracking, monitoring, or directing military forces, weapons, or operations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "authority or responsibility for managing or overseeing a company, department, or operation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.068
+    },
+    {
+      "id": "08",
+      "context": "finance",
+      "meaning": "the regulation or oversight of financial transactions, budgets, or expenditures",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "the ability to direct or steer a conversation toward a desired outcome or topic",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "medicine",
+      "meaning": "the management or regulation of a disease, condition, or bodily function through treatment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "to have someone under one's power or influence; to dominate",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "12",
+      "context": "chemistry",
+      "meaning": "a sample or substance used as a reference for comparison in an experiment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "movement",
+      "meaning": "the ability to direct, steer, or guide the path or motion of an object or vehicle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "14",
+      "context": "theatre",
+      "meaning": "the technical management of stage equipment, lighting, sound, and other production elements",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

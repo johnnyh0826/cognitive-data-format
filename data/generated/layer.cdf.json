@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "single thickness of usually some homogeneous substance",
+      "context": "computing",
+      "meaning": "a distinct level or tier in a hierarchical software architecture or system design",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.222
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "a relatively thin sheetlike expanse or region lying over or under another",
+      "context": "geology",
+      "meaning": "a sheet-like body of rock or sediment with distinct characteristics, typically horizontal or gently sloping",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "03",
-      "context": "level",
-      "meaning": "an abstract place usually conceived as having depth",
+      "context": "construction",
+      "meaning": "a single thickness or course of material applied to a surface, such as paint, plaster, or insulation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.071
     },
     {
       "id": "04",
-      "context": "art and design",
-      "meaning": "a level or stage in a creative process, such as painting or architecture",
+      "context": "anatomy",
+      "meaning": "a sheet or membrane of tissue that covers or lines a structure in the body",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "05",
+      "context": "technology",
+      "meaning": "one of several levels of a component or system stacked vertically, such as network layers in communication protocols",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "06",
+      "context": "farming",
+      "meaning": "a group of hens kept together for egg production on a poultry farm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "to place something in layers or to arrange something in stacked levels",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.152
+    },
+    {
+      "id": "08",
+      "context": "fashion",
+      "meaning": "to wear multiple pieces of clothing on top of one another for warmth or style",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "09",
+      "context": "food",
+      "meaning": "a distinct level of ingredients in a layered dish such as a cake or salad",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "10",
+      "context": "weather",
+      "meaning": "a sheet of clouds or atmospheric gases at a particular altitude",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "printing",
+      "meaning": "one of multiple passes of ink or color applied to a surface during the printing process",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "informal",
+      "meaning": "a person who lays or places something, particularly in construction or installation work",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

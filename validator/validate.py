@@ -76,7 +76,7 @@ def main():
     schema = load_json(SCHEMA_PATH)
 
     print(f"\nCognitive Data Format — Token Validator")
-    print(f"Schema: {SCHEMA_PATH.name}")
+    print(f"Schema: {SCHEMA_PATH.name} (v1.1 — frequency field removed)")
 
     # Single file mode
     if args.file:

@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "an excavation that is (usually) filled with water",
+      "context": "geography",
+      "meaning": "a body of water such as a pond or small lake, typically artificial or naturally occurring in a defined area",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "pond",
-      "meaning": "a small lake",
+      "context": "sports",
+      "meaning": "a shared fund of money bet by multiple players in gambling games, or the combined stakes in a competition",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.03
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "an organization of people or resources that can be shared",
+      "context": "swimming",
+      "meaning": "a facility containing water for swimming, diving, or recreational water activities",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a collection of game levels or challenges that can be played repeatedly",
+      "context": "gambling",
+      "meaning": "a kitty of money that accumulates and is won by the player who achieves a specific outcome, as in billiards or lottery",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "storage",
+      "meaning": "a shared repository or collection of resources available for common use by multiple people or systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a group of people or companies with shared interests who combine their resources for a common purpose",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a set of reusable software objects or data held in memory available for system processes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "action",
+      "meaning": "to combine resources, money, or efforts together with others for a shared objective",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "a collective arrangement where multiple parties contribute to and share in common assets or liability",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a group of people considered collectively, often used dismissively or humorously",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

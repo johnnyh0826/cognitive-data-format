@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a brief written record",
+      "context": "music",
+      "meaning": "A symbol in musical notation representing a single sound of a specific pitch and duration",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.118
     },
     {
       "id": "02",
       "context": "communication",
-      "meaning": "a short personal letter",
+      "meaning": "A brief record or written message, typically informal or for personal reference",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.176
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a notation representing the pitch and duration of a musical sound",
+      "context": "finance",
+      "meaning": "A written promise to pay a sum of money at a specified time, or a banknote",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.147
     },
     {
       "id": "04",
-      "context": "financial",
-      "meaning": "a brief written record of a financial transaction or account entry",
+      "context": "law",
+      "meaning": "A formal written record of something, especially a legal document or evidence",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "To notice, observe, or perceive something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.216
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "A tone or manner suggesting importance or distinction, as in 'a note of authority'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.069
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "A clinical record or annotation in a patient's medical file",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "A brief personal letter or message",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.059
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "A distinguishing feature or characteristic quality of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "theatre",
+      "meaning": "A direction or instruction written in a script for performers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "computing",
+      "meaning": "An annotation or comment added to code or documentation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "printing",
+      "meaning": "A footnote or endnote providing additional information or reference",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

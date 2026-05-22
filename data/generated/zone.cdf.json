@@ -4,30 +4,122 @@
     {
       "id": "01",
       "context": "geography",
-      "meaning": "a locally circumscribed place characterized by some distinctive features",
+      "meaning": "A distinct area or region with particular characteristics, boundaries, or purpose",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.222
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "any of the regions of the surface of the Earth loosely divided according to latitude or longitude",
+      "context": "sports",
+      "meaning": "A marked area or section of a playing field or court designated for specific play",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "an area or region distinguished from adjacent parts by a distinctive feature or characteristic",
+      "context": "anatomy",
+      "meaning": "An area of the body or skin characterized by a particular condition or sensitivity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.051
     },
     {
       "id": "04",
-      "context": "sports",
-      "meaning": "a designated area in a sports facility, such as a tennis zone or a free throw zone",
+      "context": "medicine",
+      "meaning": "A region of the body affected by injury, disease, or medical treatment",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "An area of land designated for military operations or defense",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "A district under the jurisdiction of a particular authority or administration",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "astronomy",
+      "meaning": "A defined region or division of the celestial sphere or space",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "time",
+      "meaning": "A region of Earth where a standard time is observed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "09",
+      "context": "action",
+      "meaning": "To divide or partition an area into distinct zones",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "A designated area or partition within a storage system or memory",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "business",
+      "meaning": "A geographic area designated for particular commercial or industrial activities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.061
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "A state of focused concentration or optimal performance in an activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.202
+    },
+    {
+      "id": "13",
+      "context": "informal",
+      "meaning": "To enter a state of reduced awareness or daydreaming",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.101
+    },
+    {
+      "id": "14",
+      "context": "storage",
+      "meaning": "A defined section or compartment used for organizing stored items",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "15",
+      "context": "weather",
+      "meaning": "A region characterized by particular climatic or atmospheric conditions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

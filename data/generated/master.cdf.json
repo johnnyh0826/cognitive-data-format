@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "maestro",
-      "meaning": "an artist of consummate skill",
+      "context": "action",
+      "meaning": "to become skilled or proficient at something through practice and experience",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "overlord",
-      "meaning": "a person who has general authority over others",
+      "context": "business",
+      "meaning": "a person who is highly skilled and knowledgeable in a particular field or profession",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "victor",
-      "meaning": "a combatant who is able to defeat rivals",
+      "context": "law",
+      "meaning": "a person who holds an academic degree or diploma, especially in a university context",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "academic or research",
-      "meaning": "a person who has expert knowledge in a particular field, often considered the most authoritative figure",
+      "context": "music",
+      "meaning": "a skilled musician or conductor with extensive training and experience",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "nautical",
+      "meaning": "the captain or commanding officer of a merchant ship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a senior commissioned officer ranking above captain in various armed forces",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "theatre",
+      "meaning": "a skilled performer or teacher in stage acting and drama",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "to mentally visualize and rehearse success in an activity before performing it",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a person who is exceptionally skilled, accomplished, or dominant in their field",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "to teach or train someone in a skill or subject",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "11",
+      "context": "computing",
+      "meaning": "the original or primary copy of a digital file or recording from which copies are made",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "12",
+      "context": "printing",
+      "meaning": "the original document or artwork from which copies or reproductions are created",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "technology",
+      "meaning": "a control device or unit that operates other devices in a system or network",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "14",
+      "context": "storage",
+      "meaning": "the main or principal record or version of data or information",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

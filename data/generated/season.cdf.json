@@ -4,30 +4,74 @@
     {
       "id": "01",
       "context": "time",
-      "meaning": "a period of the year marked by special events or activities in some field",
+      "meaning": "one of the four divisions of the year (spring, summer, autumn, winter) marked by changes in weather and daylight",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "time",
-      "meaning": "one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions",
+      "context": "food",
+      "meaning": "to add salt, spices, or other flavorings to food to enhance its taste",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "time",
-      "meaning": "a recurrent time marked by major holidays",
+      "context": "theatre",
+      "meaning": "a period during which a theatrical production, film, or television show is shown to audiences",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a period of time characterized by a particular style or genre of music, often used to describe a era in music history",
+      "context": "sports",
+      "meaning": "a period of the year during which a particular sport is regularly played or competed",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "a period of time when a business or industry experiences significant activity or sales",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "farming",
+      "meaning": "the time during which a particular crop is grown, harvested, or in season",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to habitually use or experience something to the point of becoming accustomed to it",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "action",
+      "meaning": "to make someone or something accustomed to something through repeated exposure or practice",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "the process of gradually adapting a person or animal to new conditions or stimuli",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

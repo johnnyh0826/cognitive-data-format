@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "assets available for use in the production of further assets",
+      "context": "geography",
+      "meaning": "a city that is the seat of government of a country or state",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
       "context": "finance",
-      "meaning": "wealth in the form of money or property owned by a person or business and human resources of economic value",
+      "meaning": "wealth in the form of money or assets owned by a person or organization",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "a seat of government",
+      "context": "printing",
+      "meaning": "a capital letter, the larger form of a letter used at the beginning of sentences or proper nouns",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "geography",
-      "meaning": "the city or town that is the seat of government of a country, state, or region",
+      "context": "business",
+      "meaning": "resources, equipment, or infrastructure used to generate income or produce goods",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "punishable by death, as in capital punishment or a capital crime",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "excellent or first-rate; of supreme quality or importance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "architecture",
+      "meaning": "the decorated upper part of a column or pilaster that supports the structure above it",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

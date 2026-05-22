@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus",
+      "context": "food",
+      "meaning": "the sensation of flavor perceived when eating or drinking something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "preference",
-      "meaning": "a strong liking",
+      "context": "anatomy",
+      "meaning": "the sense or faculty by which flavor is perceived through taste buds on the tongue",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
       "context": "psychology",
-      "meaning": "delicate discrimination (especially of aesthetic values)",
+      "meaning": "a person's preference or liking for something, such as in art, music, or style",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "food and drink preparation",
-      "meaning": "the quality of something that is being cooked or prepared, especially in terms of its flavor profile",
+      "context": "informal",
+      "meaning": "a small amount or sample of something given to try or experience",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to eat or drink something in order to perceive its flavor",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "refinement and judgment in matters of aesthetic or social propriety",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "biology",
+      "meaning": "the chemical sense mediated by receptors on the tongue that detect dissolved compounds",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

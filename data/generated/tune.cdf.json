@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a succession of notes forming a distinctive sequence",
+      "context": "music",
+      "meaning": "a melody or musical composition, or a song on a recording",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "the property of producing accurately a note of a given pitch",
+      "context": "technology",
+      "meaning": "to adjust electronic equipment such as a radio or television to receive a particular station or frequency",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
       "context": "action",
-      "meaning": "the adjustment of a radio receiver or other circuit to a required frequency",
+      "meaning": "to adjust or modify something to work properly or efficiently",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "music genre",
-      "meaning": "a style of music characterized by a distinctive sound or mood, often used to describe jazz or popular music",
+      "context": "psychology",
+      "meaning": "a person's emotional or mental state or disposition",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to change one's attitude or behavior, especially to become more positive or agreeable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "in tune: working together harmoniously or in agreement, especially regarding financial or business interests",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "the act of bringing into harmony or agreement with something else",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

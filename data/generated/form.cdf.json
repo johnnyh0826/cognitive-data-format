@@ -3,31 +3,131 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something",
+      "context": "action",
+      "meaning": "to create, shape, or mold something into a particular structure or configuration",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.269
     },
     {
       "id": "02",
-      "context": "kind",
-      "meaning": "a category of things distinguished by some common characteristic or quality",
+      "context": "anatomy",
+      "meaning": "the visible shape and structure of a person's body or face",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.173
     },
     {
       "id": "03",
-      "context": "psychology",
-      "meaning": "a perceptual structure",
+      "context": "biology",
+      "meaning": "a distinct variety or subspecies of an organism",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.019
     },
     {
       "id": "04",
-      "context": "design and architecture",
-      "meaning": "a template or blueprint for something, such as a document, application, or interface",
+      "context": "business",
+      "meaning": "a printed document with blank spaces to be filled in with information",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "the structure or layout of something such as an essay, argument, or composition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "a data structure in software or a template used for organizing information",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "07",
+      "context": "construction",
+      "meaning": "a temporary wooden or metal framework used as a support during building",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "education",
+      "meaning": "a class or group organized by academic level or ability in a school",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to arrange, organize, or put together in a structured way",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "10",
+      "context": "law",
+      "meaning": "an official document or legal instrument with standard terms and blanks to complete",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "11",
+      "context": "medicine",
+      "meaning": "the shape or physical appearance of a medical condition or symptom",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "philosophy",
+      "meaning": "the essential nature or underlying structure of something abstract or conceptual",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "13",
+      "context": "printing",
+      "meaning": "the physical arrangement and layout of text and images on a printed page",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "14",
+      "context": "psychology",
+      "meaning": "a pattern of behavior or mental arrangement that develops through experience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "storage",
+      "meaning": "an organized filing system or container designed to hold and organize items",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "16",
+      "context": "theatre",
+      "meaning": "the physical stage setting or backdrop representing a location in a performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

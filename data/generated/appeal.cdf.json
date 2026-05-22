@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "entreaty",
-      "meaning": "earnest or urgent request",
+      "context": "law",
+      "meaning": "a formal request to a higher court to review and overturn a decision made by a lower court",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "attractiveness that interests or pleases or stimulates",
+      "context": "action",
+      "meaning": "to make a serious or urgent request for something, typically help or support",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "(law) a legal proceeding in which the appellant resorts to a higher court for the purpose of obtaining a review of a lower court decision and a reversal of the lower court's judgment or the granting of a new trial",
+      "context": "communication",
+      "meaning": "to make an emotional or earnest request that is intended to move or persuade someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "marketing",
-      "meaning": "a persuasive or compelling quality that motivates people to take action or support a cause",
+      "context": "psychology",
+      "meaning": "the power or quality of arousing interest, desire, or attraction",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "charm or attractiveness that makes someone or something interesting or appealing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "the act of making a product or marketing message attractive and desirable to consumers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "to formally request that an official's decision or ruling be reviewed or reconsidered",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "the formal process of challenging a penalty, judgment, or decision in a game or competition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

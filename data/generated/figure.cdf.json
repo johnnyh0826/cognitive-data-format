@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a diagram or picture illustrating textual material",
+      "context": "mathematics",
+      "meaning": "a numerical or algebraic symbol or representation, or the value it denotes",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "human body",
-      "meaning": "alternative names for the body of a human being",
+      "context": "communication",
+      "meaning": "a diagram, chart, or illustration used to explain or clarify information",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "digit",
-      "meaning": "one of the elements that collectively form a system of numeration",
+      "context": "anatomy",
+      "meaning": "the human form or body, especially when considered in terms of appearance or shape",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "a mathematical object with a fixed number of dimensions, often used in geometry and calculus",
+      "context": "informal",
+      "meaning": "a person of a specified kind, whether admirable or contemptible",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to determine, calculate, or work out something by thinking",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "to estimate or assess the likely cost, value, or outcome of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "a carved or cast representation of a person in stone or metal, especially a full-length one",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "fashion",
+      "meaning": "a woman's small ornamental object or representation used as a charm or decoration",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

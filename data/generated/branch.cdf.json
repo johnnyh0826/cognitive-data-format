@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a division of some larger or more complex organization",
+      "context": "biology",
+      "meaning": "a division of a plant stem or tree trunk that grows out from the main trunk and bears leaves, flowers, or fruit",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "a division of a stem, or secondary stem arising from the main stem of a plant",
+      "context": "geography",
+      "meaning": "a division or tributary of a river or stream that flows into a larger body of water",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "geometry",
-      "meaning": "a part of a forked or branching shape",
+      "context": "business",
+      "meaning": "a local office or division of a large organization or company",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.32
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a path or direction in a decision tree or flowchart",
+      "context": "action",
+      "meaning": "to divide or separate into smaller parts or directions",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "a subset or division of a computer program, code repository, or development line",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "a division of a legal system or court structure that handles specific types of cases",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "a subdivision of medical science or a specific area of medical practice and treatment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "military",
+      "meaning": "a subdivision of an armed forces organization or tactical unit",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "anatomy",
+      "meaning": "any arm-like projection or division of a blood vessel, nerve, or other anatomical structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "finance",
+      "meaning": "a subsidiary office or department of a bank or financial institution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "to go in a different direction or to diverge from a main path or topic",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -4,30 +4,66 @@
     {
       "id": "01",
       "context": "time",
-      "meaning": "the specified day of the month",
+      "meaning": "a specific day, month, or year identified by a calendar system",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.42
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "a participant in a date",
+      "context": "food",
+      "meaning": "the sweet fruit of a date palm tree, typically brown and oval-shaped",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.03
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "a meeting arranged in advance",
+      "context": "action",
+      "meaning": "to mark or assign a date to a document or object",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "calendar",
-      "meaning": "a specific point in time, often used to describe a particular moment or occasion",
+      "context": "law",
+      "meaning": "the day on which a legal document, contract, or agreement becomes effective",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "05",
+      "context": "geology",
+      "meaning": "to determine the age of a rock, fossil, or archaeological artifact using scientific methods",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a person one is romantically involved with or going out with",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.28
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "the temporal reference line at the top of a letter or document indicating when it was written",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "storage",
+      "meaning": "the expiration or use-by time printed on food or product packaging",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
     }
   ]
 }

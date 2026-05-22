@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "how long something has existed",
+      "context": "time",
+      "meaning": "the length of time that a person or thing has existed, measured in years",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.433
     },
     {
       "id": "02",
-      "context": "historic period",
-      "meaning": "an era of history having some distinctive feature",
+      "context": "action",
+      "meaning": "to grow older or to cause something to appear older",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "03",
-      "context": "time",
-      "meaning": "a time of life (usually defined in years) at which some particular qualification or power arises",
+      "context": "biology",
+      "meaning": "the process of growing older and showing signs of aging such as wrinkles or gray hair",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.096
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a stage of development or maturity in an individual's life, often referring to a specific phase of emotional, social, or cognitive growth",
+      "context": "geology",
+      "meaning": "a geological time period or epoch in Earth's history",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "a long period of time, as in 'I haven't seen you in ages'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "the legal status of being old enough to be considered an adult with full legal rights",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "07",
+      "context": "chemistry",
+      "meaning": "the process of chemical change or deterioration that occurs in materials over time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "wine",
+      "meaning": "the maturation period during which wine develops flavor and complexity in storage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "09",
+      "context": "food",
+      "meaning": "the period that meat or other food is allowed to mature or cure to improve flavor",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "10",
+      "context": "medicine",
+      "meaning": "advancing years of life measured in chronological time used in medical assessment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
     }
   ]
 }

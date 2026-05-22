@@ -4,30 +4,114 @@
     {
       "id": "01",
       "context": "finance",
-      "meaning": "a written order directing a bank to pay money",
+      "meaning": "a written order directing a bank to pay money from an account to a specified person or entity",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.145
     },
     {
       "id": "02",
-      "context": "assay",
-      "meaning": "an appraisal of the state of affairs",
+      "context": "action",
+      "meaning": "to examine or inspect something carefully to verify its condition or accuracy",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.338
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "the bill in a restaurant",
+      "context": "sports",
+      "meaning": "to stop or halt the forward movement of an opponent in rugby or American football",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.019
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a test or trial performance, especially of a piece of music",
+      "context": "movement",
+      "meaning": "to slow down or stop the motion of something, typically a vehicle",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "05",
+      "context": "pattern",
+      "meaning": "a pattern of squares or a chessboard-like design",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "the soft pouch on the inside of the cheek between the teeth and the cheek",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to verify or confirm something by checking",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.174
+    },
+    {
+      "id": "08",
+      "context": "storage",
+      "meaning": "to deposit an item for temporary storage, such as luggage at an airport",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.097
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "to send a message or make contact to verify information or status",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "10",
+      "context": "law",
+      "meaning": "a restraint or control placed on someone's actions or behavior",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "penalty",
+      "meaning": "in ice hockey or lacrosse, an infraction incurring a penalty",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "gambling",
+      "meaning": "in poker, to decline to bet while remaining in the hand",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "13",
+      "context": "computing",
+      "meaning": "to verify the accuracy or validity of data or a system component",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "14",
+      "context": "printing",
+      "meaning": "a crack or split in wood or paper caused by shrinkage or stress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.001
     }
   ]
 }

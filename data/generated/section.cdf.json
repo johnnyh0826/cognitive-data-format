@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a self-contained part of a larger composition (written or musical)",
+      "context": "anatomy",
+      "meaning": "a distinct part or division of the body, such as a section of the spine or intestines",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a very thin slice (of tissue or mineral or other substance) for examination under a microscope",
+      "context": "geography",
+      "meaning": "a distinct area or region of land, especially one with defined boundaries",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "a distinct region or subdivision of a territorial or political area or community or group of people",
+      "context": "law",
+      "meaning": "a distinct numbered part of a legal document, statute, or contract",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "academic or research",
-      "meaning": "a distinct part of a study, investigation, or experiment",
+      "context": "military",
+      "meaning": "a small tactical unit of soldiers, typically consisting of 8-12 personnel",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "a distinct department or division within an organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.22
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "a contiguous block of data or memory allocated for a specific purpose",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "storage",
+      "meaning": "a distinct compartment or area used for organizing or keeping items",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "printing",
+      "meaning": "a distinct part of a newspaper or magazine dealing with a particular subject",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a cross-section view or diagram showing the interior arrangement of a structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "construction",
+      "meaning": "a thin slice or cross-section of material cut or taken from a larger whole",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "11",
+      "context": "action",
+      "meaning": "the act of cutting or dividing something into distinct parts",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "12",
+      "context": "music",
+      "meaning": "a group of orchestral instruments of the same type, such as the string section",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "biology",
+      "meaning": "a thin slice of tissue or organism prepared for microscopic examination",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

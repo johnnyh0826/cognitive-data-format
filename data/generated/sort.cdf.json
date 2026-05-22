@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "kind",
-      "meaning": "a category of things distinguished by some common characteristic or quality",
+      "context": "computing",
+      "meaning": "to arrange data or items in a specified order, typically alphabetical, numerical, or by some other criterion",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "an approximate definition or example",
+      "context": "action",
+      "meaning": "to separate or classify things into groups or categories",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.4
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "a person of a particular character or nature",
+      "context": "informal",
+      "meaning": "a person of a particular kind or character, as in 'a bad sort' or 'a good sort'",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "to arrange data in a specific order, such as alphabetical or chronological",
+      "context": "technology",
+      "meaning": "a computing operation that arranges records or files in a database according to specified keys or fields",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "printing",
+      "meaning": "to distribute printed type characters back into their compartments in a typesetting case",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "mail",
+      "meaning": "to distribute mail, packages, or items into categories or destinations for delivery",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

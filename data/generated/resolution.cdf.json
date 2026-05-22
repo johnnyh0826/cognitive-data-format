@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a formal expression by a meeting; agreed to by a vote",
+      "context": "action",
+      "meaning": "the act of resolving, settling, or finding a solution to a problem or disagreement",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "resolving power",
-      "meaning": "the ability of a microscope or telescope to measure the angular separation of images that are close together",
+      "context": "law",
+      "meaning": "a formal decision or determination made by a court, legislature, or governing body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "resoluteness",
-      "meaning": "the trait of being resolute",
+      "context": "computing",
+      "meaning": "the number of pixels, dots, or lines per unit of measurement that determine the clarity of a digital image or display",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "the number of bits required to represent a value in a binary format",
+      "context": "technology",
+      "meaning": "the process of converting a domain name into an IP address or vice versa in network communications",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "music",
+      "meaning": "the conclusion or settling of a musical dissonance into consonance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "medicine",
+      "meaning": "the disappearance or healing of a disease, inflammation, or medical condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "psychology",
+      "meaning": "a firm determination or strong intention to do something in the future",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "measurement",
+      "meaning": "the level of detail or fineness with which something can be measured or distinguished",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "the clarity and distinctness with which sounds, images, or transmitted information are perceived",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "printing",
+      "meaning": "the fineness or quality of detail achievable in a printed image, measured in dots per inch",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

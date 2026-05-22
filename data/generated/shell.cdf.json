@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun",
+      "context": "anatomy",
+      "meaning": "the hard outer covering of an egg, nut, or seed",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "chemistry",
-      "meaning": "the material that forms the hard outer covering of many animals",
+      "context": "action",
+      "meaning": "to remove the shell or outer covering from something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "carapace",
-      "meaning": "hard outer covering or case of certain organisms such as arthropods and turtles",
+      "context": "military",
+      "meaning": "a metal projectile filled with explosives, designed to be fired from a large gun or cannon",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
       "context": "computing",
-      "meaning": "a command-line interface or terminal emulator, often used for Unix-like operating systems",
+      "meaning": "a command-line interface or program that interprets user commands and interacts with an operating system",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "construction",
+      "meaning": "the outer walls or structural framework of a building before interior finishing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "a light racing boat or rowboat with a narrow hull",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "an outer layer or surface that conceals something beneath",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "the outer casing or housing of an electronic device or machine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "business",
+      "meaning": "a company or organization created as a front for illicit or fraudulent activities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "music",
+      "meaning": "the outer casing of a drum that holds the drumhead in place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "theatre",
+      "meaning": "the structure of a stage set without scenery or furnishings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

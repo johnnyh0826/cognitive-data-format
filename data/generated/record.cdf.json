@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events",
+      "context": "storage",
+      "meaning": "a document or file containing information about a person, event, or transaction that is kept for reference or evidence",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "phonograph record",
-      "meaning": "sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove",
+      "context": "computing",
+      "meaning": "a collection of data or information stored in a database or file system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "measurement",
-      "meaning": "the number of wins versus losses and ties a team has had",
+      "context": "action",
+      "meaning": "to write down or register something in an official document or list",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a performance or concert, especially a live one, that is recorded for later release or broadcast",
+      "context": "movement",
+      "meaning": "to track or follow the course or progress of something or someone",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "music",
+      "meaning": "a single song or piece of music on an album or recording",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "official documentation of legal proceedings, evidence, or testimony in a court case",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "a documented account of a patient's medical history and treatment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "finance",
+      "meaning": "an account or entry documenting a financial transaction or business dealing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "the number of offences or violations attributed to a person or entity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "sports",
+      "meaning": "the best or fastest performance achieved by a person or team in a competition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "11",
+      "context": "time",
+      "meaning": "a duration of time measured or documented for a performance or achievement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "12",
+      "context": "informal",
+      "meaning": "one's reputation, track record, or pattern of behaviour over time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "13",
+      "context": "communication",
+      "meaning": "to make an official statement or announcement in a formal setting",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "technology",
+      "meaning": "to capture or store audio or video content in digital or analog format",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

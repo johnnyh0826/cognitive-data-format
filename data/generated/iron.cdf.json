@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "a heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood",
+      "context": "metallurgy",
+      "meaning": "a silvery-white metallic element with atomic number 26, widely used in construction and manufacturing",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a golf club that has a relatively narrow metal head",
+      "context": "action",
+      "meaning": "to press or smooth something with a heated tool, typically used for clothing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "implement used to brand live stock",
+      "context": "anatomy",
+      "meaning": "a metal brace or support worn to correct posture or provide structural support to the body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "figurative sense",
-      "meaning": "a strong and unyielding will or determination",
+      "context": "informal",
+      "meaning": "to strengthen or make more resolute; to harden one's resolve",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "a golf club with a flat or slightly curved metal head used for long-distance shots",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "to put someone in chains or shackles as a form of restraint or punishment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "a rigid support device used to immobilize and protect an injured limb",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "military",
+      "meaning": "a military prison or place of confinement for soldiers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "09",
+      "context": "printing",
+      "meaning": "a heated metal plate used in printing or bookbinding to apply pressure or heat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
     }
   ]
 }

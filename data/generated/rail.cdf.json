@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "railing",
-      "meaning": "a barrier consisting of a horizontal bar and supports",
+      "context": "movement",
+      "meaning": "a bar or series of bars forming a track on which wheeled vehicles run, especially for trains",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "short for railway",
+      "context": "construction",
+      "meaning": "a bar or beam used as a structural support or guide in buildings and structures",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "track",
-      "meaning": "a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll",
+      "context": "action",
+      "meaning": "to provide with rails or to furnish with a railing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "gymnastics",
-      "meaning": "a horizontal bar used for gymnastic exercises",
+      "context": "informal",
+      "meaning": "to complain or protest vehemently about something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "either of the two horizontal bars forming the sides of a stretcher or litter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a fixed bar or track that guides the movement of a machine component or sliding part",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "the upper edge of a ship's side or bulwark",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "to eject or force someone out roughly, especially from a venue or organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,17 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "change",
-      "meaning": "render capable or able for some task",
+      "context": "action",
+      "meaning": "to make something possible or able to function by providing necessary means or conditions",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "computer science",
-      "meaning": "to make something operational or functional, typically by providing necessary input or configuration",
+      "context": "computing",
+      "meaning": "to activate or turn on a feature, function, or setting in software or a device",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.28
+    },
+    {
+      "id": "03",
+      "context": "law",
+      "meaning": "to give official permission or legal authority for something to happen",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "04",
+      "context": "technology",
+      "meaning": "to configure or prepare hardware or software to operate or support a capability",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "to provide someone with the resources, authority, or conditions needed to perform a task or role",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "to give someone the confidence, power, or opportunity to do something they want",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "to allow or facilitate the occurrence of dialogue, connection, or information exchange",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

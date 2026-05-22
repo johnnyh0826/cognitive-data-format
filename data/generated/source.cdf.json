@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "beginning",
-      "meaning": "the place where something begins, where it springs into being",
+      "context": "communication",
+      "meaning": "a person, document, or system that provides information or evidence about something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a document (or organization) from which information is obtained",
+      "context": "technology",
+      "meaning": "the origin or location from which data, code, or content is obtained or derived",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "psychology",
-      "meaning": "anything that provides inspiration for later work",
+      "context": "action",
+      "meaning": "to originate from or come from a particular place, person, or thing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "the origin or starting point of a melody or theme",
+      "context": "biology",
+      "meaning": "the starting point or origin of a stream, river, or water body",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "a spring or fountain head where water emerges from the ground",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "the point of origin of evidence or a legal claim",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "finance",
+      "meaning": "the origin or funding base from which money or economic resources come",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "a supplier or provider of goods or materials",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "the original file or code that serves as input before processing or compilation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "printing",
+      "meaning": "the original document or material from which copies are made",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a person who provides information or gossip, often in confidence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

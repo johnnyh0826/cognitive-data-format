@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "phase",
-      "meaning": "any distinct time period in a sequence of events",
+      "context": "theatre",
+      "meaning": "a platform or raised area where actors perform in front of an audience",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "degree",
-      "meaning": "a specific identifiable position in a continuum or series or especially in a process",
+      "context": "action",
+      "meaning": "a step or phase in a process or sequence of events",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a large platform on which people can stand and can be seen by an audience",
+      "context": "time",
+      "meaning": "a period of development or a point in a sequence of time",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "theater",
-      "meaning": "a platform or area where a play, dance, or other performance takes place",
+      "context": "biology",
+      "meaning": "a distinct phase in the development or life cycle of an organism",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "medicine",
+      "meaning": "a level of severity or advancement of a disease, particularly in cancer classification",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a platform or setting for showcasing or promoting a product, idea, or person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "to arrange or organize something in stages or phases over time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "geography",
+      "meaning": "a stopping point or place along a journey or route",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "technology",
+      "meaning": "a section or unit of a rocket or spacecraft that can be separated during flight",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to create a public display or demonstration of something, often for effect or impact",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "military",
+      "meaning": "a temporary military camp or supply depot used as a base of operations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

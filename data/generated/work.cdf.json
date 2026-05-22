@@ -4,30 +4,90 @@
     {
       "id": "01",
       "context": "action",
-      "meaning": "activity directed toward making or doing something",
+      "meaning": "activity involving mental or physical effort done in order to achieve a purpose or result",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a product produced or accomplished through the effort or activity or agency of a person or thing",
+      "context": "business",
+      "meaning": "employment or a job that a person does regularly to earn money",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.4
     },
     {
       "id": "03",
-      "context": "employment",
-      "meaning": "the occupation for which you are paid",
+      "context": "anatomy",
+      "meaning": "the functional activity of a bodily part or system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "personal development",
-      "meaning": "the process of self-improvement and skill-building, often requiring effort and dedication",
+      "context": "technology",
+      "meaning": "a place or establishment where goods are manufactured or assembled by machinery",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "construction",
+      "meaning": "the building or construction of a structure or infrastructure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "intellectual or creative effort produced as a result of study or labor",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "art",
+      "meaning": "a creative or artistic production such as a painting, sculpture, or piece of writing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "chemistry",
+      "meaning": "a material or substance that is being processed or shaped",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "a legal suit or action brought against someone in court",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "the state of being in good working order or functional condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "movement",
+      "meaning": "to move gradually or persistently in a particular direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

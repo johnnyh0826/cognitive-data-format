@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "a regular route for a sentry or policeman",
+      "context": "music",
+      "meaning": "a rhythmic pattern or pulse in music that marks the primary accent",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "pulse",
-      "meaning": "the rhythmic contraction and expansion of the arteries with each beat of the heart",
+      "context": "sports",
+      "meaning": "to strike or hit a ball with a bat, racket, or similar implement",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "rhythm",
-      "meaning": "the basic rhythmic unit in a piece of music",
+      "context": "action",
+      "meaning": "to strike or hit someone or something forcefully",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a pattern of actions or moves in a game that is repeated to achieve a specific goal",
+      "context": "informal",
+      "meaning": "to be superior to or surpass someone or something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "the rhythmic throbbing of the heart or pulse",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "to walk or traverse a path or route regularly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "to discuss or communicate about a topic in conversation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "a penalty or punishment imposed for breaking a rule",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "to penalize or punish someone for a violation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "technology",
+      "meaning": "a rhythmic pulse or signal in electronic or digital systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "time",
+      "meaning": "a unit of time marked by a recurring pulse or rhythm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "a series of steps to be carried out or goals to be accomplished",
+      "context": "action",
+      "meaning": "a detailed scheme or program of intended actions to achieve a goal",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "design",
-      "meaning": "an arrangement scheme",
+      "context": "business",
+      "meaning": "a proposal or presentation of a project or strategy to a potential client or investor",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "scale drawing of a structure",
+      "context": "geography",
+      "meaning": "a large area of land with a particular characteristic or use",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "a celestial body's orbit or path",
+      "context": "computing",
+      "meaning": "a detailed technical design or specification for a software system or application",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "architecture",
+      "meaning": "a drawing or diagram showing the layout of a building or structure from above",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "construction",
+      "meaning": "a floor or level of a building",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "to travel or move in a specified direction or manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "08",
+      "context": "anatomy",
+      "meaning": "a flat muscle located in the abdomen",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a diagram or layout showing the positions and movements of actors on stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "farming",
+      "meaning": "a piece of land used for cultivation or crop production",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a carefully thought-out or premeditated action or strategy",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "law",
+      "meaning": "a detailed statement of legal proceedings or a course of legal action",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "saddle horse",
-      "meaning": "a lightweight horse kept for riding only",
+      "context": "geography",
+      "meaning": "a high hill or mountain peak",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "climb",
-      "meaning": "the act of climbing something",
+      "context": "action",
+      "meaning": "to climb up or ascend something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "03",
-      "context": "mountain",
-      "meaning": "a land mass that projects well above its surroundings; higher than a hill",
+      "context": "movement",
+      "meaning": "to get up on top of something, typically a horse or vehicle",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "geology",
-      "meaning": "a geological formation that is higher and more prominent than a hill, but not necessarily a mountain",
+      "context": "anatomy",
+      "meaning": "the setting or base on which a gemstone or jewel is secured",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "storage",
+      "meaning": "a backing or support structure to which something is attached or displayed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a gun or cannon together with its support structure or carriage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "to place or install equipment on a support or framework",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "theatre",
+      "meaning": "a horse used by an actor to ride in a stage production",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a horse, especially as a means of transportation or riding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "biology",
+      "meaning": "the act of a male animal covering or copulating with a female",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

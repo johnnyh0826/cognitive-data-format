@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "a statistic describing the location of a distribution",
+      "context": "measurement",
+      "meaning": "a numerical value calculated by summing quantities and dividing by the number of quantities, typically representing a central tendency",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "relationship",
-      "meaning": "(sports) the ratio of successful performances to opportunities",
+      "context": "informal",
+      "meaning": "of middling or ordinary quality; neither good nor bad",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "psychology",
-      "meaning": "an intermediate scale value regarded as normal or usual",
+      "context": "business",
+      "meaning": "a medium or middle position between extremes in price, performance, or market positioning",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "everyday life",
-      "meaning": "a standard or typical value that is considered normal or acceptable",
+      "context": "law",
+      "meaning": "an adjustment of a loss or damage claim by an insurer to a fair and reasonable amount",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "nautical",
+      "meaning": "the mean damage or loss to a ship or cargo during a voyage, or the liability for such damage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "a financial metric expressing the typical or mean value of a security, asset, or investment over a period",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "to achieve or calculate an arithmetic mean or typical value from a set of quantities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

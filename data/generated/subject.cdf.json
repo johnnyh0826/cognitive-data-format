@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "the subject matter of a conversation or discussion",
+      "context": "education",
+      "meaning": "a branch of study or course of instruction in a school or university",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.42
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "something (a person or object or scene) selected by an artist or photographer for graphic representation",
+      "context": "law",
+      "meaning": "a person or entity that is under consideration, examination, or legal proceedings",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "discipline",
-      "meaning": "a branch of knowledge",
+      "context": "psychology",
+      "meaning": "an individual person or participant being studied or treated",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "the person or entity being studied, observed, or experimented on in a psychological study",
+      "context": "philosophy",
+      "meaning": "a being or entity that experiences properties or performs actions",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "the part of a sentence about which something is affirmed or denied",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "the theme or main melodic line in a musical composition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "to cause someone to experience or undergo something against their will",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "geology",
+      "meaning": "the material or substance that forms the base or foundation of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "politics",
+      "meaning": "a state, territory, or nation under the rule or dominion of another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a person who is submissive, obedient, or under someone's control",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

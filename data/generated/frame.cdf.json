@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "the framework for a pair of eyeglasses",
+      "context": "construction",
+      "meaning": "a rigid structure of wooden or metal members that forms the basic skeleton of a building or other structure",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.111
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a single one of a series of still transparent pictures forming a cinema, television or video film",
+      "context": "anatomy",
+      "meaning": "the structure of bones and tissue that forms the skeleton of a human or animal body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.093
     },
     {
       "id": "03",
-      "context": "human body",
-      "meaning": "alternative names for the body of a human being",
+      "context": "computing",
+      "meaning": "a single image or picture in a sequence of images that make up a video or animation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.167
     },
     {
       "id": "04",
-      "context": "photography",
-      "meaning": "a single exposure or capture in a photographic series",
+      "context": "action",
+      "meaning": "to construct or assemble something within a fixed structure or border",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.074
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "to construct a false or misleading narrative to incriminate someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.046
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "a mental structure or pattern used to interpret and organize information about the world",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.111
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "a system or structure within which something is presented or discussed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.093
+    },
+    {
+      "id": "08",
+      "context": "geography",
+      "meaning": "the area or space defined by a border or boundary",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.046
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a theatrical or dramatic presentation of a scene or narrative",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.009
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to falsely incriminate or set up someone for a crime they did not commit",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.037
+    },
+    {
+      "id": "11",
+      "context": "sports",
+      "meaning": "a complete set of ten pins in bowling that must be knocked down",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "12",
+      "context": "time",
+      "meaning": "a specific period or interval of time within which something occurs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.065
+    },
+    {
+      "id": "13",
+      "context": "movement",
+      "meaning": "the structure that surrounds and supports a window, door, or other opening",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.074
+    },
+    {
+      "id": "14",
+      "context": "storage",
+      "meaning": "a rigid structure designed to hold or display items",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.037
+    },
+    {
+      "id": "15",
+      "context": "printing",
+      "meaning": "a border or edge used in printing or typesetting",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

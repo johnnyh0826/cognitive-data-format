@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "round object that is hit or thrown or kicked in games",
+      "context": "sports",
+      "meaning": "a spherical or ovoid object used as the primary projectile in various games like football, basketball, tennis, or cricket",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.55
     },
     {
       "id": "02",
-      "context": "musket ball",
-      "meaning": "a solid projectile that is shot by a musket",
+      "context": "dance",
+      "meaning": "a formal social gathering for dancing, typically an elegant evening event",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "geometry",
-      "meaning": "an object with a spherical shape",
+      "context": "anatomy",
+      "meaning": "the rounded part of a joint, especially the rounded head of a bone that fits into a socket",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "a celestial body that is spherical in shape and orbits around a star",
+      "context": "action",
+      "meaning": "to throw or roll a ball in a sport or game",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to engage in a sport or game involving a ball",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a solid projectile or missile, especially one fired from a cannon or gun",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "storage",
+      "meaning": "a compact rounded or spherical mass of material wound or rolled together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "chemistry",
+      "meaning": "a spherical agglomeration of material formed during grinding, mixing, or processing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "to move or travel in a rolling or bouncing manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

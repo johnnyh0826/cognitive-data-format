@@ -3,24 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a mark to indicate a direction or relation",
+      "context": "action",
+      "meaning": "a straight thin projectile with a pointed head and feathers or fins, shot from a bow as a weapon or in sport",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a projectile with a straight thin shaft and an arrowhead on one end and stabilizing vanes on the other; intended to be shot from a bow",
+      "context": "geography",
+      "meaning": "a narrow pointed land formation or sandbank that projects into water",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "03",
-      "context": "mathematics",
-      "meaning": "a symbol \u2192 used in graph theory and category theory to represent a morphism or an arrow",
+      "context": "communication",
+      "meaning": "a symbol (\u2192) used to indicate direction, progression, or a link between two points",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.48
+    },
+    {
+      "id": "04",
+      "context": "anatomy",
+      "meaning": "a straight line or course that something follows, particularly in medical or anatomical contexts",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "the direction in which something is moving or pointing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a particularly excellent or remarkable person or thing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "chemistry",
+      "meaning": "a curved line on a graph or diagram showing the path or trajectory of a chemical reaction or particle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "computing",
+      "meaning": "a pointer or indicator symbol used in user interfaces and programming",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.24
     }
   ]
 }

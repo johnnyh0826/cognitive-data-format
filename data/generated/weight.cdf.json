@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "the vertical force exerted by a mass as a result of gravity",
+      "context": "measurement",
+      "meaning": "the heaviness of a person or object, typically measured in units such as pounds or kilograms",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "sports equipment used in calisthenic exercises and weightlifting; it is not attached to anything and is raised and lowered by use of the hands and arms",
+      "context": "physics",
+      "meaning": "the force exerted by gravity on a mass, equal to mass times gravitational acceleration",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "the relative importance granted to something",
+      "context": "importance",
+      "meaning": "the significance, influence, or importance given to something in a decision or consideration",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "the emotional or psychological burden of a situation, task, or responsibility",
+      "context": "finance",
+      "meaning": "a financial burden, obligation, or debt that affects a person or organization",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "a heavy object lifted in weightlifting competitions or training exercises",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "textiles",
+      "meaning": "the thickness or density of a fabric, affecting how it drapes and feels",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "printing",
+      "meaning": "the thickness or boldness of a typeface or font style",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "an emotional or mental burden that affects a person's mood or wellbeing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "action",
+      "meaning": "to add heaviness to something or to make something heavier",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "statistics",
+      "meaning": "a numerical coefficient assigned to data points to reflect their relative importance in a calculation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "computing",
+      "meaning": "a numerical parameter in a machine learning model that affects the influence of input features",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "law",
+      "meaning": "the relative importance or credibility given to evidence or testimony in a legal proceeding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "gambling",
+      "meaning": "to alter odds or probabilities in favor of a particular outcome through manipulation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "14",
+      "context": "nautical",
+      "meaning": "ballast or heavy material placed in a vessel to improve stability and balance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "15",
+      "context": "informal",
+      "meaning": "something burdensome, oppressive, or difficult to endure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

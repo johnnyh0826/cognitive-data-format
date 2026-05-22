@@ -4,30 +4,98 @@
     {
       "id": "01",
       "context": "communication",
-      "meaning": "a path over which electrical signals can pass",
+      "meaning": "a medium through which information or signals are transmitted, such as a television or radio station",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a passage for water (or other fluids) to flow through",
+      "context": "computing",
+      "meaning": "a band of frequencies or a pathway through which data is transmitted in digital systems",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "groove",
-      "meaning": "a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)",
+      "context": "nautical",
+      "meaning": "a deep water passage or waterway suitable for navigation by ships",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "broadcasting",
-      "meaning": "a medium for transmitting information, entertainment, or news to a wide audience through various means such as television, radio, internet, etc.",
+      "context": "geography",
+      "meaning": "a natural watercourse such as a river, stream, or strait connecting two larger bodies of water",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a tubular passage or duct in the body through which a substance flows, such as a blood vessel or nerve pathway",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a groove or furrow cut into a surface to guide movement or direct flow",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "a distribution network or method through which products or services reach customers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "action",
+      "meaning": "to direct, guide, or steer something along a particular course or path",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "geology",
+      "meaning": "a deep underwater valley or depression in the ocean floor",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "farming",
+      "meaning": "a water conduit used to irrigate land or direct water flow for agricultural purposes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "theatre",
+      "meaning": "a passage or opening through which actors or scenery move on or off stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "12",
+      "context": "informal",
+      "meaning": "to pursue or focus on a particular course of action or direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

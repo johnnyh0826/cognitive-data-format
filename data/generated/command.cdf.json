@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "an authoritative direction or instruction to do something",
+      "context": "military",
+      "meaning": "An authoritative order or instruction given to a person or group to perform a specific action",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "a military unit or region under the control of a single officer",
+      "context": "computing",
+      "meaning": "A directive or instruction given to a computer program or system to execute a specific operation or function",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "the power or authority to command",
+      "context": "business",
+      "meaning": "Authority or control over a person, organization, or situation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "IT and computing",
-      "meaning": "a sequence of instructions that a computer can execute",
+      "context": "action",
+      "meaning": "The act of leading, controlling, or directing a person, group, or activity",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "A spoken or written instruction or order requiring compliance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "The authority or ability to perform on stage or to direct performers in a theatrical setting",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "A legal order or directive issued by a court or official authority",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "Mastery, dominance, or control over a situation or person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "storage",
+      "meaning": "A separate section or subdivision within a larger structure or organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

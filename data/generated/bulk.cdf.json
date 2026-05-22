@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "majority",
-      "meaning": "the property resulting from being or relating to the greater in number of two parts; the main part",
+      "context": "measurement",
+      "meaning": "large quantity or volume of something, especially when sold or transported together",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "the property of something that is great in magnitude",
+      "context": "storage",
+      "meaning": "goods or cargo stored or transported in large undivided quantities",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "the property possessed by a large mass",
+      "context": "anatomy",
+      "meaning": "the main mass or body of something, distinct from its parts or appendages",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "a large quantity of goods or materials purchased or sold at a reduced price",
+      "context": "action",
+      "meaning": "to increase in size, volume, or quantity in a sudden or significant way",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "relating to the sale or purchase of goods in large quantities at reduced prices",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "to transfer data in large continuous blocks rather than in smaller increments",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "the body or physique of a person, especially when muscular or well-developed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "the flow or movement of something in large quantities through a space or container",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "chemistry",
+      "meaning": "a quantity of material or substance considered as a whole rather than in separate parts",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

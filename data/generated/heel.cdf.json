@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
+      "context": "anatomy",
+      "meaning": "the back part of the human foot below the ankle",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "anatomy",
-      "meaning": "the back part of the human foot",
+      "context": "footwear",
+      "meaning": "the part of a shoe or boot that covers or forms the heel of the foot",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "someone who is morally reprehensible",
+      "context": "action",
+      "meaning": "to tilt or lean to one side, especially of a ship or person",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "sports",
-      "meaning": "the back edge of a golf club or similar sporting equipment",
+      "context": "informal",
+      "meaning": "a disreputable or contemptible person",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "in rugby, to kick the ball backward with the heel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "the after end of a ship's keel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "measurement",
+      "meaning": "the height of the heel on a shoe, typically measured in inches or centimeters",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "dance",
+      "meaning": "a style of tap dancing emphasizing heel strikes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "wrestling",
+      "meaning": "a villain or antagonist character in professional wrestling",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

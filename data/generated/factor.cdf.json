@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "anything that contributes causally to a result",
+      "context": "mathematics",
+      "meaning": "a number or quantity that when multiplied by another produces a given number or expression",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "component",
-      "meaning": "an abstract part of something",
+      "context": "business",
+      "meaning": "a circumstance, fact, or influence that contributes to a particular result or situation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "03",
-      "context": "divisor",
-      "meaning": "one of two or more integers that can be exactly divided into another integer",
+      "context": "finance",
+      "meaning": "a person or company that buys goods from manufacturers and sells them to retailers or other businesses",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "a quantity that is multiplied by another quantity to produce a product",
+      "context": "law",
+      "meaning": "a person or company legally authorized to act on behalf of another in commercial transactions",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to be a key element or influential part in producing something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "an element or component that influences behavior, emotions, or mental processes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "an element or condition that contributes to or influences the development of a disease or health condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "chemistry",
+      "meaning": "a substance or element that plays a role in a chemical reaction or process",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "biology",
+      "meaning": "a gene or hereditary element that influences the expression of traits",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "farming",
+      "meaning": "a person who works land or manages agricultural production on behalf of a landowner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

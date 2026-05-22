@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "framework for holding objects",
+      "context": "storage",
+      "meaning": "a framework or structure with shelves or bars for holding, displaying, or organizing items",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "food",
-      "meaning": "rib section of a forequarter of veal or pork or especially lamb or mutton",
+      "context": "anatomy",
+      "meaning": "the rib cage or chest area of an animal carcass as a cut of meat",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "wrack",
-      "meaning": "the destruction or collapse of something",
+      "context": "action",
+      "meaning": "to cause pain, suffering, or distress to someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a series of notes or sounds in a particular pattern or sequence",
+      "context": "sports",
+      "meaning": "a framework that holds a ball in a billiards or pool game to position balls at the start",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "music",
+      "meaning": "a percussion instrument consisting of wooden bars struck with mallets, producing different pitches",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a wheel or toothed part in machinery that moves along a rail or track",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a state of extreme disorder or wretchedness",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "to punish or penalize someone severely",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "gambling",
+      "meaning": "a framework used to hold and display gaming chips or tokens",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "10",
+      "context": "theatre",
+      "meaning": "a rope or mechanism used to move scenery or equipment across a stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "11",
+      "context": "nautical",
+      "meaning": "to stretch rigging or ropes tight on a ship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

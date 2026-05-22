@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "person",
-      "meaning": "English physicist who studied electromagnetic radiation and was a pioneer of radiotelegraphy (1851-1940)",
+      "context": "accommodation",
+      "meaning": "a small house or cottage, typically one occupied by a caretaker or gatekeeper on an estate",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "club",
-      "meaning": "a formal association of people with similar interests",
+      "context": "action",
+      "meaning": "to provide temporary accommodation or shelter for a person or group",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "small house at the entrance to the grounds of a country mansion; usually occupied by a gatekeeper or gardener",
+      "context": "storage",
+      "meaning": "a small compartment or cavity used for storing something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "accommodation",
-      "meaning": "a place where people can stay, typically in a natural setting, such as a campsite or a vacation home",
+      "context": "law",
+      "meaning": "a local branch of a fraternal or professional organization",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to become stuck or embedded firmly in a position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to accommodate or fit something into a space or situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

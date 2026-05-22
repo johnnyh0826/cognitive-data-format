@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "remainder",
-      "meaning": "something left after other parts have been taken away",
+      "context": "action",
+      "meaning": "to cease work or activity and relax or recuperate",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "freedom from activity (work or strain or responsibility)",
+      "context": "time",
+      "meaning": "a period of relaxation or inactivity between periods of work or activity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "respite",
-      "meaning": "a pause for relaxation",
+      "context": "anatomy",
+      "meaning": "the remaining part of something after the main or greater part has been removed or used",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
       "context": "music",
-      "meaning": "a period of silence or quiet music between movements in a musical composition",
+      "meaning": "a concluding section or coda of a musical composition",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "support",
+      "meaning": "something that supports or props up another object",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "the remainder of an estate or property that passes to a beneficiary after prior interests terminate",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "used as an interjection to express agreement, acceptance, or dismissal of a topic",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "mental or emotional peace and freedom from stress or anxiety",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "to lean or be positioned at an angle against something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "the part of a data structure or program that remains after processing or removal of elements",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

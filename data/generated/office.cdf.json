@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "place of business where professional or clerical duties are performed",
+      "context": "business",
+      "meaning": "a room or building where administrative or professional work is conducted",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.7
     },
     {
       "id": "02",
-      "context": "agency",
-      "meaning": "an administrative unit of government",
+      "context": "law",
+      "meaning": "a government department or agency responsible for a specific function",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "function",
-      "meaning": "the actions and activities assigned to or required or expected of a person or group",
+      "context": "religion",
+      "meaning": "a religious duty, function, or form of worship",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "social gathering",
-      "meaning": "a place where people meet and work together in a relaxed atmosphere, often outside of formal business settings",
+      "context": "action",
+      "meaning": "the action or practice of performing a task or duty",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "medicine",
+      "meaning": "a position or role in a hospital, clinic, or medical institution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "power or authority to perform official duties or make decisions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "theatre",
+      "meaning": "a formal ceremonial role or function in a religious or state ceremony",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

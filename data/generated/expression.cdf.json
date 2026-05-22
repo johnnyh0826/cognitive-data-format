@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "the feelings expressed on a person's face",
+      "context": "communication",
+      "meaning": "the act of conveying or communicating thoughts, feelings, or information",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "expression without words",
+      "context": "anatomy",
+      "meaning": "the look on a person's face that reflects their emotions or feelings",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "the communication (in speech or writing) of your beliefs or opinions",
+      "context": "mathematics",
+      "meaning": "a mathematical statement or formula written in symbolic form",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "a mathematical function that describes a relationship between variables",
+      "context": "music",
+      "meaning": "a performance or rendering of a musical piece or work",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "a sequence of characters or symbols that represents data or code",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "the acting out of emotions or characters in a theatrical performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "art",
+      "meaning": "the distinctive style or manner in which something is created or presented",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "the manifestation of genes or traits in an organism's observable characteristics",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "a legal term or phrase used in official documentation or court proceedings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "business",
+      "meaning": "a phrase or phrase combination used to describe or market a product or idea",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a vivid or noteworthy demonstration or instance of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "action",
+      "meaning": "the process of squeezing or pressing something to extract liquid or essence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

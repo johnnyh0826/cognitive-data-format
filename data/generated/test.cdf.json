@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "trial",
-      "meaning": "trying something to find out about it",
+      "context": "action",
+      "meaning": "to examine or evaluate something carefully to determine its quality, accuracy, or nature",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc",
+      "context": "medicine",
+      "meaning": "a medical examination or procedure to diagnose or detect a disease or condition",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "examination",
-      "meaning": "a set of questions or exercises evaluating skill or knowledge",
+      "context": "psychology",
+      "meaning": "a standardized assessment tool used to measure abilities, knowledge, personality, or psychological traits",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "an experiment or trial run, especially in a scientific or psychological study",
+      "context": "technology",
+      "meaning": "a software program or procedure used to check if code or systems function correctly",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "education",
+      "meaning": "an examination or quiz given to students to assess their understanding of material",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "a trial or legal proceeding to determine guilt or innocence in a court of law",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "a match or competition between players or teams to determine superior skill",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to try out or experiment with something to see if it works or is suitable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "measurement",
+      "meaning": "to assess or determine the degree, extent, or quality of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "a procedure that runs automated checks on software to verify functionality and identify bugs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

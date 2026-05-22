@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "dirt",
-      "meaning": "the state of being covered with unclean things",
+      "context": "farming",
+      "meaning": "the upper layer of earth or ground in which plants grow, containing organic matter and minerals",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "chemistry",
-      "meaning": "the part of the earth's surface consisting of humus and disintegrated rock",
+      "context": "geology",
+      "meaning": "a type of unconsolidated mineral material or sediment that forms the outer layer of the earth's crust",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "land",
-      "meaning": "material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)",
+      "context": "chemistry",
+      "meaning": "fine particles of rock and mineral matter, typically classified by particle size and composition",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "garden design",
-      "meaning": "the mixture of organic matter, minerals, and living organisms that supports plant growth",
+      "context": "action",
+      "meaning": "to make dirty or stain something with soil or unclean matter",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to damage someone's reputation or character through accusations or exposure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "the ecosystem medium that contains living organisms, organic matter, water, and air necessary for plant growth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "07",
+      "context": "geography",
+      "meaning": "a territorial region or country, often used in the phrase 'native soil'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "territory under the jurisdiction of a particular nation or state",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

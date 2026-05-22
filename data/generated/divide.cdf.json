@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "state",
-      "meaning": "a serious disagreement between two groups of people (typically producing tension or hostility)",
+      "context": "action",
+      "meaning": "to separate or break something into two or more parts",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "watershed",
-      "meaning": "a ridge of land that separates two adjacent river systems",
+      "context": "mathematics",
+      "meaning": "to perform the arithmetic operation of splitting a number into equal parts",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "social",
-      "meaning": "separate into parts or portions",
+      "context": "psychology",
+      "meaning": "to cause disagreement or create a split in opinion or loyalty between parties",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "to split a quantity or value into two or more parts, often in a ratio or proportion",
+      "context": "geography",
+      "meaning": "a ridge or watershed that separates water drainage into different basins or river systems",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "to distribute property, assets, or inheritance among multiple parties or beneficiaries",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "to reproduce by splitting into two separate organisms, as in cell division",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "to split data or a dataset into separate groups or partitions for processing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "governance",
+      "meaning": "to separate a region or political entity into distinct administrative or political units",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to share something equally or split the cost between people",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "10",
+      "context": "movement",
+      "meaning": "to move apart or cause people or things to separate in different directions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "communication",
+      "meaning": "to cause a disagreement or rift between people by creating conflicting viewpoints",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

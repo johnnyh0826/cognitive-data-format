@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "the act of throwing (propelling something with a rapid movement of the arm and wrist)",
+      "context": "sports",
+      "meaning": "to propel a ball or object through the air with force, typically using the arm",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "a single chance or instance",
+      "context": "action",
+      "meaning": "to project or cast something forcefully in a particular direction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "the maximum movement available to a pivoted or reciprocating piece by a cam",
+      "context": "informal",
+      "meaning": "to discard or get rid of something unwanted",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "04",
-      "context": "idiomatic expression",
-      "meaning": "to give up or abandon something, as if throwing it away",
+      "context": "movement",
+      "meaning": "to move or turn something abruptly or with force",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "to say something in a casual or dismissive manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "to produce or stage a theatrical performance or show",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "pottery",
+      "meaning": "to shape clay on a potter's wheel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "to roll or cast dice in a game of chance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "to dismiss or reject a legal case or complaint",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "nautical",
+      "meaning": "to cause a ship to turn or change direction sharply",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "11",
+      "context": "anatomy",
+      "meaning": "a sudden twisting movement that displaces a joint or muscle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

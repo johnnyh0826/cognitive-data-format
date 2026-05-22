@@ -4,30 +4,66 @@
     {
       "id": "01",
       "context": "communication",
-      "meaning": "a fact or assertion offered as evidence that something is true",
+      "meaning": "a disagreement or debate between two or more people who have different opinions about something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.5
     },
     {
       "id": "02",
-      "context": "controversy",
-      "meaning": "a contentious speech act; a dispute where there is strong disagreement",
+      "context": "law",
+      "meaning": "a set of reasons or evidence presented to support or oppose a case in court",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a discussion in which reasons are advanced for and against some proposition or proposal",
+      "context": "logic",
+      "meaning": "a series of statements or reasons intended to establish or refute a proposition",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "Logic and Reasoning",
-      "meaning": "A set of statements or propositions that are used to support or justify a conclusion",
+      "context": "computing",
+      "meaning": "an input parameter or value passed to a function or program",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "mathematics",
+      "meaning": "a variable or expression representing an unknown quantity in an equation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a quarrel or heated disagreement, often involving anger or conflict",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "07",
+      "context": "psychology",
+      "meaning": "a line of reasoning or thought process used to support a conclusion or belief",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "philosophy",
+      "meaning": "a logical structure consisting of premises leading to a conclusion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

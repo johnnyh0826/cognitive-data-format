@@ -3,31 +3,147 @@
   "tracks": [
     {
       "id": "01",
-      "context": "bend",
-      "meaning": "a circular segment of a curve",
+      "context": "movement",
+      "meaning": "to change direction or course, especially by rotating or pivoting",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.243
     },
     {
       "id": "02",
       "context": "action",
-      "meaning": "the act of changing or reversing the direction of the course",
+      "meaning": "to rotate something on an axis or around a central point",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.175
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "(game) the activity of doing something in an agreed succession",
+      "context": "anatomy",
+      "meaning": "to rotate the body or a limb from one direction to another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.117
     },
     {
       "id": "04",
-      "context": "verb phrase",
-      "meaning": "to cause something to change or move in a new direction",
+      "context": "communication",
+      "meaning": "to change the topic or direction of a conversation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "05",
+      "context": "time",
+      "meaning": "to reach a particular age or point in time, as in 'to turn 30'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.097
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "to convert or transform something into a different form or product",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "07",
+      "context": "finance",
+      "meaning": "the rate at which inventory or assets are sold and replaced",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "sports",
+      "meaning": "a player's opportunity to perform an action or take their shot in a game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a performer's rotation of the body to face a different direction on stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "psychology",
+      "meaning": "to become emotionally or psychologically changed, as in 'turn hostile'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.068
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a sudden shock or fright, as in 'gave me quite a turn'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "12",
+      "context": "farming",
+      "meaning": "to dig or plow soil, especially to work the earth over",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "chemistry",
+      "meaning": "to undergo a chemical reaction or change in state or color",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "law",
+      "meaning": "to become a witness or informant against someone, as in 'turn informant'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "nautical",
+      "meaning": "to change the heading or direction of a ship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "16",
+      "context": "food",
+      "meaning": "to flip or rotate food while cooking for even heat distribution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "17",
+      "context": "measurement",
+      "meaning": "a single rotation or revolution around a center point",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "18",
+      "context": "music",
+      "meaning": "a melodic ornament where the note above and below a principal note are played",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

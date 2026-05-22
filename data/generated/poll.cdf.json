@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "an inquiry into public opinion conducted by interviewing a random sample of people",
+      "context": "communication",
+      "meaning": "a survey of public opinion or voting preferences, typically conducted by asking a sample of people questions",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.42
     },
     {
       "id": "02",
-      "context": "pate",
-      "meaning": "the top of the head",
+      "context": "action",
+      "meaning": "to conduct a survey or vote by asking people their opinions or preferences",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
       "context": "anatomy",
-      "meaning": "the part of the head between the ears",
+      "meaning": "the top of a person's head, especially referring to the crown or scalp",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "voting",
-      "meaning": "a vote or ballot, especially in a political election",
+      "context": "farming",
+      "meaning": "to cut off the horns or ears of an animal",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "a person's head or the number of individual people (used in phrases like 'per capita' or counting heads)",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "to obtain information about or monitor the opinions, preferences, or status of computer users or systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "an official count of votes in an election or ballot",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "a duty that you are assigned to perform (especially in the armed forces)",
+      "context": "education",
+      "meaning": "a task or piece of work given to a student to be completed outside the classroom",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "the instrument by which a claim or right or interest or property is transferred from one person to another",
+      "context": "law",
+      "meaning": "the transfer of a right, property, or legal responsibility from one person to another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "the act of distributing something to designated places or persons",
+      "context": "business",
+      "meaning": "a job or role that a person is given to perform in an organization",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "academic",
-      "meaning": "a task or project given to a student as part of their coursework, typically with specific requirements and deadlines",
+      "context": "military",
+      "meaning": "a posting or mission given to a soldier or military unit",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "the allocation of a variable, value, or resource to a memory location in a program",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "the act of assigning or distributing something to someone or something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "finance",
+      "meaning": "the transfer of a financial claim, debt, or contract right to another party",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

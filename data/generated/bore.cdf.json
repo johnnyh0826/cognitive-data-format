@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "person",
-      "meaning": "a person who evokes boredom",
+      "context": "action",
+      "meaning": "to make a hole through something by drilling, piercing, or tunneling",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "tidal bore",
-      "meaning": "a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)",
+      "context": "geology",
+      "meaning": "a hole made in the earth during drilling for oil, water, or other resources",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "diameter of a tube or gun barrel",
+      "context": "informal",
+      "meaning": "a person or thing that is tediously dull or uninteresting",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "geology",
-      "meaning": "a hole or passage in a rock or soil, especially one that is difficult to navigate",
+      "context": "psychology",
+      "meaning": "to cause someone to feel weary or uninterested through prolonged dullness or repetition",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.3
+    },
+    {
+      "id": "05",
+      "context": "nautical",
+      "meaning": "the internal diameter of a gun barrel or cannon",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "to hit a hole through something, especially in golf when a ball goes directly into the hole",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "biology",
+      "meaning": "the path made by a parasitic insect or worm through the skin or flesh of an animal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "anatomy",
+      "meaning": "a hole or tunnel-like passage through body tissue",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "to push forward steadily and forcefully through resistance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "measurement",
+      "meaning": "the diameter of a hole, especially in machinery or manufacturing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

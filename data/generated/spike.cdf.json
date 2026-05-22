@@ -3,31 +3,139 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "a transient variation in voltage or current",
+      "context": "action",
+      "meaning": "to drive a nail or pointed object forcefully into something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "sports equipment consisting of a sharp point on the sole of a shoe worn by athletes",
+      "context": "anatomy",
+      "meaning": "a sharp pointed projection on the body of a plant or animal, such as a thorn or quill",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.068
     },
     {
       "id": "03",
       "context": "biology",
-      "meaning": "fruiting spike of a cereal plant especially corn",
+      "meaning": "a sudden rapid increase in the number of cases or instances of something, especially a disease",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.243
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a sudden and brief increase in processing power or activity, often used to describe a computer's performance",
+      "context": "chemistry",
+      "meaning": "a sharp pointed crystalline form or structure",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "a sudden sharp increase in volume, intensity, or prominence of sound or signal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "a sudden rapid increase in data traffic, usage, or activity on a network or system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.117
+    },
+    {
+      "id": "07",
+      "context": "finance",
+      "meaning": "a sudden sharp increase in the price or value of a stock, commodity, or asset",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.146
+    },
+    {
+      "id": "08",
+      "context": "food",
+      "meaning": "a thin sharp piece or skewer, typically used for serving appetizers or securing food",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "09",
+      "context": "geology",
+      "meaning": "a sharp pointed rocky formation or pinnacle projecting from the ground",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to inject a narcotic drug, typically heroin, intravenously",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "11",
+      "context": "measurement",
+      "meaning": "a unit of measurement equal to 1.25 millimeters or a similar small increment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "military",
+      "meaning": "a type of fortification or defensive structure with projecting points",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "movement",
+      "meaning": "to move upward or rise suddenly and sharply",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "14",
+      "context": "penalty",
+      "meaning": "a deliberate hitting of the ball downward with force in volleyball or similar sports",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "15",
+      "context": "sports",
+      "meaning": "to hit a ball downward sharply and forcefully, especially in volleyball or badminton",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "16",
+      "context": "technology",
+      "meaning": "a sudden surge of electrical voltage or power in a circuit or system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "17",
+      "context": "weather",
+      "meaning": "a sudden sharp increase in wind speed or intensity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

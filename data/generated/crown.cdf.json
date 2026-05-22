@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "the Crown (or the reigning monarch) as the symbol of the power and authority of a monarchy",
+      "context": "anatomy",
+      "meaning": "the top of the head, or the part of the head where hair grows",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.143
     },
     {
       "id": "02",
-      "context": "anatomy",
-      "meaning": "the part of a tooth above the gum that is covered with enamel",
+      "context": "royalty",
+      "meaning": "a decorative circlet or headdress worn by a monarch as a symbol of authority and rank",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.114
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a wreath or garland worn on the head to signify victory",
+      "context": "law",
+      "meaning": "the power or authority of a monarch or sovereign ruler",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.076
     },
     {
       "id": "04",
-      "context": "jewelry",
-      "meaning": "a decorative piece worn on the head, typically made of precious materials and symbolizing status or achievement",
+      "context": "business",
+      "meaning": "the highest or most successful position in a hierarchy or field",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.171
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "the act of hitting a ball with the top of a racket or club",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.076
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "the upper part of a plant or tree where the branches begin",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.095
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "the completion of a tooth structure, or an artificial covering placed on a natural tooth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.143
+    },
+    {
+      "id": "08",
+      "context": "construction",
+      "meaning": "the topmost part of an arch, wall, or other structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "09",
+      "context": "action",
+      "meaning": "to place a crown on someone's head, typically during a coronation ceremony",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "10",
+      "context": "currency",
+      "meaning": "a unit of currency used in various countries, historically or currently",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "11",
+      "context": "printing",
+      "meaning": "a paper size measuring 15 by 20 inches",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "nautical",
+      "meaning": "the upper edge or rim of a ship's anchor flukes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "13",
+      "context": "metallurgy",
+      "meaning": "the top surface or finish of a metallic object",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "measurement",
+      "meaning": "a British unit of measurement equal to five shillings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "15",
+      "context": "informal",
+      "meaning": "the highest or most eminent achievement or success in a competition or field",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
     }
   ]
 }

@@ -3,31 +3,147 @@
   "tracks": [
     {
       "id": "01",
-      "context": "axial rotation",
-      "meaning": "rotary motion of an object around its own axis",
+      "context": "movement",
+      "meaning": "to move forward by turning over and over, or to cause something to move in this way",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.184
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a list of names",
+      "context": "action",
+      "meaning": "to turn or rotate something around an axis or center point",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.122
     },
     {
       "id": "03",
-      "context": "roller",
-      "meaning": "a long heavy sea wave as it advances towards the shore",
+      "context": "food",
+      "meaning": "a cylindrical or spiral-shaped baked item, typically sweet or savory",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.153
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "to manipulate or control a game's outcome, often unfairly",
+      "context": "printing",
+      "meaning": "a long cylinder of paper, film, or other material wound around a spindle",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.082
+    },
+    {
+      "id": "05",
+      "context": "storage",
+      "meaning": "a rolled-up piece of material, document, or parchment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "to move or turn the eyes upward or in different directions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.041
+    },
+    {
+      "id": "07",
+      "context": "weather",
+      "meaning": "to move in waves or undulating motions, as clouds or fog",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "music",
+      "meaning": "a rapid repeated striking of a drum with drumsticks",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a part or character in a play or performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.061
+    },
+    {
+      "id": "10",
+      "context": "military",
+      "meaning": "a continuous sound of drums or artillery fire",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "11",
+      "context": "nautical",
+      "meaning": "the side-to-side swaying motion of a ship in waves",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "gambling",
+      "meaning": "to throw dice or to play a game of chance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.041
+    },
+    {
+      "id": "13",
+      "context": "finance",
+      "meaning": "to turn over or renew a financial obligation, such as extending a loan",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "14",
+      "context": "law",
+      "meaning": "an official record or list of names, as on a legal document or register",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "15",
+      "context": "informal",
+      "meaning": "to walk with a rolling gait or to move in a swaying manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "16",
+      "context": "computing",
+      "meaning": "to wrap data or content into a condensed or packaged form",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "17",
+      "context": "construction",
+      "meaning": "to flatten or compact a surface using a heavy cylindrical tool",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "18",
+      "context": "farming",
+      "meaning": "to flatten soil or crops using a heavy roller implement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

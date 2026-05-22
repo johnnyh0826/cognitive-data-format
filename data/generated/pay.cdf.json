@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "wage",
-      "meaning": "something that remunerates",
+      "context": "finance",
+      "meaning": "to give money to someone in exchange for goods, services, or as a debt obligation",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "finance",
-      "meaning": "give money, usually in exchange for goods or services",
+      "context": "business",
+      "meaning": "to settle or discharge a financial debt or obligation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "give",
-      "meaning": "convey, as of a compliment, regards, attention, etc.; bestow",
+      "context": "law",
+      "meaning": "to provide sufficient or acceptable compensation or reward for something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "financial planning",
-      "meaning": "to settle a debt or obligation",
+      "context": "action",
+      "meaning": "to suffer consequences or face punishment for an action or offense",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "penalty",
+      "meaning": "to endure a penalty, fine, or cost as a consequence of behavior",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "to allow a sailing vessel to turn away from the wind or change course",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "mining",
+      "meaning": "to extract or work toward obtaining minerals or resources from the earth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to be worthwhile or beneficial in terms of effort or investment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

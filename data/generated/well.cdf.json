@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine",
+      "context": "anatomy",
+      "meaning": "a deep hole or shaft sunk into the earth to extract water, oil, or gas",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.051
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a cavity or vessel used to contain liquid",
+      "context": "geography",
+      "meaning": "a natural spring where water emerges from the ground",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "an abundant source",
+      "context": "construction",
+      "meaning": "a deep hole or excavation dug into the ground for water extraction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.03
     },
     {
       "id": "04",
-      "context": " idiomatic expression",
-      "meaning": "a place or situation where something is going well or smoothly",
+      "context": "action",
+      "meaning": "to do something thoroughly or completely, as in 'well done'",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "an interjection used to begin a statement, express surprise, or pause in speech",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.354
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "an expression of acknowledgment, agreement, or resignation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.253
+    },
+    {
+      "id": "07",
+      "context": "measurement",
+      "meaning": "in good health or satisfactory condition; not sick or injured",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "in good physical or mental health; free from illness",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.071
+    },
+    {
+      "id": "09",
+      "context": "nautical",
+      "meaning": "a compartment in a ship's hold used for storing water or other provisions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "theatre",
+      "meaning": "an opening on a stage through which scenery or props appear",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

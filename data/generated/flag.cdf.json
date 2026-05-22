@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "emblem usually consisting of a rectangular piece of cloth of distinctive design",
+      "context": "action",
+      "meaning": "to become tired or weak in energy or enthusiasm",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "masthead",
-      "meaning": "a listing printed in all issues of a newspaper or magazine (usually on the editorial page) that gives the name of the publication and the names of the editorial staff, etc.",
+      "context": "communication",
+      "meaning": "a banner or piece of fabric bearing a symbol, emblem, or design",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "iris",
-      "meaning": "plants with sword-shaped leaves and erect stalks bearing bright-colored flowers composed of three petals and three drooping sepals",
+      "context": "computing",
+      "meaning": "a binary indicator or marker used to signal a particular status or condition in a program",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "nautical",
-      "meaning": "a piece of fabric or material used to make a flag",
+      "context": "geography",
+      "meaning": "a distinctive stone marker or post placed to indicate a boundary or route",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to call attention to something or bring it to someone's notice",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "to mark or label something as evidence or for official identification",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "a pennant or symbol used to represent a military unit or nation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "in sports, a yellow or red card issued by a referee as a caution or dismissal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "to mark a player or opponent closely during defensive play",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "technology",
+      "meaning": "to mark a piece of content online for later retrieval or to indicate it as inappropriate",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

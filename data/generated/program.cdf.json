@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "plan",
-      "meaning": "a series of steps to be carried out or goals to be accomplished",
+      "context": "computing",
+      "meaning": "a set of instructions written in a programming language that a computer executes to perform specific tasks",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "a system of projects or services intended to meet a public need",
+      "context": "technology",
+      "meaning": "software or an application designed to perform particular functions on a device",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "broadcast",
-      "meaning": "a radio or television show",
+      "context": "theatre",
+      "meaning": "a printed leaflet or document distributed to an audience listing the performance details and cast",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a set of instructions that a computer can execute",
+      "context": "action",
+      "meaning": "a plan of things to be done or carried out in a specific sequence",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "a schedule or organized plan of activities or events arranged for a particular period",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "a television or radio broadcast or series of broadcasts with a particular theme or content",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "music",
+      "meaning": "a piece of music performed in a concert or recital",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "to train or teach someone to do something through regular practice or instruction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a process, sequence of events, or course of action that is predetermined or predetermined",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

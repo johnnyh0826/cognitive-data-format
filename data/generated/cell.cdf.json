@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "any small compartment",
+      "context": "biology",
+      "meaning": "the smallest structural and functional unit of a living organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "Tops",
-      "meaning": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "context": "anatomy",
+      "meaning": "a small compartment or enclosed space within a larger structure in a living organism",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a device that delivers an electric current as the result of a chemical reaction",
+      "context": "law",
+      "meaning": "a room in a prison where an inmate is confined",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "finance",
-      "meaning": "a unit of account in a financial system, such as a stock market or investment portfolio",
+      "context": "storage",
+      "meaning": "a small room or enclosed compartment, especially in a larger building used for confinement or storage",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "technology",
+      "meaning": "a small unit of a battery that generates electrical current, or a single data storage unit in computing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "a small group of people who meet regularly for religious worship or political purposes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "a basic tactical unit of soldiers or armed forces, typically smaller than a platoon",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "monastery",
+      "meaning": "a small room occupied by a monk or nun in a monastery or convent",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a darkened room or booth where cinema films are projected for an audience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a mobile phone or cellular telephone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.09
     }
   ]
 }

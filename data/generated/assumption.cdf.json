@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "premise",
-      "meaning": "a statement that is assumed to be true and from which a conclusion can be drawn",
+      "context": "logic",
+      "meaning": "a thing that is accepted as true or as a basis for reasoning, without proof",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
       "context": "psychology",
-      "meaning": "a hypothesis that is taken for granted",
+      "meaning": "an unconscious acceptance of ideas or beliefs without critical examination",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "the act of taking possession of or power over something",
+      "context": "law",
+      "meaning": "a fact or point accepted as true for purposes of legal argument or court proceedings",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.04
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a mental construct or framework that influences one's thoughts, feelings, and behaviors",
+      "context": "business",
+      "meaning": "a supposition or presupposition taken to be the basis for a plan, proposal, or decision",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.22
+    },
+    {
+      "id": "05",
+      "context": "mathematics",
+      "meaning": "a proposition or statement accepted as a starting point for further reasoning or proof",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "theology",
+      "meaning": "the Christian festival celebrating the bodily taking up of the Virgin Mary into heaven",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "the act of taking or adopting something, such as a belief, attitude, or responsibility",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "communication",
+      "meaning": "something presumed to be true in a conversation or argument without being explicitly stated",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "09",
+      "context": "finance",
+      "meaning": "a underlying presupposition about market conditions or financial circumstances in forecasting or planning",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

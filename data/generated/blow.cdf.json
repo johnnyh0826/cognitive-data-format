@@ -4,30 +4,98 @@
     {
       "id": "01",
       "context": "action",
-      "meaning": "a powerful stroke with the fist or a weapon",
+      "meaning": "to expel air forcefully from the mouth or nose",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "an impact (as from a collision)",
+      "context": "weather",
+      "meaning": "a strong wind or gust of wind",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "03",
-      "context": "reverse",
-      "meaning": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+      "context": "music",
+      "meaning": "to produce sound from a wind instrument by forcing air through it",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "04",
-      "context": " idioms and phrases",
-      "meaning": "to spend money freely or wastefully, often in a way that is considered foolish",
+      "context": "sports",
+      "meaning": "to propel a ball through the air by striking it with a bat, club, or similar implement",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "an unexpected shock or disappointment that affects someone emotionally",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.173
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to spend money freely or wastefully",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.067
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "to inform someone of bad news or reveal something unpleasant",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "in sports, to commit a foul or violation that results in a penalty",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "09",
+      "context": "nautical",
+      "meaning": "to drive a ship or boat off course due to wind or waves",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "10",
+      "context": "theatre",
+      "meaning": "to fail or perform badly in a theatrical production or public performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "law",
+      "meaning": "to expose or reveal evidence or wrongdoing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "12",
+      "context": "printing",
+      "meaning": "to spread or scatter ink unevenly during the printing process",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

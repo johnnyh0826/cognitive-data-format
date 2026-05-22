@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a means or instrumentality for storing or communicating information",
+      "context": "measurement",
+      "meaning": "of a size, amount, or degree that is between small and large; neither extreme",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.455
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "the surrounding environment",
+      "context": "communication",
+      "meaning": "a person or agency that conveys information or acts as an intermediary between parties",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.152
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "an intervening substance through which signals can travel as a means for communication",
+      "context": "spirituality",
+      "meaning": "a person believed to communicate with spirits of the dead or access supernatural knowledge",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "photography",
-      "meaning": "a type of camera or photography technique that captures a balance between light and dark, neither too bright nor too dim",
+      "context": "art",
+      "meaning": "a material or substance used as the vehicle for pigment in painting, such as oil or water",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "05",
+      "context": "printing",
+      "meaning": "the material or surface on which something is printed or inscribed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "the intervening substance or environment in which organisms live or develop",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "chemistry",
+      "meaning": "a substance providing the environment or base for a chemical reaction or process",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "storage",
+      "meaning": "material used to record, store, or transmit information such as magnetic tape or digital format",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "09",
+      "context": "finance",
+      "meaning": "a financial instrument or asset class that is between the riskiest and safest investment options",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "temperature",
+      "meaning": "neither hot nor cold; at a moderate temperature",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a person of average or middling ability or importance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

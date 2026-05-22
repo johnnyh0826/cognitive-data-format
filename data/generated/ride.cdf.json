@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "drive",
-      "meaning": "a journey in a vehicle (usually an automobile)",
+      "context": "movement",
+      "meaning": "to sit on and control a horse or other animal while traveling",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a mechanical device that you ride for amusement or excitement",
+      "context": "action",
+      "meaning": "to experience or endure something, typically something unpleasant",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "movement",
-      "meaning": "sit and travel on the back of animal, usually while controlling its motions",
+      "context": "informal",
+      "meaning": "a journey or trip taken for pleasure or recreation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "sports",
-      "meaning": "to participate in a ride, such as a bicycle or horseback ride, for exercise or competition",
+      "context": "anatomy",
+      "meaning": "a ridge or projecting part on a surface, especially on tires for traction",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "05",
+      "context": "slang",
+      "meaning": "a person who is a sexual partner or romantic interest",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "a rhythmic or melodic element that a musician or dancer follows",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "gambling",
+      "meaning": "to bet or wager on the outcome of a sporting event or race",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

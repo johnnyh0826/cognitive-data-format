@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "behavior",
-      "meaning": "manner of acting or controlling yourself",
+      "context": "action",
+      "meaning": "to behave or act in a specified way, especially in relation to others or a particular situation",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "demeanor",
-      "meaning": "(behavioral attributes) the way a person behaves toward other people",
+      "context": "music",
+      "meaning": "the manner in which a musical performance or piece is directed by a conductor",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "03",
-      "context": "social",
-      "meaning": "direct the course of; manage or control",
+      "context": "law",
+      "meaning": "the manner in which a person behaves, especially in terms of morality or propriety",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "to lead or direct a musical group, orchestra, etc.",
+      "context": "business",
+      "meaning": "to carry on or engage in a business, negotiation, or transaction",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to guide, lead, or escort someone from one place to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a channel, duct, or pipe through which something is conveyed or transmitted",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "a tube or canal in the body through which a substance passes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "a person's overall pattern of behavior and deportment, especially as observed by others",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

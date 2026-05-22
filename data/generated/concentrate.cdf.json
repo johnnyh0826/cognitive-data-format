@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "dressed ore",
-      "meaning": "the desired mineral that is left after impurities have been removed from mined ore",
+      "context": "action",
+      "meaning": "to focus one's attention or effort intensely on a particular thing",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.55
     },
     {
       "id": "02",
-      "context": "food",
-      "meaning": "a concentrated form of a foodstuff; the bulk is reduced by removing water",
+      "context": "chemistry",
+      "meaning": "a substance made by dissolving or reducing a liquid to increase the proportion of a dissolved solid",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "psychology",
-      "meaning": "a concentrated example of something",
+      "context": "food",
+      "meaning": "a liquid or syrup made by boiling down fruit juice, typically used as a topping or ingredient",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "to focus one's attention or mental effort on a particular task or problem",
+      "context": "storage",
+      "meaning": "a concentrated form of a product that requires dilution before use",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "mental focus or the ability to direct one's thoughts toward a single object or task",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "an area where something (such as population or resources) is gathered densely in one place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "to gather or assemble troops or forces in one location for strategic purposes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to think hard about something or engage in deep thought",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

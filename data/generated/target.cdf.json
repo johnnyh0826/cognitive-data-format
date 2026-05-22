@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a reference point to shoot at",
+      "context": "action",
+      "meaning": "an object or person that someone aims at or tries to hit, reach, or achieve",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "prey",
-      "meaning": "a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence",
+      "context": "military",
+      "meaning": "an enemy person, object, or location selected for attack or destruction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "the location of the target that is to be hit",
+      "context": "business",
+      "meaning": "a goal or objective that a company or individual aims to achieve, often with specific metrics",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.32
     },
     {
       "id": "04",
-      "context": "Statistics and Research",
-      "meaning": "the intended recipient of a marketing campaign, survey, or other research effort",
+      "context": "sports",
+      "meaning": "the intended destination or goal in games like archery, darts, or shooting sports",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "a person or group selected as the focus of influence, persuasion, or manipulation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a data structure or marker in computing used to identify and track specific information or objects",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "a person or entity that is the intended recipient of legal action or investigation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "a specified outcome or betting objective in a gaming context",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "the verb meaning to direct or aim something toward a specific goal or destination",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "an intended audience or demographic group that a message or advertisement is designed to reach",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
     }
   ]
 }

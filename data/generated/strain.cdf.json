@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "phenomenon",
-      "meaning": "(physics) deformation of a physical body under the action of applied forces",
+      "context": "medicine",
+      "meaning": "an injury or damage to a muscle or ligament caused by overexertion or sudden movement",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "02",
-      "context": "stress",
-      "meaning": "difficulty that causes worry or emotional tension; ; - R.J.Samuelson",
+      "context": "action",
+      "meaning": "to pull, stretch, or exert force on something with effort",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.192
     },
     {
       "id": "03",
-      "context": "tune",
-      "meaning": "a succession of notes forming a distinctive sequence",
+      "context": "psychology",
+      "meaning": "mental or emotional stress or pressure that affects a person's well-being",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "04",
       "context": "biology",
-      "meaning": "a line of descent from a common ancestor, especially in animals or plants",
+      "meaning": "a group of organisms descended from a common ancestor or possessing similar characteristics",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "05",
+      "context": "agriculture",
+      "meaning": "to breed plants or animals selectively for desired traits",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "a melody or tune, especially one that is repeated or forms part of a composition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "07",
+      "context": "chemistry",
+      "meaning": "a trace amount or small quantity of a substance mixed with another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "to put pressure on someone to act in a certain way through threats or force",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to filter or separate solids from liquids, typically by pouring through a mesh or cloth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "movement",
+      "meaning": "to move with difficulty or effort against resistance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "penalty",
+      "meaning": "a restriction or limitation imposed on someone's behavior or freedom",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "12",
+      "context": "food",
+      "meaning": "to sieve or push food through a fine mesh to create a smooth texture",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

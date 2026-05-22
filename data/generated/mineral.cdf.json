@@ -3,17 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "solid homogeneous inorganic substances occurring in nature having a definite chemical composition",
+      "context": "geology",
+      "meaning": "a naturally occurring solid inorganic substance with a specific chemical composition and crystalline structure",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "geology",
-      "meaning": "a naturally occurring substance extracted from the earth, often used in jewelry or decorative objects",
+      "context": "food",
+      "meaning": "a naturally occurring salt or nutrient substance essential for bodily functions, such as calcium, iron, or potassium",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "03",
+      "context": "chemistry",
+      "meaning": "an inorganic compound that is neither organic nor biological in origin",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "04",
+      "context": "medicine",
+      "meaning": "a naturally occurring element or compound required by the body for health, used as a dietary supplement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "biology",
+      "meaning": "a naturally occurring inorganic element essential for plant or animal nutrition and growth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "relating to or containing minerals, often used as an adjective describing water, springs, or beverages",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "07",
+      "context": "metallurgy",
+      "meaning": "a naturally occurring substance from which metal can be extracted through processing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "commerce",
+      "meaning": "a commercially extracted natural resource such as ore, coal, or gemstones",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

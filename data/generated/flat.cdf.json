@@ -3,29 +3,141 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a level tract of land",
+      "context": "geography",
+      "meaning": "a level or even surface without hills, ridges, or other irregularities",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm"
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a shallow box in which seedlings are started",
+      "context": "anatomy",
+      "meaning": "the sole of the foot or a flat part of the body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm"
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a musical notation indicating one half step lower than the note named",
+      "context": "music",
+      "meaning": "a musical note that is lowered in pitch by one semitone, indicated by the symbol \u266d",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm"
     },
     {
       "id": "04",
-      "context": "photography",
-      "meaning": "a type of photography where the subject is captured from a low angle, often emphasizing its size or dominance",
+      "context": "construction",
+      "meaning": "a residential apartment or dwelling unit",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "05",
+      "context": "storage",
+      "meaning": "a shallow open container or tray for holding items",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "a piece of movable scenery or canvas stretched on a wooden frame used as a stage set",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "to make something level or even by pressing or smoothing it",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "the state of being stretched out at full length on a surface",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "a race or competition run on level ground without jumps or obstacles",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "10",
+      "context": "weather",
+      "meaning": "lacking wind or breeze; calm or still",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "having no money; broke or financially depleted",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "12",
+      "context": "measurement",
+      "meaning": "having no variation or difference in level or value across a surface or range",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "13",
+      "context": "penalty",
+      "meaning": "absolute or definitive without qualification or negotiation",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "14",
+      "context": "time",
+      "meaning": "denoting a fixed rate or price that does not change over a period",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "15",
+      "context": "business",
+      "meaning": "a categorical or outright denial or rejection without explanation",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "16",
+      "context": "nautical",
+      "meaning": "shallow or having little water depth",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "17",
+      "context": "food",
+      "meaning": "a type of bread or cake that has not risen properly during baking",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "18",
+      "context": "technology",
+      "meaning": "a display screen or monitor with a thin design",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "19",
+      "context": "printing",
+      "meaning": "an area of uniform color or tone without shading or gradation",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "20",
+      "context": "finance",
+      "meaning": "a fixed or unchanging price or rate of exchange",
       "added": "accumulated",
       "source": "llm"
     }

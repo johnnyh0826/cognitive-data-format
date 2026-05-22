@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber",
+      "context": "anatomy",
+      "meaning": "the main stem of a tree, typically the woody axis that grows upward from the roots",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "luggage consisting of a large strong case used when traveling or for storage",
+      "context": "storage",
+      "meaning": "a large box or chest, typically used for storing or transporting clothes, luggage, or other items",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "torso",
-      "meaning": "the body excluding the head and neck and limbs",
+      "context": "movement",
+      "meaning": "a large compartment at the rear of a motor vehicle used for storing luggage or cargo",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "automotive",
-      "meaning": "the main supporting structure of a vehicle, such as a car or truck, that connects the body to the wheels",
+      "context": "nautical",
+      "meaning": "a flexible tube or conduit used to direct air or exhaust in ships or aircraft",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "a telephone line or channel used for transmitting multiple signals simultaneously",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a person's body or physique, especially when considered in relation to clothing or appearance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "to confine or enclose something within a limited space or container",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

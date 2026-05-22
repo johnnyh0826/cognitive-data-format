@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "the act of traveling by foot",
+      "context": "movement",
+      "meaning": "to move forward on foot at a moderate pace, slower than running",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "base on balls",
-      "meaning": "(baseball) an advance to first base by a batter who receives four balls",
+      "context": "action",
+      "meaning": "to traverse or travel over a distance or area on foot",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "manner of walking",
+      "context": "anatomy",
+      "meaning": "the act of moving one's legs and feet in a coordinated pattern for locomotion",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "health and wellness",
-      "meaning": "a form of exercise or physical activity that involves walking as a regular routine",
+      "context": "informal",
+      "meaning": "to leave or depart from a place, often hastily",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "to behave or conduct oneself in a particular manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "a path or right of way, especially one that crosses another's land",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "geography",
+      "meaning": "a narrow path or track for pedestrians, especially in countryside or mountains",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "sports",
+      "meaning": "a place or path where one person or animal walks",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

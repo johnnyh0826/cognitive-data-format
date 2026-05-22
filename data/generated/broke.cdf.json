@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "interrupt",
-      "meaning": "terminate",
+      "context": "finance",
+      "meaning": "having no money; financially insolvent or bankrupt",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "break",
-      "meaning": "become separated into pieces or fragments",
+      "context": "action",
+      "meaning": "past tense of break; to have fractured or separated something into pieces",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "03",
-      "context": "break",
-      "meaning": "render inoperable or ineffective",
+      "context": "sports",
+      "meaning": "past tense of break; to have made the opening shot in billiards or pool",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "financial",
-      "meaning": "without sufficient funds or money",
+      "context": "informal",
+      "meaning": "exhausted or worn out; having lost one's physical or emotional resilience",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "fractured; having a bone or bones that are cracked or separated",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "not functioning properly; malfunctioning or non-operational",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "discontinuous or interrupted; not flowing smoothly or coherently",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "having experienced severe emotional trauma or loss of mental stability",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

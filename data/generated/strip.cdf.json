@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a relatively long narrow piece of something",
+      "context": "action",
+      "meaning": "to remove clothing or covering from someone or something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "artifact consisting of a narrow flat piece of material",
+      "context": "storage",
+      "meaning": "a long narrow piece of material, such as cloth, paper, or metal",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "airstrip",
-      "meaning": "an airfield without normal airport facilities",
+      "context": "geography",
+      "meaning": "a long narrow area of land, especially in contrast to its width",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "entertainment",
-      "meaning": "a sequence of images or frames displayed in rapid succession, typically accompanied by music or sound effects",
+      "context": "theatre",
+      "meaning": "a comic book or cartoon presented as a sequence of illustrations",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.11
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "a team's distinctive uniform or jersey",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a band of similar or related things arranged sequentially",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a continuous sequence of data or information presented in a linear format",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "construction",
+      "meaning": "a thin elongated piece of wood, metal, or other material used in building",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "to strip someone of legal rights or status",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to search a person by removing their clothes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "anatomy",
+      "meaning": "a narrow band or line-like anatomical structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "farming",
+      "meaning": "an area of land used for a specific agricultural purpose within a larger field",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "printing",
+      "meaning": "a narrow section or band of an image or page layout",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "penalty",
+      "meaning": "to formally remove a player from a game or reduce their score as punishment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "movement",
+      "meaning": "to move quickly or hastily, often removing obstacles",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

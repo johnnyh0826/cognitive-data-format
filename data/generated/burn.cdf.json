@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "state",
-      "meaning": "pain that feels hot as if it were on fire",
+      "context": "action",
+      "meaning": "to consume or destroy something with fire or intense heat",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "a browning of the skin resulting from exposure to the rays of the sun",
+      "context": "medicine",
+      "meaning": "a skin injury caused by exposure to heat, flame, or corrosive substances",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "03",
-      "context": "state",
-      "meaning": "an injury caused by exposure to heat or chemicals or radiation",
+      "context": "chemistry",
+      "meaning": "a chemical reaction involving rapid oxidation that produces heat and light",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.077
     },
     {
       "id": "04",
-      "context": "social dynamics",
-      "meaning": "to ruin or spoil something, often in a relationship or situation",
+      "context": "informal",
+      "meaning": "to feel a strong stinging or painful sensation, typically in the mouth or throat",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a sensation of heat or pain felt in a body part",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "to experience intense emotion such as anger, desire, or passion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "07",
+      "context": "music",
+      "meaning": "to perform music with energy and enthusiasm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "08",
+      "context": "sports",
+      "meaning": "to throw, kick, or hit a ball or puck with great force or speed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "to write data to a storage device, especially optical media like CDs or DVDs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "10",
+      "context": "farming",
+      "meaning": "to clear land by destroying vegetation with fire",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "business",
+      "meaning": "to dismiss or terminate an employee from their job",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "12",
+      "context": "technology",
+      "meaning": "to activate or discharge a weapon, typically a gun",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "13",
+      "context": "military",
+      "meaning": "to discharge a firearm or artillery piece",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "header",
-      "meaning": "brick that is laid sideways at the top of a wall",
+      "context": "action",
+      "meaning": "to deal with or manage a difficult situation or problem",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.6
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a long cloak; worn by a priest or bishop on ceremonial occasions",
+      "context": "psychology",
+      "meaning": "a mental strategy or mechanism for handling stress, adversity, or emotional distress",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "social",
-      "meaning": "come to terms with",
+      "context": "informal",
+      "meaning": "to manage adequately or get by, often with minimal resources or effort",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "to manage or deal with a difficult situation, problem, or emotion",
+      "context": "construction",
+      "meaning": "a coping stone or coping tile, a sloped protective cap placed on top of a wall or roof edge",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a curved saw or fretsaw used for cutting curved or decorative edges in woodworking",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "to duplicate or reproduce data, files, or information from one location to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

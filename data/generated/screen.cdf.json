@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a white or silvered surface where pictures can be projected for viewing",
+      "context": "technology",
+      "meaning": "a display device that shows visual output from a computer, television, or other electronic device",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "blind",
-      "meaning": "a protective covering that keeps things out or hinders sight",
+      "context": "action",
+      "meaning": "to examine or inspect something carefully",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "the display that is electronically created on the surface of the large end of a cathode-ray tube",
+      "context": "medicine",
+      "meaning": "a wire or mesh mesh used to filter substances or protect a medical site",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "entertainment",
-      "meaning": "a surface on which a movie or play is projected for viewing",
+      "context": "theatre",
+      "meaning": "a movable partition or backdrop used to conceal or divide a stage",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "05",
+      "context": "construction",
+      "meaning": "a framework of mesh or bars used to allow airflow while blocking insects or debris",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "to unconsciously exclude unwanted thoughts or emotions from awareness",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "to examine applicants or information to determine suitability or risk",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "agriculture",
+      "meaning": "a flat surface or mesh used to separate grain from chaff",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "printing",
+      "meaning": "a mesh used in screenprinting to transfer ink onto a surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "a digital interface or application window displayed on a device",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a motion picture or film production",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

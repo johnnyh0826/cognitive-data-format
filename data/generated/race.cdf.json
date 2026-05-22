@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "any competition",
+      "context": "biology",
+      "meaning": "A group of people connected by common descent or ancestry; an ethnic or cultural group.",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "a contest of speed",
+      "context": "sports",
+      "meaning": "A competition between runners, vehicles, horses, or other competitors to determine who is fastest.",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "people who are believed to belong to the same genetic stock",
+      "context": "action",
+      "meaning": "To compete in a race; to run or move at high speed in competition with others.",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "society",
-      "meaning": "a group of people who share a common ancestry or cultural heritage",
+      "context": "movement",
+      "meaning": "To move or progress rapidly or hastily.",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "A track or course prepared or marked for racing competitions, such as a horse racing track or automobile circuit.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "A strong current or tidal stream flowing through a narrow passage.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "A condition in computing where the outcome depends on the timing of competing events, potentially causing unpredictable behavior.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "Rapid movement or hurried activity; a rush or busy period.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

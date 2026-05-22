@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "events that provide the generative force that is the origin of something",
+      "context": "action",
+      "meaning": "to make something happen or bring about an effect or result",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a justification for something existing or happening",
+      "context": "law",
+      "meaning": "a reason or grounds for legal action, such as a lawsuit or complaint",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "campaign",
-      "meaning": "a series of actions advancing a principle or tending toward a particular end",
+      "context": "psychology",
+      "meaning": "a person's motivation or reason for behaving in a particular way",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "philosophy",
-      "meaning": "the underlying reason or explanation for something's existence or nature",
+      "context": "communication",
+      "meaning": "a subject of discussion or debate, or a matter of concern",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to influence someone to do something or to persuade them",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "a disease or condition that affects a living organism",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "a military operation or military campaign undertaken for a specific objective",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "social",
+      "meaning": "a social movement or collective effort to achieve political or social change",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

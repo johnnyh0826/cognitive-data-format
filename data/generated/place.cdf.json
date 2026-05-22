@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "topographic point",
-      "meaning": "a point located with respect to surface features of some region",
+      "context": "geography",
+      "meaning": "a particular location, position, or area on the earth's surface",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "any area set aside for a particular purpose",
+      "context": "action",
+      "meaning": "to put or set something in a particular position",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.22
     },
     {
       "id": "03",
-      "context": "psychology",
-      "meaning": "an abstract mental location",
+      "context": "business",
+      "meaning": "a position or rank held by someone in an organization or hierarchy",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "geography",
-      "meaning": "a location on a map or in a particular region, often used for navigation or orientation",
+      "context": "movement",
+      "meaning": "to position oneself in a particular spot or to take a stand",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "to finish in a particular position in a race or competition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "a venue or establishment where performances occur",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "a court or legal venue where cases are heard",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "a betting establishment or location where gambling occurs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "storage",
+      "meaning": "space or accommodation for something to be kept",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "a location in memory or on disk where data is stored",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a job or role that someone occupies or is assigned",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "12",
+      "context": "time",
+      "meaning": "a particular point or stage in a sequence of events",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "psychology",
+      "meaning": "a person's emotional or mental state or condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "medicine",
+      "meaning": "the location or site of a disease, injury, or medical condition in the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "food",
+      "meaning": "to set down dishes, food, or utensils on a table for a meal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

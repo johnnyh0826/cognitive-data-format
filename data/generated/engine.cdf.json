@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "motor that converts thermal energy to mechanical work",
+      "context": "technology",
+      "meaning": "a machine or device that converts energy into mechanical motion to power or propel something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "phenomenon",
-      "meaning": "something used to achieve a purpose",
+      "context": "computing",
+      "meaning": "the core component of a computer system that executes instructions and controls other hardware components",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "locomotive",
-      "meaning": "a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks",
+      "context": "nautical",
+      "meaning": "the main machinery of a ship that provides propulsive power",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a program or module that performs a specific task or function",
+      "context": "business",
+      "meaning": "a person or organization that drives or powers a business process or initiative forward",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "a driving force or motivation that propels someone toward action or achievement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a person who is intelligent, capable, or driving force in a particular field or activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "the mechanical or operational system that powers military vehicles or weapons",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "the propulsive mechanism that generates motion or power for locomotion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

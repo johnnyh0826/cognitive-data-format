@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "committee",
-      "meaning": "a special group delegated to consider some matter;  - Milton Berle",
+      "context": "business",
+      "meaning": "a fee or percentage of money earned paid to someone who arranges or facilitates a transaction or sale",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "finance",
-      "meaning": "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)",
+      "context": "law",
+      "meaning": "a formal written instruction or authority granted to someone to act on behalf of another person or organization",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "the act of granting authority to undertake certain functions",
+      "context": "military",
+      "meaning": "an official warrant or authority to perform military duties or hold a specific rank",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "a payment or reward given for a job well done, especially as an incentive to motivate employees",
+      "context": "action",
+      "meaning": "the act of giving someone the authority or responsibility to do something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "finance",
+      "meaning": "a group of securities or a separate fund managed as a single investment entity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "the act of hiring or employing someone, especially a performer or worker",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "penalty",
+      "meaning": "a punishment or penalty imposed by an authority, especially an official rebuke or fine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to do something or carry out an action as requested or instructed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

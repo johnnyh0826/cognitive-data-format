@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a device in which something (usually an animal) can be caught and penned",
+      "context": "action",
+      "meaning": "a device or mechanism designed to catch or ensnare something, especially an animal",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "drain consisting of a U-shaped section of drainpipe that holds liquid and so prevents a return flow of sewer gas",
+      "context": "informal",
+      "meaning": "a trick or stratagem designed to catch someone out or deceive them",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
       "context": "psychology",
-      "meaning": "something (often something deceptively attractive) that catches you unawares",
+      "meaning": "a situation or circumstance from which it is difficult or impossible to escape",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a type of drumbeat or rhythm in music, often characterized by a strong emphasis on the 'off-beat' or second beat",
+      "context": "anatomy",
+      "meaning": "a curved section of pipe that holds liquid to form a seal and prevent gases from passing back",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "geology",
+      "meaning": "a geological formation that stops the movement of oil or gas and allows it to accumulate",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "in soccer or basketball, to stop and control a moving ball with one's foot or body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "an ambush or sudden attack laid for an enemy",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "communication",
+      "meaning": "the mouth or speech, often used dismissively as 'shut your trap'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a trapdoor in a theatre stage floor used for entrances and exits",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "technology",
+      "meaning": "a diagnostic routine that interrupts program execution when specified conditions occur",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "computing",
+      "meaning": "a program or code section designed to catch errors or unexpected inputs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "12",
+      "context": "gambling",
+      "meaning": "a situation in card games or gambling where a player is forced into a disadvantageous position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

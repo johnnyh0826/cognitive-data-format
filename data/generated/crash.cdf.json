@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "clang",
-      "meaning": "a loud resonant repeating noise",
+      "context": "computing",
+      "meaning": "a sudden failure or malfunction of a computer system or software program",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "a serious accident (usually involving one or more vehicles)",
+      "context": "action",
+      "meaning": "to collide violently with something or someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "a sudden large decline of business or the prices of stocks (especially one that causes additional failures)",
+      "context": "movement",
+      "meaning": "to fall or collapse suddenly",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a program or process that stops functioning correctly and is terminated, often due to a bug or error",
+      "context": "informal",
+      "meaning": "to fall asleep suddenly or lose consciousness",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "finance",
+      "meaning": "a sudden severe fall in prices or values in financial markets",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "a piece of music recorded as a single track on an album",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "a collision or accident involving vehicles that may result in legal liability",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "an overwhelming and sudden emotional breakdown",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "weather",
+      "meaning": "a sudden loud sound accompanying a lightning strike during a thunderstorm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "storage",
+      "meaning": "the sound of something being broken into pieces",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

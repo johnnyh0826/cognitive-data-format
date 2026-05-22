@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "person",
-      "meaning": "someone who cooks food",
+      "context": "food",
+      "meaning": "to prepare food by heating it in an oven, on a stove, or over fire",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.75
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "English navigator who claimed the east coast of Australia for Britain and discovered several Pacific islands (1728-1779)",
+      "context": "informal",
+      "meaning": "to alter or falsify records, accounts, or evidence dishonestly",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "creation",
-      "meaning": "prepare a hot meal",
+      "context": "chemistry",
+      "meaning": "to heat a substance to a high temperature until it is partially carbonized or transformed",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.03
     },
     {
       "id": "04",
-      "context": "recipe",
-      "meaning": "to combine ingredients in a specific way according to a recipe",
+      "context": "action",
+      "meaning": "to cause something to happen or develop in a particular way, often through manipulation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "05",
+      "context": "weather",
+      "meaning": "to become very hot or to experience intense heat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "gambling",
+      "meaning": "to manipulate a gambling game or its outcome dishonestly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

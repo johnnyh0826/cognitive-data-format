@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "an enclosure in a court of law where the defendant sits during the trial",
+      "context": "nautical",
+      "meaning": "a structure projecting into water for loading and unloading cargo from ships",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "any of certain coarse weedy plants with long taproots, sometimes used as table greens or in folk medicine",
+      "context": "storage",
+      "meaning": "a loading platform or bay for trucks and freight",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "03",
-      "context": "pier",
-      "meaning": "a platform built out from the shore into the water and supported by piles; provides access to ships and boats",
+      "context": "movement",
+      "meaning": "to bring a vehicle or vessel into a dock or station",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a software framework for building web applications, providing a modular and flexible way to create web-based interfaces",
+      "context": "technology",
+      "meaning": "a hardware connection point for attaching peripheral devices to a computer or mobile device",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "the fleshy part at the base of an animal's tail",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "to cut off or shorten an animal's tail",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "the enclosed space in a courtroom where the accused stands during trial",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "to reduce or deduct an amount from someone's pay or points",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "09",
+      "context": "biology",
+      "meaning": "any plant of the genus Rumex with broad leaves and reddish flowers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "the taskbar or application launcher panel on a computer's desktop",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.19
     }
   ]
 }

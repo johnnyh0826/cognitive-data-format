@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "person",
-      "meaning": "a person who keeps watch over something or someone",
+      "context": "action",
+      "meaning": "to watch over or protect someone or something carefully",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "the person who plays that position on a football team",
+      "context": "anatomy",
+      "meaning": "the ridge of skin on the inner side of the wrist or forearm",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a device designed to prevent injury or accidents",
+      "context": "sports",
+      "meaning": "a defensive player in hockey or lacrosse positioned between the forwards and goaltender",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "security",
-      "meaning": "a person or system that checks and verifies the identity of someone before allowing access to a secure area",
+      "context": "law",
+      "meaning": "a person who supervises or protects another, especially a minor or their property",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "a soldier assigned to watch over a place or person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "a mental or emotional barrier that protects someone from harm or unwanted influence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "theatre",
+      "meaning": "a metal or leather device worn to protect the hand and wrist while fencing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "a cautious or defensive attitude adopted to protect oneself",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "in boxing, a warning given to a fighter for breaking the rules",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

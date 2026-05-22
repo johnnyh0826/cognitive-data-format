@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "relationship",
-      "meaning": "a numerical scale used to compare variables with one another or with some reference number",
+      "context": "computing",
+      "meaning": "an ordered list or table that allows rapid location of data by reference numbers or keys",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time",
+      "context": "finance",
+      "meaning": "a numerical indicator that measures changes in the value of a group of securities or economic factors over time",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "exponent",
-      "meaning": "a mathematical notation indicating the number of times a quantity is multiplied by itself",
+      "context": "anatomy",
+      "meaning": "the forefinger or pointer finger used for indicating or pointing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a list or table of items, often used as a starting point for searching or navigating",
+      "context": "printing",
+      "meaning": "the alphabetical list of topics or names with page references at the end of a book",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to point to or indicate something with one's finger or a pointer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "mathematics",
+      "meaning": "a number or symbol placed as a subscript to indicate a power or position in a series",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "biology",
+      "meaning": "a numerical ratio or coefficient expressing a relationship between measurements or characteristics",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "an official list or registry of names, records, or documents",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "something that serves as a sign, indicator, or pointer to something else",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "storage",
+      "meaning": "a reference system that organizes and retrieves information from a database or filing system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

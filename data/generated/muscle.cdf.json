@@ -4,30 +4,50 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "one of the contractile organs of the body",
+      "meaning": "a bundle of protein fibers in the body that contract to produce movement",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "anatomy",
-      "meaning": "animal tissue consisting predominantly of contractile cells",
+      "context": "informal",
+      "meaning": "physical strength or power, often used to describe a person's ability to exert force",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "muscleman",
-      "meaning": "a bully employed as a thug or bodyguard",
+      "context": "business",
+      "meaning": "the power or ability to enforce one's will or achieve goals through strength or influence",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "Sports and fitness",
-      "meaning": "a group of people working together to achieve a common goal or objective, often in a competitive environment",
+      "context": "action",
+      "meaning": "to force or move something using physical strength or effort",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "armed forces or military strength deployed to achieve an objective",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "the power or authority to enforce compliance with rules or decisions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

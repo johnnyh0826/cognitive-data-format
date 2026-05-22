@@ -3,31 +3,139 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "process or result of distributing or extending over a wide expanse of space",
+      "context": "action",
+      "meaning": "to extend or open something out over a wider area or distance",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "a conspicuous disparity or difference as between two figures",
+      "context": "communication",
+      "meaning": "to disseminate or distribute information, news, or ideas widely",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.231
     },
     {
       "id": "03",
-      "context": "ranch",
-      "meaning": "farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle)",
+      "context": "finance",
+      "meaning": "the difference between the bid and ask price of a security or currency",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.077
     },
     {
       "id": "04",
-      "context": "Cooking",
-      "meaning": "to apply a thin layer of butter, cream, or other substance evenly over a surface",
+      "context": "food",
+      "meaning": "a soft food substance applied thinly to bread or crackers",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "05",
+      "context": "biology",
+      "meaning": "the extent or range of distribution of a species or organism across a region",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "the area or territory occupied by something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "07",
+      "context": "measurement",
+      "meaning": "the distance between two points or the width of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "08",
+      "context": "printing",
+      "meaning": "a thin layer of ink or pigment applied to a surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "09",
+      "context": "farming",
+      "meaning": "to scatter seeds or fertilizer over land",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "10",
+      "context": "gambling",
+      "meaning": "the range of odds or difference between multiple bets or betting lines",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "sports",
+      "meaning": "the distance between a player's feet in a standing athletic position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "military",
+      "meaning": "to deploy troops or forces across a wide area",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "13",
+      "context": "medicine",
+      "meaning": "the transmission or dissemination of disease through a population",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "14",
+      "context": "informal",
+      "meaning": "a range or variety of something available or offered",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "15",
+      "context": "computing",
+      "meaning": "to distribute data or processing across multiple computers or systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "16",
+      "context": "weather",
+      "meaning": "the expansion or movement of a weather system across a region",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "17",
+      "context": "movement",
+      "meaning": "to move or extend something outward from a central point",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
     }
   ]
 }

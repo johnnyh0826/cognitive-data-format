@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "a whole formed by a union of two or more elements or parts",
+      "context": "chemistry",
+      "meaning": "a substance formed by the chemical combination of two or more elements in fixed proportions",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.253
     },
     {
       "id": "02",
-      "context": "chemistry",
-      "meaning": "(chemistry) a substance formed by chemical union of two or more elements or ingredients in definite proportion by weight",
+      "context": "action",
+      "meaning": "to combine or mix together different elements or parts",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.152
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "an enclosure of residences and other building (especially in the Orient)",
+      "context": "business",
+      "meaning": "a business formed by combining two or more separate companies or entities",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.051
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "a combination of two or more companies, often with a shared goal or interest",
+      "context": "informal",
+      "meaning": "complicated or difficult to understand due to multiple elements being combined",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.101
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a structure consisting of multiple parts joined together, such as a compound fracture where bone breaks in multiple places",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "an enclosed space containing several buildings or structures within a single boundary",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "to make a problem or offense worse by adding further offenses or complications",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "08",
+      "context": "finance",
+      "meaning": "interest calculated on both the principal and accumulated interest from previous periods",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.101
+    },
+    {
+      "id": "09",
+      "context": "language",
+      "meaning": "a word made up of two or more smaller words or morphemes combined together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "farming",
+      "meaning": "a farmer's farmstead consisting of a main house with surrounding outbuildings and land",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

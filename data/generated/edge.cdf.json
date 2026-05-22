@@ -4,30 +4,98 @@
     {
       "id": "01",
       "context": "geography",
-      "meaning": "the boundary of a surface",
+      "meaning": "the border or boundary line between two areas, regions, or countries",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.119
     },
     {
       "id": "02",
-      "context": "boundary",
-      "meaning": "a line determining the limits of an area",
+      "context": "anatomy",
+      "meaning": "the outer limit or brink of a physical surface, such as the edge of a wound or the edge of a bone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.079
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a sharp side formed by the intersection of two surfaces of an object",
+      "context": "action",
+      "meaning": "a sharp or keen quality in a voice, manner, or competitive advantage",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.069
     },
     {
       "id": "04",
-      "context": "Computing",
-      "meaning": "A network interface or a boundary in a data structure, such as an edge node or an edge of a graph",
+      "context": "computing",
+      "meaning": "the outermost nodes or devices in a network closest to end users, as in edge computing",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "a slight advantage or superior position over a competitor",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "the sharp cutting surface of a blade or tool",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.119
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a state of nervous tension or anxiety, as in being on edge",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.149
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "a state of irritability or tension, often from nervousness or stress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "09",
+      "context": "business",
+      "meaning": "a competitive advantage or superiority in a market or negotiation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.099
+    },
+    {
+      "id": "10",
+      "context": "measurement",
+      "meaning": "the outer boundary or perimeter of a two-dimensional or three-dimensional object",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.099
+    },
+    {
+      "id": "11",
+      "context": "movement",
+      "meaning": "to move gradually or carefully in a specified direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "12",
+      "context": "gambling",
+      "meaning": "the advantage a casino or bettor has over opponents in the odds",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

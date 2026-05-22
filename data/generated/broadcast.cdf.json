@@ -4,30 +4,66 @@
     {
       "id": "01",
       "context": "communication",
-      "meaning": "message that is transmitted by radio or television",
+      "meaning": "to transmit a television or radio program to a wide audience simultaneously",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a radio or television show",
+      "context": "technology",
+      "meaning": "to send out or disseminate information, data, or signals over a wide area or network",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "broadcast over the airwaves, as in radio or television",
+      "context": "farming",
+      "meaning": "to sow seeds over a wide area by scattering them rather than planting in rows",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "the process of distributing software updates or patches to multiple devices simultaneously",
+      "context": "action",
+      "meaning": "to scatter or spread something widely over an area",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "to announce or publicize something to a large number of people or organizations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to make something widely known or publicly announce it",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "to send a data packet or message to all devices on a network simultaneously",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "measurement",
+      "meaning": "the width or span of something, particularly the spread of a bird's wings or a vehicle's axles",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

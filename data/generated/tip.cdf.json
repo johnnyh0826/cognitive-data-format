@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "the extreme end of something; especially something pointed",
+      "context": "anatomy",
+      "meaning": "The pointed end or extremity of a body part, especially the end of a finger or toe",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "gratuity",
-      "meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+      "context": "action",
+      "meaning": "The act of tilting or inclining something to one side",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "an indication of potential opportunity",
+      "context": "business",
+      "meaning": "A gratuity or money given to a service worker as a reward for good service",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a bonus or reward, especially in a video game",
+      "context": "communication",
+      "meaning": "A piece of useful advice or helpful information given to someone",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "In darts or similar games, the pointed part of a projectile that makes contact with the target",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "A pointed landform or promontory extending into water",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "gambling",
+      "meaning": "Information or a prediction about the likely outcome of a race, match, or other event",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "A small piece of information or a clue that helps solve a problem",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "09",
+      "context": "storage",
+      "meaning": "The pointed metal or plastic ferrule on the end of a pencil, brush handle, or similar object",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "movement",
+      "meaning": "The act of causing something to lean or overturn by applying force to one side",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

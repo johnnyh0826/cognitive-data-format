@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "person",
-      "meaning": "the person who plays the position of forward in certain games, such as basketball, soccer, or hockey",
+      "context": "movement",
+      "meaning": "toward the front or in the direction one is facing or traveling",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "a position on a basketball, soccer, or hockey team",
+      "context": "time",
+      "meaning": "toward the future or a point ahead in time",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "movement",
-      "meaning": "send or ship onward from an intermediate post or station in transit",
+      "context": "business",
+      "meaning": "to advance or promote a project, idea, or person actively",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "direction",
-      "meaning": "moving or facing towards a specific point, goal, or objective",
+      "context": "action",
+      "meaning": "to send onward to a further destination or address",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "a player in a team sport positioned in an attacking or advanced position near the opponent's goal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "confident, bold, or presumptuous in manner or behavior",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "toward the bow or front of a ship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "finance",
+      "meaning": "relating to or engaged in buying and selling commodities for future delivery at an agreed price",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "military",
+      "meaning": "located at or near the front line of battle or combat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "willing to discuss or engage with a topic openly and directly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

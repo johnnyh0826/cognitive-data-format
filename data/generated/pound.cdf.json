@@ -4,30 +4,74 @@
     {
       "id": "01",
       "context": "measurement",
-      "meaning": "16 ounces avoirdupois",
+      "meaning": "A unit of weight equal to 16 ounces in the avoirdupois system, or 453.6 grams",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "british pound",
-      "meaning": "the basic unit of money in Great Britain and Northern Ireland; equal to 100 pence",
+      "context": "action",
+      "meaning": "To strike or hit something heavily with force",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "measurement",
-      "meaning": "a unit of apothecary weight equal to 12 ounces troy",
+      "context": "movement",
+      "meaning": "To move heavily or forcefully in a particular direction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "cooking",
-      "meaning": "a unit of force, equivalent to 4,500 Newtons or approximately 1,000 pounds-force",
+      "context": "music",
+      "meaning": "To play a musical rhythm or beat repeatedly and emphatically",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "To confine or imprison a person, especially as punishment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "construction",
+      "meaning": "A compartment or enclosure for storing items or confining animals",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "To criticize or rebuke someone harshly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "currency",
+      "meaning": "British currency, equal to 20 shillings before decimalization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "geology",
+      "meaning": "A unit of weight used in some contexts for measuring rocks or minerals",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

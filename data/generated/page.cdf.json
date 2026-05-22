@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains",
+      "context": "computing",
+      "meaning": "a single sheet or screen of digital content in a document, website, or application",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "English industrialist who pioneered in the design and manufacture of aircraft (1885-1962)",
+      "context": "printing",
+      "meaning": "one side of a leaf in a bound book or manuscript",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "United States diplomat and writer about the Old South (1853-1922)",
+      "context": "theatre",
+      "meaning": "a young male actor or performer, especially in historical theatrical contexts",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.01
     },
     {
       "id": "04",
-      "context": " computing",
-      "meaning": "a unit of memory or storage capacity, typically measured in kilobytes (KB), megabytes (MB), or gigabytes (GB)",
+      "context": "action",
+      "meaning": "to summon or present someone for attention or action",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "a numbered leaf or section in a document used for reference or organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "a numbered section or division in legal documents or court records",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a person of a specified type or character, often used dismissively",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "time",
+      "meaning": "a period or instance in a sequence of events",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "storage",
+      "meaning": "a section or compartment used for organizing or filing information",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

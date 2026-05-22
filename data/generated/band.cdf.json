@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "an unofficial association of people or groups",
+      "context": "music",
+      "meaning": "a group of musicians playing together, especially a rock or pop group",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "instrumentalists not including string players",
+      "context": "anatomy",
+      "meaning": "a flat strip or loop of material worn around a part of the body, such as an armband or headband",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "a stripe or stripes of contrasting color",
+      "context": "action",
+      "meaning": "to form or gather together into a group for a common purpose",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "music genre",
-      "meaning": "a style of popular music characterized by a strong rhythmic emphasis and often featuring electric instruments",
+      "context": "movement",
+      "meaning": "a strip or loop that holds things together or binds parts of something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "construction",
+      "meaning": "a strip of material used to bind or fasten components together in building",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a range of frequencies or wavelengths allocated for transmission in radio or telecommunications",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "geology",
+      "meaning": "a stripe or layer of rock or mineral of a different color or composition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "measurement",
+      "meaning": "a range of numerical values within specified limits, such as a salary band or age band",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a group of people united for a shared purpose or cause, often used negatively",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "military",
+      "meaning": "a group of soldiers or armed fighters operating together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "11",
+      "context": "penalty",
+      "meaning": "a stripe or armband indicating rank or authority in military or formal dress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
     }
   ]
 }

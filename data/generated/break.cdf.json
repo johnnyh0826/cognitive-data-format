@@ -3,31 +3,131 @@
   "tracks": [
     {
       "id": "01",
-      "context": "interruption",
-      "meaning": "some abrupt occurrence that interrupts an ongoing activity",
+      "context": "action",
+      "meaning": "to cause something to separate into pieces or become damaged, typically suddenly or forcefully",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.347
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "an unexpected piece of good luck",
+      "context": "informal",
+      "meaning": "to stop doing something or end a relationship, typically abruptly",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.178
     },
     {
       "id": "03",
-      "context": "fault",
-      "meaning": "(geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other",
+      "context": "time",
+      "meaning": "a pause or rest period during work or an activity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.158
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a temporary suspension or pause in one's mental or emotional state, often resulting from a change in circumstances",
+      "context": "sports",
+      "meaning": "in billiards or pool, the first shot that scatters the balls",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "a significant or sudden drop in price or value",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "to escape from custody or prison",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "to interrupt someone who is speaking",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "a nervous or emotional collapse or mental health crisis",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "music",
+      "meaning": "an abrupt interruption or cessation of sound",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "weather",
+      "meaning": "a sudden change in weather conditions, typically the clearing after rain or clouds",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "dance",
+      "meaning": "a style of street dancing involving acrobatic moves and spins",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "anatomy",
+      "meaning": "a fracture or crack in a bone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "13",
+      "context": "technology",
+      "meaning": "an interruption in a computer system or network connection",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "14",
+      "context": "gambling",
+      "meaning": "the point at which a gambler may withdraw from a bet or game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "cooking",
+      "meaning": "to crack eggs into a bowl or pan, typically to cook them",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "16",
+      "context": "movement",
+      "meaning": "to begin movement or start running, especially suddenly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

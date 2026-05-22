@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "ligament made of metal and used to fasten things or make cages or fences etc",
+      "context": "technology",
+      "meaning": "a thin strand of metal used to conduct electricity in circuits and devices",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a metal conductor that carries electricity over a distance",
+      "context": "communication",
+      "meaning": "a telephone line or electronic connection used to transmit messages or data",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "the finishing line on a racetrack",
+      "context": "construction",
+      "meaning": "a thin metal rod or cable used to support or reinforce structures",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a thin, flexible string used in musical instruments such as guitars and harps",
+      "context": "action",
+      "meaning": "to send a message or information by electronic means",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "to transfer money electronically from one account to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a barbed metal fence used as a barrier or fortification",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "rope or cable used on ships for rigging and securing sails",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to manipulate, influence, or control someone's actions behind the scenes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "gambling",
+      "meaning": "a swindle or confidence trick used to defraud someone of money",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "music",
+      "meaning": "a thin metal string that vibrates to produce sound on instruments",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "11",
+      "context": "anatomy",
+      "meaning": "a bundle or cord of nerve or muscle fibers in the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

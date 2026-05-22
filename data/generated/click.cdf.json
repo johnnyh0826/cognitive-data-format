@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chink",
-      "meaning": "a short light metallic sound",
+      "context": "computing",
+      "meaning": "the act of pressing a computer mouse button or touchpad to select or activate something on a screen",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "suction stop",
-      "meaning": "a stop consonant made by the suction of air into the mouth (as in Bantu)",
+      "context": "action",
+      "meaning": "a sharp sound made by something striking against something else",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "pawl",
-      "meaning": "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward",
+      "context": "movement",
+      "meaning": "to move quickly or suddenly with a clicking sound",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "computer interaction",
-      "meaning": "to activate a button or hyperlink on a digital interface, typically by using a mouse or touch screen",
+      "context": "communication",
+      "meaning": "a sharp consonant sound produced by the tongue against the roof of the mouth, used as a linguistic element in some African languages",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to become suddenly clear or understandable to someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "a sudden moment of understanding or realization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "a sharp sound produced by the joints or bones of the body during movement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "an instance of a user clicking on an advertisement or link on a website, used in measuring online engagement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

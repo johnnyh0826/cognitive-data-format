@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "the property of a body that causes it to have weight in a gravitational field",
+      "context": "physics",
+      "meaning": "the quantity of matter in a physical body, measured in kilograms or other mass units",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.152
     },
     {
       "id": "02",
-      "context": "batch",
-      "meaning": "(often followed by `of') a large number or amount or extent",
+      "context": "chemistry",
+      "meaning": "the total amount of substance in a chemical sample, typically measured in grams or moles",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.051
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "an ill-structured collection of similar things (objects or people)",
+      "context": "religion",
+      "meaning": "a Christian religious service, especially in the Roman Catholic tradition",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "04",
-      "context": "physics",
-      "meaning": "the amount of matter in an object or substance, often used as a measure of its density",
+      "context": "music",
+      "meaning": "a musical composition for voices or instruments based on religious liturgical text",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "measurement",
+      "meaning": "a large quantity or number of something gathered together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "to gather or collect in large numbers or amounts",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "relating to or directed at a large number of people, as in mass media or mass communication",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.253
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "a large amount or number of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.152
+    },
+    {
+      "id": "09",
+      "context": "anatomy",
+      "meaning": "an abnormal lump or growth of tissue in or on the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "10",
+      "context": "medicine",
+      "meaning": "a localized accumulation of disease material or foreign substance within the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "military",
+      "meaning": "to assemble troops or military resources in concentrated numbers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "geology",
+      "meaning": "a large continuous body of rock or mineral material",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

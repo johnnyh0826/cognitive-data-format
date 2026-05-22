@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "command with authority",
+      "context": "action",
+      "meaning": "to aim or point something toward a target or destination",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "target",
-      "meaning": "intend (something) to move towards a certain goal",
+      "context": "communication",
+      "meaning": "to speak to someone in a straightforward or frank manner without evasion",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "creation",
-      "meaning": "guide the actors in (plays and films)",
+      "context": "business",
+      "meaning": "to manage, control, or be in charge of an organization or operation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "04",
-      "context": "financial",
-      "meaning": "to receive or obtain something, such as a payment or an investment, without any intermediate steps or agents",
+      "context": "computing",
+      "meaning": "to send data or a request to a specific location or system",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "a straight line or path from one point to another without curves or deviations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "moving in a straight course without deviation from a path or bearing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "to order someone to do something with legal authority",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to be honest, candid, or speak bluntly about something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "to supervise the performance of an actor or the staging of a play",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "finance",
+      "meaning": "to transfer funds or make a payment to a specific account or recipient",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "military",
+      "meaning": "to order troops or operations toward an objective",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

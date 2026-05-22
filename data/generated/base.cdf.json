@@ -3,31 +3,131 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "installation from which a military force initiates operations",
+      "context": "computing",
+      "meaning": "the fundamental level of a hierarchical system or the underlying foundation of software architecture",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.175
     },
     {
       "id": "02",
-      "context": "foundation",
-      "meaning": "lowest support of a structure",
+      "context": "chemistry",
+      "meaning": "a substance that neutralizes acids, or a compound containing a metal and a non-metal in ionic bonding",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a place that the runner must touch before scoring",
+      "context": "military",
+      "meaning": "a fortified camp or military installation serving as a center of operations",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.087
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "the value of a logarithm in a given base",
+      "context": "sports",
+      "meaning": "the starting point or line from which competitors begin a race or competition",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "the bottom or foundation of a body part, such as the base of the skull or spine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.068
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "a permanent settlement or camp established in a remote location for research or military purposes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "07",
+      "context": "storage",
+      "meaning": "a place where supplies, equipment, or materials are kept and managed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "08",
+      "context": "action",
+      "meaning": "to establish or found something on a particular foundation or location",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.117
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a person's home or the place where someone regularly stays",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.097
+    },
+    {
+      "id": "10",
+      "context": "law",
+      "meaning": "the fundamental facts or legal grounds upon which a claim or argument rests",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "11",
+      "context": "finance",
+      "meaning": "the principal amount of money on which interest is calculated",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "12",
+      "context": "construction",
+      "meaning": "the lowest structural layer of a building or road that distributes weight to the ground",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "13",
+      "context": "printing",
+      "meaning": "the bottom or support surface upon which type or plates are mounted",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "measurement",
+      "meaning": "a reference standard or unit used as a starting point for calculations or comparisons",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "15",
+      "context": "biology",
+      "meaning": "a nitrogenous organic compound that forms part of DNA and RNA molecules",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "16",
+      "context": "business",
+      "meaning": "a fundamental fact, principle, or reason that serves as the foundation for an activity or belief",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
     }
   ]
 }

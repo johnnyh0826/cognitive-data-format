@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a lump or mass of hard consolidated mineral matter",
+      "context": "geology",
+      "meaning": "a large natural mass of stone forming a hill, cliff, or other landform",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "chemistry",
-      "meaning": "material consisting of the aggregate of minerals like those making up the Earth's crust",
+      "context": "music",
+      "meaning": "a style of popular music characterized by a strong beat and simple melodies, originating from rock and roll",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "United States gynecologist and devout Catholic who conducted the first clinical trials of the oral contraceptive pill (1890-1984)",
+      "context": "action",
+      "meaning": "to move back and forth or side to side in a rhythmic or swaying motion",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a type of music characterized by a strong rhythmic beat, often with electric instruments and drums",
+      "context": "sports",
+      "meaning": "to throw or propel something with force",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to be excellent or impressive",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "gambling",
+      "meaning": "a small stone or pebble, especially one used in gaming or as a marker",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "jewelry",
+      "meaning": "a gemstone or precious stone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "communication",
+      "meaning": "to surprise or shock someone emotionally",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

@@ -3,29 +3,141 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "a geometric element that has position but no extension",
+      "context": "geometry",
+      "meaning": "a precise location in space defined by coordinates, having no dimensions",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm"
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "the precise location of something; a spatially limited location",
+      "context": "measurement",
+      "meaning": "a unit of type size in printing, equal to 1/72 of an inch",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm"
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a brief version of the essential meaning of something",
+      "context": "sports",
+      "meaning": "the act of scoring in games like rugby or American football by carrying the ball over the goal line",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm"
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "a value on a graph or chart that corresponds to a specific point in time or space",
+      "context": "action",
+      "meaning": "to direct or aim something toward a target or objective",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "the essential idea or main purpose of what someone is saying",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a particular moment when someone is ready to make a sale or persuasive argument",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "07",
+      "context": "geography",
+      "meaning": "a promontory or cape of land projecting into a body of water",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "08",
+      "context": "time",
+      "meaning": "a precise moment in time or stage in a process",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "an instance of the attacking team being awarded a free kick or penalty in certain sports",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "a discrete unit of data or information in a system or database",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a small dot or spot on a surface",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "the exact moment when someone reaches a psychological threshold or breaking point",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "13",
+      "context": "anatomy",
+      "meaning": "a sharp protrusion on a bone or body structure",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "14",
+      "context": "law",
+      "meaning": "a specific issue or matter under legal consideration in an argument",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "15",
+      "context": "music",
+      "meaning": "a dot placed after a note to increase its duration by half",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "16",
+      "context": "printing",
+      "meaning": "a full stop or period mark in punctuation",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "17",
+      "context": "finance",
+      "meaning": "a unit of change in the price of a security or commodity",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "18",
+      "context": "military",
+      "meaning": "a specific location or position that is militarily significant",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "19",
+      "context": "gambling",
+      "meaning": "the result of a single wager or the score achieved in a round",
+      "added": "accumulated",
+      "source": "llm"
+    },
+    {
+      "id": "20",
+      "context": "weather",
+      "meaning": "the moment when a weather condition reaches its peak intensity",
       "added": "accumulated",
       "source": "llm"
     }

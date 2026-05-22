@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a long narrow opening",
+      "context": "action",
+      "meaning": "to break something into pieces or cause it to split suddenly",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a narrow opening",
+      "context": "anatomy",
+      "meaning": "a break or fracture in a bone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "crevice",
-      "meaning": "a long narrow depression in a surface",
+      "context": "informal",
+      "meaning": "a sharp sound made by something breaking or splitting",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "slang",
-      "meaning": "a clever or skillful idea or solution",
+      "context": "communication",
+      "meaning": "to solve or decipher a problem or code",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "a violation or breach of a law or agreement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "the act of making a sharp loud noise with a whip or bat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "to move or travel at high speed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "a serious mental or emotional breakdown",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "chemistry",
+      "meaning": "the breaking of long-chain hydrocarbons into shorter molecules in petroleum refining",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "geology",
+      "meaning": "a fracture or fissure in rock or earth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "construction",
+      "meaning": "a visible split or fissure in a wall, pavement, or surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "time",
+      "meaning": "dawn or the earliest part of the morning",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "gambling",
+      "meaning": "to achieve a significant win or breakthrough success",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

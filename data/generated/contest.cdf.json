@@ -3,31 +3,43 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "an occasion on which a winner is selected from among two or more contestants",
+      "context": "sports",
+      "meaning": "A competition or match in which people or teams compete against each other to win",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
       "context": "action",
-      "meaning": "a struggle between rivals",
+      "meaning": "To dispute, challenge, or argue against something that has been claimed or asserted",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "to make the subject of dispute, contention, or litigation",
+      "context": "law",
+      "meaning": "A legal dispute or disagreement that is brought before a court for judgment",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "education",
-      "meaning": "an event or competition where students or teams demonstrate their skills, knowledge, or creativity",
+      "context": "communication",
+      "meaning": "To compete or vie for dominance in a debate, argument, or discussion",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "To object to or resist something in a confrontational manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

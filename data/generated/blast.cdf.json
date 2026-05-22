@@ -4,30 +4,90 @@
     {
       "id": "01",
       "context": "action",
-      "meaning": "a very long fly ball",
+      "meaning": "to explode or cause something to explode with sudden force and noise",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "02",
-      "context": "bang",
-      "meaning": "a sudden very loud noise",
+      "context": "military",
+      "meaning": "an explosion of a bomb or artillery shell, or the act of bombing a target",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "03",
-      "context": "gust",
-      "meaning": "a strong current of air",
+      "context": "informal",
+      "meaning": "to have a very good time or enjoy something intensely",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.288
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "a sudden and intense release of energy from a star, often resulting in a supernova",
+      "context": "movement",
+      "meaning": "to move or travel very fast with sudden force",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "05",
+      "context": "weather",
+      "meaning": "a sudden strong gust of wind or air current",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "a loud unpleasant noise or sound, especially from a musical instrument",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "07",
+      "context": "music",
+      "meaning": "to play a musical instrument loudly, especially a trumpet or horn",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "a sudden outburst of cell growth or increase in population",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "a sudden increase in data traffic or network activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "sports",
+      "meaning": "to hit a ball with great force, especially in golf or cricket",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "11",
+      "context": "theatre",
+      "meaning": "a loud explosion effect used in stage productions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a document stating the facts and points of law of a client's case",
+      "context": "law",
+      "meaning": "a written summary of the main points of a legal case or document",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a condensed written summary or abstract",
+      "context": "military",
+      "meaning": "a short written statement of instructions or information given to soldiers or officers",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
       "context": "communication",
-      "meaning": "give essential information to someone",
+      "meaning": "concise and to the point; using few words",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "to discuss or present a matter in a concise manner, often in a meeting or proposal",
+      "context": "time",
+      "meaning": "lasting for a short period of time",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.28
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to inform someone of the essential facts about something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "a close-fitting sleeveless undergarment that supports the torso",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a set of instructions or guidelines provided verbally or in writing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

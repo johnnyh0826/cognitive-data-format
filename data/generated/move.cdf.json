@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "the act of deciding to do something",
+      "context": "movement",
+      "meaning": "to change position or location from one place to another",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
       "context": "action",
-      "meaning": "the act of changing your residence or place of business",
+      "meaning": "to take action or make progress toward a goal",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "motion",
-      "meaning": "a change of position that does not entail a change of location",
+      "context": "emotion",
+      "meaning": "to cause someone to have a strong emotional response, especially sadness or sympathy",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "physical activity",
-      "meaning": "to change one's position or posture, often in a deliberate manner",
+      "context": "business",
+      "meaning": "a strategic action or maneuver in a competitive situation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "to make a formal request or petition to a court",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "chess",
+      "meaning": "the act of placing a piece in a new position during a game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "theatre",
+      "meaning": "a physical gesture or action performed by an actor on stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "storage",
+      "meaning": "to relocate possessions or household items to a new residence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "military",
+      "meaning": "to deploy troops or military units to a new position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to proceed with or advance an agenda, plan, or relationship forward",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "11",
+      "context": "psychology",
+      "meaning": "a person's actions, behavior, or motivation in a given situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "gambling",
+      "meaning": "to place a bet or make a wagering decision in a game of chance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

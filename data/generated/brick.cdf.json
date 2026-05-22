@@ -3,24 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "rectangular block of clay baked by the sun or in a kiln; used as a building or paving material",
+      "context": "construction",
+      "meaning": "a small rectangular block of baked clay, concrete, or stone used as a building material",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.72
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "a good fellow; helpful and trustworthy",
+      "context": "action",
+      "meaning": "to hit or strike someone or something with force",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "construction",
-      "meaning": "a unit of a building material, often used in quantity or as part of a larger structure",
+      "context": "informal",
+      "meaning": "a stupid or foolish person",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "04",
+      "context": "sports",
+      "meaning": "to throw a ball, especially in cricket or baseball",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "gambling",
+      "meaning": "a betting token or counter used in games of chance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a solid block of a substance used in computing or industrial processes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "to move heavily or clumsily",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "chemistry",
+      "meaning": "a solid rectangular piece of a compressed substance like soap or chocolate",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "color",
+      "meaning": "a dark red or orange-red color",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "penalty",
+      "meaning": "a penalty or punishment, particularly in informal contexts",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

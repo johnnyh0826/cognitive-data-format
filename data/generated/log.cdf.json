@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "a segment of the trunk of a tree when stripped of branches",
+      "context": "computing",
+      "meaning": "a record of events, transactions, or system activities stored in a file or database for monitoring or debugging purposes",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.42
     },
     {
       "id": "02",
-      "context": "logarithm",
-      "meaning": "the exponent required to produce a given number",
+      "context": "action",
+      "meaning": "to keep a record of something or to track and document information over time",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a written record of messages sent or received",
+      "context": "forestry",
+      "meaning": "a section of a tree trunk that has been felled and is ready for processing or sale",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a file or stream of data recording events, actions, or transactions",
+      "context": "informal",
+      "meaning": "a record or account of something that is kept or written down",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "biology",
+      "meaning": "a natural record of past events preserved in rock strata, fossils, or tree rings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "mathematics",
+      "meaning": "the sum of the diagonal elements of a square matrix",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "a record kept by a ship's officer documenting events, position, and weather conditions during a voyage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "geology",
+      "meaning": "a detailed record of rock layers and subsurface conditions obtained from drilling or excavation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "to score a run or point in cricket by hitting the ball and running between wickets",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

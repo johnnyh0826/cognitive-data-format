@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "the quality of a person's voice",
+      "context": "music",
+      "meaning": "the quality of sound in terms of its timbre or color, distinct from pitch and loudness",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "(linguistics) a pitch or change in pitch of the voice that serves to distinguish words in tonal languages",
+      "context": "communication",
+      "meaning": "the manner, attitude, or emotional quality expressed in someone's voice or written words",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "timbre",
-      "meaning": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
+      "context": "anatomy",
+      "meaning": "a sound or quality of the voice produced by vibration of the vocal cords",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "emotional intelligence",
-      "meaning": "the prevailing emotional atmosphere or attitude, as sensed by others",
+      "context": "medicine",
+      "meaning": "a medicinal substance or drug, especially one used for treating a specific condition",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "chemistry",
+      "meaning": "a metallic element or compound, particularly one with specific properties or purity level",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "printing",
+      "meaning": "the strength or density of printed color on a surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "art",
+      "meaning": "the relative lightness or darkness of a color or shade",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "the overall character, mood, or atmosphere of a situation, environment, or relationship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "muscle",
+      "meaning": "the state of normal tension or responsiveness in muscles",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "geography",
+      "meaning": "elevated land or a hill",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "fashionable style or the quality of being fashionable and sophisticated",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

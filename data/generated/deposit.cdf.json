@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "phenomenon",
-      "meaning": "the phenomenon of sediment or gravel accumulating",
+      "context": "finance",
+      "meaning": "Money placed in a bank or financial institution for safekeeping or to earn interest.",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "sediment",
-      "meaning": "matter that has been deposited by some natural process",
+      "context": "storage",
+      "meaning": "A place where something is stored or accumulated, such as a repository or collection.",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "deposition",
-      "meaning": "the natural process of laying down a deposit of something",
+      "context": "geology",
+      "meaning": "A layer or accumulation of sediment, mineral, or ore found naturally in the earth.",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "Finance",
-      "meaning": "the act of placing money or assets into a bank account, investment, or other financial institution",
+      "context": "action",
+      "meaning": "The act of placing or setting something down in a particular location.",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "Matter that has been laid down or settled, especially sediment left by water or wind.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "Money or security paid to a court or authority as bail or to secure legal proceedings.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "penalty",
+      "meaning": "A fine or forfeit of money imposed as a penalty for breaking a contract or rule.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "A pile or heap of something left behind or accumulating in a location.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "chemistry",
+      "meaning": "A solid substance that has been separated from a solution or suspension and settled at the bottom.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "business",
+      "meaning": "A pledge or commitment made to secure an agreement or transaction.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

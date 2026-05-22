@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "the motion characteristic of fluids (liquids or gases)",
+      "context": "movement",
+      "meaning": "the continuous smooth motion of a liquid, gas, or other substance in a particular direction",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.146
     },
     {
       "id": "02",
-      "context": "time",
-      "meaning": "the amount of fluid that flows in a given time",
+      "context": "action",
+      "meaning": "to move steadily and continuously in one direction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.117
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "the act of flowing or streaming; continuous progression",
+      "context": "biology",
+      "meaning": "the movement of blood, sap, or other bodily fluids through vessels or tissues",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a state of being fully engaged and immersed in an activity, often characterized by a sense of effortless effort",
+      "context": "technology",
+      "meaning": "the transmission of data, electricity, or signals through a system or network",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.097
+    },
+    {
+      "id": "05",
+      "context": "finance",
+      "meaning": "the movement or circulation of money through an economy or financial system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.068
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a continuous production process or the rate at which work progresses through stages",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.117
+    },
+    {
+      "id": "07",
+      "context": "psychology",
+      "meaning": "a state of deep focus and effortless concentration during an activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.146
+    },
+    {
+      "id": "08",
+      "context": "chemistry",
+      "meaning": "the movement of substances through a medium or the rate of a chemical reaction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "09",
+      "context": "weather",
+      "meaning": "the movement of air currents or wind patterns",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "10",
+      "context": "anatomy",
+      "meaning": "the natural movement or arrangement of hair on the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "to proceed without difficulty or to progress naturally and easily",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "12",
+      "context": "communication",
+      "meaning": "the smooth progression of conversation or narrative without interruption",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.068
     }
   ]
 }

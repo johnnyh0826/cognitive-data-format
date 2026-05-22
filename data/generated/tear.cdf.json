@@ -4,30 +4,58 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "a drop of the clear salty saline solution secreted by the lacrimal glands",
+      "meaning": "a drop of liquid that falls from the eye, typically in response to emotion or irritation",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "an opening made forcibly as by pulling apart",
+      "context": "action",
+      "meaning": "to rip or pull something apart forcefully, creating a hole or separation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.3
     },
     {
       "id": "03",
-      "context": "bust",
-      "meaning": "an occasion for excessive eating or drinking",
+      "context": "movement",
+      "meaning": "to separate or split into pieces as a result of being pulled",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "emotional state",
-      "meaning": "a feeling of sadness or sorrow, often accompanied by crying",
+      "context": "informal",
+      "meaning": "to criticize or insult someone harshly",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "an experience of emotional distress or crying",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "construction",
+      "meaning": "a long narrow opening or rent in a surface or material",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "farming",
+      "meaning": "to clear or plow land by tearing up grass or vegetation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -4,30 +4,90 @@
     {
       "id": "01",
       "context": "geography",
-      "meaning": "the territory occupied by one of the constituent administrative districts of a nation",
+      "meaning": "a political territory or subdivision of a country with defined boundaries and governance",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "Tops",
-      "meaning": "the way something is with respect to its main attributes",
+      "context": "action",
+      "meaning": "to express or assert something in words, typically formally or emphatically",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "the group of people comprising the government of a sovereign state",
+      "context": "psychology",
+      "meaning": "a condition of mind or emotion at a particular time",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a mental state, such as a mood or emotional condition",
+      "context": "law",
+      "meaning": "a formally expressed position or assertion that may be used as evidence",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "physics",
+      "meaning": "the particular condition or form something is in at a given time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "a distinct configuration or mode of operation of a system or application",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "circumstances or situation of a particular kind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "a phase or stage in the life cycle or development of an organism",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "to announce or declare something formally or officially",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "chemistry",
+      "meaning": "a form of matter in thermodynamic equilibrium such as solid, liquid, or gas",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "medicine",
+      "meaning": "a condition of health or disease affecting a patient",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

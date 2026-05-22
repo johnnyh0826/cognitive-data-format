@@ -4,30 +4,98 @@
     {
       "id": "01",
       "context": "communication",
-      "meaning": "any nonverbal action or gesture that encodes a message",
+      "meaning": "a gesture, sound, or action intended to convey information or instructions to someone",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "motivation",
-      "meaning": "any incitement to action",
+      "context": "technology",
+      "meaning": "an electrical or electromagnetic impulse or wave carrying information in telecommunications or broadcasting",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "phenomenon",
-      "meaning": "an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes",
+      "context": "military",
+      "meaning": "an order or command given to troops, especially a military alert or warning",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "statistics",
-      "meaning": "a statistical pattern or trend that is observed and measured",
+      "context": "computing",
+      "meaning": "a sequence of electrical impulses or data representing information in a computer or digital system",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "medicine",
+      "meaning": "a clinical symptom or sign indicating the presence of a disease or medical condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a notable indication or sign of commercial opportunity or market trend",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "to make a gesture or movement to communicate a message or give a warning",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "a traffic light or sign indicating legal right of way or prohibition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "an observable indicator or cue that conveys meaning or intention in human behavior",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a notable or impressive achievement or event worth attention",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "music",
+      "meaning": "a direction or instruction written into a musical score indicating how to perform a passage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "biology",
+      "meaning": "a chemical or physical stimulus that an organism responds to or reacts upon",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "a clear or unobstructed space or expanse of land or water",
+      "context": "action",
+      "meaning": "to move or swing something so that it is no longer closed or blocking access",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.243
     },
     {
       "id": "02",
-      "context": "outdoors",
-      "meaning": "where the air is unconfined",
+      "context": "business",
+      "meaning": "to start or establish a new business, shop, or office",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "a tournament in which both professionals and amateurs may play",
+      "context": "communication",
+      "meaning": "to begin or initiate a discussion, meeting, or conversation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.117
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a file or program that can be read and written by different applications without being locked or modified",
+      "context": "theatre",
+      "meaning": "to premiere or debut a theatrical production or show",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "to access or launch a file, application, or document on a computer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.175
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "to allow passage or access by removing a barrier",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "to start a game, match, or sporting event",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "to be receptive, honest, or emotionally vulnerable with others",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.068
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "to present the opening arguments or case in a legal proceeding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "weather",
+      "meaning": "to become clear or free from clouds or obstructions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "accessible, welcoming, or receptive to new ideas or people",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "12",
+      "context": "storage",
+      "meaning": "not sealed, packed, or closed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "13",
+      "context": "time",
+      "meaning": "available or not yet booked or occupied",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "14",
+      "context": "measurement",
+      "meaning": "extending across a wide area without obstruction or barriers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "15",
+      "context": "geography",
+      "meaning": "an area of land that is relatively flat and unobstructed by trees or buildings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
     }
   ]
 }

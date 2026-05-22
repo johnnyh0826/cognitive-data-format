@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "a conspicuous disparity or difference as between two figures",
+      "context": "geography",
+      "meaning": "a low area of land between hills or mountains",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.077
     },
     {
       "id": "02",
-      "context": "opening",
-      "meaning": "an open or empty space in or between things",
+      "context": "anatomy",
+      "meaning": "a space or opening between teeth",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.058
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a narrow opening",
+      "context": "action",
+      "meaning": "a break or interruption in continuity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.212
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a period of time when a person's skills or knowledge are not being utilized, often leading to feelings of boredom or stagnation",
+      "context": "business",
+      "meaning": "a difference or disparity between two things, such as supply and demand",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "a pause or silence in speech or conversation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "the difference between two figures, such as budget versus actual expenses",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "a space between two segments on a storage device or data format",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "measurement",
+      "meaning": "the distance or interval between two points",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a disparity in understanding or agreement between people",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "10",
+      "context": "time",
+      "meaning": "a period of time elapsed between two events",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "11",
+      "context": "movement",
+      "meaning": "an opening through which something can pass",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "12",
+      "context": "penalty",
+      "meaning": "a temporary suspension or absence from a position or activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

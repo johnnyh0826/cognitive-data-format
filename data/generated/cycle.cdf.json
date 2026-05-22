@@ -4,30 +4,122 @@
     {
       "id": "01",
       "context": "time",
-      "meaning": "an interval during which a recurring sequence of events occurs",
+      "meaning": "a period of time that repeats or returns to its starting point",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.192
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "a series of poems or songs on the same theme",
+      "context": "movement",
+      "meaning": "a complete circular or elliptical path or orbit around a central point",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "a periodically repeated sequence of events",
+      "context": "biology",
+      "meaning": "a series of changes in biological processes that repeat regularly, such as the menstrual cycle",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "04",
-      "context": "transportation",
-      "meaning": "a sequence of pedaling movements on a bicycle, typically for exercise or transportation",
+      "context": "chemistry",
+      "meaning": "a sequence of chemical reactions that regenerates the initial reactant",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "one complete execution of a loop or iterative process in a program",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "a series of races or competitions held over multiple events or rounds",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "07",
+      "context": "music",
+      "meaning": "a recurring pattern of musical phrases or themes in a composition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "one complete sequence of operations in a machine or electronic device",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "09",
+      "context": "weather",
+      "meaning": "a recurring pattern of atmospheric or climate conditions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "10",
+      "context": "action",
+      "meaning": "to ride a bicycle or motorcycle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a bicycle or motorcycle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "a pattern of recurring thoughts, behaviors, or emotional states",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "13",
+      "context": "business",
+      "meaning": "the period from the beginning to the end of a complete business operation or fiscal period",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "14",
+      "context": "geology",
+      "meaning": "a sequence of rock formations and changes that repeat over geological time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "printing",
+      "meaning": "one complete revolution of a printing press cylinder",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

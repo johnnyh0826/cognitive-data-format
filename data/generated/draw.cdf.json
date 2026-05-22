@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a gully that is shallower than a ravine",
+      "context": "action",
+      "meaning": "to pull or drag something toward oneself or in a specified direction",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "drawing card",
-      "meaning": "an entertainer who attracts large audiences",
+      "context": "sports",
+      "meaning": "to tie or finish a contest with equal scores between opposing sides",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "the finish of a contest in which the score is tied and the winner is undecided",
+      "context": "business",
+      "meaning": "to attract or pull in customers, attention, or interest",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "artistic process",
-      "meaning": "to create a representation of something on a surface using various tools and techniques, such as pencils, paints, or digital software",
+      "context": "gambling",
+      "meaning": "to pull or select a winning ticket or chance in a lottery or raffle",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "to choose jurors by selecting them from a pool during jury selection",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "a curtain or drape used to close or conceal the stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "to inhale smoke from a cigarette, pipe, or similar object",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "geography",
+      "meaning": "a geographical feature or terrain that is difficult to traverse or move through",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "medicine",
+      "meaning": "to extract fluid or pus from a wound or body cavity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a person who is unattractive or socially undesirable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "military",
+      "meaning": "to deploy or position troops in readiness for battle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "penalty",
+      "meaning": "a disadvantage or burden that one must contend with",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

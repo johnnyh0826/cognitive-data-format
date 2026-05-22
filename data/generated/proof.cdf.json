@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "any factual evidence that helps to establish the truth of something",
+      "context": "law",
+      "meaning": "evidence or documentation that demonstrates the truth or validity of a claim or statement",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a formal series of statements showing that if one thing is true something else necessarily follows from it",
+      "context": "mathematics",
+      "meaning": "a logical demonstration or series of steps that establishes the truth of a theorem or mathematical statement",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "measurement",
-      "meaning": "a measure of alcoholic strength expressed as an integer twice the percentage of alcohol present (by volume)",
+      "context": "printing",
+      "meaning": "a trial print or test impression made before final production to check quality and alignment",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "a sequence of mathematical statements that is logically consistent and can be used as a foundation for further mathematical development",
+      "context": "action",
+      "meaning": "to test, verify, or demonstrate that something works or is effective",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "chemistry",
+      "meaning": "a small amount of a substance used to test for the presence of another substance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "alcohol",
+      "meaning": "the percentage of alcohol content in spirits, typically measured as twice the alcohol by volume",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "clear evidence or indication that something is genuine or true",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "08",
+      "context": "construction",
+      "meaning": "material such as metal sheets used to waterproof or reinforce surfaces, particularly roofs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "military",
+      "meaning": "a test or trial of weapons, equipment, or personnel to verify combat readiness",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "technology",
+      "meaning": "a version of software or a system released for testing before the final public version",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "11",
+      "context": "penalty",
+      "meaning": "protection against or exemption from a penalty or obligation, often used in 'weatherproof' or 'rustproof'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

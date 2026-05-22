@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "time",
-      "meaning": "death of a person",
+      "context": "law",
+      "meaning": "a place where a dead body is buried, or the act of burial itself",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a place for the burial of a corpse (especially beneath the ground and marked by a tombstone)",
+      "context": "anatomy",
+      "meaning": "a burial mound or tomb, especially an ancient one",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "grave accent",
-      "meaning": "a mark (`) placed above a vowel to indicate pronunciation",
+      "context": "action",
+      "meaning": "serious, weighty, or of great importance and requiring careful consideration",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "idiomatic expression",
-      "meaning": "a serious or solemn mood, as if one is standing at a grave",
+      "context": "communication",
+      "meaning": "serious and dignified in manner or tone",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "geology",
+      "meaning": "a natural pit or excavation in the earth's surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "seriously ill or in a dangerous condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

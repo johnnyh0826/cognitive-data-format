@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "battalion",
-      "meaning": "a large indefinite number",
+      "context": "storage",
+      "meaning": "a container or bag, typically made of paper, plastic, or cloth, used for carrying or holding items",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "a complete collection of similar things",
+      "context": "movement",
+      "meaning": "a group of animals, especially wolves or wild dogs, that hunt together",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a convenient package or parcel (as of cigarettes or film)",
+      "context": "action",
+      "meaning": "to press or squeeze something tightly into a small space or container",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "Sports",
-      "meaning": "a group of animals, typically horses or dogs, that are trained and ridden by a handler",
+      "context": "sports",
+      "meaning": "a group of players or competitors on the same team or side",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "a large number or quantity of something bundled together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "a set of animals, goods, or people traveling together as a convoy across a region",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "to assemble soldiers or equipment into a compact formation for transport",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "computing",
+      "meaning": "a compressed archive file containing multiple files or data bundled together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "gambling",
+      "meaning": "to wager a sum of money betting that multiple conditions will all occur together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "medicine",
+      "meaning": "a medicated patch or collection of medical supplies applied to the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "law",
+      "meaning": "to charge someone with multiple related crimes or violations together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "printing",
+      "meaning": "a collection of pages or sheets of paper assembled together for binding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

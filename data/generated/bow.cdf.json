@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a knot with two loops and loose ends; used to tie shoelaces",
+      "context": "anatomy",
+      "meaning": "the front part of a ship's hull",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a slightly curved piece of resilient wood with taut horsehair strands; used in playing certain stringed instruments",
+      "context": "nautical",
+      "meaning": "to bend or curve a ship's wooden frame during construction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.01
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "front part of a vessel or aircraft",
+      "context": "movement",
+      "meaning": "to bend the body or head forward as a sign of respect or greeting",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "ceremonial",
-      "meaning": "a gesture of respect or reverence, often accompanied by a slight inclination of the head",
+      "context": "action",
+      "meaning": "to bend or curve something into an arc shape",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "weapons",
+      "meaning": "a weapon consisting of a curved stick with a string attached, used to shoot arrows",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "the hair-covered stick used to play a violin, cello, or similar stringed instrument",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "theatre",
+      "meaning": "the front edge of the stage where actors perform closest to the audience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "fashion",
+      "meaning": "a decorative knot or loop of ribbon used as an ornament",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "the front part of a shoe or the curved reinforcing section of a shoe's toe area",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to take a bow by bending the body as acknowledgment of applause or appreciation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
     }
   ]
 }

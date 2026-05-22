@@ -3,31 +3,139 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "a number or letter indicating quality (especially of a student's performance)",
+      "context": "action",
+      "meaning": "to make a visible impression or line on a surface, typically with a pen, pencil, or similar implement",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "marker",
-      "meaning": "a distinguishing symbol",
+      "context": "communication",
+      "meaning": "a symbol or character used in writing or printing, such as a letter or punctuation sign",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "target",
-      "meaning": "a reference point to shoot at",
+      "context": "business",
+      "meaning": "a distinctive symbol, name, or logo used by a company to identify its products or services",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a musical note or sign indicating pitch, rhythm, or expression",
+      "context": "law",
+      "meaning": "a legally protected symbol, word, or phrase used to distinguish goods or services from competitors",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "measurement",
+      "meaning": "a unit of type size in printing equal to one-seventy-second of an inch",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "a distinctive scar, spot, or blemish on the skin or body surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a person of a specified kind or character, often used in a critical or derogatory sense",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "a significant sign, indication, or characteristic that reveals something about a person's nature or condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "a line or position that serves as a target or boundary in various athletic activities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "penalty",
+      "meaning": "a record of a person's criminal or disciplinary history",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "time",
+      "meaning": "a specific point in time or moment when something is noted or recorded",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "12",
+      "context": "theatre",
+      "meaning": "a cue or signal indicating when an actor should begin speaking or performing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "printing",
+      "meaning": "a piece of type bearing a character or symbol to be printed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "nautical",
+      "meaning": "a buoy or beacon used to indicate a navigational hazard or channel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "15",
+      "context": "geology",
+      "meaning": "a distinctive feature or characteristic used to identify a geological formation or stratum",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "16",
+      "context": "gambling",
+      "meaning": "a token or chip representing a fixed value in a game or betting activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "17",
+      "context": "military",
+      "meaning": "a specific target or objective for military operations or attack",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

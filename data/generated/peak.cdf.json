@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "extremum",
-      "meaning": "the most extreme possible amount or value",
+      "context": "geography",
+      "meaning": "a sharp pointed mountain summit or the highest point of a hill or mountain",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.077
     },
     {
       "id": "02",
-      "context": "flower",
-      "meaning": "the period of greatest prosperity or productivity",
+      "context": "measurement",
+      "meaning": "the highest level, maximum point, or climax of something quantifiable",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.269
     },
     {
       "id": "03",
-      "context": "acme",
-      "meaning": "the highest level or degree attainable; the highest stage of development",
+      "context": "time",
+      "meaning": "a period of greatest activity, success, or intensity, such as peak hours or peak season",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.212
     },
     {
       "id": "04",
-      "context": "geography",
-      "meaning": "the highest point on a mountain or hill",
+      "context": "action",
+      "meaning": "to reach the maximum level or highest point",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "the stiff front brim of a cap or hat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "the upper outer corner of a sail",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "construction",
+      "meaning": "the pointed apex or ridge where two roof surfaces meet",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "the stage of maximum market demand, profitability, or business activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.067
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "a state of optimal performance or heightened mental and physical capability",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "10",
+      "context": "weather",
+      "meaning": "the maximum intensity or strength of a storm or weather phenomenon",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "medicine",
+      "meaning": "the point of greatest severity or intensity of a disease or symptom",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "12",
+      "context": "sports",
+      "meaning": "the period of an athlete's maximum performance capability or competitive form",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "13",
+      "context": "music",
+      "meaning": "the loudest or most intense moment in a musical composition or performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "informal",
+      "meaning": "to look or glance quickly at something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

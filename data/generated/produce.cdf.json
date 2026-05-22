@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "food",
-      "meaning": "fresh fruits and vegetable grown for the market",
+      "context": "farming",
+      "meaning": "to grow or cultivate crops or plants for harvest",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "creation",
-      "meaning": "bring forth or yield",
+      "context": "food",
+      "meaning": "agricultural products, especially fresh fruits and vegetables",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "creation",
-      "meaning": "create or manufacture a man-made product",
+      "context": "action",
+      "meaning": "to manufacture, make, or create something through an industrial or manufacturing process",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
       "context": "business",
-      "meaning": "to generate or produce a certain amount of revenue or profit",
+      "meaning": "to yield or generate as profit, revenue, or output",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "theatre",
+      "meaning": "to stage or mount a theatrical production or performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "to bring forth evidence or a document in a legal proceeding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "biology",
+      "meaning": "to generate or discharge a biological substance such as milk, eggs, or offspring",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "to create or generate data, content, or output from a system or process",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to show or bring out something from one's possession or body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
     }
   ]
 }

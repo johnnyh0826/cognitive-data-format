@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "crushed leather",
-      "meaning": "leather that has had its grain pattern accentuated",
+      "context": "action",
+      "meaning": "to press or squeeze something with force, typically between two surfaces or hands",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "a dense crowd of people",
+      "context": "movement",
+      "meaning": "to move forward by pushing through a crowd or obstacles with difficulty",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "03",
-      "context": "puppy love",
-      "meaning": "temporary love of an adolescent",
+      "context": "psychology",
+      "meaning": "to have a strong romantic or emotional attraction to someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "sports",
-      "meaning": "a strong and intense effort or performance, often used to describe a remarkable achievement in a particular sport",
+      "context": "informal",
+      "meaning": "a person for whom one has a strong romantic attraction or infatuation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "food",
+      "meaning": "a beverage made by pressing fruit or other ingredients, typically juice",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "chemistry",
+      "meaning": "to process plant material by pressing to extract liquid or oil",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "geology",
+      "meaning": "a zone of intense deformation in rock formed by tectonic stress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "to suppress or inhibit the growth or expression of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "a disciplinary action or consequence resulting from punishment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

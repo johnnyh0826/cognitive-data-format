@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a small fragment of something broken off from the whole",
+      "context": "computing",
+      "meaning": "a small piece of semiconductor material used as the basic component of an electronic circuit or device",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a triangular wooden float attached to the end of a log line",
+      "context": "food",
+      "meaning": "a small fragment or piece broken off from a larger item, such as a chocolate chip or potato chip",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a piece of dried bovine dung",
+      "context": "gambling",
+      "meaning": "a counter or token used to represent money in games such as poker or casino games",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a small piece of semiconductor material, typically used in integrated circuits",
+      "context": "sports",
+      "meaning": "a golf shot where the ball is hit with a short distance in a controlled manner, typically from near the green",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to break or knock a small piece off something, or to become damaged by losing a small piece",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "penalty",
+      "meaning": "a deduction or penalty point subtracted from a total score in sports or competitions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a small blue or red circular marking or badge worn on clothing to indicate membership or achievement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "anatomy",
+      "meaning": "a small piece of bone or tooth that has broken off from a larger structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "business",
+      "meaning": "a stake or investment held by a person or entity in a business or company",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "to contribute to a conversation or share information casually, as in 'chipping in' with a comment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "possession of controlling influence",
+      "context": "physics",
+      "meaning": "the rate at which energy is transferred or work is done, measured in watts",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "phenomenon",
-      "meaning": "(physics) the rate of doing work; measured in watts (= joules/second)",
+      "context": "action",
+      "meaning": "the ability or capacity to do something or make something happen",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "ability",
-      "meaning": "possession of the qualities (especially mental qualities) required to do something or get something done",
+      "context": "law",
+      "meaning": "legal or official authority to act or make decisions on behalf of someone else",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.07
     },
     {
       "id": "04",
-      "context": "politics",
-      "meaning": "the authority or control that a person or group has over others, often in a government or organization",
+      "context": "military",
+      "meaning": "the military strength or armed forces of a nation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "05",
+      "context": "technology",
+      "meaning": "electrical energy supplied to a device or system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "the strength or influence of a company or organization in its market",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "psychology",
+      "meaning": "personal strength, influence, or ability to control or affect others",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "politics",
+      "meaning": "political strength or control exercised by a person, group, or nation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "impressive skill, effectiveness, or excellence in performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "10",
+      "context": "mathematics",
+      "meaning": "the result of multiplying a number by itself a specified number of times, as in exponential notation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

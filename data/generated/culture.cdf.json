@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a particular society at a particular time and place",
+      "context": "anthropology",
+      "meaning": "the shared beliefs, values, customs, and practices of a society or group",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "the tastes in art and manners that are favored by a social group",
+      "context": "biology",
+      "meaning": "the growth of microorganisms such as bacteria or cells in a controlled environment",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "acculturation",
-      "meaning": "all the knowledge and values shared by a society",
+      "context": "food",
+      "meaning": "the process of developing flavors in food through fermentation, aging, or cooking techniques",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.04
     },
     {
       "id": "04",
-      "context": "biology",
-      "meaning": "the set of characteristics that define a species or group of organisms",
+      "context": "farming",
+      "meaning": "the practice of cultivating plants or raising animals for food production",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "the refinement of tastes, manners, and intellectual interests through education and experience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "the act of developing or nurturing something such as a skill, habit, or relationship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "a preparation of living microorganisms used for medical or scientific purposes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "computing",
+      "meaning": "a collection of data or digital content organized and stored together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "arts",
+      "meaning": "the creative and intellectual achievements of a society including music, literature, and visual art",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "10",
+      "context": "business",
+      "meaning": "the distinctive identity, values, and way of doing things within an organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
     }
   ]
 }

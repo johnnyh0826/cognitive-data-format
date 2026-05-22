@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a tight-fitting headdress",
+      "context": "anatomy",
+      "meaning": "a close-fitting head covering that may have a brim or visor",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a top (as for a bottle)",
+      "context": "sports",
+      "meaning": "to place a limit or maximum on something such as wages or spending",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "detonator",
-      "meaning": "a mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive",
+      "context": "action",
+      "meaning": "to put a cap or cover on top of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "fashion",
-      "meaning": "a decorative or symbolic headpiece, such as a baseball cap or a military insignia",
+      "context": "informal",
+      "meaning": "to complete or finish something, especially as a final achievement",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "construction",
+      "meaning": "a protective covering placed over the top of a post, wall, or chimney",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "medicine",
+      "meaning": "a contraceptive device placed over the cervix to prevent pregnancy",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "a removable cover or lid for a bottle, pen, or other container",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "finance",
+      "meaning": "an upper limit set on prices, wages, or interest rates by regulation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "chemistry",
+      "meaning": "a capital letter used at the beginning of a word or sentence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "penalty",
+      "meaning": "a limit on the number of times a player can be selected to represent their country",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "military",
+      "meaning": "a percussion device or small explosive charge used in toy guns",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "geography",
+      "meaning": "the topmost layer of ice or snow covering a mountain peak",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

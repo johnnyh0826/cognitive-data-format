@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "change",
-      "meaning": "subject to a mathematical transformation",
+      "context": "action",
+      "meaning": "to change the form, nature, or function of something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.343
     },
     {
       "id": "02",
-      "context": "change",
-      "meaning": "change or alter in form, appearance, or nature",
+      "context": "computing",
+      "meaning": "to convert data from one format or structure into another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.147
     },
     {
       "id": "03",
-      "context": "change",
-      "meaning": "change in outward structure or looks",
+      "context": "mathematics",
+      "meaning": "a function that maps elements from one mathematical space to another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.049
     },
     {
       "id": "04",
-      "context": "Psychology",
-      "meaning": "to change one's perspective or attitude, often as a result of new information or experience",
+      "context": "biology",
+      "meaning": "to undergo a change in form or structure during development or metamorphosis",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "05",
+      "context": "chemistry",
+      "meaning": "to cause a substance to change into a different chemical compound",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "energy",
+      "meaning": "to convert energy from one form to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "to change the fundamental structure or strategy of an organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.118
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "to facilitate profound personal change or growth in someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.098
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a change in scene or setting on a stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "technology",
+      "meaning": "to apply a mathematical or computational operation that alters data representation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "to change someone's appearance or character dramatically",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.088
     }
   ]
 }

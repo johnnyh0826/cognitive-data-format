@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a submerged ridge of rock or coral near the surface of the water",
+      "context": "nautical",
+      "meaning": "a ridge of rock, sand, or coral at or near the surface of the sea that is a hazard to ships",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "witwatersrand",
-      "meaning": "a rocky region in the southern Transvaal in northeastern South Africa; contains rich gold deposits and coal and manganese",
+      "context": "biology",
+      "meaning": "a ridge or chain of rocks or coral in the ocean, typically supporting marine ecosystems",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "one of several strips across a sail that can be taken in or rolled up to lessen the area of the sail that is exposed to the wind",
+      "context": "geology",
+      "meaning": "a ridge of hard rock or mineral formation at or near the surface of water",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "ecology",
-      "meaning": "a shallow, tropical marine ecosystem characterized by coral and sea anemones",
+      "context": "action",
+      "meaning": "to fold, roll up, or reduce something to a smaller size (as in 'reef the sails')",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "construction",
+      "meaning": "a ridge or projection on a surface, particularly a roof, that provides structural support or water drainage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a marijuana cigarette (slang)",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

@@ -4,30 +4,122 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "the posterior part of a human (or animal) body from the neck to the end of the spine",
+      "meaning": "the rear part of the human body between the neck and buttocks",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "rear",
-      "meaning": "the side that goes last or is not normally seen",
+      "context": "movement",
+      "meaning": "to move in reverse direction or toward a starting point",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "the part of something that is furthest from the normal viewer",
+      "context": "action",
+      "meaning": "to support or give assistance to someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "the back of a musical instrument, such as a violin or guitar",
+      "context": "business",
+      "meaning": "financial support or funding provided for a project or enterprise",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "the defensive position or player positioned closest to their own goal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "the area behind the main stage or the rear section of a stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "printing",
+      "meaning": "the reverse side of a printed page or document",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "construction",
+      "meaning": "the outer rear surface or wall of a building",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "geography",
+      "meaning": "the rear or western part of a location or region",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "time",
+      "meaning": "a period in the past or previous period of history",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "the buttocks or rear end of the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "computing",
+      "meaning": "the underlying infrastructure or systems supporting a software application",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "medicine",
+      "meaning": "relating to or affecting the dorsal or posterior region of the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "14",
+      "context": "nautical",
+      "meaning": "the rear part of a ship or vessel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "15",
+      "context": "law",
+      "meaning": "to provide financial or legal support for a lawsuit or legal claim",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

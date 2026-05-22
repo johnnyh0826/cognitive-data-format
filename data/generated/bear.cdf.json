@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
+      "context": "anatomy",
+      "meaning": "a large heavy mammal with thick fur, a short tail, and a distinctive body shape",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price",
+      "context": "action",
+      "meaning": "to carry or support the weight of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "state",
-      "meaning": "have",
+      "context": "finance",
+      "meaning": "to produce or yield as a result or profit",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "idiom",
-      "meaning": "to bear with someone means to patiently tolerate or endure something unpleasant, often in a situation where one might normally react negatively",
+      "context": "psychology",
+      "meaning": "to have or exhibit a particular emotional state or demeanor",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "biology",
+      "meaning": "to produce offspring or be pregnant with young",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a large or powerful person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "to exhibit a specified playing style or aggressive approach",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "nautical",
+      "meaning": "to turn a ship's bow into the wind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "geography",
+      "meaning": "a direction or compass point",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "movement",
+      "meaning": "to move steadily or directly toward something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.11
     }
   ]
 }

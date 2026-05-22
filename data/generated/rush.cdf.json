@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "haste",
-      "meaning": "the act of moving hurriedly and in a careless manner",
+      "context": "movement",
+      "meaning": "to move quickly or hurriedly from one place to another",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.34
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "a sudden forceful flow",
+      "context": "action",
+      "meaning": "to push or press something with sudden force or urgency",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.117
     },
     {
       "id": "03",
-      "context": "biology",
-      "meaning": "grasslike plants growing in wet places and having cylindrical often hollow stems",
+      "context": "time",
+      "meaning": "a sudden period of intense activity or demand that requires immediate attention",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.175
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a style of music characterized by fast tempo and energetic rhythm",
+      "context": "business",
+      "meaning": "a sudden increase in demand for a product or service",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "05",
+      "context": "botany",
+      "meaning": "a marsh plant with stiff tubular stems used for making baskets or chair seats",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "06",
+      "context": "medicine",
+      "meaning": "an acute inflammation of the skin, typically affecting the buttocks of infants",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to do something quickly or without proper care or attention",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.117
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "a sudden surge of intense emotion or excitement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "to speak urgently or hurriedly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "10",
+      "context": "American football",
+      "meaning": "an offensive play in which blockers move forward quickly to create space for a runner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "military",
+      "meaning": "a sudden violent attack or assault against an enemy position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "technology",
+      "meaning": "a sudden spike in internet traffic or data requests",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

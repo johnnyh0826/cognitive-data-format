@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "history",
-      "meaning": "a record or narrative description of past events",
+      "context": "finance",
+      "meaning": "A financial arrangement with a bank or institution allowing someone to deposit, withdraw, or borrow money",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "report",
-      "meaning": "a short account of the news",
+      "context": "computing",
+      "meaning": "A user profile or login credential that provides access to a computer system or online service",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "state",
-      "meaning": "a formal contractual relationship established to provide for regular banking or brokerage or business services",
+      "context": "business",
+      "meaning": "A record of business transactions, expenses, or financial dealings with a client or customer",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "financial planning",
-      "meaning": "a person's financial situation or status, especially in relation to their income and expenses",
+      "context": "law",
+      "meaning": "A formal record or statement of facts presented as evidence in a legal proceeding",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "To explain or describe the reason for something; to give an account of events",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "A narrative or report describing what happened or what someone experienced",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "A person or entity of importance or consequence (as in 'a man of account')",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "commerce",
+      "meaning": "The total amount of business or trade conducted with a particular customer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "storage",
+      "meaning": "A ledger or register where transactions, payments, or records are systematically recorded",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "an interconnected system of things or people",
+      "context": "computing",
+      "meaning": "an interconnected system of computers and devices that communicate with each other to share data and resources",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "(broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs",
+      "context": "communication",
+      "meaning": "a system of connected people, organizations, or things that exchange information or support each other",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "an open fabric of string or rope or wire woven together at regular intervals",
+      "context": "business",
+      "meaning": "a group of contacts or relationships cultivated for professional purposes and mutual benefit",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a system of interconnected devices, such as computers and servers, that can communicate with each other",
+      "context": "anatomy",
+      "meaning": "a system of nerves or blood vessels connecting different parts of the body",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "biology",
+      "meaning": "a system of interconnected organisms or biological structures in an ecosystem",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "to interact socially or professionally with multiple people to build relationships and exchange information",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "television",
+      "meaning": "a group of affiliated television or radio stations that broadcast the same or related programming",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "a system of interconnected routes or paths for travel or transportation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a loose open weave fabric or mesh material with gaps between threads or strands",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "finance",
+      "meaning": "a system of financial institutions or intermediaries connected for the purpose of lending and exchanging funds",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

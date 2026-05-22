@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "the power or right to give orders or make decisions",
+      "context": "law",
+      "meaning": "the power or right to enforce laws, make decisions, or command obedience within a jurisdiction or domain",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "(usually plural) persons who exercise (administrative) control over others",
+      "context": "government",
+      "meaning": "a person or organization officially empowered to make and enforce rules or decisions",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "an expert whose views are taken as definitive",
+      "context": "business",
+      "meaning": "an expert or official body with specialized knowledge or decision-making power in a particular field",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "philosophy",
-      "meaning": "a legitimate source of knowledge or truth",
+      "context": "communication",
+      "meaning": "credibility, influence, or persuasive power derived from expertise, position, or reputation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "the confidence and respect shown toward a person or institution based on their demonstrated competence or legitimacy",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a knowledgeable or commanding person regarded as an expert or reliable source on a subject",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "the right or power to command troops, enforce discipline, or make strategic decisions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

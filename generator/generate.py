@@ -1,9 +1,10 @@
 """
 Cognitive Data Format — Token Generator
-Two-phase generation:
-  Phase 1 — WordNet: clean authoritative base meanings
-  Phase 2 — LLM: accumulated meanings WordNet doesn't capture
-  Phase 3 — Deduplicate and write CDF token
+Three-phase generation:
+  Phase 1 — Free Dictionary API (dictionaryapi.dev): modern comprehensive meanings
+  Phase 2 — WordNet: fills academic gaps
+  Phase 3 — LLM: catches anything both miss
+  Phase 4 — Deduplicate and write CDF token
 
 Usage:
     python generator/generate.py                  # use wordlist.txt
@@ -37,62 +38,83 @@ SCHEMA_PATH   = Path(__file__).parent.parent / "schema" / "cdf_schema_v1.json"
 OUTPUT_PATH   = Path(__file__).parent.parent / "data" / "generated"
 WORDLIST_PATH = Path(__file__).parent.parent / "wordlist.txt"
 OLLAMA_URL    = "http://localhost:11434/api/generate"
+DICT_API_URL  = "https://api.dictionaryapi.dev/api/v2/entries/en"
 MODEL         = "llama3"
 
-# WordNet POS labels → CDF domain hints
-POS_LABELS = {"n": "noun", "v": "verb", "a": "adjective", "r": "adverb", "s": "adjective"}
-
-# WordNet lexname → cleaner domain label
-LEXNAME_MAP = {
-    "noun.act": "action", "noun.animal": "biology", "noun.artifact": "object",
-    "noun.attribute": "property", "noun.body": "anatomy", "noun.cognition": "psychology",
-    "noun.communication": "communication", "noun.event": "event", "noun.feeling": "emotion",
-    "noun.food": "food", "noun.group": "group", "noun.location": "geography",
-    "noun.motive": "motivation", "noun.object": "object", "noun.person": "person",
-    "noun.phenomenon": "phenomenon", "noun.plant": "biology", "noun.possession": "finance",
-    "noun.process": "process", "noun.quantity": "measurement", "noun.relation": "relationship",
-    "noun.shape": "geometry", "noun.state": "state", "noun.substance": "chemistry",
-    "noun.time": "time", "verb.body": "anatomy", "verb.change": "change",
-    "verb.cognition": "psychology", "verb.communication": "communication",
-    "verb.competition": "sports", "verb.consumption": "consumption",
-    "verb.contact": "action", "verb.creation": "creation", "verb.emotion": "emotion",
-    "verb.motion": "movement", "verb.perception": "perception", "verb.possession": "finance",
-    "verb.social": "social", "verb.stative": "state", "verb.weather": "weather",
-}
+HEADERS = {"User-Agent": "CDF-Generator/1.0 (cognitive-data-format; educational)"}
 
 
-# ─── Phase 1: WordNet ─────────────────────────────────────────────────────────
 
-def get_wordnet_tracks(word):
+def get_dictionary_tracks(word):
     """
-    Extract clean base meanings from WordNet.
-    Returns top 2-3 most common synsets as CDF tracks.
-    Filters to nouns and verbs only — most relevant for disambiguation.
+    Fetch meanings from Free Dictionary API (dictionaryapi.dev).
+    Returns clean tracks with modern definitions.
+    """
+    try:
+        r = requests.get(f"{DICT_API_URL}/{word}", headers=HEADERS, timeout=10)
+        if r.status_code != 200:
+            return []
+
+        data = r.json()
+        tracks = []
+        seen  = set()
+
+        for entry in data:
+            for meaning in entry.get("meanings", []):
+                pos = meaning.get("partOfSpeech", "")
+                for defn in meaning.get("definitions", []):
+                    definition = defn.get("definition", "").strip()
+                    if not definition:
+                        continue
+
+                    # Clean HTML tags if any
+                    definition = re.sub(r'<[^>]+>', '', definition)
+
+                    # Skip near-duplicates
+                    key = definition[:40].lower()
+                    if key in seen:
+                        continue
+                    seen.add(key)
+
+                    context = "general"  # relabel_tracks will assign correct label via Claude
+
+                    tracks.append({
+                        "context": context,
+                        "meaning": definition,
+                        "source": "dictionary"
+                    })
+
+                    # no ceiling on dictionary phase either
+
+        return tracks
+
+    except Exception:
+        return []
+
+
+# ─── Phase 2: WordNet fallback ────────────────────────────────────────────────
+
+def get_wordnet_tracks(word, existing_meanings):
+    """
+    Get WordNet meanings not already covered by the dictionary.
+    Only used as fallback when dictionary returns less than 2 meanings.
     """
     synsets = wn.synsets(word, pos=[wn.NOUN, wn.VERB])
     if not synsets:
         synsets = wn.synsets(word)
 
     tracks = []
-    seen_definitions = set()
+    seen   = set(m[:40].lower() for m in existing_meanings)
 
     for synset in synsets:
         definition = synset.definition()
+        key = definition[:40].lower()
 
-        # Skip near-duplicate definitions
-        definition_key = definition[:40].lower()
-        if definition_key in seen_definitions:
+        if key in seen:
             continue
-        seen_definitions.add(definition_key)
+        seen.add(key)
 
-        # Get domain label from lexname
-        lexname = synset.lexname() or ""
-        context = LEXNAME_MAP.get(lexname, lexname.split(".")[-1] if "." in lexname else "general")
-
-        # Use the lemma name to improve context when possible
-        lemma_name = synset.name().split(".")[0].replace("_", " ")
-        if lemma_name != word and len(lemma_name) > 3:
-            context = lemma_name
+        context = "general"  # relabel_tracks will assign correct label via Claude
 
         tracks.append({
             "context": context,
@@ -100,56 +122,73 @@ def get_wordnet_tracks(word):
             "source": "wordnet"
         })
 
-        if len(tracks) >= 3:
+        if len(tracks) >= 2:
             break
 
     return tracks
 
 
-# ─── Phase 2: LLM accumulated meanings ───────────────────────────────────────
+# ─── Phase 3: Claude API — accumulated meanings ──────────────────────────────
 
-def build_llm_prompt(word, existing_meanings):
+def get_claude_client():
+    """Get Anthropic client — lazy init so missing key only fails when needed."""
+    try:
+        import anthropic
+        return anthropic.Anthropic()
+    except ImportError:
+        print("ERROR: anthropic not installed. Run: pip install anthropic")
+        sys.exit(1)
+
+
+def call_claude(prompt, client, max_tokens=400):
+    """Call Claude API with retry on overload."""
+    import anthropic
+    for attempt in range(3):
+        try:
+            response = client.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=max_tokens,
+                messages=[{"role": "user", "content": prompt}]
+            )
+            return response.content[0].text
+        except anthropic.APIStatusError as e:
+            if e.status_code == 529 and attempt < 2:
+                time.sleep(5 + attempt * 3)
+                continue
+            raise
+    return ""
+
+
+def get_llm_tracks(word, existing_meanings, client=None):
+    """Ask Claude for meanings not covered by dictionary or WordNet."""
+    if client is None:
+        return []
+
     existing_text = "\n".join(f"- {m}" for m in existing_meanings)
-    return f"""You are enriching a Cognitive Data Format (CDF) token for the word "{word}".
+    prompt = f"""You are building a Cognitive Data Format (CDF) database.
 
-The following meanings are already captured from a dictionary:
+Word: "{word}"
+
+Meanings already captured from dictionary sources:
 {existing_text}
 
-Your task: identify 1-2 additional common meanings that a fluent English speaker would recognise but that are NOT covered above.
+Task: List ALL remaining distinct meanings a fluent English speaker would recognise that are NOT covered above.
+Focus especially on: verbs, informal uses, domain-specific uses, and compound meanings (e.g. "lead" as a metal vs. a verb vs. a role).
 
 Rules:
-- Only add meanings clearly different from the ones listed
-- Standard, commonly known meanings only — no obscure or rare usages
-- If no additional common meanings exist, return an empty tracks array
-- Return ONLY valid JSON. No explanation. No markdown.
+- Include meanings even if partially similar to existing ones — err on the side of inclusion
+- Do NOT limit to 1-2 — return as many as genuinely exist and are missing above
+- Each must have a specific domain label — never use "general"
+- Return ONLY valid JSON — no explanation, no markdown
 
-Output this exact JSON:
-{{
-  "additional_tracks": [
-    {{
-      "context": "domain label",
-      "meaning": "clear plain language definition"
-    }}
-  ]
-}}
+Format:
+{{"additional_tracks": [{{"context": "specific domain label", "meaning": "clear one sentence definition"}}]}}
 
-If nothing to add: {{"additional_tracks": []}}
-Return ONLY the JSON."""
+Or if nothing to add:
+{{"additional_tracks": []}}"""
 
-
-def get_llm_tracks(word, existing_meanings):
-    """Ask LLM for meanings not covered by WordNet."""
     try:
-        prompt   = build_llm_prompt(word, existing_meanings)
-        response = requests.post(OLLAMA_URL, json={
-            "model": MODEL,
-            "prompt": prompt,
-            "stream": False,
-            "options": {"temperature": 0.3, "num_predict": 400}
-        }, timeout=60)
-        response.raise_for_status()
-        raw = response.json().get("response", "")
-
+        raw = call_claude(prompt, client)
         cleaned = re.sub(r"```(?:json)?", "", raw).strip().replace("```", "").strip()
         try:
             data = json.loads(cleaned)
@@ -160,47 +199,96 @@ def get_llm_tracks(word, existing_meanings):
                 data = json.loads(cleaned[start:end])
             else:
                 return []
-
         return data.get("additional_tracks", [])
-
     except Exception:
         return []
 
 
-# ─── Phase 3: Assemble CDF token ─────────────────────────────────────────────
+# ─── Phase 4: Frequency scoring ──────────────────────────────────────────────
 
-def assemble_token(word, wordnet_tracks, llm_tracks):
-    """Combine WordNet and LLM tracks into a valid CDF token."""
-    all_tracks = []
-    seen = set()
+def get_frequency_scores(word, tracks, client=None):
+    """Ask Claude to estimate real-world usage frequency per track."""
+    if client is None:
+        return None
 
-    for i, track in enumerate(wordnet_tracks + llm_tracks):
+    track_list = "\n".join(
+        f"  Track {t['id']} — {t['context']}: {t['meaning'][:80]}"
+        for t in tracks
+    )
+    ids  = [t["id"] for t in tracks]
+    empty = {id: 0.0 for id in ids}
+
+    prompt = f"""For the word "{word}", estimate what proportion of everyday real-world usage each meaning below represents.
+
+{track_list}
+
+Rules:
+- Each value must be between 0.0 and 1.0
+- All values must sum to exactly 1.0
+- Base estimates on how commonly each meaning appears in everyday English
+- Return ONLY valid JSON — no explanation
+
+{{"frequencies": {json.dumps(empty)}}}"""
+
+    try:
+        raw = call_claude(prompt, client, max_tokens=200)
+        cleaned = re.sub(r"```(?:json)?", "", raw).strip().replace("```", "").strip()
+        try:
+            data = json.loads(cleaned)
+        except json.JSONDecodeError:
+            start = cleaned.find("{")
+            end   = cleaned.rfind("}") + 1
+            if start != -1 and end > start:
+                data = json.loads(cleaned[start:end])
+            else:
+                return None
+
+        frequencies = data.get("frequencies", {})
+        total = sum(float(v) for v in frequencies.values())
+        if total == 0:
+            return None
+        return {k: round(float(v) / total, 3) for k, v in frequencies.items()}
+
+    except Exception:
+        return None
+
+
+# ─── Phase 5: Assemble CDF token ─────────────────────────────────────────────
+
+def assemble_token(word, all_tracks):
+    """Combine all tracks, deduplicate, and build final CDF token."""
+    final_tracks = []
+    seen_meanings = set()
+    seen_contexts = set()  # enforce unique context labels
+
+    for i, track in enumerate(all_tracks):
         meaning = track.get("meaning", "").strip()
-        meaning_key = meaning[:40].lower()
+        context = track.get("context", "general")
+        key = meaning[:40].lower()
 
-        if meaning_key in seen or not meaning:
+        if key in seen_meanings or not meaning:
             continue
-        seen.add(meaning_key)
+        if context in seen_contexts:  # skip if this context label already used
+            continue
 
-        track_id = str(len(all_tracks) + 1).zfill(2)
-        all_tracks.append({
+        seen_meanings.add(key)
+        seen_contexts.add(context)
+
+        track_id = str(len(final_tracks) + 1).zfill(2)
+        final_tracks.append({
             "id": track_id,
-            "context": track.get("context", "general"),
+            "context": context,
             "meaning": meaning,
-            "added": "first" if i == 0 else "accumulated",
+            "added": "first" if len(final_tracks) == 0 else "accumulated",
             "source": track.get("source", "llm")
         })
 
-        if len(all_tracks) >= 4:
-            break
+        # no ceiling — track count reflects real semantic load of the word
 
-    if not all_tracks:
+    if not final_tracks:
         return None
 
-    return {
-        "token": word,
-        "tracks": all_tracks
-    }
+    return {"token": word, "tracks": final_tracks}
 
 
 # ─── File readers ─────────────────────────────────────────────────────────────
@@ -213,7 +301,6 @@ def read_txt(path):
             if line.strip() and not line.strip().startswith("#")
         ]
 
-
 def read_pdf(path):
     try:
         from pypdf import PdfReader
@@ -224,7 +311,6 @@ def read_pdf(path):
         print("ERROR: pypdf not installed. Run: pip install pypdf")
         sys.exit(1)
 
-
 def read_docx(path):
     try:
         import docx
@@ -234,7 +320,6 @@ def read_docx(path):
     except ImportError:
         print("ERROR: python-docx not installed. Run: pip install python-docx")
         sys.exit(1)
-
 
 def read_csv(path):
     import csv
@@ -248,24 +333,21 @@ def read_csv(path):
                     words.append(cell)
     return deduplicate(words)
 
-
 def extract_words_from_text(text):
     stopwords = {
-        "the", "and", "for", "are", "but", "not", "you", "all", "can", "her",
-        "was", "one", "our", "out", "day", "get", "has", "him", "his", "how",
-        "its", "may", "new", "now", "old", "see", "two", "way", "who", "did",
-        "does", "had", "have", "been", "with", "that", "this", "from", "they",
-        "will", "what", "when", "your", "said", "each", "she", "use", "more",
-        "also", "into", "than", "then", "them", "some", "would", "make", "like",
-        "just", "know", "take", "very", "even", "most", "back", "after", "could",
-        "these", "first", "those", "only", "over", "such", "here", "should",
-        "about", "there", "think", "every", "never", "under", "other", "right",
-        "come", "both", "little", "being", "because", "going", "still", "down",
+        "the","and","for","are","but","not","you","all","can","her","was","one",
+        "our","out","day","get","has","him","his","how","its","may","new","now",
+        "old","see","two","way","who","did","does","had","have","been","with",
+        "that","this","from","they","will","what","when","your","said","each",
+        "she","use","more","also","into","than","then","them","some","would",
+        "make","like","just","know","take","very","even","most","back","after",
+        "could","these","first","those","only","over","such","here","should",
+        "about","there","think","every","never","under","other","right","come",
+        "both","little","being","because","going","still","down",
     }
     words = re.findall(r'\b[a-zA-Z]{3,20}\b', text)
     words = [w.lower() for w in words if w.lower() not in stopwords]
     return deduplicate(words)
-
 
 def deduplicate(words):
     seen = set()
@@ -275,7 +357,6 @@ def deduplicate(words):
             seen.add(w)
             result.append(w)
     return result
-
 
 def load_words(source_path=None):
     if source_path is None:
@@ -292,14 +373,10 @@ def load_words(source_path=None):
     ext = path.suffix.lower()
     print(f"  Reading: {path.name} ({ext})")
 
-    if ext == ".pdf":
-        return read_pdf(path), path
-    elif ext == ".docx":
-        return read_docx(path), path
-    elif ext == ".csv":
-        return read_csv(path), path
-    else:
-        return read_txt(path), path
+    if ext == ".pdf":    return read_pdf(path), path
+    elif ext == ".docx": return read_docx(path), path
+    elif ext == ".csv":  return read_csv(path), path
+    else:                return read_txt(path), path
 
 
 # ─── Schema and storage ───────────────────────────────────────────────────────
@@ -308,11 +385,9 @@ def load_schema():
     with open(SCHEMA_PATH) as f:
         return json.load(f)
 
-
 def already_generated(word):
     name = word.replace(" ", "_")
     return (OUTPUT_PATH / f"{name}.cdf.json").exists()
-
 
 def save_token(token):
     OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
@@ -325,19 +400,124 @@ def save_token(token):
 
 # ─── Main generation ──────────────────────────────────────────────────────────
 
-def generate_token(word, schema):
-    """Full two-phase generation: WordNet + LLM."""
-    # Phase 1 — WordNet
-    wordnet_tracks = get_wordnet_tracks(word)
 
-    # Phase 2 — LLM adds what WordNet missed
-    existing_meanings = [t["meaning"] for t in wordnet_tracks]
-    llm_tracks = get_llm_tracks(word, existing_meanings)
 
-    # Phase 3 — Assemble
-    token = assemble_token(word, wordnet_tracks, llm_tracks)
+# ─── Pure LLM generation ─────────────────────────────────────────────────────
+
+def get_llm_tracks_pure(word, client=None):
+    """Ask Claude to generate all tracks from scratch — no dictionary, no WordNet."""
+    if client is None:
+        return []
+
+    prompt = f"""You are building a Cognitive Data Format (CDF) token database.
+
+Word: "{word}"
+
+Task: List ALL distinct meanings a fluent English speaker would recognise for this word.
+Cover every major domain this word appears in — nouns, verbs, informal uses, technical uses.
+
+Examples for "pitch":
+- music: the highness or lowness of a sound or musical note
+- business: a sales presentation made to persuade someone to buy or invest
+- sports: the act of throwing a ball toward a batter in baseball
+- construction: a dark sticky substance made from tar, used for waterproofing
+- geography: the angle or slope of a roof or surface
+
+Rules:
+- Be exhaustive — include all common meanings, not just the most obvious one
+- Each context label must be unique and specific (never use "general")
+- Use the most precise domain label that fits — labels are open vocabulary, not restricted to a fixed list
+- Good labels: finance, geography, botany, zoology, music, sports, mechanics, clothing, accommodation, chemistry, medicine, military, computing, law, printing, metallurgy, carpentry, nautical, geology, psychology, informal, agriculture, etc.
+- Be as specific as possible — "botany" is better than "biology", "zoology" is better than "animal"
+- Each meaning must be a clear one-sentence definition
+- Return ONLY valid JSON — no explanation, no markdown
+
+Format:
+{{"tracks": [{{"context": "specific domain", "meaning": "clear one sentence definition"}}]}}"""
+
+    try:
+        raw = call_claude(prompt, client, max_tokens=1200)
+        cleaned = re.sub(r"```(?:json)?", "", raw).strip().replace("```", "").strip()
+        try:
+            data = json.loads(cleaned)
+        except json.JSONDecodeError:
+            start = cleaned.find("{")
+            end   = cleaned.rfind("}") + 1
+            if start != -1 and end > start:
+                data = json.loads(cleaned[start:end])
+            else:
+                return []
+        tracks = data.get("tracks", [])
+        for t in tracks:
+            t["source"] = "llm"
+        return tracks
+    except Exception:
+        return []
+
+# ─── Context relabeling ───────────────────────────────────────────────────────
+
+def relabel_tracks(word, tracks, client):
+    """Ask Claude to assign correct unique domain labels to all tracks at once."""
+    if not tracks or client is None:
+        return tracks
+
+    track_list = "\n".join(
+        f"  {i+1}. {t['meaning']}"
+        for i, t in enumerate(tracks)
+    )
+    prompt = f"""For the word "{word}", assign the single most specific domain label to each meaning below.
+
+{track_list}
+
+Rules:
+- Labels are open vocabulary — use the most precise domain label that fits, do not restrict to a fixed list
+- Be specific: "botany" not "biology", "zoology" not "animal", "mechanics" not "physics"
+- Never use "general", "governance" for a bank branch, or "sports" for a card game
+- Each label must be unique across all tracks — if two meanings share a domain pick the closest alternative for the less important one
+- Return ONLY valid JSON — no explanation, no markdown
+- Array must have exactly {len(tracks)} labels in the same order as the meanings above
+
+{{"labels": ["label1", "label2", ...]}}"""
+
+    try:
+        raw = call_claude(prompt, client, max_tokens=300)
+        cleaned = re.sub(r"```(?:json)?", "", raw).strip().replace("```", "").strip()
+        try:
+            data = json.loads(cleaned)
+        except json.JSONDecodeError:
+            start = cleaned.find("{")
+            end   = cleaned.rfind("}") + 1
+            if start != -1 and end > start:
+                data = json.loads(cleaned[start:end])
+            else:
+                return tracks
+        labels = data.get("labels", [])
+        if len(labels) == len(tracks):
+            for i, track in enumerate(tracks):
+                track["context"] = labels[i]
+        return tracks
+    except Exception:
+        return tracks  # fall back to existing labels if Claude fails
+
+def generate_token(word, schema, client=None):
+    """Full generation: Dictionary + WordNet + Claude + Frequency."""
+
+    # Phase 1 — Claude API only (pure LLM mode)
+    dict_tracks = []
+    wordnet_tracks = []
+    llm_tracks = get_llm_tracks_pure(word, client=client)
+
+    # Phase 2 — Assemble and deduplicate
+    token = assemble_token(word, llm_tracks)
     if not token:
         raise ValueError(f"Could not generate any tracks for '{word}'")
+
+    # Phase 6 — Claude frequency scoring
+    frequencies = get_frequency_scores(word, token["tracks"], client=client)
+    if frequencies:
+        for track in token["tracks"]:
+            if track["id"] in frequencies:
+                track["frequency"] = frequencies[track["id"]]
 
     jsonschema.validate(instance=token, schema=schema)
     return token
@@ -347,8 +527,11 @@ def run_batch(words, schema, source_name="wordlist.txt"):
     new_words = [w for w in words if not already_generated(w)]
     skipped   = len(words) - len(new_words)
 
+    # Init Claude client for bootstrap
+    client = get_claude_client()
+
     print(f"\nCognitive Data Format — Token Generator")
-    print(f"Mode:       WordNet + {MODEL} via Ollama")
+    print(f"Mode:       Claude API only (pure LLM)")
     print(f"Source:     {source_name} ({len(words)} words)")
     print(f"Skipped:    {skipped} already generated")
     print(f"Generating: {len(new_words)} new tokens")
@@ -367,10 +550,10 @@ def run_batch(words, schema, source_name="wordlist.txt"):
         print(f"  [{i:>3}/{len(new_words)}]  {word:<22}", end="", flush=True)
         t = time.time()
         try:
-            token  = generate_token(word, schema)
+            token  = generate_token(word, schema, client=client)
             save_token(token)
-            tracks = len(token["tracks"])
-            sources = set(tr.get("source","?") for tr in token["tracks"])
+            tracks  = len(token["tracks"])
+            sources = set(tr.get("source", "?") for tr in token["tracks"])
             src_str = "+".join(sorted(sources))
             print(f"  ✓  {tracks} tracks [{src_str}]  ({round(time.time()-t,1)}s)")
             valid += 1
@@ -390,7 +573,7 @@ def run_batch(words, schema, source_name="wordlist.txt"):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="CDF Generator — WordNet + LLM two-phase generation"
+        description="CDF Generator — Dictionary API + WordNet + LLM"
     )
     parser.add_argument("file",     nargs="?", help="Input file (.txt .pdf .docx .csv)")
     parser.add_argument("--single", type=str,  help="Generate one word and print it")
@@ -401,9 +584,12 @@ def main():
 
     if args.single:
         print(f"\nGenerating: {args.single}\n{'─'*40}")
+        client = get_claude_client()
         try:
-            token = generate_token(args.single, schema)
+            token = generate_token(args.single, schema, client=client)
+            path = save_token(token)
             print(json.dumps(token, indent=2))
+            print(f"\n  Saved: {path}")
         except Exception as e:
             print(f"FAILED: {e}")
         return

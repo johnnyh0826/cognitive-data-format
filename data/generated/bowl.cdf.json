@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a round vessel that is open at the top; used chiefly for holding food or liquids",
+      "context": "food",
+      "meaning": "a round deep dish used for serving or eating food, typically made of ceramic, glass, or metal",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.5
     },
     {
       "id": "02",
-      "context": "geometry",
-      "meaning": "a concave shape with an open top",
+      "context": "sports",
+      "meaning": "the act of rolling a ball down an alley toward pins in bowling",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a dish that is round and open at the top for serving foods",
+      "context": "action",
+      "meaning": "to move rapidly and smoothly, especially said of a vehicle or person moving with momentum",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "sports",
-      "meaning": "a round container used in various sports, such as bowling or curling",
+      "context": "anatomy",
+      "meaning": "a rounded or cup-shaped hollow part or structure of the body",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "a wide rounded valley or depression in the landscape",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "storage",
+      "meaning": "any container or receptacle shaped like a bowl used for holding objects",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to move along quickly or with force, often used in the phrase 'bowl along'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "theatre",
+      "meaning": "an outdoor amphitheater or stadium shaped like a large bowl",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

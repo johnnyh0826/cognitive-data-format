@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "range",
-      "meaning": "the limits within which something can be effective",
+      "context": "action",
+      "meaning": "to arrive at or get to a place or destination",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "scope",
-      "meaning": "an area in which something acts or operates or has power or control:",
+      "context": "communication",
+      "meaning": "to communicate with someone or make contact with them",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "the act of physically reaching or thrusting out",
+      "context": "anatomy",
+      "meaning": "the distance from one end to the other end of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "to connect or establish a sense of understanding or empathy with someone",
+      "context": "measurement",
+      "meaning": "a continuous stretch or expanse of something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "a section or portion of a river, road, or other linear feature",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "to influence or make an impression on an audience or market segment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "the scope or range of one's knowledge, ability, or influence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "nautical",
+      "meaning": "a sailing course with the wind coming from the side",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "the jurisdiction or authority of a court or legal system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "movement",
+      "meaning": "to extend oneself or one's body in a particular direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

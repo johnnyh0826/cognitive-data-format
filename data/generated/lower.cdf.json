@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "lower berth",
-      "meaning": "the lower of two berths",
+      "context": "anatomy",
+      "meaning": "the part of the body below the waist, including the legs and hips",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "02",
-      "context": "movement",
-      "meaning": "move something or somebody to a lower position",
+      "context": "action",
+      "meaning": "to move something down or to a lower position",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "change",
-      "meaning": "set lower",
+      "context": "movement",
+      "meaning": "to descend or move downward in space or position",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "Physical Geography",
-      "meaning": "relating to a lower elevation or region, such as a lower valley or lower plateau",
+      "context": "measurement",
+      "meaning": "reduced in degree, amount, intensity, or value compared to something else",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.28
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "situated at or extending to a point nearer the bottom or base of a slope, hill, or region",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "social",
+      "meaning": "of inferior rank, status, or social standing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "finance",
+      "meaning": "reduced in price, cost, or monetary value",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "music",
+      "meaning": "of a deeper pitch or frequency in sound",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "to reduce the volume or intensity of speech or sound",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "to convert text or characters from uppercase to lowercase letters",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "printing",
+      "meaning": "a lowercase letter, as opposed to an uppercase capital letter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "informal",
+      "meaning": "to behave in a manner that is unworthy or disreputable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "penalty",
+      "meaning": "to reduce or diminish a score, grade, or rating as a punishment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

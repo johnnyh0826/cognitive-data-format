@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "flop",
-      "meaning": "a complete failure",
+      "context": "anatomy",
+      "meaning": "a sculpture or cast of a person's head and shoulders",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "female chest",
-      "meaning": "the chest of a woman",
+      "context": "action",
+      "meaning": "to break something into pieces or cause something to break",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a sculpture of the head and shoulders of a person",
+      "context": "informal",
+      "meaning": "a person, typically used to describe someone in a neutral or slightly dismissive way",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "nautical",
-      "meaning": "to fill with wind, especially a sail",
+      "context": "law",
+      "meaning": "to catch or arrest someone, especially in law enforcement",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "penalty",
+      "meaning": "a penalty or consequence, as in 'to bust someone' for breaking a rule",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "the state of being bankrupt or having no money",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "a sudden and catastrophic collapse of a market or economic bubble",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "in blackjack, to exceed 21 and lose the hand",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

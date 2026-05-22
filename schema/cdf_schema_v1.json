@@ -2,10 +2,13 @@
   "$schema": "http://json-schema.org/draft-07/schema",
   "$id": "https://cognitivedata.org/schema/cdf_schema_v1.json",
   "title": "Cognitive Data Format",
-  "description": "A token that carries its own accumulated meanings. Like a dictionary entry that grows over time as new contexts are discovered — each meaning is a track, added without overwriting what came before.",
-  "version": "1.0",
+  "description": "A token that carries its own accumulated meanings. Like a dictionary entry that grows over time as new contexts are discovered \u2014 each meaning is a track, added without overwriting what came before.",
+  "version": "1.1",
   "type": "object",
-  "required": ["token", "tracks"],
+  "required": [
+    "token",
+    "tracks"
+  ],
   "additionalProperties": false,
   "properties": {
     "token": {
@@ -19,12 +22,16 @@
       "minItems": 1,
       "items": {
         "type": "object",
-        "required": ["id", "context", "meaning"],
+        "required": [
+          "id",
+          "context",
+          "meaning"
+        ],
         "additionalProperties": false,
         "properties": {
           "id": {
             "type": "string",
-            "description": "Track identifier — format: 01, 02, 03",
+            "description": "Track identifier \u2014 format: 01, 02, 03",
             "pattern": "^[0-9]{2}$"
           },
           "context": {
@@ -39,12 +46,24 @@
           },
           "added": {
             "type": "string",
-            "description": "When this meaning was added — first (original meaning) or accumulated (added over time)",
-            "enum": ["first", "accumulated"]
+            "description": "When this meaning was added \u2014 first (original meaning) or accumulated (added over time)",
+            "enum": [
+              "first",
+              "accumulated"
+            ]
           },
           "source": {
-            "type": ["string", "null"],
+            "type": [
+              "string",
+              "null"
+            ],
             "description": "Where this meaning came from e.g. wikidata, user, llm"
+          },
+          "frequency": {
+            "type": "number",
+            "description": "Estimated proportion of real-world usage for this meaning \u2014 0.0 to 1.0",
+            "minimum": 0.0,
+            "maximum": 1.0
           }
         }
       }

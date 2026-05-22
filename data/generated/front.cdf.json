@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "the side that is forward or prominent",
+      "context": "anatomy",
+      "meaning": "the forward-facing part of a person's head, including the face and forehead",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.051
     },
     {
       "id": "02",
-      "context": "battlefront",
-      "meaning": "the line along which opposing armies face each other",
+      "context": "geography",
+      "meaning": "the forward or leading edge of a weather system, such as a cold front or warm front",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "03",
-      "context": "psychology",
-      "meaning": "the outward appearance of a person",
+      "context": "military",
+      "meaning": "the foremost line of battle or the area where opposing forces directly engage",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.03
     },
     {
       "id": "04",
-      "context": "business domain",
-      "meaning": "the most visible or prominent aspect of a company's operations or products",
+      "context": "construction",
+      "meaning": "the facade or exterior face of a building, especially the side facing a street",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "the forward direction or the position ahead of someone or something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.182
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a respectable or legitimate appearance concealing illegal or dishonest activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.071
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "the public face or visible representation of an organization or operation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.091
+    },
+    {
+      "id": "08",
+      "context": "theatre",
+      "meaning": "the part of a stage closest to the audience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "nautical",
+      "meaning": "the forward part of a ship or the bow area",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "sports",
+      "meaning": "the forward line of players in sports like rugby or American football",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "action",
+      "meaning": "to face or confront a problem or challenge directly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.152
+    },
+    {
+      "id": "12",
+      "context": "communication",
+      "meaning": "to serve as the public representative or spokesperson of an organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.061
+    },
+    {
+      "id": "13",
+      "context": "law",
+      "meaning": "to take responsibility for a task or assume a leadership position in a legal or formal sense",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
     }
   ]
 }

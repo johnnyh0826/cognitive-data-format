@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "a swift whirling motion (usually of a missile)",
+      "context": "action",
+      "meaning": "to rotate rapidly around a central axis or point",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "the act of rotating rapidly",
+      "context": "sports",
+      "meaning": "to cause a ball to rotate in flight to change its trajectory or bounce",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "a short drive in a car",
+      "context": "business",
+      "meaning": "a rapid or sudden change in direction, focus, or strategy",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "entertainment",
-      "meaning": "a type of dance move or performance, often characterized by rapid rotation and fluid movement",
+      "context": "psychology",
+      "meaning": "to present information or events in a particular way to influence perception or opinion",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "a state of emotional turmoil or dizziness, especially from confusion or excitement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "to move in a rotating or twisting manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "to rotate a data storage disk or platter in a computer hard drive",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "nautical",
+      "meaning": "to turn a ship or boat around a central point",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "music",
+      "meaning": "to create or present a sequence of recorded music tracks for listening or dancing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "to deliver a message or information in a strategic or misleading manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "weather",
+      "meaning": "a rotating column of air or wind, such as a tornado or whirlwind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "anatomy",
+      "meaning": "a rapid involuntary rotation of the eyes or head due to neurological disturbance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "13",
+      "context": "gambling",
+      "meaning": "to cause a roulette wheel or similar device to rotate before playing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "14",
+      "context": "fabric",
+      "meaning": "to twist fibers together to create thread or yarn",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

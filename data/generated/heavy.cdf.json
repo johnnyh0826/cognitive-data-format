@@ -3,31 +3,147 @@
   "tracks": [
     {
       "id": "01",
-      "context": "person",
-      "meaning": "an actor who plays villainous roles",
+      "context": "measurement",
+      "meaning": "of great weight; having much mass or density relative to volume",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.176
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "a serious (or tragic) role in a play",
+      "context": "informal",
+      "meaning": "serious, significant, or consequential in nature or impact",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.216
     },
     {
       "id": "03",
-      "context": "physics",
-      "meaning": "having a large mass or weight",
+      "context": "action",
+      "meaning": "characterized by force, impact, or intensity; hitting or striking with great force",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "with a slow and solemn tempo",
+      "context": "weather",
+      "meaning": "of rain, snow, or precipitation: falling in large quantities; intense",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.069
+    },
+    {
+      "id": "05",
+      "context": "geology",
+      "meaning": "rich in minerals, metals, or valuable elements; dense with mineral content",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "chemistry",
+      "meaning": "relating to an isotope of an element that is heavier than the most common form",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "denoting weapons, artillery, or equipment of large caliber or destructive capacity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "of a chemical element: having a high atomic number or atomic weight",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "moving with difficulty; sluggish, labored, or slow in motion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.059
+    },
+    {
+      "id": "10",
+      "context": "food",
+      "meaning": "rich, filling, or difficult to digest; not light or easily consumed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "11",
+      "context": "music",
+      "meaning": "of music: loud, intense, or characterized by strong amplification and powerful rhythm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "difficult to bear or endure; burdensome in emotional or mental terms",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.118
+    },
+    {
+      "id": "13",
+      "context": "theatre",
+      "meaning": "of a theatrical role: serious, dramatic, or requiring significant emotional depth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "14",
+      "context": "penalty",
+      "meaning": "severe, harsh, or substantial in terms of punishment or consequence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "15",
+      "context": "time",
+      "meaning": "of sleep: very deep and difficult to wake from; profound",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "16",
+      "context": "business",
+      "meaning": "characterized by a high volume of activity, demand, or usage; busy",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "17",
+      "context": "technology",
+      "meaning": "computationally demanding or resource-intensive; requiring significant processing power",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "18",
+      "context": "agriculture",
+      "meaning": "of soil: dense, clay-rich, or difficult to work; compact and firm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

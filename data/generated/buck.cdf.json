@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "vaulting horse",
-      "meaning": "a gymnastic horse without pommels and with one end elongated; used lengthwise for vaulting",
+      "context": "finance",
+      "meaning": "a dollar, especially in informal reference to money or a sum of cash",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "dollar",
-      "meaning": "a piece of paper money worth one dollar",
+      "context": "anatomy",
+      "meaning": "a male deer, particularly a male red deer or similar species",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "United States author whose novels drew on her experiences as a missionary in China (1892-1973)",
+      "context": "action",
+      "meaning": "to resist or oppose something, as in the phrase 'buck against' or 'buck the system'",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "zoology",
-      "meaning": "a male deer, especially in North America",
+      "context": "informal",
+      "meaning": "a young man or boy, often used casually or affectionately",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "a private soldier, especially in the U.S. Army",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "gambling",
+      "meaning": "an object passed around to indicate whose turn it is to deal or take action",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "to pass responsibility or blame to someone else, often used in the phrase 'pass the buck'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "chemistry",
+      "meaning": "a type of carbon molecule shaped like a sphere or cage, as in buckminsterfullerene",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

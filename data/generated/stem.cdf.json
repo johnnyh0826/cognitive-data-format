@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "root",
-      "meaning": "(linguistics) the form of a word after all affixes are removed",
+      "context": "biology",
+      "meaning": "the main central axis of a plant, typically green and herbaceous, that bears leaves, flowers, and fruit",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.354
     },
     {
       "id": "02",
-      "context": "stalk",
-      "meaning": "a slender or elongated structure that supports a plant or fungus or a plant part or plant organ",
+      "context": "anatomy",
+      "meaning": "the main trunk or central part of a blood vessel or nerve from which smaller branches arise",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "03",
-      "context": "shank",
-      "meaning": "cylinder forming a long narrow part of something",
+      "context": "action",
+      "meaning": "to stop, restrain, or check the progress or flow of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.152
     },
     {
       "id": "04",
-      "context": "medicine",
-      "meaning": "the narrow end of a needle or other sharp instrument",
+      "context": "movement",
+      "meaning": "to move or travel in a particular direction or course",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to originate from or be derived from a particular source or ancestry",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a core programming structure or module from which other components are built",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "to reduce the number of employees or cut back on organizational operations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "08",
+      "context": "food",
+      "meaning": "the central woody core of a piece of fruit such as an apple or pear",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "09",
+      "context": "medicine",
+      "meaning": "a cell from which other cells develop or differentiate",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "law",
+      "meaning": "to trace something back to its origin or source in legal proceedings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

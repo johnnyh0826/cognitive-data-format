@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "the sound made by a gentle blow",
+      "context": "action",
+      "meaning": "to strike or hit something lightly with a finger or small object",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.283
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "a gentle blow",
+      "context": "technology",
+      "meaning": "a device that controls the flow of liquid or gas through a pipe or container",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.253
     },
     {
       "id": "03",
-      "context": "water faucet",
-      "meaning": "a faucet for drawing water from a pipe or cask",
+      "context": "communication",
+      "meaning": "to contact someone or get their attention by making a light knocking sound",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.121
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "to press a button or controller to perform an action in a game",
+      "context": "anatomy",
+      "meaning": "the small metal or plastic piece on a shoe sole used to prevent slipping",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "music",
+      "meaning": "a device that produces sound through striking, such as in percussion instruments",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "a touchscreen or input interface that responds to finger contact",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.152
+    },
+    {
+      "id": "07",
+      "context": "storage",
+      "meaning": "a barrel or large container used to store liquids such as beer or wine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "a person who is considered easy to manipulate or of little value",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "dance",
+      "meaning": "rhythmic striking of the floor with the feet, particularly in tap dancing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "metallurgy",
+      "meaning": "a tool used to cut internal screw threads inside a hole",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "11",
+      "context": "movement",
+      "meaning": "to touch or strike gently or repeatedly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "law",
+      "meaning": "to authorize wiretapping or electronic surveillance of a telephone line",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

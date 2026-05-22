@@ -4,30 +4,58 @@
     {
       "id": "01",
       "context": "chemistry",
-      "meaning": "a substance that can be consumed to produce energy",
+      "meaning": "a substance that produces heat or power through combustion, such as petrol, diesel, coal, or natural gas",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "finance",
-      "meaning": "provide with a combustible substance that provides energy",
+      "context": "action",
+      "meaning": "to supply or power something with fuel",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "finance",
-      "meaning": "provide with fuel",
+      "context": "informal",
+      "meaning": "to intensify, encourage, or keep something going, especially a conflict, emotion, or situation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "industry",
-      "meaning": "a type of investment or capital that drives growth and development",
+      "context": "biology",
+      "meaning": "a substance that provides energy for bodily functions, such as food or glucose",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "something that motivates or drives a person's behavior or emotional state",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a consumable resource that powers a device or system, such as electricity or batteries",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "the distance a vehicle can travel on a full tank of fuel, or the rate at which fuel is consumed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

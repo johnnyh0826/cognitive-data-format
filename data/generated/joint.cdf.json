@@ -4,30 +4,98 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "(anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)",
+      "meaning": "a place where two or more bones meet and connect, allowing movement of the body",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.347
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a disreputable place of entertainment",
+      "context": "action",
+      "meaning": "to connect or unite two things together",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.149
     },
     {
       "id": "03",
-      "context": "articulation",
-      "meaning": "the shape or manner in which things come together and a connection is made",
+      "context": "business",
+      "meaning": "a business venture or project undertaken by two or more parties together",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.119
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "a collaborative effort or partnership between two or more organizations or individuals",
+      "context": "law",
+      "meaning": "shared or held in common by two or more people or entities",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.099
+    },
+    {
+      "id": "05",
+      "context": "food",
+      "meaning": "a large piece of meat, typically containing both meat and bone, suitable for roasting",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "06",
+      "context": "construction",
+      "meaning": "a structural beam or timber connecting two supports",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.069
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "a term for cannabis or a marijuana cigarette",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.059
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "of poor quality or inferior condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "medicine",
+      "meaning": "a condition in which a joint is dislocated or misaligned",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "a shared statement or declaration issued by multiple parties",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "storage",
+      "meaning": "a type of continuous beam or structural member supported at multiple points",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "printing",
+      "meaning": "the line where two printed pages meet in a bound publication",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

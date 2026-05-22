@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "spot",
-      "meaning": "a small contrasting part of something",
+      "context": "computing",
+      "meaning": "a piece of software code or a file that fixes bugs or adds features to an existing program",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "plot",
-      "meaning": "a small area of ground covered by specific vegetation",
+      "context": "medicine",
+      "meaning": "a small piece of material or medication applied to the skin to deliver drugs through the skin",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a piece of cloth used as decoration or to mend or cover a hole",
+      "context": "action",
+      "meaning": "to repair or mend something that is broken or damaged",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a small piece of code or data that is applied to a program or system to correct errors or improve performance",
+      "context": "geography",
+      "meaning": "a small area of land or ground, typically of distinctive character",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "farming",
+      "meaning": "a plot of cultivated ground or farmland",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a piece or section of something, such as a patch of fabric or a patch of color",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "a small piece of fabric worn on a uniform to identify rank, unit, or achievement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "to walk or move around an area, typically while on duty or patrol",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "to connect a telephone call or audio signal between two parties",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "law",
+      "meaning": "to resolve or reconcile differences, as in 'patch things up'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "construction",
+      "meaning": "a temporary or permanent repair made to a surface, wall, or road",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

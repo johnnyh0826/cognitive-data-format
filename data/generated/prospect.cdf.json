@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "state",
-      "meaning": "the possibility of future success",
+      "context": "business",
+      "meaning": "a potential customer or client who may be interested in buying a product or service",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "expectation",
-      "meaning": "belief about (or mental picture of) the future",
+      "context": "finance",
+      "meaning": "a financial investment opportunity or venture that may yield returns",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "03",
-      "context": "candidate",
-      "meaning": "someone who is considered for something (for an office or prize or honor etc.)",
+      "context": "action",
+      "meaning": "the act of exploring or searching for something, particularly in mining or geological surveying",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "geology",
-      "meaning": "a geological formation or structure that has not yet been fully explored or excavated",
+      "context": "geography",
+      "meaning": "a view or vista from a particular vantage point, especially of a landscape or scenery",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "a person's outlook, expectation, or anticipated future situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "the likely or possible direction in which something or someone will move or develop",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a likelihood or chance that something will happen or be successful",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "geology",
+      "meaning": "an area of land that shows signs of mineral deposits and is worth exploring for mining",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a view of the stage or visible area of a theatre from a particular seating location",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

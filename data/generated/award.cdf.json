@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "a grant made by a law court",
+      "context": "law",
+      "meaning": "a decision or judgment given by a court, judge, or official body, typically in favor of one party in a dispute",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a tangible symbol signifying approval or distinction",
+      "context": "business",
+      "meaning": "a prize or honor given to someone in recognition of achievement or excellence",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "prize",
-      "meaning": "something given for victory or superiority in a contest or competition or for winning a lottery",
+      "context": "action",
+      "meaning": "to give or bestow something as a prize, honor, or compensation to someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "academic or professional recognition",
-      "meaning": "a honorarium or monetary prize given for outstanding achievement or performance",
+      "context": "finance",
+      "meaning": "to grant or allocate money, funds, or resources to a person or organization, especially by contract or grant",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "a prize or trophy given to a winner of a competition or sporting event",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to give someone credit or acknowledgment for something they have done or deserve",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "to grant official recognition, rank, or decoration to a service member for valor or service",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "a prize or winnings given to someone who has won a bet or game of chance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

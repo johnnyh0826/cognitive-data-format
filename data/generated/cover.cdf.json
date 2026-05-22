@@ -3,31 +3,147 @@
   "tracks": [
     {
       "id": "01",
-      "context": "screen",
-      "meaning": "a covering that serves to conceal or shelter something",
+      "context": "action",
+      "meaning": "to place something over or upon another thing to conceal, protect, or shield it",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.233
     },
     {
       "id": "02",
-      "context": "blanket",
-      "meaning": "bedding that keeps a person warm in bed",
+      "context": "communication",
+      "meaning": "to deal with or discuss a topic comprehensively",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.175
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "the act of concealing the existence of something by obstructing the view of it",
+      "context": "business",
+      "meaning": "to be enough money to pay for something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.117
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a layer of sound or harmony that complements a melody or underlying rhythm",
+      "context": "sports",
+      "meaning": "to mark or defend against an opposing player",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "to aim a weapon at a target or protect someone with gunfire",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "to include or be applicable to something under a rule, agreement, or jurisdiction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.068
+    },
+    {
+      "id": "07",
+      "context": "journalism",
+      "meaning": "to report on an event or story for publication or broadcast",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "08",
+      "context": "storage",
+      "meaning": "a lid or top that closes or protects a container",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "09",
+      "context": "geography",
+      "meaning": "vegetation or natural features that blanket or obscure the ground",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "10",
+      "context": "weather",
+      "meaning": "clouds or atmospheric conditions that obscure the sky",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a disguise or false identity used to conceal one's true nature or activities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "12",
+      "context": "music",
+      "meaning": "a new version or recording of a song originally by another artist",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "13",
+      "context": "gambling",
+      "meaning": "a bet or stake placed in response to another player's bet",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "finance",
+      "meaning": "insurance or protection against loss or liability",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "15",
+      "context": "medicine",
+      "meaning": "a dressing or bandage applied to a wound",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "16",
+      "context": "theatre",
+      "meaning": "a front used to conceal the true nature of an operation or business",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "17",
+      "context": "printing",
+      "meaning": "the outer protective case of a book or magazine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "18",
+      "context": "movement",
+      "meaning": "to travel or traverse a particular distance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

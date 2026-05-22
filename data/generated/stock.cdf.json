@@ -4,30 +4,98 @@
     {
       "id": "01",
       "context": "finance",
-      "meaning": "the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)",
+      "meaning": "a share or partial ownership in a company, traded on financial markets",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "the merchandise that a shop has on hand",
+      "context": "storage",
+      "meaning": "a reserve supply of something kept available for use",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun",
+      "context": "farming",
+      "meaning": "a group of farm animals, especially cattle or livestock",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "finance",
-      "meaning": "a portfolio of financial assets, such as securities or commodities",
+      "context": "action",
+      "meaning": "to keep or supply something in readiness or abundance",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "the inventory or goods currently held by a retailer or manufacturer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "cooking",
+      "meaning": "a liquid made by simmering bones, vegetables, or meat as a cooking base",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "botany",
+      "meaning": "the main stem or trunk of a plant or tree",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "ancestry",
+      "meaning": "a line of descent or family origin; bloodline",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "the repertoire of plays or performances kept available by a theatre company",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "general trust or belief in someone's credibility or reliability",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "printing",
+      "meaning": "the paper or material on which something is printed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "military",
+      "meaning": "the wooden or metal support of a gun that is held against the shoulder when firing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

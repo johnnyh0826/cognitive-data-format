@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "aftermath",
-      "meaning": "the consequences of an event (especially a catastrophic event)",
+      "context": "action",
+      "meaning": "to stop sleeping and become conscious",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "wake island",
-      "meaning": "an island in the western Pacific between Guam and Hawaii",
+      "context": "nautical",
+      "meaning": "the track or path of disturbed water left behind a moving ship",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "the wave that spreads behind a boat as it moves forward",
+      "context": "informal",
+      "meaning": "a gathering or celebration held after a funeral or memorial service",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "physical activity",
-      "meaning": "to become or make something more alert, conscious, and responsive",
+      "context": "anatomy",
+      "meaning": "to make someone aware or conscious of something they had not noticed",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to move or stir from a resting position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "to cause someone to become alert or vigilant about a problem or situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

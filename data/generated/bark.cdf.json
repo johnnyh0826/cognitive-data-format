@@ -4,30 +4,66 @@
     {
       "id": "01",
       "context": "biology",
-      "meaning": "tough protective covering of the woody stems and roots of trees and other woody plants",
+      "meaning": "the outer covering or skin of a tree trunk or branch",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "a noise resembling the bark of a dog",
+      "context": "action",
+      "meaning": "to make a loud sharp sound, especially the sound a dog makes",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.4
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a sailing ship with 3 (or more) masts",
+      "context": "nautical",
+      "meaning": "a ship or vessel, especially one used for long voyages or trading",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "medicine",
-      "meaning": "a thin layer of skin that covers a wound or cut",
+      "context": "communication",
+      "meaning": "to speak or shout loudly or harshly at someone",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "to scrape or injure the skin of a limb by rubbing against something rough",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a derogatory or insulting remark directed at someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "chemistry",
+      "meaning": "tannin-rich material extracted from tree bark used in leather tanning",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "hunting",
+      "meaning": "the characteristic sound made by a hunting dog when pursuing game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

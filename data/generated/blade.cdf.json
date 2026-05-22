@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "especially a leaf of grass or the broad portion of a leaf as distinct from the petiole",
+      "context": "anatomy",
+      "meaning": "the flat part of a bone, especially the shoulder blade or hip bone",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "a dashing young man",
+      "context": "action",
+      "meaning": "a sharp flat cutting implement with a handle, such as a knife or sword",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "something long and thin resembling a blade of grass",
+      "context": "farming",
+      "meaning": "the flat green leaf of grass or similar plants",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.22
     },
     {
       "id": "04",
-      "context": "kitchenware",
-      "meaning": "a sharp-edged tool used for cutting or slicing food",
+      "context": "technology",
+      "meaning": "a flat rotating metal part in a turbine, propeller, or fan that generates or redirects motion",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "the flat part of an ice skate or roller skate that contacts the ice or ground",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a term for a person who works as a hired killer or an aggressive tough person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "07",
+      "context": "construction",
+      "meaning": "the flat cutting surface of a tool such as a chisel, saw, or plane",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "to skate on ice or wheels, using blades as skates",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

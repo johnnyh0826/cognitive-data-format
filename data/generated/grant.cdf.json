@@ -3,31 +3,43 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "any monetary aid",
+      "context": "law",
+      "meaning": "a formal permission or right given by an authority, typically in written form",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "the act of providing a subsidy",
+      "context": "finance",
+      "meaning": "a sum of money given by a government, institution, or organization for a specific purpose",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "finance",
-      "meaning": "(law) a transfer of property by deed of conveyance",
+      "context": "action",
+      "meaning": "to give, allow, or consent to something that has been requested",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "academic",
-      "meaning": "the awarding of a privilege or opportunity, especially in education or research",
+      "context": "informal",
+      "meaning": "to admit or acknowledge something as true",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "to give access or permissions to a user or process within a system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a large and unbroken expanse or distance",
+      "context": "action",
+      "meaning": "to extend or spread something out to make it longer or wider",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "reach",
-      "meaning": "the act of physically reaching or thrusting out",
+      "context": "anatomy",
+      "meaning": "to extend one's body or limbs to their full length, typically to relieve stiffness",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a straightaway section of a racetrack",
+      "context": "sports",
+      "meaning": "a straight section of a racetrack or athletic course",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "to extend or increase the capacity of a system, resource, or data structure",
+      "context": "geography",
+      "meaning": "a continuous expanse of land with a particular character or use",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "05",
+      "context": "time",
+      "meaning": "a period or duration of time, often used in the phrase 'at a stretch'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "to extend something or move it to cover a greater distance or area",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "an exaggeration or straining of the truth beyond what is reasonable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "fabric",
+      "meaning": "the quality of being able to extend and return to original shape without tearing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "a period of time spent in prison or serving a sentence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "psychology",
+      "meaning": "to push someone or something to the limits of their abilities or resources",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "measurement",
+      "meaning": "a continuous distance or length between two points",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "military",
+      "meaning": "a straight section of a military training ground or parade route",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

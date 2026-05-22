@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "emotion",
-      "meaning": "a feeling of affection for a person or an institution",
+      "context": "psychology",
+      "meaning": "An emotional bond or connection that a person forms with another individual, object, or place.",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a supplementary part or accessory",
+      "context": "law",
+      "meaning": "A legal document that is appended to or connected with a main contract or agreement as an additional provision.",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a writ authorizing the seizure of property that may be needed for the payment of a judgment in a judicial proceeding",
+      "context": "computing",
+      "meaning": "A computer file or document that is sent along with an email message.",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a file or data structure that is linked to a larger document or program, often used in email and messaging",
+      "context": "anatomy",
+      "meaning": "A connective tissue structure that joins one body part to another, such as a ligament or tendon.",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "The act of fastening, joining, or securing one thing to another.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "A connection or link established between people, such as a relationship or means of contact.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "A device or fastener used to secure equipment, weapons, or gear to a soldier or vehicle.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "storage",
+      "meaning": "A physical or digital space where something is kept or stored in connection with something else.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "The state of being joined or connected so that movement is restricted or coordinated between parts.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "A liking or affection for someone or something, often expressed as being 'attached to' a person or object.",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

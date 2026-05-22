@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "one-fourth",
-      "meaning": "one of four equal parts",
+      "context": "time",
+      "meaning": "a period of three months, one fourth of a year",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "a district of a city having some distinguishing character",
+      "context": "measurement",
+      "meaning": "one fourth of a whole unit or quantity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "time",
-      "meaning": "(football, professional basketball) one of four divisions into which some games are divided",
+      "context": "finance",
+      "meaning": "a three-month period used for financial reporting and earnings statements",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a period of three minutes, especially in a jazz performance",
+      "context": "anatomy",
+      "meaning": "the upper part of a person's or animal's hindleg or rear leg",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "a district or region of a city or country",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "to lodge or house someone, especially to provide accommodation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "mercy or clemency shown to a defeated enemy in combat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "nautical",
+      "meaning": "the part of a ship's side between the beam and the stern",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "one of four equal periods into which a game is divided",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "10",
+      "context": "money",
+      "meaning": "a coin worth one fourth of a dollar or pound sterling",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a neighborhood or area where a particular group of people live or gather",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

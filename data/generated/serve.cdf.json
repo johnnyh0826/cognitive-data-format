@@ -4,30 +4,82 @@
     {
       "id": "01",
       "context": "action",
-      "meaning": "(sports) a stroke that puts the ball in play",
+      "meaning": "to perform duties or functions in a specified role or capacity",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "serve a purpose, role, or function",
+      "context": "food",
+      "meaning": "to present food or drinks to someone at a meal or gathering",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
       "context": "sports",
-      "meaning": "do duty or hold offices; serve in a specific function",
+      "meaning": "to hit a ball or shuttlecock across a net in tennis, badminton, or volleyball",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "social",
-      "meaning": "to attend to someone's needs or provide for them, often in a formal or professional setting",
+      "context": "law",
+      "meaning": "to comply with or fulfill the requirements of a legal document, sentence, or court order",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "to provide military service or enlist in the armed forces",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "to provide goods or services to a client or customer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "to provide or make available data, files, or functionality in a computer system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "to deliver a penalty kick, throw, or stroke in sports competition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "to move a ball into play or put a ball in motion during a game or sport",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to be adequate, suitable, or acceptable for a particular purpose",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

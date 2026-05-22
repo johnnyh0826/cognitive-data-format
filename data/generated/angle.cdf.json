@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geometry",
-      "meaning": "the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians",
+      "context": "measurement",
+      "meaning": "the space between two lines or surfaces that meet at a point, typically measured in degrees",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.337
     },
     {
       "id": "02",
-      "context": "slant",
-      "meaning": "a biased way of looking at or presenting something",
+      "context": "geometry",
+      "meaning": "a figure formed by two rays extending from a common endpoint",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "a member of a Germanic people who conquered England and merged with the Saxons and Jutes to become Anglo-Saxons",
+      "context": "action",
+      "meaning": "to move or position something at an inclination or slant",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "a measure of the steepness of a curve or surface, often used in computer graphics and game development",
+      "context": "business",
+      "meaning": "a particular perspective, approach, or way of tackling a problem or situation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "05",
+      "context": "fishing",
+      "meaning": "a hook or device used to catch fish",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a scheme, trick, or cunning method to achieve a goal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "to approach someone indirectly or cautiously to discuss a sensitive matter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "08",
+      "context": "anatomy",
+      "meaning": "the corner of the eye where the upper and lower eyelids meet",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "a player's position or role in a game, especially in snooker or billiards",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "10",
+      "context": "photography",
+      "meaning": "the direction from which a photograph is taken relative to the subject",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "military",
+      "meaning": "a specific viewpoint or line of attack in strategic planning",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

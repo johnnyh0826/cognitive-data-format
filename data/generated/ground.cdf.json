@@ -3,31 +3,147 @@
   "tracks": [
     {
       "id": "01",
-      "context": "land",
-      "meaning": "the solid part of the earth's surface",
+      "context": "geography",
+      "meaning": "the solid surface of the earth; land or soil",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.186
     },
     {
       "id": "02",
-      "context": "reason",
-      "meaning": "a rational motive for a belief or action",
+      "context": "geology",
+      "meaning": "a deposit or layer of mineral or rock material in the earth",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.021
     },
     {
       "id": "03",
-      "context": "earth",
-      "meaning": "the loose soft material that makes up a large part of the land surface",
+      "context": "farming",
+      "meaning": "prepared soil used for growing crops or plants",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.052
     },
     {
       "id": "04",
-      "context": "sports",
-      "meaning": "the area of a sports field or court, especially in American football and baseball",
+      "context": "anatomy",
+      "meaning": "the base or lowest part of a body structure or organ",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.021
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to lower or reduce something to the ground; to place on a surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.082
+    },
+    {
+      "id": "06",
+      "context": "electricity",
+      "meaning": "to connect an electrical circuit or device to the earth to complete a circuit or ensure safety",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.052
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "an electrical connection to the earth or a neutral point in a power system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.041
+    },
+    {
+      "id": "08",
+      "context": "sports",
+      "meaning": "to prevent a player from participating in an activity as a punishment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.062
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "to confine or restrict a person, especially a child, to a location as punishment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.124
+    },
+    {
+      "id": "10",
+      "context": "aviation",
+      "meaning": "to prevent an aircraft from flying; to keep a plane on the ground",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.041
+    },
+    {
+      "id": "11",
+      "context": "communication",
+      "meaning": "basic or fundamental knowledge or information forming the foundation of understanding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.103
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "a sense of stability, security, or connection to reality",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.062
+    },
+    {
+      "id": "13",
+      "context": "informal",
+      "meaning": "the background setting or context in which something occurs or is understood",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.041
+    },
+    {
+      "id": "14",
+      "context": "law",
+      "meaning": "a valid reason or basis for a legal action or claim",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "15",
+      "context": "military",
+      "meaning": "land-based forces or operations in warfare, as opposed to naval or air forces",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.021
+    },
+    {
+      "id": "16",
+      "context": "coffee",
+      "meaning": "finely ground coffee beans used to make coffee",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "17",
+      "context": "movement",
+      "meaning": "the act of moving along or touching the ground surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.021
+    },
+    {
+      "id": "18",
+      "context": "time",
+      "meaning": "the present moment or current situation serving as a starting point",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

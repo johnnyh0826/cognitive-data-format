@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "an implement consisting of a length of wood",
+      "context": "action",
+      "meaning": "a thin piece of wood or similar material, typically long and straight",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "a small thin branch of a tree",
+      "context": "sports",
+      "meaning": "a sports implement used to hit or control a ball, such as in hockey or lacrosse",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a lever used by a pilot to control the ailerons and elevators of an airplane",
+      "context": "music",
+      "meaning": "a drumstick used to strike a drum or percussion instrument",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a unit of measurement in some video games, typically representing a small distance or amount",
+      "context": "informal",
+      "meaning": "a criticism or hostile comment directed at someone",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a human limb, typically an arm or leg",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "to keep to or follow closely, such as sticking to a plan or agreement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.28
+    },
+    {
+      "id": "07",
+      "context": "penalty",
+      "meaning": "unpleasant consequences or punishment directed at someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "furniture",
+      "meaning": "a thin support or post used in construction or assembly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

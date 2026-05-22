@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe",
+      "context": "storage",
+      "meaning": "a fixed basin with a drain pipe, typically installed in a kitchen or bathroom for holding water",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.55
     },
     {
       "id": "02",
-      "context": "process",
-      "meaning": "(technology) a process that acts to absorb or remove energy or a substance from a system",
+      "context": "action",
+      "meaning": "to descend or fall downward, especially rapidly or steeply",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "sinkhole",
-      "meaning": "a depression in the ground communicating with a subterranean passage (especially in limestone) and formed by solution or by collapse of a cavern roof",
+      "context": "geology",
+      "meaning": "a depression or hollow in the earth's surface where water collects or drains",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "idiomatic expression",
-      "meaning": "to let something go, or to accept a situation as it is",
+      "context": "nautical",
+      "meaning": "to cause a ship or vessel to go down or be submerged in water",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to gradually decline in value, status, or performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "06",
+      "context": "chemistry",
+      "meaning": "a place where a substance or material is absorbed or removed from a system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a drain or receptacle for unwanted data, heat, or computational output in a system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "a state of despair or moral degradation that someone has fallen into",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "to disappear or become lost, especially gradually or without trace",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

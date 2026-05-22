@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "a share of the profits",
+      "context": "action",
+      "meaning": "to make an opening or incision in something with a sharp tool or blade",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.277
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "(film) an immediate transition from one shot to the next",
+      "context": "movement",
+      "meaning": "to move quickly or suddenly in a particular direction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.178
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a trench resembling a furrow that was made by erosion or excavation",
+      "context": "sports",
+      "meaning": "to hit a ball with a sharp stroke in tennis, cricket, or similar sports",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.079
     },
     {
       "id": "04",
-      "context": "verb",
-      "meaning": "to reduce or shorten something, typically by dividing it along a line or plane",
+      "context": "film",
+      "meaning": "to edit video or audio material by removing unwanted sections",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.119
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a wound or injury to the skin or tissue",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.099
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "a reduction in price, wages, or benefits",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "07",
+      "context": "theatre",
+      "meaning": "a sudden interruption of a scene or performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "an attractive or impressive appearance or style",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "gambling",
+      "meaning": "a method of arranging cards or drawing lots in card games",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "law",
+      "meaning": "an evasion or avoidance of a legal responsibility or requirement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "mining",
+      "meaning": "an excavation or passage made by mining",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "printing",
+      "meaning": "a hollow or groove made on a printing block or surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "music",
+      "meaning": "a recording or version of a song released for commercial purposes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "14",
+      "context": "biology",
+      "meaning": "to perform or undergo the biological process of molting or shedding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "penalty",
+      "meaning": "a penalty assessed against a team or player in sports",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

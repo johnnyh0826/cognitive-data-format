@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "time",
-      "meaning": "a magnitude or frequency relative to a time unit",
+      "context": "finance",
+      "meaning": "a measure of interest charged or paid on a loan, deposit, or investment, typically expressed as a percentage per annum",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.171
     },
     {
       "id": "02",
-      "context": "finance",
-      "meaning": "amount of a charge or payment relative to some basis",
+      "context": "measurement",
+      "meaning": "the speed or frequency at which something occurs or is measured",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.152
     },
     {
       "id": "03",
-      "context": "pace",
-      "meaning": "the relative speed of progress or change",
+      "context": "action",
+      "meaning": "to evaluate, assess, or determine the level, quality, or worth of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.21
     },
     {
       "id": "04",
-      "context": "evaluation or assessment",
-      "meaning": "a judgment or opinion about the quality, value, or performance of something",
+      "context": "informal",
+      "meaning": "to consider something as having a certain status or importance",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.114
+    },
+    {
+      "id": "05",
+      "context": "penalty",
+      "meaning": "an official assessment or charge levied as punishment or compensation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "the degree or extent to which something is successful or valued",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "to record the speed or scoring performance of a player or competitor",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "the odds or probability offered on a wager or bet",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "weather",
+      "meaning": "the speed at which wind moves or the measure of wind velocity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "nautical",
+      "meaning": "to estimate the speed or progress of a ship through water",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "11",
+      "context": "medicine",
+      "meaning": "a measure of bodily functions such as heart rate or metabolic rate",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.114
+    },
+    {
+      "id": "12",
+      "context": "time",
+      "meaning": "the pace or tempo at which events or processes occur",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "13",
+      "context": "technology",
+      "meaning": "a measure of data transmission speed or processing frequency",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "14",
+      "context": "business",
+      "meaning": "a fixed price or charge established for a service or commodity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.057
     }
   ]
 }

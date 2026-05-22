@@ -3,24 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "finance",
-      "meaning": "money extracted as a penalty",
+      "context": "penalty",
+      "meaning": "a monetary penalty or fee imposed for breaking a law or regulation",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "ticket",
-      "meaning": "issue a ticket or a fine to as a penalty",
+      "context": "quality",
+      "meaning": "of high quality, satisfactory, or acceptable standard",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.42
     },
     {
       "id": "03",
-      "context": "health and wellness",
-      "meaning": "in a satisfactory or good condition; healthy, robust, or vigorous",
+      "context": "action",
+      "meaning": "to make thin or thinner, or to reduce the thickness or consistency of something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "04",
+      "context": "anatomy",
+      "meaning": "small lines or wrinkles on the skin, especially on the face",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "05",
+      "context": "arts",
+      "meaning": "delicate, subtle, or made with careful attention to detail",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "measurement",
+      "meaning": "a unit of weight equal to one-twentieth of an ounce, or 1.944 grams",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "in good health or satisfactory condition; feeling well",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.28
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "to impose a monetary penalty on someone for an offense or violation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "music",
+      "meaning": "delicate or refined in tone or execution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "printing",
+      "meaning": "characterized by thin lines or small details in printed or drawn work",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

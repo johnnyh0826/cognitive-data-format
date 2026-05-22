@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "measurement",
-      "meaning": "the number of openings per linear inch of a screen; measures size of particles",
+      "context": "technology",
+      "meaning": "a network of interconnected computers or devices that communicate with each other",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "engagement",
-      "meaning": "contact by fitting together",
+      "context": "computing",
+      "meaning": "a data structure consisting of nodes connected by edges, or a grid-like arrangement of intersecting lines",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "mesh topology",
-      "meaning": "the topology of a network whose components are all connected directly to every other component",
+      "context": "construction",
+      "meaning": "an open framework or lattice made of interlocking material such as wire, rope, or metal strips",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "geology",
-      "meaning": "a network of interconnected rock fractures or faults",
+      "context": "action",
+      "meaning": "to interlock or interconnect things together in a network or grid pattern",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "the interlocking or linking together of body parts or tissue structures",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "metallurgy",
+      "meaning": "the open latticed structure of a metal object created during casting or fabrication",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a difficult or confused situation where multiple elements are tangled together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "a network of interconnected organisms or ecological relationships in an environment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

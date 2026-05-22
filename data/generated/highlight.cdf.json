@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "relationship",
-      "meaning": "the most interesting or memorable part",
+      "context": "action",
+      "meaning": "to make something brighter or more prominent by directing light upon it",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "an area of lightness in a picture",
+      "context": "communication",
+      "meaning": "to emphasize or draw attention to something important in speech or writing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "foreground",
-      "meaning": "move into the foreground to make more visible or prominent",
+      "context": "computing",
+      "meaning": "to select or mark text or an area on a screen to indicate it for further action",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "journalism",
-      "meaning": "to emphasize or draw attention to a particular aspect of a story or issue",
+      "context": "printing",
+      "meaning": "to print or mark text in a brighter color or with special formatting to make it stand out",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "theatre",
+      "meaning": "a bright beam of stage lighting directed at a performer or specific area of the stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a notable or memorable moment or achievement that stands out as significant",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to be the most interesting or exciting part of an event or experience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
     }
   ]
 }

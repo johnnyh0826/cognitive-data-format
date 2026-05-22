@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "prosecute",
-      "meaning": "carry out or participate in an activity; be involved in",
+      "context": "communication",
+      "meaning": "to establish or maintain contact with someone, typically by conversation or correspondence",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "absorb",
-      "meaning": "consume all of one's attention or time",
+      "context": "action",
+      "meaning": "to participate or become involved in an activity or process",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "hire",
-      "meaning": "engage or hire for work",
+      "context": "business",
+      "meaning": "to attract and hold the attention or interest of a customer or audience",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
       "context": "psychology",
-      "meaning": "to focus one's mental resources and attention on a particular task or activity",
+      "meaning": "to capture or occupy someone's thoughts or emotions in a meaningful way",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "to interlock or mesh with something, as gears or mechanical parts do",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "to enter into a contract or agreement, typically by pledge or promise",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "to lock or mesh together mechanically, as in the engagement of gears",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to pledge oneself to marry another person, typically marked by an exchange of rings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

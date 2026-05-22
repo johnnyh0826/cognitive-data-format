@@ -3,31 +3,43 @@
   "tracks": [
     {
       "id": "01",
-      "context": "all",
-      "meaning": "characterized by or producing sound of great volume or intensity",
+      "context": "music",
+      "meaning": "producing sound with great volume or intensity; having high acoustic power",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "brassy",
-      "meaning": "tastelessly showy",
+      "context": "communication",
+      "meaning": "speaking or expressing oneself with great volume or force; raising one's voice",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.4
     },
     {
       "id": "03",
-      "context": "forte",
-      "meaning": "used chiefly as a direction or description in music",
+      "context": "informal",
+      "meaning": "ostentatiously showy, flashy, or garish in appearance or style",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "psychological domain",
-      "meaning": "causing a strong emotional reaction or attention",
+      "context": "psychology",
+      "meaning": "emotionally expressive or demonstrative in a way that is difficult to ignore or subdue",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "aggressively noticeable or prominently marketed; difficult to miss in promotional campaigns",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

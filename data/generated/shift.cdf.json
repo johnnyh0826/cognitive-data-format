@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "an event in which something is displaced without rotation",
+      "context": "time",
+      "meaning": "a period of time during which someone works or is on duty, typically as part of a rotating schedule",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "transformation",
-      "meaning": "a qualitative change",
+      "context": "movement",
+      "meaning": "to move or cause to move from one place or position to another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "time",
-      "meaning": "the time period during which you are at work",
+      "context": "action",
+      "meaning": "a change or alteration in a particular situation or direction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "a change in the position of a celestial body relative to its orbit or trajectory",
+      "context": "clothing",
+      "meaning": "a woman's straight dress or skirt, or a loose outer garment",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "geology",
+      "meaning": "a large deposit or layer of ore or mineral in the earth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "printing",
+      "meaning": "the lateral movement of the print head or paper in a printing device",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "to change from one operating system or platform to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "a noticeable change in mood, attitude, or emotional state",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "music",
+      "meaning": "to change key during a musical composition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "business",
+      "meaning": "a change in business strategy or focus",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a cunning trick or underhand move",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "chemistry",
+      "meaning": "a change in chemical composition or reaction pathway",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "13",
+      "context": "penalty",
+      "meaning": "in ice hockey, a temporary removal of a player from play for a rule violation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
     }
   ]
 }

@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "a new branch",
+      "context": "action",
+      "meaning": "to fire a gun or other weapon at a target",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "the act of shooting at targets",
+      "context": "sports",
+      "meaning": "to score a goal or point in various sports",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "sports",
-      "meaning": "hit with a missile from a weapon",
+      "context": "theatre",
+      "meaning": "to film or record a scene or movie",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
       "context": "photography",
-      "meaning": "to take a photograph, especially quickly or casually",
+      "meaning": "to take a photograph or picture",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.22
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to move or travel quickly or suddenly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "to germinate and grow new sprouts or buds",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "farming",
+      "meaning": "a new stem or sprout growing from a plant",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "an injection of a vaccine or medication",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a chance or opportunity to try something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "business",
+      "meaning": "to attempt to gain a particular outcome or advantage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a statute in draft before it becomes law",
+      "context": "finance",
+      "meaning": "a statement of charges for goods or services provided; an invoice",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "an itemized statement of money owed for goods shipped or services rendered",
+      "context": "law",
+      "meaning": "a draft of a proposed law presented to a legislature for consideration",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "finance",
-      "meaning": "a piece of paper money (especially one issued by a central bank)",
+      "context": "anatomy",
+      "meaning": "the hard projecting part of a bird's head containing its mouth and teeth",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "medical",
-      "meaning": "a fold or crease in a body part, such as a bill of the nose",
+      "context": "theatre",
+      "meaning": "a playbill or printed program for a theatrical performance",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "a written or printed advertisement or public notice",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "to present or advertise publicly, especially by posting bills",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a banknote or paper money",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "an itemized list of goods shipped or services rendered with prices",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "entertainment",
+      "meaning": "a performer or group of performers listed on a program or advertisement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

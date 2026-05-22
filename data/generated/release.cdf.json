@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "merchandise issued for sale or public showing (especially a record or film)",
+      "context": "action",
+      "meaning": "to let something go or set it free from being held or confined",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.196
     },
     {
       "id": "02",
-      "context": "liberation",
-      "meaning": "the act of liberating someone or something",
+      "context": "law",
+      "meaning": "to allow a person to go free, especially after being arrested or imprisoned",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "03",
-      "context": "process",
-      "meaning": "a process that liberates or discharges something",
+      "context": "business",
+      "meaning": "to make a new product, film, song, or software publicly available for the first time",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.147
     },
     {
       "id": "04",
-      "context": "music industry",
-      "meaning": "the act of making a song or album available to the public for the first time",
+      "context": "technology",
+      "meaning": "a new version or update of a software application or system made available to users",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.176
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "to issue or publish a statement, document, or information to the public or media",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.098
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "to free oneself from strong emotions, tension, or psychological stress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.118
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "to discharge a patient from medical care or allow them to leave a hospital",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "08",
+      "context": "anatomy",
+      "meaning": "to discharge or emit a substance from the body such as hormones, fluids, or secretions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "storage",
+      "meaning": "to make stored or confined material available for use or distribution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "movement",
+      "meaning": "to allow something to move or flow freely after being held back or blocked",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "11",
+      "context": "sports",
+      "meaning": "to let go of or throw a ball or projectile in a game or athletic activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "music",
+      "meaning": "to officially distribute a song, album, or musical recording to the public",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "theatre",
+      "meaning": "a theatrical production or performance that is made available to audiences",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "finance",
+      "meaning": "the act of making funds or assets available for use or withdrawal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "15",
+      "context": "computing",
+      "meaning": "the action of making a new version of software available for download and installation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

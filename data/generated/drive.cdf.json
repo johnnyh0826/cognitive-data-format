@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "the act of applying force to propel something",
+      "context": "movement",
+      "meaning": "to operate a vehicle and move it from one place to another",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a mechanism by which force or power is transmitted in a machine",
+      "context": "psychology",
+      "meaning": "a strong motivation or ambition to achieve something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "campaign",
-      "meaning": "a series of actions advancing a principle or tending toward a particular end",
+      "context": "computing",
+      "meaning": "a data storage device in a computer, especially a hard disk drive",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a software application that provides a graphical user interface for managing and controlling a computer or other device",
+      "context": "action",
+      "meaning": "to push or propel something forward with force",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "to hit a ball, especially in golf or tennis, with a full swing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a campaign or coordinated effort to achieve a business objective",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "geography",
+      "meaning": "a road, track, or path, especially one created by repeated use",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to annoy, pester, or bother someone persistently",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "technology",
+      "meaning": "a powered mechanism that transmits motion or power in a machine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "10",
+      "context": "military",
+      "meaning": "an offensive operation or campaign to advance territory or objectives",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.002
+    },
+    {
+      "id": "11",
+      "context": "anatomy",
+      "meaning": "the act of forcing or pushing something deep into a body cavity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "12",
+      "context": "farming",
+      "meaning": "to operate a farm or tend to crops using machinery",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.001
+    },
+    {
+      "id": "13",
+      "context": "penalty",
+      "meaning": "a golf penalty or stroke assigned in sports gameplay",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.001
     }
   ]
 }

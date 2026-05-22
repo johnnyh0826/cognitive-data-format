@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a mass of small bubbles formed in or on a liquid",
+      "context": "food",
+      "meaning": "a mass of bubbles formed on the surface of a liquid, especially on beer or coffee",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
       "context": "chemistry",
-      "meaning": "a lightweight material in cellular form; made by introducing gas bubbles during manufacture",
+      "meaning": "a collection of gas bubbles trapped in a solid or liquid substance",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "change",
-      "meaning": "become bubbly or frothy or foaming",
+      "context": "action",
+      "meaning": "to produce or gather foam on a surface",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "weather",
-      "meaning": "a thick, cloudy layer of water vapor near the ground",
+      "context": "anatomy",
+      "meaning": "saliva or froth produced by an animal, especially when exerted or diseased",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "material",
+      "meaning": "a lightweight cellular material made from plastic or rubber used in cushioning and insulation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "06",
+      "context": "weather",
+      "meaning": "white frothy water created by breaking waves on the ocean or shore",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "trivial or insubstantial talk or ideas lacking depth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "protein-rich froth produced by certain aquatic insects or marine organisms",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "person",
-      "meaning": "an informal term for a father; probably derived from baby talk",
+      "context": "music",
+      "meaning": "a genre of electronic dance music characterized by repetitive beats and synthesized sounds",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "food",
-      "meaning": "a sweet drink containing carbonated water and flavoring",
+      "context": "action",
+      "meaning": "to burst, explode, or make a sudden sharp sound",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "a sharp explosive sound as from a gunshot or drawing a cork",
+      "context": "food",
+      "meaning": "a sweet carbonated beverage, typically flavored with fruit or cola",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a sudden, brief musical phrase or riff",
+      "context": "informal",
+      "meaning": "father or dad",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "medicine",
+      "meaning": "a sudden occurrence of a symptom or disease condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "the rounded prominence on the back of the neck or upper back",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a graphical window or display that appears suddenly on a screen",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "a term for a product release or market introduction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

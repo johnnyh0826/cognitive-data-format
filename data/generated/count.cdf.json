@@ -4,30 +4,98 @@
     {
       "id": "01",
       "context": "measurement",
-      "meaning": "the total number counted",
+      "meaning": "the total number of units or items determined by counting",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.277
     },
     {
       "id": "02",
       "context": "action",
-      "meaning": "the act of counting; reciting numbers in ascending order",
+      "meaning": "to determine the total number of something by adding one unit at a time",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.218
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "a nobleman (in various countries) having rank equal to a British earl",
+      "context": "law",
+      "meaning": "a separate charge or claim in a legal indictment or complaint",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.079
     },
     {
       "id": "04",
-      "context": "accounting",
-      "meaning": "the number of units or items in a particular category, such as count of assets or liabilities",
+      "context": "business",
+      "meaning": "to be important or have significance in a decision or outcome",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.178
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "a numerical value representing the number of occurrences or iterations in a program",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "the number of shares, items, or units held in inventory or investment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to include or consider someone or something as part of a group",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.099
+    },
+    {
+      "id": "08",
+      "context": "music",
+      "meaning": "a rhythmic signal given by a conductor or musician to mark the beat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "the total number of points scored by a team or player in a game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "psychology",
+      "meaning": "to rely on or depend on someone or something for support or assistance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "communication",
+      "meaning": "to be taken into account or considered in an evaluation or assessment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "12",
+      "context": "nobility",
+      "meaning": "a nobleman or aristocrat of a specified rank in European feudal systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

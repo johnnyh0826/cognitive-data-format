@@ -4,30 +4,58 @@
     {
       "id": "01",
       "context": "communication",
-      "meaning": "a brief description given for purposes of identification",
+      "meaning": "a piece of paper, sticker, or tag attached to something to identify, classify, or provide information about it",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "trade name of a company that produces musical recordings",
+      "context": "computing",
+      "meaning": "a metadata marker or tag used to categorize, organize, or identify digital content, files, or data",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "chemistry",
-      "meaning": "a radioactive isotope that is used in a compound in order to trace the mechanism of a chemical reaction",
+      "context": "action",
+      "meaning": "to attach a label to something; to mark or tag an object with identifying information",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a unique identifier assigned to a variable or object in programming",
+      "context": "business",
+      "meaning": "a company or brand that produces or markets goods, especially in music, fashion, or entertainment",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "to officially designate or classify something under a specific legal or regulatory category",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "to assign a name or category to a person or group, often in a way that influences perception or identity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "printing",
+      "meaning": "a printed or written mark on a container, package, or surface indicating contents, instructions, or branding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

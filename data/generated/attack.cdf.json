@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "(military) an offensive against an enemy (using weapons)",
+      "context": "military",
+      "meaning": "an aggressive action taken against an enemy, involving force or weapons",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "02",
       "context": "action",
-      "meaning": "an offensive move in a sport or game",
+      "meaning": "to physically assault or strike someone or something violently",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.077
     },
     {
       "id": "03",
-      "context": "fire",
-      "meaning": "intense adverse criticism",
+      "context": "psychology",
+      "meaning": "a sudden onset of a medical or emotional condition, such as a panic attack or asthma attack",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a sudden and intense demand for a resource or service, often resulting in overload or failure",
+      "context": "sports",
+      "meaning": "an offensive move or sequence in a game designed to score points or gain advantage",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "a criminal act of assault or aggression against a person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "a critical or negative statement directed at someone's character, beliefs, or position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.24
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a deliberate attempt to compromise, damage, or gain unauthorized access to a computer system or network",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "the act by which a disease, infection, or pest harms or affects an organism or plant",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "09",
+      "context": "business",
+      "meaning": "a critical challenge or threat to a company's market position or business model",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to begin doing something with vigor or enthusiasm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "11",
+      "context": "music",
+      "meaning": "the manner in which a musician starts playing a note, particularly regarding sharpness or clarity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "theatre",
+      "meaning": "the sudden entrance of an actor or character onto the stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

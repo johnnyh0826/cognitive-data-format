@@ -4,30 +4,58 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "a bony hollow into which a structure fits",
+      "meaning": "a hollow that something fits into, such as the eye socket where the eyeball sits",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "receptacle where something (a pipe or probe or end of a bone) is inserted",
+      "context": "computing",
+      "meaning": "a network interface that allows a computer to connect to other computers or devices over a network",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a receptacle into which an electric device can be inserted",
+      "context": "technology",
+      "meaning": "a hollow receptacle or opening into which something is inserted, such as a light bulb socket or electrical outlet",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.3
     },
     {
       "id": "04",
-      "context": "Computer Science",
-      "meaning": "A socket in computer networking is a endpoint for sending and receiving data, often used in protocols such as TCP/IP",
+      "context": "construction",
+      "meaning": "the part of a tool or implement that receives the handle or shaft, such as the socket of an axe",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "to hit a ball with solid contact, typically in cricket or baseball",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to strike or punch someone forcefully",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "a bony cavity in the skull or other bone structure that holds an organ or body part in place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

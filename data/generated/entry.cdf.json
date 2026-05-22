@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "an item inserted in a written record",
+      "context": "action",
+      "meaning": "the act of going or coming into a place or space",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "introduction",
-      "meaning": "the act of beginning something new",
+      "context": "storage",
+      "meaning": "an item or record placed in a book, list, database, or filing system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "finance",
-      "meaning": "a written record of a commercial transaction",
+      "context": "law",
+      "meaning": "a record of official proceedings, transactions, or legal documents filed in court",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.04
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a single instance of data inserted into a database or data structure",
+      "context": "business",
+      "meaning": "the right of access to a market, venue, or competition granted to a participant",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "a means of access to a computer system or application, typically requiring authentication",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "the act of an actor coming onto the stage as indicated in a script",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "a statement, remark, or word spoken or written as a contribution to a conversation or text",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "finance",
+      "meaning": "a recorded transaction or item of income and expenditure in an account or ledger",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "medicine",
+      "meaning": "the act of a patient being admitted into a hospital or medical facility",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "gambling",
+      "meaning": "permission to participate in a game, race, or sporting event",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "an attempt or effort to do something or to make a particular impression",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

@@ -4,30 +4,82 @@
     {
       "id": "01",
       "context": "biology",
-      "meaning": "(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground",
+      "meaning": "the part of a plant that grows downward into soil, absorbing water and nutrients",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "beginning",
-      "meaning": "the place where something begins, where it springs into being",
+      "context": "anatomy",
+      "meaning": "the basal or deepest part of a structure or organ in the body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "(linguistics) the form of a word after all affixes are removed",
+      "context": "computing",
+      "meaning": "the topmost directory or folder in a hierarchical file system from which all other directories branch",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "the top-most directory or folder in a file system, often referred to as the 'home' directory",
+      "context": "action",
+      "meaning": "to establish the base or foundation for something; to originate or trace back to a source",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "etymology",
+      "meaning": "the origin or earliest form of a word or linguistic element",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "mathematics",
+      "meaning": "a value that when multiplied by itself a specified number of times equals a given number",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "geology",
+      "meaning": "the underground part or base of a mineral deposit or ore body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "the fundamental cause, source, or origin of a problem or situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "the legal basis or ground upon which a claim or action is founded",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "music",
+      "meaning": "the fundamental note or tonal center of a chord or harmonic progression",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

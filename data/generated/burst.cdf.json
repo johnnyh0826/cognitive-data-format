@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "explosion",
-      "meaning": "the act of exploding or bursting",
+      "context": "action",
+      "meaning": "to break open or apart suddenly and violently",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "fusillade",
-      "meaning": "rapid simultaneous discharge of firearms",
+      "context": "weather",
+      "meaning": "a sudden violent outbreak or episode of something, especially rain or wind",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "a sudden flurry of activity (often for no obvious reason)",
+      "context": "time",
+      "meaning": "a sudden eruption or occurrence of activity lasting a short period",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a sudden increase in processing power or data transfer rate",
+      "context": "communication",
+      "meaning": "to speak or express something suddenly and abruptly",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "a sudden transmission of data packets over a network at high speed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a sudden attack or barrage of gunfire or explosions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "a break in continuity of skin or tissue, such as an abscess coming to a head",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "an outburst of anger, laughter, or other strong emotion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "music",
+      "meaning": "a sudden loud sound produced by an instrument or voice",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "sports",
+      "meaning": "a sudden and rapid increase in speed or effort during competition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "measurement",
+      "meaning": "the act of determining the breaking strength or capacity of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

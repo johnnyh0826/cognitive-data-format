@@ -3,31 +3,43 @@
   "tracks": [
     {
       "id": "01",
-      "context": "person",
-      "meaning": "one skilled in caring for young children or the sick (usually under the supervision of a physician)",
+      "context": "medicine",
+      "meaning": "a trained healthcare professional who provides patient care under the direction of physicians and other medical professionals",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.6
     },
     {
       "id": "02",
-      "context": "nanny",
-      "meaning": "a woman who is the custodian of children",
+      "context": "action",
+      "meaning": "to hold, care for, or tend to someone or something with attention and affection",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
       "context": "anatomy",
-      "meaning": "try to cure by special care of treatment, of an illness or injury",
+      "meaning": "a mammary gland or breast, especially of a mammal used for feeding young",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "education",
-      "meaning": "a person who is trained or qualified to care for others, often in a school or hospital setting",
+      "context": "informal",
+      "meaning": "to breastfeed an infant",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "to treat a psychological or emotional problem through gradual exposure and reassurance rather than direct intervention",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

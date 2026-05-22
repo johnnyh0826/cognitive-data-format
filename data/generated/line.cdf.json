@@ -3,31 +3,163 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a formation of people or things one beside another",
+      "context": "geometry",
+      "meaning": "a straight one-dimensional figure extending infinitely in both directions",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a mark that is long relative to its width",
+      "context": "movement",
+      "meaning": "a mark or stripe made by the movement of something across a surface",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.068
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "a formation of people or things one behind another",
+      "context": "communication",
+      "meaning": "a sequence of words in written or printed form, typically forming a row on a page",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.117
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "a set of connected points that extend infinitely in two directions, forming a plane figure",
+      "context": "business",
+      "meaning": "a series of products or services offered by a company in a particular category",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "the playing field or course where a sport is conducted, such as a race track",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "a sequence of recorded music or audio on an album or recording",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "the course or direction a ship or boat is traveling",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "railway",
+      "meaning": "a continuous metal rail or set of rails on which trains travel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a continuous rope or cable used in stage rigging and scenery movement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "queue",
+      "meaning": "a row of people or things waiting for something in order",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.146
+    },
+    {
+      "id": "11",
+      "context": "anatomy",
+      "meaning": "a narrow strip or band of tissue or color on the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "12",
+      "context": "military",
+      "meaning": "a formation or defensive position in combat or fortification",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "boundary",
+      "meaning": "the outer edge or perimeter of an area or region",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "14",
+      "context": "action",
+      "meaning": "to stand in a line or form a queue with others",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.097
+    },
+    {
+      "id": "15",
+      "context": "informal",
+      "meaning": "a brief written message or note, especially in communication",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "16",
+      "context": "fishing",
+      "meaning": "thin cord attached to a fishing rod used to catch fish",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "17",
+      "context": "gambling",
+      "meaning": "the odds or expected value set by a bookmaker for a bet",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "18",
+      "context": "finance",
+      "meaning": "a row of figures or text on a financial statement or bill",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "19",
+      "context": "electricity",
+      "meaning": "a conductor or wire carrying electric current from one point to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "20",
+      "context": "printing",
+      "meaning": "a single row of printed text on a page",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
     }
   ]
 }

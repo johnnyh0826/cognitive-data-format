@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a formation of aircraft in flight",
+      "context": "movement",
+      "meaning": "the act of traveling through the air from one place to another, typically in an aircraft",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.253
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "an instance of traveling by air",
+      "context": "aviation",
+      "meaning": "a scheduled journey of an aircraft between two or more destinations",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.354
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a stairway (set of steps) between one floor or landing and the next",
+      "context": "anatomy",
+      "meaning": "a group of muscles or nerve fibers that work together to produce movement",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "medical",
-      "meaning": "a sudden and intense feeling of excitement or euphoria, often accompanied by a sense of weightlessness",
+      "context": "action",
+      "meaning": "the act of fleeing or escaping from a place or situation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "a tactical maneuver by an aircraft or military unit to evade enemy fire",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "the instinctive response to retreat or escape when faced with danger or stress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a sudden departure or quick escape",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "08",
+      "context": "stairs",
+      "meaning": "a set of steps or staircase, particularly in informal usage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "09",
+      "context": "ornithology",
+      "meaning": "the act of birds moving through the air using their wings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "theatre",
+      "meaning": "a rapid sequence of choreographed movements or formations in a dance or performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "time",
+      "meaning": "a short period or stretch of time, as in 'in flight' meaning during the course of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

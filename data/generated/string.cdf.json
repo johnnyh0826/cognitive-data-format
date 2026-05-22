@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a lightweight cord",
+      "context": "music",
+      "meaning": "a thin cord or wire used to produce sound on musical instruments like guitars, violins, or pianos",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "bowed stringed instrument",
-      "meaning": "stringed instruments that are played with a bow",
+      "context": "anatomy",
+      "meaning": "a thin cord-like anatomical structure in the body, such as a tendon, ligament, or nerve fiber",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a tightly stretched cord of wire or gut, which makes sound when plucked, struck, or bowed",
+      "context": "action",
+      "meaning": "a series of objects or events threaded together in a line or sequence",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
       "context": "computing",
-      "meaning": "a sequence of characters in a programming language, used to represent text or data",
+      "meaning": "a sequence of characters or data stored as a continuous unit in a computer",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "printing",
+      "meaning": "a thin line or narrow mark made on a surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "measurement",
+      "meaning": "a very small distance or amount of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to string someone along means to keep someone interested or hopeful without committing to anything",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "a text or sequence of characters used in programming and data processing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "a condition attached to an offer or agreement that must be met",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "a series of words, messages, or statements connected together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

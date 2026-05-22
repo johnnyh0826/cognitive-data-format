@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "a small hard fruit",
+      "context": "farming",
+      "meaning": "a small hard object produced by a plant, containing an embryo that can grow into a new plant",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "a mature fertilized plant ovule consisting of an embryo and its food source and having a protective coat or testa",
+      "context": "action",
+      "meaning": "to plant seeds in soil for the purpose of growing crops or plants",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "seeded player",
-      "meaning": "one of the outstanding players in a tournament",
+      "context": "sports",
+      "meaning": "to give a competitor a designated ranking or position in a tournament bracket based on their skill level",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "biology",
-      "meaning": "a structure that produces a plant, such as an ovary or pistil in flowering plants",
+      "context": "gambling",
+      "meaning": "money or resources placed at the beginning of a poker game or betting round",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "biology",
+      "meaning": "a mature plant ovule containing an embryo capable of germination and growth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "an initial value provided to a random number generator to produce a sequence of pseudo-random numbers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to establish or start something as a foundation for future development",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "finance",
+      "meaning": "initial capital or funding provided to start a new business or venture",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "09",
+      "context": "technology",
+      "meaning": "the initial file or set of data used to begin a peer-to-peer file download or torrent",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "food",
+      "meaning": "small edible seeds from plants used as ingredients or condiments in cooking",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "law",
+      "meaning": "the source or origin of evidence in a legal case or investigation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "medicine",
+      "meaning": "a radioactive implant placed within body tissue for therapeutic radiation treatment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "the upper part of anything",
+      "context": "anatomy",
+      "meaning": "the uppermost or highest part of the human head",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
       "context": "geography",
-      "meaning": "the highest or uppermost side of anything",
+      "meaning": "the highest point of a hill, mountain, or other elevated surface",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.07
     },
     {
       "id": "03",
-      "context": "peak",
-      "meaning": "the top or extreme point of something (usually a mountain or hill)",
+      "context": "action",
+      "meaning": "to be at the highest position or to lead in a ranking or list",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "the highest or most prominent note in a melody or harmony",
+      "context": "business",
+      "meaning": "a senior manager or executive in a company or organization",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "clothing",
+      "meaning": "a piece of clothing worn on the upper body such as a shirt or blouse",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "the winning position in a competition or the highest score achieved",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "spinning",
+      "meaning": "a child's toy that spins rapidly on a pointed base",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "music",
+      "meaning": "a popular or successful song or recording",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "09",
+      "context": "measurement",
+      "meaning": "the uppermost limit or maximum level of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "of the highest quality or excellence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "11",
+      "context": "nautical",
+      "meaning": "a platform at the head of a ship's mast",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "gambling",
+      "meaning": "a spinning toy or game of chance involving a spinning object",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "printing",
+      "meaning": "the upper margin or edge of a printed page",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "storage",
+      "meaning": "a lid or cover for a container",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

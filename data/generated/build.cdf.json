@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "physique",
-      "meaning": "constitution of the human body",
+      "context": "construction",
+      "meaning": "to construct or erect a structure such as a building, bridge, or other physical structure",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "human body",
-      "meaning": "alternative names for the body of a human being",
+      "context": "action",
+      "meaning": "to construct or create something gradually or progressively",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "construct",
-      "meaning": "make by combining materials and parts",
+      "context": "anatomy",
+      "meaning": "the physical form, structure, or shape of a person's body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "architecture",
-      "meaning": "to design and construct (something, such as a building or a system) according to plans",
+      "context": "business",
+      "meaning": "to develop or establish a company, brand, or business enterprise",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "to strengthen or develop a skill, confidence, or positive quality over time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "to compile or create executable software from source code",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "muscular physique or physical development, especially in bodybuilding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "geography",
+      "meaning": "to accumulate or increase in amount or intensity gradually",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "to develop fitness, strength, or momentum in preparation for athletic performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "to establish rapport, trust, or a relationship with someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

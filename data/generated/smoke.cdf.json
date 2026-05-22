@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "phenomenon",
-      "meaning": "a cloud of fine particles suspended in a gas",
+      "context": "action",
+      "meaning": "to emit or produce smoke, especially from fire or burning material",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "process",
-      "meaning": "a hot vapor containing fine particles of carbon being produced by combustion",
+      "context": "weather",
+      "meaning": "a visible vapor or gas produced by burning or combustion",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "an indication of some hidden activity",
+      "context": "military",
+      "meaning": "a smoke screen or obscuring cloud used to conceal military movements or positions",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": " idiomatic expression",
-      "meaning": "to gossip or spread rumors about someone",
+      "context": "medicine",
+      "meaning": "to cure or preserve food by exposing it to smoke",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "food",
+      "meaning": "meat or fish that has been cured by exposure to smoke",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "something that is insubstantial, fleeting, or without real value",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "to hit or throw a ball with great speed and force",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "theatre",
+      "meaning": "a theatrical effect created by producing smoke on stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "chemistry",
+      "meaning": "a suspension of fine particles or gases in air resulting from combustion or chemical reaction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "law",
+      "meaning": "to conceal or obscure something deliberately, often for illegal purposes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

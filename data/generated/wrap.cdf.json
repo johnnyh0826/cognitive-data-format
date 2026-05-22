@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "cloak that is folded or wrapped around a person",
+      "context": "action",
+      "meaning": "to cover or enclose something by winding material around it",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
       "context": "food",
-      "meaning": "a sandwich in which the filling is rolled up in a soft tortilla",
+      "meaning": "a sandwich or filling rolled in a tortilla or flatbread",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "wrapping",
-      "meaning": "the covering (usually paper or cellophane) in which something is wrapped",
+      "context": "clothing",
+      "meaning": "a garment worn around the shoulders or body for warmth or style",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "to enclose or surround something, such as an equation or a set of values",
+      "context": "theatre",
+      "meaning": "to complete or finish a performance or film shoot",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "to conclude or finalize a deal or transaction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to understand or comprehend something; to 'get' an idea",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "to enclose code or data in a protective layer or interface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "to wind around something in a circular or spiral manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "music",
+      "meaning": "to complete a recording session or musical performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

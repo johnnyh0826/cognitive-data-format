@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "a drawback or difficulty that is not readily evident",
+      "context": "sports",
+      "meaning": "to intercept and hold a moving ball or object before it reaches the ground",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "measurement",
-      "meaning": "the quantity that was caught",
+      "context": "action",
+      "meaning": "to capture, seize, or apprehend a person or animal",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "a person regarded as a good matrimonial prospect",
+      "context": "informal",
+      "meaning": "to become infected with or contract a disease or illness",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "sports",
-      "meaning": "to gain possession of (a ball, puck, etc.) in a game",
+      "context": "anatomy",
+      "meaning": "a latch or fastening mechanism that closes or secures something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "storage",
+      "meaning": "a container or receptacle for holding or collecting items",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "a hidden or concealed mechanism used to produce a theatrical effect or trap",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "a trick or deception used to ensnare someone in conversation or agreement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "08",
+      "context": "music",
+      "meaning": "a recorded piece or section of a song or album",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "a dismissal or elimination from a game due to an infraction or rule violation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "nautical",
+      "meaning": "a device used to anchor or secure a vessel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "technology",
+      "meaning": "an obstacle or hazard in a video game or digital system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

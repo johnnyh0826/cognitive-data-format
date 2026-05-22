@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "the act of delivering a blow with the foot",
+      "context": "sports",
+      "meaning": "to strike a ball or opponent with the foot in football, soccer, or martial arts",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "bang",
-      "meaning": "the swift release of a store of affective force",
+      "context": "action",
+      "meaning": "to strike or hit something forcefully with the foot",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "recoil",
-      "meaning": "the backward jerk of a gun when it is fired",
+      "context": "informal",
+      "meaning": "to start or begin something with energy or enthusiasm",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "sports",
-      "meaning": "to strike a ball or puck with one's foot, as in soccer or ice hockey",
+      "context": "penalty",
+      "meaning": "a free kick awarded in soccer as a penalty for a foul",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "music",
+      "meaning": "a distinctive style or rhythmic pattern in music, especially in hip-hop or funk",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "a sudden movement of the leg or foot, especially involuntary or from a fetus",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "to propel oneself forward by pushing with the legs, as in swimming",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

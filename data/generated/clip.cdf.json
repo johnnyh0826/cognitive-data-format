@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "cartridge holder",
-      "meaning": "a metal frame or container holding cartridges; can be inserted into an automatic gun",
+      "context": "action",
+      "meaning": "to cut or trim something short with scissors or a sharp tool",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "time",
-      "meaning": "an instance or single occasion for some event",
+      "context": "movement",
+      "meaning": "to move quickly or at a brisk pace",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "any of various small fasteners used to hold loose articles together",
+      "context": "storage",
+      "meaning": "a device that holds or fastens papers or objects together",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "photography",
-      "meaning": "a frame or holder for a camera's film, used to advance or rewind it",
+      "context": "communication",
+      "meaning": "a short extract or segment from a film, video, or audio recording",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "to hit or strike an opponent illegally in rugby or American football",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "penalty",
+      "meaning": "an illegal blocking or hitting technique in contact sports that results in a penalty",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "a metallic or plastic fastener used in medical procedures to hold tissue together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "computing",
+      "meaning": "a short sequence of code or a saved piece of digital content for reuse",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to hit or strike someone or something sharply",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "military",
+      "meaning": "a magazine or container that holds ammunition for a firearm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

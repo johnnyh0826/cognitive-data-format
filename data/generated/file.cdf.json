@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a set of related records (either written or electronic) kept together",
+      "context": "computing",
+      "meaning": "a collection of data or documents stored and organized in a computer system",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "a line of persons or things ranged one behind the other",
+      "context": "action",
+      "meaning": "to arrange documents, records, or objects in order or sequence",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "office furniture consisting of a container for keeping papers in order",
+      "context": "law",
+      "meaning": "a formal written record of a legal case, complaint, or official proceeding",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a collection of data stored in a computer's memory or on a storage device",
+      "context": "construction",
+      "meaning": "a tool with a handle and a flat metal surface used to smooth, shape, or finish materials",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "storage",
+      "meaning": "a cabinet, box, or organized container for keeping documents or objects in order",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a person or group of people with a dubious reputation or unreliable character",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "a line of soldiers marching or standing one behind another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "printing",
+      "meaning": "a copy or version of a document that has been filed or archived",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "to transmit or send a document, report, or formal submission to a recipient",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

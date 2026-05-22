@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "sloping land (especially the slope beside a body of water)",
+      "context": "finance",
+      "meaning": "a financial institution that accepts deposits, makes loans, and provides related services",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "depository financial institution",
-      "meaning": "a financial institution that accepts deposits and channels the money into lending activities",
+      "context": "geography",
+      "meaning": "the sloping ground beside a river, lake, or other body of water",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a long ridge or pile",
+      "context": "storage",
+      "meaning": "a long structure or container used for holding or arranging things",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "nautical",
-      "meaning": "the side of a ship or boat that is opposite the stem (front) and includes the quarterdeck",
+      "context": "action",
+      "meaning": "to deposit money in a financial institution for safekeeping or interest",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to tilt or tip to one side during a turn or maneuver",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "gambling",
+      "meaning": "the reserve of money or chips held by the dealer or casino in a game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a collection of data or memory organized for storage and retrieval in a computer system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "farming",
+      "meaning": "to arrange soil, seeds, or plants in rows or raised formations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a row or series of similar things arranged together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a thing constructed; a complex entity constructed of many parts",
+      "context": "anatomy",
+      "meaning": "the arrangement and interconnection of bones, muscles, organs, and tissues in a living organism",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "the manner of construction of something and the arrangement of its parts",
+      "context": "construction",
+      "meaning": "a building or other object constructed from materials assembled together",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.152
     },
     {
       "id": "03",
-      "context": "psychology",
-      "meaning": "the complex composition of knowledge as elements and their combinations",
+      "context": "computing",
+      "meaning": "the way data is organized and formatted in a database, program, or file system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.121
     },
     {
       "id": "04",
-      "context": "biology",
-      "meaning": "the organization of cells, tissues, and organs in an organism",
+      "context": "geology",
+      "meaning": "the arrangement and organization of rocks, minerals, and strata in the Earth's crust",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "chemistry",
+      "meaning": "the arrangement of atoms and bonds in a molecule or compound",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "the organization and arrangement of parts in a living organism or biological system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "07",
+      "context": "linguistics",
+      "meaning": "the organized system of rules and patterns that form a language or sentence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "organization",
+      "meaning": "the system of ranks, departments, and relationships within an institution or company",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.182
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "the underlying framework or pattern of thoughts, beliefs, or behaviors",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.061
+    },
+    {
+      "id": "10",
+      "context": "action",
+      "meaning": "to arrange or organize something in a particular way",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "11",
+      "context": "communication",
+      "meaning": "the organization and arrangement of ideas or information in writing or speech",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "12",
+      "context": "music",
+      "meaning": "the organized arrangement of musical elements including melody, harmony, and form",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "informal",
+      "meaning": "the way something is physically built or put together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

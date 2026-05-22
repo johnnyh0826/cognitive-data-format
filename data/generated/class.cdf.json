@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a collection of things sharing a common attribute",
+      "context": "education",
+      "meaning": "a group of students taught together, or a course of instruction in a particular subject",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "a body of students who are taught together",
+      "context": "social",
+      "meaning": "a social group or stratum of society distinguished by economic or cultural status",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "people having the same social, economic, or educational status",
+      "context": "biology",
+      "meaning": "a taxonomic group ranking below phylum and above order in biological classification",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "education",
-      "meaning": "a level of academic standing or ranking, such as a class of freshman or senior students",
+      "context": "computing",
+      "meaning": "a category or type in object-oriented programming that defines properties and methods for creating objects",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "theatre",
+      "meaning": "a group of actors or performers who work together as a theatrical company",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "a legal category or division, such as a class of shares or a class action lawsuit",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "a category of military rank, ship, or weapon classified by size, power, or function",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "elegance, style, or high quality; sophistication or dignity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "09",
+      "context": "action",
+      "meaning": "to assign something or someone to a particular category or rank",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "measurement",
+      "meaning": "a grade or standard of quality or excellence used for classification",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

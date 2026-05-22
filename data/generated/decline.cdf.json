@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "process",
-      "meaning": "change toward something smaller or lower",
+      "context": "action",
+      "meaning": "to move downward or slope downward in direction or position",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "a condition inferior to an earlier condition; a gradual falling off from a better state",
+      "context": "business",
+      "meaning": "a decrease in sales, profits, or business performance",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "decay",
-      "meaning": "a gradual decrease; as of stored charge or current",
+      "context": "finance",
+      "meaning": "a downward movement in the price or value of a stock, currency, or asset",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "to refuse or turn down an offer, proposal, or request",
+      "context": "communication",
+      "meaning": "to politely refuse an offer, invitation, or request",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.28
+    },
+    {
+      "id": "05",
+      "context": "medicine",
+      "meaning": "a period of mental or physical deterioration, especially in health or cognitive function",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "a downward slope or incline of terrain or a hillside",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "time",
+      "meaning": "the later part of a period such as the day, year, or a person's life",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "a formal refusal to accept jurisdiction or proceed with a legal case",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to become weaker or less good in condition or standards",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

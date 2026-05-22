@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "weight to be borne or conveyed",
+      "context": "computing",
+      "meaning": "to transfer data or a program from storage into a computer's memory or processor",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "02",
-      "context": "measurement",
-      "meaning": "a quantity that can be processed or transported at one time",
+      "context": "movement",
+      "meaning": "to carry or transport something heavy from one place to another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.16
     },
     {
       "id": "03",
-      "context": "cargo",
-      "meaning": "goods carried by a large vehicle",
+      "context": "storage",
+      "meaning": "a quantity of goods or cargo that is being carried or held",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "to initialize or set up a program, software, or system for operation",
+      "context": "finance",
+      "meaning": "an amount of money borrowed that must be repaid with interest",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "a mental or emotional burden or responsibility",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "the amount of ammunition, equipment, or supplies that a soldier or vehicle carries",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "construction",
+      "meaning": "the weight or structural stress placed on a beam, wall, or foundation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "the amount of data or processing demand placed on a system or network",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a large quantity or number of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "10",
+      "context": "action",
+      "meaning": "to put cargo or passengers onto a vehicle, ship, or aircraft",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "business",
+      "meaning": "to input data or information into a system or document",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "nautical",
+      "meaning": "cargo or freight being transported by a ship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

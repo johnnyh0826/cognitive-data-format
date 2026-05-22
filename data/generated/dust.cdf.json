@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "fine powdery material such as dry earth or pollen that can be blown about in the air",
+      "context": "weather",
+      "meaning": "fine particles of matter such as soil, sand, or powder suspended in or settling from the air",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "debris",
-      "meaning": "the remains of something that has been destroyed or broken up",
+      "context": "action",
+      "meaning": "to cover or sprinkle something with a fine powder or particulate substance",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "chemistry",
-      "meaning": "free microscopic particles of solid material",
+      "context": "geology",
+      "meaning": "fine sedimentary particles smaller than sand, typically composed of minerals and rock fragments",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a type of jazz music characterized by improvisation and a strong emphasis on rhythm",
+      "context": "anatomy",
+      "meaning": "a fine powder applied to the skin, typically for cosmetic or medicinal purposes",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "cleaning",
+      "meaning": "fine particles of dirt or debris that accumulate on surfaces or floors",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to kill or eliminate someone or something, often used in slang",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "astronomy",
+      "meaning": "fine particles of matter scattered in space between stars",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "chemistry",
+      "meaning": "a fine solid powder produced from the breakdown or grinding of a substance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "medicine",
+      "meaning": "fine particles that can be inhaled, potentially causing respiratory irritation or disease",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "movement",
+      "meaning": "to scatter or disperse something into fine particles",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

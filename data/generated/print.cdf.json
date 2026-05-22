@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "the text appearing in a book, newspaper, or other printed publication",
+      "context": "printing",
+      "meaning": "the process of reproducing text or images on paper or other material using ink and a printing press or digital printer",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.152
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a picture or design printed from an engraving",
+      "context": "computing",
+      "meaning": "to send data from a computer to a printer or to output text to a display or file",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.253
     },
     {
       "id": "03",
-      "context": "mark",
-      "meaning": "a visible indication made on a surface",
+      "context": "action",
+      "meaning": "to press or impress something onto a surface, leaving a mark or pattern",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "04",
-      "context": "Computer Science",
-      "meaning": "the process of outputting data or text onto a physical medium, such as paper or plastic",
+      "context": "anatomy",
+      "meaning": "a distinctive mark or impression left by a fingertip, footstep, or other body part, used for identification",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.182
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "published or written material in the form of books, newspapers, or magazines",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "06",
+      "context": "photography",
+      "meaning": "a photographic image produced on paper or another medium from a negative or digital file",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.071
+    },
+    {
+      "id": "07",
+      "context": "textiles",
+      "meaning": "a pattern or design reproduced on fabric through a dyeing or stamping process",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.061
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to produce a visible mark or impression as a result of pressure or contact",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.061
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "to make a permanent or official record of something in written form",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

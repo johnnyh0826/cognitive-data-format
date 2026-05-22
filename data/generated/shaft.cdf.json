@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a line that forms the length of an arrow pointer",
+      "context": "anatomy",
+      "meaning": "the long bone in the upper arm between the shoulder and elbow",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "shot",
-      "meaning": "an aggressive remark directed at a person like a missile and intended to have a telling effect",
+      "context": "technology",
+      "meaning": "a rotating rod or axle that transmits power or motion in machinery",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a long rod or pole (especially the handle of an implement or the body of a weapon like a spear or arrow)",
+      "context": "construction",
+      "meaning": "a vertical passage through a building for pipes, wires, or ventilation ducts",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "engineering",
-      "meaning": "a vertical or inclined passageway or tunnel, especially in a building or structure",
+      "context": "mining",
+      "meaning": "a deep narrow excavation or borehole sunk into the earth",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "geology",
+      "meaning": "a vertical or inclined passage in a mine for accessing minerals or coal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "to treat someone unfairly or cruelly by denying them something deserved",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a dismissive or derogatory reference to a person, used as an insult",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "sports",
+      "meaning": "the act of throwing or pitching a ball in cricket or similar sports",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "a beam or pole used to transmit motion or force in mechanical systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

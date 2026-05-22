@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "state",
-      "meaning": "a state of arrangement or appearance",
+      "context": "action",
+      "meaning": "to cut or make neat by removing excess material from edges or borders",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "trimming",
-      "meaning": "a decoration or adornment on a garment",
+      "context": "anatomy",
+      "meaning": "to reduce body weight or fat, typically through diet and exercise",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "relationship",
-      "meaning": "attitude of an aircraft in flight when allowed to take its own orientation",
+      "context": "business",
+      "meaning": "to reduce costs or expenses, often by cutting non-essential items",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "Finance",
-      "meaning": "to reduce or eliminate unnecessary costs or expenses",
+      "context": "computing",
+      "meaning": "to remove unnecessary data or files to reduce file size or storage space",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "05",
+      "context": "construction",
+      "meaning": "narrow strips of wood or metal used as finishing pieces around doors, windows, or walls",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "fashion",
+      "meaning": "a neat and orderly appearance or condition of clothing and personal grooming",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "geography",
+      "meaning": "the slope or angle of a roof or structural surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "in good condition or proper working order, or well-organized and neat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "09",
+      "context": "nautical",
+      "meaning": "to adjust the sails and rigging of a boat to catch the wind efficiently",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "printing",
+      "meaning": "to cut paper or printed sheets to a specified size or remove excess margins",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "theatre",
+      "meaning": "to remove or cut portions of a script or performance for length or pacing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

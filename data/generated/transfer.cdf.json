@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "transportation",
-      "meaning": "the act of moving something from one location to another",
+      "context": "movement",
+      "meaning": "the act of moving something or someone from one place to another",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.152
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "someone who transfers or is transferred from one position to another",
+      "context": "finance",
+      "meaning": "the movement of money from one account, person, or institution to another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.253
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "the act of transfering something from one form to another",
+      "context": "computing",
+      "meaning": "the process of moving data or files from one storage location or device to another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.182
     },
     {
       "id": "04",
-      "context": "Finance",
-      "meaning": "the act of transferring ownership or title of an asset, such as a stock or property, from one person to another",
+      "context": "sports",
+      "meaning": "a shift in a player's position or assignment during a game or season",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "the legal conveyance of property, rights, or ownership from one party to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "the application of knowledge or skills learned in one context to a different context",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "the relocation of a patient from one facility, unit, or care setting to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "military",
+      "meaning": "the movement of troops, equipment, or military personnel from one location to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "education",
+      "meaning": "the movement of a student from one school, course, or educational program to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.061
+    },
+    {
+      "id": "10",
+      "context": "business",
+      "meaning": "the reassignment of an employee to a different position, department, or location",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.071
+    },
+    {
+      "id": "11",
+      "context": "communication",
+      "meaning": "the transmission or relaying of information, messages, or design from one person or medium to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "12",
+      "context": "printing",
+      "meaning": "the process of moving an image or design from one surface to another using pressure or heat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "technology",
+      "meaning": "the exchange or sending of information between devices, systems, or networks",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "14",
+      "context": "action",
+      "meaning": "a movement or shift from one state, position, or condition to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "15",
+      "context": "informal",
+      "meaning": "to move oneself or change one's circumstances in a decisive or purposeful way",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

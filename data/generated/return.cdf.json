@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "tax return",
-      "meaning": "document giving the tax collector information about the taxpayer's tax liability",
+      "context": "action",
+      "meaning": "to come or go back to a place or person",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.272
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "a coming to or returning home",
+      "context": "computing",
+      "meaning": "to exit a function or procedure and pass a value back to the calling code",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.117
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "the occurrence of a change in direction back in the opposite direction",
+      "context": "finance",
+      "meaning": "profit or income gained from an investment or business activity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.175
     },
     {
       "id": "04",
-      "context": "Business",
-      "meaning": "to bring back or restore something, such as an investment or a product, to its original state or condition",
+      "context": "time",
+      "meaning": "the act of coming back after a period of absence",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.117
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "an official report or document submitted to authorities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "a tennis stroke that is hit back to an opponent",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "the sending back of merchandise by a customer due to dissatisfaction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "a journey or trip that goes back to the starting point",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "the act of striking a ball back toward an opponent in racquet sports",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "theatre",
+      "meaning": "a key on a keyboard that moves to the next line or activates a function",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.068
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a witty or cutting remark made in response to a comment or insult",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "the reappearance of a suppressed thought or behavior in the conscious mind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "communication",
+      "meaning": "information or a response given in answer to an inquiry or request",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
     }
   ]
 }

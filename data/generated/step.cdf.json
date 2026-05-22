@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "measure",
-      "meaning": "any maneuver made as part of progress toward a goal",
+      "context": "movement",
+      "meaning": "a single pace or stride in walking or running",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "footstep",
-      "meaning": "the distance covered by a step",
+      "context": "action",
+      "meaning": "a measure or action taken to accomplish something or move toward a goal",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.4
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "the act of changing location by raising the foot and setting it down",
+      "context": "dance",
+      "meaning": "a sequence of movements performed in dancing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
       "context": "music",
-      "meaning": "a rhythmic pattern or sequence of sounds in music, often used as a basis for further development",
+      "meaning": "a song or piece of music on a recording or album",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "the angle of slope or incline of a surface or roof",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "any of the patterns or lines on the sole of a foot or shoe that provide traction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a humorous or awkward action done to impress or gain favor from someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "a penalty in ice hockey where a player is removed from play for a set time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "09",
+      "context": "military",
+      "meaning": "a single march or movement in a military drill or formation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "psychology",
+      "meaning": "an action taken in a sequence toward achieving a psychological or emotional goal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "computing",
+      "meaning": "a single instruction or operation in a program or algorithm execution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

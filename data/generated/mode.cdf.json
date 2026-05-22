@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "manner",
-      "meaning": "how something is done or how it happens",
+      "context": "computing",
+      "meaning": "a particular way or setting in which a software application or system operates",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.354
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "a particular functioning condition or arrangement",
+      "context": "music",
+      "meaning": "a rhythmic pattern or style that forms the basis of a musical composition",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "03",
-      "context": "modality",
-      "meaning": "a classification of propositions on the basis of whether they claim necessity or possibility or impossibility",
+      "context": "fashion",
+      "meaning": "a prevailing style, trend, or manner of dress and appearance",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a specific set of notes or pitches used in a piece of music",
+      "context": "psychology",
+      "meaning": "a typical or characteristic manner of behaving or operating",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "05",
+      "context": "statistics",
+      "meaning": "the value that appears most frequently in a set of data",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "a way or method of doing something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.182
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "the form or manner in which legal proceedings are conducted",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "a particular pattern or state of a disease or medical condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "a way of expressing oneself or conveying information",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "10",
+      "context": "living",
+      "meaning": "a particular way or standard of living and lifestyle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a person's way of behaving or attitude in a particular situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "12",
+      "context": "theatre",
+      "meaning": "the current arrangement or setting of scenery and props on stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

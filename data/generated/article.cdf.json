@@ -4,30 +4,58 @@
     {
       "id": "01",
       "context": "communication",
-      "meaning": "nonfictional prose forming an independent part of a publication",
+      "meaning": "a piece of writing on a specific subject published in a newspaper, magazine, journal, or online publication",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "Tops",
-      "meaning": "one of a class of artifacts",
+      "context": "law",
+      "meaning": "a clause or section of a legal document, contract, agreement, or statute",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a separate section of a legal document (as a statute or contract or will)",
+      "context": "grammar",
+      "meaning": "a word or phrase, typically a noun or pronoun, used in a sentence to denote a thing or concept",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "journalism",
-      "meaning": "a written piece on a particular topic, typically published in a newspaper or magazine",
+      "context": "commerce",
+      "meaning": "a commodity or item offered for sale or trade",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "printing",
+      "meaning": "a separate item or section in a printed work or publication",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "a movable part of the body, particularly a limb or joint in anatomy and medicine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a thing or object of any kind, used in a vague or dismissive manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

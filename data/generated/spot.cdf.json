@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "topographic point",
-      "meaning": "a point located with respect to surface features of some region",
+      "context": "action",
+      "meaning": "to notice or perceive something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising",
+      "context": "geography",
+      "meaning": "a small area or region of land with particular characteristics",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "point",
-      "meaning": "an outstanding characteristic",
+      "context": "finance",
+      "meaning": "a small amount of money paid as a deposit or down payment",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "a small, dark area on the Sun's surface that is cooler than the surrounding material",
+      "context": "sports",
+      "meaning": "a position in sports where a player is assigned to guard or cover an opponent",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "theatre",
+      "meaning": "a spotlight or theatrical lighting device that illuminates a performer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "medicine",
+      "meaning": "a lesion, mark, or visible sign of disease on the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "gambling",
+      "meaning": "a place where illegal gambling or other illicit activities occur",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "to sell or promote goods, typically in an informal or unauthorized manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "an embarrassing or awkward situation or predicament",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "penalty",
+      "meaning": "a penalty kick or free kick awarded in sports like soccer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "printing",
+      "meaning": "a small mark or dot made by a printing or engraving process",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "computing",
+      "meaning": "to identify and locate a particular data point or value in a system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

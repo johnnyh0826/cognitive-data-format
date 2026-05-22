@@ -3,31 +3,131 @@
   "tracks": [
     {
       "id": "01",
-      "context": "state",
-      "meaning": "the state of being free of suspicion",
+      "context": "action",
+      "meaning": "to remove obstructions or unwanted items from a space or surface",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "02",
-      "context": "open",
-      "meaning": "a clear or unobstructed space or expanse of land or water",
+      "context": "communication",
+      "meaning": "easy to perceive, understand, or interpret without confusion or ambiguity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "unclutter",
-      "meaning": "rid of obstructions",
+      "context": "weather",
+      "meaning": "free from clouds, rain, or other precipitation; bright and sunny",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "communication",
-      "meaning": "easy to understand, concise and straightforward",
+      "context": "vision",
+      "meaning": "transparent or allowing light to pass through so objects can be seen clearly",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "to declare someone innocent or free from legal charges or suspicion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "to earn as profit or net income after all deductions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "to pass or be approved through official procedures or authorization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "computing",
+      "meaning": "to delete or erase data from a storage device or memory",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "medicine",
+      "meaning": "free from disease, infection, or visible symptoms or abnormalities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "10",
+      "context": "anatomy",
+      "meaning": "free from blemishes, spots, or skin imperfections",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "psychology",
+      "meaning": "mentally lucid and free from confusion or altered states of consciousness",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "12",
+      "context": "informal",
+      "meaning": "used as an intensifier meaning 'completely' or 'absolutely' in a phrase like 'clear across'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "13",
+      "context": "measurement",
+      "meaning": "easily measurable or visible as a distinct distance or space",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "14",
+      "context": "penalty",
+      "meaning": "to be acquitted of or have no remaining obligation regarding a debt or charge",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "military",
+      "meaning": "to secure an area by removing enemy forces or obstacles",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "16",
+      "context": "nautical",
+      "meaning": "to pass safely without collision or entanglement with an object or shore",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

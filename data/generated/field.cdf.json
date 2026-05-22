@@ -3,31 +3,131 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "a piece of land cleared of trees and usually enclosed",
+      "context": "farming",
+      "meaning": "an area of land used for growing crops or raising livestock",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "02",
-      "context": "battlefield",
-      "meaning": "a region where a battle is being (or has been) fought",
+      "context": "geography",
+      "meaning": "a region or area of the earth's surface with particular characteristics",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected",
+      "context": "sports",
+      "meaning": "the area of play in sports like cricket, soccer, or American football",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.173
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "a region of space where stars or other celestial objects are concentrated",
+      "context": "computing",
+      "meaning": "a named variable or data structure that stores information in a database or program",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to play or operate a sports position or role in a game or activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a specialized area of military operations or a military base",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "a domain or specialty within medical science and healthcare",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "a particular industry, profession, or area of commercial activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "an area of study or specialization within psychological research and practice",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "a subject area or topic under discussion or study",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "11",
+      "context": "law",
+      "meaning": "an area of legal practice or jurisdiction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "12",
+      "context": "theology",
+      "meaning": "an area of academic or practical study and research",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "physics",
+      "meaning": "a region of space in which a force or influence exists, such as a magnetic or gravitational field",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "14",
+      "context": "theatre",
+      "meaning": "the area visible to an audience from the stage in a theater or performance space",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "painting",
+      "meaning": "the background or space upon which the primary subject is depicted",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "16",
+      "context": "informal",
+      "meaning": "to catch or stop a ball in sports, especially baseball or cricket",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+      "context": "fashion",
+      "meaning": "a set of clothes consisting of a jacket and trousers or skirt made from the same fabric",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "lawsuit",
-      "meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+      "context": "law",
+      "meaning": "a legal action or case brought before a court",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "(slang) a businessman dressed in a business suit",
+      "context": "business",
+      "meaning": "a set of playing cards held by a player in card games",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "card games",
-      "meaning": "a set of cards with a specific combination and ranking, used in various card games such as bridge or poker",
+      "context": "action",
+      "meaning": "to be appropriate or acceptable for someone or something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "05",
+      "context": "gambling",
+      "meaning": "a hand of cards in a card game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to meet someone's needs or preferences perfectly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "theatre",
+      "meaning": "a set of clothes worn by an actor in a performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

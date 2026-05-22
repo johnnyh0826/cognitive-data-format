@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "degree",
-      "meaning": "a position on a scale of intensity or amount or quality",
+      "context": "measurement",
+      "meaning": "a position on a vertical scale indicating height, depth, or extent",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.243
     },
     {
       "id": "02",
-      "context": "grade",
-      "meaning": "a relative position or degree of value in a graded group",
+      "context": "action",
+      "meaning": "to make something horizontal or even",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.146
     },
     {
       "id": "03",
-      "context": "degree",
-      "meaning": "a specific identifiable position in a continuum or series or especially in a process",
+      "context": "geography",
+      "meaning": "a flat area of land or terrain",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a stage or phase in a game, especially one that must be completed before progressing further",
+      "context": "business",
+      "meaning": "a degree of authority, responsibility, or position within an organization",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.175
+    },
+    {
+      "id": "05",
+      "context": "technology",
+      "meaning": "a layer or tier in a software architecture or system design",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "a horizontal line in musical notation used as a reference for pitches",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "psychology",
+      "meaning": "a state of mental or emotional stability or equilibrium",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.068
+    },
+    {
+      "id": "08",
+      "context": "construction",
+      "meaning": "a horizontal plane or surface that is even and perpendicular to gravity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "09",
+      "context": "anatomy",
+      "meaning": "a horizontal measurement or assessment in medical examination",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "10",
+      "context": "military",
+      "meaning": "a degree of intensity or readiness in operational status",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "11",
+      "context": "gaming",
+      "meaning": "a distinct stage or difficulty setting in a video game or game progression",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "12",
+      "context": "informal",
+      "meaning": "to be honest or truthful, as in 'to level with someone'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "13",
+      "context": "penalty",
+      "meaning": "a grade or classification of offense or severity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "a place (seaport or airport) where people and merchandise can enter or leave a country",
+      "context": "nautical",
+      "meaning": "a harbor or haven where ships may moor in shelter",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "food",
-      "meaning": "sweet dark-red dessert wine originally from Portugal",
+      "context": "movement",
+      "meaning": "to carry or transfer from one place to another, especially by ship",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "an opening (in a wall or ship or armored vehicle) for firing through",
+      "context": "computing",
+      "meaning": "to transfer data or software from one computer system to another platform or operating system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a protocol used for establishing and configuring network connections",
+      "context": "anatomy",
+      "meaning": "the left side of a ship or aircraft when facing forward",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "a manner or bearing, particularly in reference to deportment or conduct",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a socket, plug, or interface used to connect electronic devices",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "to carry oneself or behave in a specified manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "food",
+      "meaning": "a type of dark-colored wine produced in Portugal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "medicine",
+      "meaning": "an opening in the human or animal body, such as the opening of the urethra",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "geography",
+      "meaning": "a passage or opening that leads from one place to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "printing",
+      "meaning": "the way a publication is positioned on a page, either portrait or landscape orientation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "12",
+      "context": "theatre",
+      "meaning": "a place where stage actors perform or a theatrical venue",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

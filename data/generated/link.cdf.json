@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "relationship",
-      "meaning": "the means of connection between things linked in series",
+      "context": "computing",
+      "meaning": "a hypertext connection between web pages or digital resources that allows navigation when clicked",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a fastener that serves to join or connect",
+      "context": "communication",
+      "meaning": "a connection or relationship between people, organizations, or ideas",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "connection",
-      "meaning": "the state of being connected",
+      "context": "action",
+      "meaning": "to connect or join two or more things together",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a reference or pointer in a digital document, such as an HTML link",
+      "context": "anatomy",
+      "meaning": "a series of connected bones or rings forming a flexible chain, particularly in the spine",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "a segment of a chain or a connected series forming part of a larger structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a continuous band of metal or rubber plates forming the treads of a tank or tracked vehicle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "a chain or rope used to secure a vessel or connect parts of a ship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "to establish or maintain a connection between computer networks or devices",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "a connection or relationship that suggests involvement or responsibility in a legal matter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a person with whom one has a connection or relationship, often useful or influential",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "biology",
+      "meaning": "a connection between genes or chromosomes that are inherited together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "finance",
+      "meaning": "a connection between financial institutions or accounts for transferring funds electronically",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

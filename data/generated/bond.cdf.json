@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemical bond",
-      "meaning": "an electrical force linking atoms",
+      "context": "finance",
+      "meaning": "a certificate of debt issued by a government or corporation promising to repay borrowed money with interest at a fixed time",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "finance",
-      "meaning": "a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal",
+      "context": "chemistry",
+      "meaning": "a force or connection holding atoms or molecules together in a chemical compound",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "alliance",
-      "meaning": "a connection based on kinship or marriage or common interest",
+      "context": "action",
+      "meaning": "to join or connect things together firmly",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "finance",
-      "meaning": "a type of investment that represents a share in ownership of a company or asset, often traded on a stock exchange",
+      "context": "law",
+      "meaning": "a legal agreement or covenant between two or more parties",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "a close emotional or social connection between people",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "the physical act of jumping or leaping, especially in gymnastics or acrobatics",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "a close tactical arrangement of soldiers or ships for mutual protection",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "anatomy",
+      "meaning": "a band of tough connective tissue joining bones or holding organs in place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "a financial or legal restriction placed on a person or entity as punishment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

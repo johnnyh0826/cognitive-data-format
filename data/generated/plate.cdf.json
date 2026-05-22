@@ -3,31 +3,147 @@
   "tracks": [
     {
       "id": "01",
-      "context": "home plate",
-      "meaning": "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+      "context": "food",
+      "meaning": "a flat dish, typically ceramic or glass, used for serving or eating food",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.441
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a sheet of metal or wood or glass or plastic",
+      "context": "anatomy",
+      "meaning": "a flat bone or bony structure in the body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a full-page illustration (usually on slick paper)",
+      "context": "technology",
+      "meaning": "a flat sheet of metal, glass, or other material used as a base or component in machinery or devices",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "04",
-      "context": "tableware",
-      "meaning": "a dish or container used for serving and eating food",
+      "context": "printing",
+      "meaning": "a sheet of metal engraved or etched with an image for printing",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "geology",
+      "meaning": "a large rigid section of the Earth's crust that moves slowly across the surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.118
+    },
+    {
+      "id": "06",
+      "context": "metallurgy",
+      "meaning": "a flat sheet of metal produced by rolling or pressing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "the area at which a batter stands in baseball, consisting of a pentagonal rubber slab",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "08",
+      "context": "action",
+      "meaning": "to coat or cover something with a thin layer of metal through electroplating",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "construction",
+      "meaning": "a flat horizontal structural member used in building frameworks",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "theatre",
+      "meaning": "a stage or platform for performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "business",
+      "meaning": "to present or propose something for consideration",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "informal",
+      "meaning": "an attractive person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "storage",
+      "meaning": "a shelving system or rack with flat surfaces for storing items",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "law",
+      "meaning": "a legal record or document entered into a case",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "dentistry",
+      "meaning": "a flat dental prosthetic, particularly dentures",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "16",
+      "context": "photography",
+      "meaning": "a light-sensitive glass or metal sheet used in early photography",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "17",
+      "context": "music",
+      "meaning": "a flat sheet of material used to produce sound in certain instruments",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "18",
+      "context": "computing",
+      "meaning": "a flat panel or surface used in display technology",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -4,30 +4,74 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+      "meaning": "the upper limb of the human body extending from the shoulder to the hand",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "any projection that is thought to resemble a human arm",
+      "context": "military",
+      "meaning": "a weapon or instrument designed to cause harm or death",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "weapon",
-      "meaning": "any instrument or instrumentality used in fighting or hunting",
+      "context": "action",
+      "meaning": "to provide with weapons or to equip for combat",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a musical term referring to a section of an orchestra or band that plays a specific part in a composition",
+      "context": "construction",
+      "meaning": "a projecting section of a structure such as a beam or support",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "a long slender part of an object that extends outward from a central point",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "power or strength, as in 'to have long arms' meaning influence or reach",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "a division or subsidiary branch of a company or organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "a branch or department of government or authority",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "to throw or pitch a ball using the arm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

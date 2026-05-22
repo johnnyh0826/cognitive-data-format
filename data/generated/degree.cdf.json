@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "a position on a scale of intensity or amount or quality",
+      "context": "education",
+      "meaning": "a qualification awarded by a college or university upon completion of a course of study",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "a specific identifiable position in a continuum or series or especially in a process",
+      "context": "measurement",
+      "meaning": "a unit of angle equal to 1/360th of a circle, denoted by the symbol \u00b0",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "academic degree",
-      "meaning": "an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study",
+      "context": "anatomy",
+      "meaning": "the extent to which something turns or rotates, measured as an angle",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "the angle between an object's orbit and the plane of reference, such as the ecliptic",
+      "context": "law",
+      "meaning": "the severity level of a criminal offense, such as first degree murder or second degree assault",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "the extent or amount of something, as in 'to some degree' or 'to a high degree'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "social",
+      "meaning": "a step or stage in a scale or hierarchy of rank, status, or achievement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "genealogy",
+      "meaning": "a step in the line of descent or relationship between relatives",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "weather",
+      "meaning": "a unit expressing the intensity or severity of heat or cold",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

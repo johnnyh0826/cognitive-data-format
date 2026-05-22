@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a formal organization of people or groups of people",
+      "context": "psychology",
+      "meaning": "a mental connection or link formed between ideas, memories, or experiences",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "the act of consorting with or joining with others",
+      "context": "business",
+      "meaning": "a formal organization or group of people united by a common purpose or interest",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "state",
-      "meaning": "the state of being connected together as in memory or imagination",
+      "context": "law",
+      "meaning": "the action or state of being linked or connected with someone or something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "the process of linking two or more pieces of information together in memory, often based on their similarity or relevance",
+      "context": "communication",
+      "meaning": "a connection or relationship between things that are linked together",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "chemistry",
+      "meaning": "a chemical compound formed when two or more elements or molecules bond together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "a group of financial institutions or investors organized for a common financial purpose",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a romantic or social relationship or connection between two people",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "action",
+      "meaning": "the act or process of connecting or joining things together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "sociology",
+      "meaning": "the pattern of relationships and interactions between members of a social group or network",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

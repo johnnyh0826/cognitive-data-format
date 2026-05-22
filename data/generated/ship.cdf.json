@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a vessel that carries passengers or freight",
+      "context": "nautical",
+      "meaning": "a large vessel designed to travel on water, typically for transporting cargo or passengers",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "transport",
-      "meaning": "transport commercially",
+      "context": "action",
+      "meaning": "to send or transport something or someone from one place to another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "social",
-      "meaning": "hire for work on a ship",
+      "context": "business",
+      "meaning": "to manage or organize the movement of goods in a supply chain or logistics operation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "nautical",
-      "meaning": "a vessel that is a unit of measurement for speed, typically one knot per hour",
+      "context": "informal",
+      "meaning": "to move quickly or depart hastily",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "a warship or armed naval vessel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "to transport cargo, passengers, or materials by water or other means",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "to send data or files across a network or communication system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "storage",
+      "meaning": "a large container or hold designed to carry and store bulk goods during transport",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "to transfer ownership or legal responsibility of goods to a recipient",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

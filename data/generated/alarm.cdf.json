@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "emotion",
-      "meaning": "fear resulting from the awareness of danger",
+      "context": "action",
+      "meaning": "a loud sound or signal designed to alert or warn someone of danger or an important event",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a device that signals the occurrence of some undesirable event",
+      "context": "technology",
+      "meaning": "a device that makes a loud sound or displays a warning signal to notify someone at a set time",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "an automatic signal (usually a sound) warning of danger",
+      "context": "psychology",
+      "meaning": "a sudden feeling of fear, anxiety, or worry triggered by a perceived threat or emergency",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a loud, insistent sound in music, often used to signal the end of a piece or section",
+      "context": "communication",
+      "meaning": "an announcement or warning message intended to alert people to a danger or urgent situation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "an alert status signifying that military personnel should be prepared for immediate action or deployment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "medicine",
+      "meaning": "a physiological response involving increased heart rate and heightened awareness triggered by perceived danger",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to cause someone to become worried, frightened, or concerned about something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "an official warning or notice issued to alert the public or an individual about a legal matter or danger",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

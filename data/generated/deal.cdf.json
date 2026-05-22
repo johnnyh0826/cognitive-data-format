@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "a particular instance of buying or selling",
+      "context": "business",
+      "meaning": "an agreement or arrangement, especially a commercial transaction between parties",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "bargain",
-      "meaning": "an agreement between parties (usually arrived at after discussion) fixing obligations of each",
+      "context": "finance",
+      "meaning": "a distribution of cards or a specified arrangement in card games or gambling",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "batch",
-      "meaning": "(often followed by `of') a large number or amount or extent",
+      "context": "gambling",
+      "meaning": "the distribution of playing cards to players at the start of a game",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "negotiation",
-      "meaning": "an advantageous arrangement or outcome, especially one that is mutually beneficial",
+      "context": "action",
+      "meaning": "to distribute or give out something to multiple recipients",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "an agreement or settlement, particularly one that resolves a dispute",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "treatment or handling, especially in the phrase 'a good deal' or 'a raw deal'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.22
+    },
+    {
+      "id": "07",
+      "context": "psychology",
+      "meaning": "to manage or cope with a difficult situation or emotional challenge",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "08",
+      "context": "communication",
+      "meaning": "to address or discuss a particular topic or issue",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
     }
   ]
 }

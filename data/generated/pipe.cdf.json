@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a tube with a small bowl at one end; used for smoking tobacco",
+      "context": "construction",
+      "meaning": "a tube or hollow cylinder made of metal, plastic, or other material used to convey liquids, gases, or other substances",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a long tube made of metal or plastic that is used to carry water or oil or gas etc.",
+      "context": "music",
+      "meaning": "a tubular wind instrument played by blowing air through it to produce sound",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "geometry",
-      "meaning": "a hollow cylindrical shape",
+      "context": "action",
+      "meaning": "to convey or transport something through a pipe or pipeline system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a sequence of musical notes played on a pipe organ or other instrument",
+      "context": "anatomy",
+      "meaning": "any tubular vessel or duct in the body, particularly those carrying fluids",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "a channel or means of transmitting information or data",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "a mechanism for passing data or output from one process or program to another sequentially",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a smoking device with a bowl and stem for holding and smoking tobacco or other substances",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "a cylindrical conduit or channel in machinery or equipment for directing flow or movement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "nautical",
+      "meaning": "a boatswain's whistle used to signal commands aboard a ship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "storage",
+      "meaning": "to store or hold something for later use, especially in computing or data contexts",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

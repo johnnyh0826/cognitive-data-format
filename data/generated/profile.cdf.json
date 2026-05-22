@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "an analysis (often in graphical form) representing the extent to which something exhibits various characteristics",
+      "context": "computing",
+      "meaning": "a set of data or settings associated with a user account on a website, application, or online service",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "an outline of something (especially a human face as seen from one side)",
+      "context": "psychology",
+      "meaning": "a summary description of a person's character, abilities, or psychological characteristics",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "biographical sketch",
+      "context": "action",
+      "meaning": "to create an outline or summary of something before proceeding with full development or analysis",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "social media",
-      "meaning": "a user's online presence, including their personal information and activity history",
+      "context": "business",
+      "meaning": "a description of a person's professional background, qualifications, and work history",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "a detailed description or record of a person's criminal history or past offenses",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "a publicly visible or known aspect of something presented to the world",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "the outline or silhouette of a person's face or head viewed from the side",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "geography",
+      "meaning": "the outline or contour of a landscape, skyline, or geological formation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "technology",
+      "meaning": "the degree to which a software or system component is visible and used compared to others",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to keep watch over someone or something while remaining inconspicuous or undercover",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "measurement",
+      "meaning": "a cross-sectional representation showing the internal structure or composition of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

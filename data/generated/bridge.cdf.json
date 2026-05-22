@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+      "context": "construction",
+      "meaning": "a structure spanning a physical gap, such as a river or ravine, that allows passage over it",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.42
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected",
+      "context": "anatomy",
+      "meaning": "the bony structure connecting the upper and lower teeth in the mouth, or a dental prosthetic device",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "relationship",
-      "meaning": "something resembling a bridge in form or function",
+      "context": "music",
+      "meaning": "a curved piece of wood or material on a stringed instrument that holds the strings at a fixed height above the fingerboard",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "metaphor",
-      "meaning": "a connection or link between two things, often facilitating understanding or progress",
+      "context": "nautical",
+      "meaning": "the upper part of a ship's side between the gunwale and the waterline",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to connect or join two things together, or to serve as a link between disparate elements",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "a connection or line of communication established between separated parties or systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a network structure or protocol that connects different computers or networks together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "a therapeutic technique or concept used to help span the gap between a patient's current state and desired change",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "gambling",
+      "meaning": "a card game or the act of building sequences of cards in solitaire",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to overcome a significant difference or dispute between people or groups",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "emptying something accomplished by allowing liquid to run out of it",
+      "context": "anatomy",
+      "meaning": "a tube or channel in the body through which fluids pass, especially the urinary or biliary system",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "tube inserted into a body cavity (as during surgery) to remove unwanted material",
+      "context": "construction",
+      "meaning": "a pipe or channel that carries away water or liquid waste from a building or surface",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a pipe through which liquid is carried away",
+      "context": "geography",
+      "meaning": "a watercourse or natural channel through which water flows away from an area",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "financial",
-      "meaning": "to reduce or eliminate a financial burden or debt",
+      "context": "farming",
+      "meaning": "to remove water or excess moisture from land to make it suitable for cultivation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to cause liquid to flow away or out of something gradually",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "06",
+      "context": "medicine",
+      "meaning": "a medical tube inserted into a wound or body cavity to remove unwanted fluid",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to drink a beverage completely and quickly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "to flow away or disappear gradually, especially said of liquids or people",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "the gradual loss or dissipation of emotional energy or mental resources",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "10",
+      "context": "finance",
+      "meaning": "a continuous outflow or loss of money or financial resources",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
     }
   ]
 }

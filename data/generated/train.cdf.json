@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+      "context": "movement",
+      "meaning": "a railroad vehicle powered by an engine, designed to carry passengers or freight on rails",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "string",
-      "meaning": "a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding",
+      "context": "action",
+      "meaning": "to teach or instruct someone to perform a skill or task through practice and instruction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.4
     },
     {
       "id": "03",
-      "context": "caravan",
-      "meaning": "a procession (of wagons or mules or camels) traveling together in single file",
+      "context": "anatomy",
+      "meaning": "a series of connected nerve or blood vessel pathways in the body, such as the digestive or respiratory tract",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.03
     },
     {
       "id": "04",
-      "context": "education",
-      "meaning": "a series of connected learning experiences or modules, often leading to a certification or degree",
+      "context": "psychology",
+      "meaning": "a series of thought processes or a line of reasoning leading toward a conclusion",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "to aim a weapon at a moving target and continuously adjust aim to maintain targeting",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a particular sequence of events or course of action that is expected or planned",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "farming",
+      "meaning": "to break in or accustom a young horse or other animal to accept equipment and obedience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

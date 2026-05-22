@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "usher",
-      "meaning": "someone employed to conduct others",
+      "context": "action",
+      "meaning": "to lead or direct someone along a particular route or path",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "person",
-      "meaning": "someone who shows the way by leading or advising",
+      "context": "communication",
+      "meaning": "a document or resource that provides instructions or explanations on a topic",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "guidebook",
-      "meaning": "something that offers basic information or instruction",
+      "context": "movement",
+      "meaning": "a person who leads tourists or visitors through a location and provides information about it",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a program that provides interactive help and guidance, often in a graphical user interface",
+      "context": "psychology",
+      "meaning": "a person who advises or mentors someone through a difficult process or life transition",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "technology",
+      "meaning": "a tool or software feature that directs a user through a process or application step-by-step",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "a recorded musical composition or track on an album",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to influence or direct someone's behavior or choices subtly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "anatomy",
+      "meaning": "a groove or channel that directs the movement of a body part or substance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a mercantile establishment for the retail sale of goods or services",
+      "context": "business",
+      "meaning": "a retail establishment where goods are bought and sold to customers",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "workshop",
-      "meaning": "small workplace where handcrafts or manufacturing are done",
+      "context": "action",
+      "meaning": "to visit a store or market in order to purchase items",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.4
     },
     {
       "id": "03",
-      "context": "shop class",
-      "meaning": "a course of instruction in a trade (as carpentry or electricity)",
+      "context": "storage",
+      "meaning": "a place where goods or supplies are stored or kept for safekeeping",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "social gathering",
-      "meaning": "a casual get-together with friends or acquaintances for socializing and possibly making purchases",
+      "context": "informal",
+      "meaning": "a small factory or manufacturing facility, especially one dealing with crafts or skilled trades",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "05",
+      "context": "nautical",
+      "meaning": "a naval warship, historically used to describe certain military vessels",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "a temporary workspace or project folder used for organizing files during work",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

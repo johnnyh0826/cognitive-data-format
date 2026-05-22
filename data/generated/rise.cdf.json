@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "a growth in strength or number or importance",
+      "context": "movement",
+      "meaning": "to move upward or to increase in height or altitude",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
       "context": "action",
-      "meaning": "the act of changing location in an upward direction",
+      "meaning": "to stand up from a sitting, lying, or kneeling position",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "ascent",
-      "meaning": "an upward slope or grade (as in a road)",
+      "context": "finance",
+      "meaning": "an increase in amount, level, or value, especially of prices or stocks",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "financial",
-      "meaning": "an increase in value or price, especially of a stock or investment",
+      "context": "astronomy",
+      "meaning": "the upward movement of a celestial body above the horizon",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "a high point or elevated land feature such as a hill or slope",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "the upward growth of plants or organisms toward light or away from gravity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "social",
+      "meaning": "an improvement in status, rank, or social position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "a rebellion or armed uprising against authority or the government",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "time",
+      "meaning": "the time when the sun or moon appears above the horizon in the morning",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "an irritating or annoying person or thing that is unwelcome",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

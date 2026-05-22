@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a dramatic work intended for performance by actors on a stage",
+      "context": "theatre",
+      "meaning": "a dramatic work written for performance by actors on stage",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a theatrical performance of a drama",
+      "context": "sports",
+      "meaning": "to engage in a game or sporting activity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "a preset plan of action in team sports",
+      "context": "music",
+      "meaning": "to perform music on an instrument or with one's voice",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "recreation",
-      "meaning": "to engage in an activity for enjoyment or amusement",
+      "context": "action",
+      "meaning": "to engage in an activity for enjoyment or entertainment",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "05",
+      "context": "gambling",
+      "meaning": "to bet or wager money in a game of chance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "to perform or act out something for others to watch",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "to move or operate in a particular manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to joke or tease someone in a light-hearted way",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "technology",
+      "meaning": "to operate or use a device to produce audio or video content",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "10",
+      "context": "psychology",
+      "meaning": "to act out emotions or scenarios as a form of therapy or expression",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "anatomy",
+      "meaning": "the free movement or range of motion in a joint or mechanical connection",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "business",
+      "meaning": "to deploy or activate a strategy, resource, or action in business context",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "law",
+      "meaning": "to engage or bring into action within a legal proceeding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

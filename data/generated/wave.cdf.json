@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)",
+      "context": "physics",
+      "meaning": "a disturbance that travels through a medium, transferring energy without permanently displacing the medium itself",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.079
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "a movement like that of a sudden occurrence or increase in a specified phenomenon",
+      "context": "nautical",
+      "meaning": "a moving ridge or swell on the surface of water, typically caused by wind or tidal forces",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.149
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "(physics) a movement up and down or back and forth",
+      "context": "weather",
+      "meaning": "a moving system of disturbed atmospheric conditions, such as a heat wave or cold wave",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.119
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a recurring pattern of sounds or rhythms in music, often used to create a sense of tension and release",
+      "context": "action",
+      "meaning": "to move one's hand or an object back and forth or up and down in a signal or greeting",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.178
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "to signal or acknowledge someone by moving one's hand or an object in a sweeping motion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.119
+    },
+    {
+      "id": "06",
+      "context": "hair",
+      "meaning": "a gentle undulating curve or series of curves in hair",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "07",
+      "context": "geography",
+      "meaning": "a ridge or series of ridges formed on a surface, such as sand or snow, by wind or water",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "a sudden widespread trend, movement, or phenomenon affecting a large group of people",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.119
+    },
+    {
+      "id": "09",
+      "context": "music",
+      "meaning": "a physical property of sound characterized by frequency that determines pitch",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "a graphical representation of audio or signal data shown as an oscillating line",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "military",
+      "meaning": "a successive group or assault of military units or aircraft attacking in sequence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "time",
+      "meaning": "a period or cycle of activity or conditions that rises and falls in intensity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

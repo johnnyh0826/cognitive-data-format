@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of",
+      "context": "weather",
+      "meaning": "the invisible mixture of gases surrounding the Earth that we breathe, composed mainly of nitrogen and oxygen",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.347
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "the region above the ground",
+      "context": "anatomy",
+      "meaning": "the space in the lungs where gas exchange occurs during breathing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.079
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "a distinctive but intangible quality surrounding a person or thing",
+      "context": "movement",
+      "meaning": "the act of travelling by airplane",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.119
     },
     {
       "id": "04",
-      "context": "meteorology",
-      "meaning": "the layer of gases surrounding the Earth, extending from the surface up to about 10 km",
+      "context": "business",
+      "meaning": "a public presentation or broadcast of something intended to promote it",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "a casual confident manner or appearance that someone displays",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.119
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "a melodic tune or theme, especially in popular music",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.059
+    },
+    {
+      "id": "07",
+      "context": "theatre",
+      "meaning": "the ventilation system or space above a theatre stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "action",
+      "meaning": "to broadcast or transmit something on television or radio",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.069
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "an affected pretense or affectation of superiority",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "10",
+      "context": "chemistry",
+      "meaning": "a gas or vapour released into the atmosphere",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "construction",
+      "meaning": "a pocket of gas trapped in a material like concrete or paint",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "storage",
+      "meaning": "ventilation or exposure to circulating air to preserve something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

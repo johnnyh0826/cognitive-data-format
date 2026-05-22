@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "an impetuous rush toward someone or something",
+      "context": "finance",
+      "meaning": "a price or cost demanded for goods or services",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "(criminal law) a pleading describing some wrong or offense",
+      "context": "law",
+      "meaning": "a formal accusation or claim that someone has committed a crime or wrongdoing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "finance",
-      "meaning": "the price charged for some article or service",
+      "context": "action",
+      "meaning": "to rush forward or move quickly with force or intensity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "physics",
-      "meaning": "the flow of electric current into or out of an object, device, or circuit",
+      "context": "military",
+      "meaning": "an attack or assault on an enemy position",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "penalty",
+      "meaning": "an official instruction or responsibility assigned to someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "authority",
+      "meaning": "control or custody of a person or thing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "electricity",
+      "meaning": "the amount of electrical energy stored in a battery or capacitor",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "chemistry",
+      "meaning": "to cause a chemical reaction or to energize chemically",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "anatomy",
+      "meaning": "the forward part of a horse's neck or the corresponding part in other animals",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "to entrust someone with a task or responsibility",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "an enthusiastic or emotional approach toward something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "storage",
+      "meaning": "to load or fill a container, vehicle, or vessel with goods",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "theatre",
+      "meaning": "a role or part played by an actor in a performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "14",
+      "context": "medicine",
+      "meaning": "the amount of drug or medicine administered to a patient",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

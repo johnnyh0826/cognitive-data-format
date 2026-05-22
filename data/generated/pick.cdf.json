@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "choice",
-      "meaning": "the person or thing chosen or selected",
+      "context": "action",
+      "meaning": "to select or choose something from a group of options",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.455
     },
     {
       "id": "02",
-      "context": "picking",
-      "meaning": "the quantity of a crop that is harvested",
+      "context": "sports",
+      "meaning": "a position in American football between the line and the safety",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.03
     },
     {
       "id": "03",
-      "context": "cream",
-      "meaning": "the best people or things in a group",
+      "context": "music",
+      "meaning": "a selection of songs or recordings from a larger collection or album",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "04",
-      "context": "verb phrase",
-      "meaning": "to take or remove something, typically with a sudden or forceful motion",
+      "context": "tools",
+      "meaning": "a tool with a pointed head used for breaking hard ground or rock",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "05",
+      "context": "geology",
+      "meaning": "a mining tool with a sharp point for extracting ore or minerals from rock",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "the best person or item in a group; a choice example",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "a small pimple or spot on the skin, especially one caused by infection",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "to deliberately choose or select something for special attention or criticism",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "to identify and point out something specific in speech or writing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "computing",
+      "meaning": "to select data or input using a pointing device or interface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "11",
+      "context": "business",
+      "meaning": "to collect or gather items for delivery or purchase in retail contexts",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

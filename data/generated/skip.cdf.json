@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "a gait in which steps and hops alternate",
+      "context": "movement",
+      "meaning": "to jump or leap lightly over something, typically by running and jumping",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "omission",
-      "meaning": "a mistake resulting from neglect",
+      "context": "action",
+      "meaning": "to omit or leave out a part of something, especially to proceed without reading or considering intervening material",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "03",
-      "context": "jump",
-      "meaning": "bypass",
+      "context": "informal",
+      "meaning": "to leave hastily or depart without paying or fulfilling an obligation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "to omit or leave out (a section of music) in performance",
+      "context": "computing",
+      "meaning": "to move a read/write head across storage media to a different location",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "music",
+      "meaning": "a recorded track or section of audio on an album or recording",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "the captain of a ship or boat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "in tennis or similar sports, to miss hitting a ball or to avoid playing a shot",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "to pass on taking a turn or making a bet in a game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "to fail to appear in court or to abscond from legal obligations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "school",
+      "meaning": "to be absent from school or a class without permission",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "storage",
+      "meaning": "a container used for storing things, typically a cylindrical or rounded vessel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

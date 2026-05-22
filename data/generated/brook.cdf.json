@@ -3,24 +3,27 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a natural stream of water smaller than a river (and often a tributary of a river)",
+      "context": "geography",
+      "meaning": "a small stream of running water, typically shallow and narrow",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.65
     },
     {
       "id": "02",
-      "context": "digest",
-      "meaning": "put up with something or somebody unpleasant",
+      "context": "action",
+      "meaning": "to tolerate or accept something without complaint or resistance",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.3
     },
     {
       "id": "03",
-      "context": "music",
-      "meaning": "a slow and soothing piece of music, typically played on a flute or other gentle instrument",
+      "context": "informal",
+      "meaning": "to put up with or endure a difficult situation or person",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

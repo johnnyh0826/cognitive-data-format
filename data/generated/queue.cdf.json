@@ -3,31 +3,43 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a line of people or vehicles waiting for something",
+      "context": "computing",
+      "meaning": "a line of people or things waiting for their turn to be served or processed",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "(information processing) an ordered list of tasks to be performed or messages to be transmitted",
+      "context": "action",
+      "meaning": "to form or stand in a line waiting for something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "anatomy",
-      "meaning": "a braid of hair at the back of the head",
+      "context": "theatre",
+      "meaning": "a braided or coiled section of hair worn as a decorative style",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a data structure that follows a First-In-First-Out (FIFO) principle, where elements are added and removed in a linear sequence",
+      "context": "informal",
+      "meaning": "a pigtail or long plait of hair arranged in a loop or coil",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "technology",
+      "meaning": "a waiting list or buffer for tasks, messages, or processes to be handled sequentially",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

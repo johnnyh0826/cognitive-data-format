@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "shop",
-      "meaning": "a mercantile establishment for the retail sale of goods or services",
+      "context": "retail",
+      "meaning": "a shop or business establishment where goods are sold to customers",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "finance",
-      "meaning": "a supply of something available for future use",
+      "context": "storage",
+      "meaning": "a place or space where goods, supplies, or materials are kept for future use",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "memory",
-      "meaning": "an electronic memory device",
+      "context": "action",
+      "meaning": "to keep or retain something for later use or reference",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
       "context": "computing",
-      "meaning": "a location where data is stored, such as a database or file system",
+      "meaning": "to hold data or information in a computer's memory or database",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "to retain information in one's memory or mind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to set aside or reserve something for a specific purpose",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "cargo or supplies kept aboard a ship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "08",
+      "context": "farming",
+      "meaning": "a building or facility used for keeping livestock or agricultural supplies",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
     }
   ]
 }

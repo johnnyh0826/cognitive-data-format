@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Tops",
-      "meaning": "a tangible and visible entity; an entity that can cast a shadow",
+      "context": "philosophy",
+      "meaning": "a thing that is perceptible by the senses or the mind; a material item or entity",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "the goal intended to be attained (and which is believed to be attainable)",
+      "context": "computing",
+      "meaning": "a discrete unit of data or code in object-oriented programming that combines properties and methods",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "(grammar) a constituent that is acted upon",
+      "context": "grammar",
+      "meaning": "the noun or noun phrase in a sentence that receives the action of the verb",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "philosophy",
-      "meaning": "a thing that exists independently of its properties or relationships with other things",
+      "context": "action",
+      "meaning": "to express disapproval or disagreement with something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "to raise a formal protest or legal challenge against a decision or evidence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "a person or thing toward which feelings or desires are directed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "astronomy",
+      "meaning": "a discrete celestial body or entity being observed or studied",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "art",
+      "meaning": "a subject or focus of artistic representation or creation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a person regarded with a particular feeling or in a particular way",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "10",
+      "context": "business",
+      "meaning": "a specific goal, aim, or target that an organization or individual seeks to achieve",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
     }
   ]
 }

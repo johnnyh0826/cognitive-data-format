@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a solid piece of something (usually having flat rectangular sides)",
+      "context": "construction",
+      "meaning": "a solid piece of material such as stone, brick, or wood, typically with flat surfaces",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "a rectangular area in a city surrounded by streets and usually containing several buildings",
+      "context": "computing",
+      "meaning": "a large amount of computer memory or data allocated as a unit",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "geometry",
-      "meaning": "a three-dimensional shape with six square or rectangular sides",
+      "context": "action",
+      "meaning": "to obstruct or prevent the movement or progress of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a sequence of instructions or commands that can be executed by a computer",
+      "context": "anatomy",
+      "meaning": "the area of a city or country, typically one that is densely populated or characterized by poverty",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "in various sports, a player's position or a formation of players in a line",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "an emotional or mental barrier that prevents communication or understanding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a large or significant quantity of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "in sports, to illegally obstruct or impede an opposing player",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "to prevent someone from pursuing a legal action or claim through legal procedure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "movement",
+      "meaning": "a city area containing a group of houses or buildings, or a neighborhood subdivision",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "finance",
+      "meaning": "a large quantity of shares or securities held or traded together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "theatre",
+      "meaning": "a set of scenes or acts presented as a unified theatrical unit",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "communication",
+      "meaning": "a failure or stoppage in the flow of communication or conversation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

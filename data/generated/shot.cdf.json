@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "shooting",
-      "meaning": "the act of firing a projectile",
+      "context": "sports",
+      "meaning": "an attempt to hit, kick, or throw a ball or projectile at a target or opponent",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a solid missile discharged from a firearm",
+      "context": "action",
+      "meaning": "the act of firing a gun or projectile weapon",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.096
     },
     {
       "id": "03",
-      "context": "stroke",
-      "meaning": "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand",
+      "context": "military",
+      "meaning": "an attempt to hit a target with a firearm or weapon",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.048
     },
     {
       "id": "04",
       "context": "photography",
-      "meaning": "a brief exposure of a camera's shutter to capture an image",
+      "meaning": "a photograph or image captured with a camera",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.192
+    },
+    {
+      "id": "05",
+      "context": "medicine",
+      "meaning": "an injection of a drug or vaccine administered into the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a small amount of alcohol consumed in one gulp or pour",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "07",
+      "context": "gambling",
+      "meaning": "a turn or opportunity to take action in a game or contest",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "a business opportunity or chance to make a deal or sale",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "09",
+      "context": "anatomy",
+      "meaning": "the range of motion or extension of a limb or joint",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "10",
+      "context": "technology",
+      "meaning": "a single exposure or frame in film or video recording",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "11",
+      "context": "theatre",
+      "meaning": "a scene or segment of action filmed or performed without interruption",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "12",
+      "context": "movement",
+      "meaning": "a rapid movement or sudden action in a particular direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "13",
+      "context": "weather",
+      "meaning": "a sudden gust or blast of wind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "penalty",
+      "meaning": "a penalty kick or free shot awarded in sports like soccer or hockey",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "15",
+      "context": "food",
+      "meaning": "a small drink of spirits served in a shot glass",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

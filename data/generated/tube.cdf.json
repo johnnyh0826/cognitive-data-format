@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases",
+      "context": "anatomy",
+      "meaning": "a hollow cylindrical structure in the body, such as the fallopian tube or Eustachian tube",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope",
+      "context": "technology",
+      "meaning": "a sealed glass or metal cylinder containing a vacuum or gas, used in electronic devices like televisions or radios",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "pipe",
-      "meaning": "a hollow cylindrical shape",
+      "context": "construction",
+      "meaning": "a hollow cylindrical pipe made of metal, plastic, or other material used to convey fluids or gases",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "transportation",
-      "meaning": "a section of a railroad track, especially one with a smooth surface for high-speed trains",
+      "context": "storage",
+      "meaning": "a cylindrical container with a cap, used for holding and storing items such as paint, cosmetics, or documents",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "a tunnel or enclosed passage through which something moves, such as an underground railway system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a television set",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "a tunnel-shaped wave formed when the crest of a wave curves over a surfer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "any tubular or cylindrical structure in plants or animals that serves as a vessel for fluids or support",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "the internet or a system of interconnected networks, often used in the phrase 'the tubes'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "10",
+      "context": "action",
+      "meaning": "to travel through a tube or tunnel, often used in the context of water sports or transportation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

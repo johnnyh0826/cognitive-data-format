@@ -4,30 +4,90 @@
     {
       "id": "01",
       "context": "action",
-      "meaning": "ideas or actions intended to deal with a problem or situation",
+      "meaning": "to move toward or get closer to someone or something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "the act of drawing spatially closer to something",
+      "context": "business",
+      "meaning": "a method or way of dealing with or handling a situation or problem",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "access",
-      "meaning": "a way of entering or leaving",
+      "context": "communication",
+      "meaning": "a way of speaking to or behaving toward someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a mental or emotional attitude towards a person, situation, or idea",
+      "context": "movement",
+      "meaning": "a path or route taken to reach a destination",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "a strategy or technique for achieving a goal or addressing a psychological matter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "a way of accessing or reaching a location or terrain",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "a method or procedure used in legal proceedings or negotiations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "a technique or procedure used by medical professionals to treat or examine a patient",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "military",
+      "meaning": "a tactical method or strategy for engaging with an enemy or objective",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "technology",
+      "meaning": "a method or interface for accessing or interacting with a system or software",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "sexual or romantic advances made toward someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

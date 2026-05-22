@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "batch",
-      "meaning": "(often followed by `of') a large number or amount or extent",
+      "context": "geography",
+      "meaning": "a plot of land, typically a piece of real estate or property",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "a parcel of land having fixed boundaries",
+      "context": "informal",
+      "meaning": "a large number or amount of something, often used colloquially as 'a lot of'",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.78
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "an unofficial association of people or groups",
+      "context": "action",
+      "meaning": "one's fate, fortune, or destiny, as in 'to cast one's lot'",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.04
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a random or unpredictable event or outcome, especially in a game",
+      "context": "gambling",
+      "meaning": "an object used in games of chance to make random selections or decisions",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "a parcel of land identified as a unit in a land development or legal description",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a batch or consignment of goods, typically sold together as a single unit",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "storage",
+      "meaning": "a group of items or products manufactured or sold together at the same time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "theatre",
+      "meaning": "a film or television studio and the buildings and grounds where filming takes place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

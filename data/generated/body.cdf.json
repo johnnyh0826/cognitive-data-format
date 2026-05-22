@@ -4,30 +4,130 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "the entire structure of an organism (an animal, plant, or human being)",
+      "meaning": "the physical structure of a human, animal, or plant organism consisting of bones, organs, and tissues",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.357
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "a group of persons associated by some common tie or occupation and regarded as an entity",
+      "context": "informal",
+      "meaning": "a person considered as a physical entity or individual",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.255
     },
     {
       "id": "03",
-      "context": "anatomy",
-      "meaning": "a natural object consisting of a dead animal or person",
+      "context": "action",
+      "meaning": "to form, organize, or constitute something as a unified whole",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.051
     },
     {
       "id": "04",
-      "context": "biology",
-      "meaning": "the main mass of an organism, excluding its head and limbs",
+      "context": "astronomy",
+      "meaning": "a discrete celestial object such as a planet, star, or galaxy",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.082
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "a group of people organized for a specific legal or official purpose",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.071
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "the main part or central structure of an organization or institution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.041
+    },
+    {
+      "id": "07",
+      "context": "storage",
+      "meaning": "a large container or tank used to hold or store materials",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "a mass or physical quantity of material held or moved together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "chemistry",
+      "meaning": "a distinct quantity or portion of matter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "geology",
+      "meaning": "a large unified mass of rock or mineral formation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "water",
+      "meaning": "a large expanse of water such as an ocean, sea, or lake",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.041
+    },
+    {
+      "id": "12",
+      "context": "printing",
+      "meaning": "the main text of a printed document as distinct from headings or illustrations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "automobile",
+      "meaning": "the main structural frame or chassis of a vehicle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "physics",
+      "meaning": "an object or mass considered in terms of its physical properties and motion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "music",
+      "meaning": "the main resonating chamber of an acoustic instrument",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "16",
+      "context": "clothing",
+      "meaning": "the main central part of a garment excluding sleeves and collar",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a small group of indispensable persons or things",
+      "context": "anatomy",
+      "meaning": "the central or most important part of an organ or body structure, such as the core of an apple or the Earth's core",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.081
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "the center of an object",
+      "context": "computing",
+      "meaning": "a single processing unit within a multi-core processor that executes instructions independently",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.121
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "the central part of the Earth",
+      "context": "geology",
+      "meaning": "the central layer of the Earth beneath the mantle, composed primarily of iron and nickel",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.051
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "the central processing unit of a computer or other electronic device",
+      "context": "business",
+      "meaning": "the central or most important part of a company's business or strategy",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.152
+    },
+    {
+      "id": "05",
+      "context": "food",
+      "meaning": "the central part of a fruit containing the seeds, typically removed before eating",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "the essential or fundamental part of a system or application around which other elements are built",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.101
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "to remove the central part or seeds from a fruit or vegetable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "08",
+      "context": "education",
+      "meaning": "a curriculum of essential subjects that all students are required to study",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.101
+    },
+    {
+      "id": "09",
+      "context": "military",
+      "meaning": "the main body or central force of an armed unit or military formation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "used as an intensifier or expression of emphasis, as in 'to the core' meaning fundamentally or completely",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.121
+    },
+    {
+      "id": "11",
+      "context": "storage",
+      "meaning": "a type of computer memory used for temporary data storage and processing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "12",
+      "context": "manufacturing",
+      "meaning": "the internal mold or cavity used in casting to form a hollow space in a metal part",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

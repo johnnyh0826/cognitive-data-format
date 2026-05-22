@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+      "context": "geography",
+      "meaning": "a body of water that is partially enclosed by land, typically smaller than a gulf",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.455
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "the sound of a hound on the scent",
+      "context": "nautical",
+      "meaning": "the space between the outer edge of a ship's hull and the water",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.051
     },
     {
       "id": "03",
-      "context": "true laurel",
-      "meaning": "small Mediterranean evergreen tree with small blackish berries and glossy aromatic leaves used for flavoring in cooking; also used by ancient Greeks to crown victors",
+      "context": "anatomy",
+      "meaning": "the reddish-brown coloration of a horse's coat",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.121
     },
     {
       "id": "04",
-      "context": "nautical",
-      "meaning": "a body of water partially enclosed by land, such as a harbor or a fjord",
+      "context": "farming",
+      "meaning": "a section of a farm or field, especially one designated for a specific crop",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to enclose or confine an animal or person in a particular space",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.101
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "the laurel tree or its leaf, historically used as a symbol of victory or achievement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a woman, typically used in dated or colloquial speech",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "military",
+      "meaning": "an artillery gun or its position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "colour",
+      "meaning": "a reddish-brown or tan color",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "10",
+      "context": "music",
+      "meaning": "to sing or perform without instrumental accompaniment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

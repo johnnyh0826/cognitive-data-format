@@ -4,30 +4,58 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "the inner surface of the hand from the wrist to the base of the fingers",
+      "meaning": "the inner surface of the hand between the wrist and the base of the fingers",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "measurement",
-      "meaning": "a linear unit based on the length or width of the human hand",
+      "context": "biology",
+      "meaning": "the large compound leaf of a palm tree with many leaflets arranged like fingers",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "biology",
-      "meaning": "any plant of the family Palmae having an unbranched trunk crowned by large pinnate or palmate leaves",
+      "context": "action",
+      "meaning": "to conceal something in the palm of the hand, typically a small object or playing card",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a control or button on a game controller, typically located at the top of the device",
+      "context": "gambling",
+      "meaning": "to manipulate cards by concealing them in the palm during magic tricks or card games",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "the amount that can be held in the palm of the hand, used as a measure of quantity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "a handheld computer device, especially the PalmPilot personal digital assistant",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "punishment",
+      "meaning": "to strike someone on the hand with a cane or rod as a form of corporal punishment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

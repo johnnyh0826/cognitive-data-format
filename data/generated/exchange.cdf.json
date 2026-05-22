@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "phenomenon",
-      "meaning": "chemical process in which one atom or ion or group changes places with another",
+      "context": "finance",
+      "meaning": "The trading of financial instruments, currencies, or securities between parties or in a market",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a mutual expression of views (especially an unpleasant one)",
+      "context": "business",
+      "meaning": "A mutual trade of goods or services between two parties without necessarily involving money",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
       "context": "action",
-      "meaning": "the act of changing one thing for another thing",
+      "meaning": "The act of giving something and receiving something else in return",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "Finance",
-      "meaning": "the act of buying or selling a financial instrument, such as a security or currency, in order to profit from price movements",
+      "context": "communication",
+      "meaning": "A conversation or dialogue between two people or groups, especially to discuss or resolve something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "The formal surrender or transfer of one thing for another, often used in legal agreements",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "The movement of people or goods in opposite directions or between locations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "geography",
+      "meaning": "A place where goods or people are traded or transferred, such as a stock exchange or student exchange program",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "A sharp or heated verbal dispute or argument between two people",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "technology",
+      "meaning": "The substitution of one element, component, or part with another equivalent one",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "sports",
+      "meaning": "In rugby and other sports, rapid passing of the ball between players moving in opposite directions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

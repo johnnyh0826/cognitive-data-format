@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "time",
-      "meaning": "the season of growth",
+      "context": "season",
+      "meaning": "the season of the year between winter and summer when plants begin to grow and flowers bloom",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a metal elastic device that returns to its shape or position when pushed or pulled or pressed",
+      "context": "action",
+      "meaning": "to jump or leap suddenly upward or forward",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a natural flow of ground water",
+      "context": "geology",
+      "meaning": "a place where water naturally flows out of the ground",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a season of music festivals and concerts",
+      "context": "anatomy",
+      "meaning": "a coil of metal that returns to its original shape after being pressed or stretched",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "furniture",
+      "meaning": "a device consisting of coils or other material that supports a mattress and absorbs pressure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "water",
+      "meaning": "a small stream of water",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "psychology",
+      "meaning": "to originate or arise from a particular source or cause",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "time",
+      "meaning": "the season associated with the beginning of something new or growth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "liveliness, energy, or a bouncy quality in one's step or movement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

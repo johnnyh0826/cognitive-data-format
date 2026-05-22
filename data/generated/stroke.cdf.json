@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand",
+      "context": "medicine",
+      "meaning": "a sudden loss of brain function caused by interruption of blood flow to the brain, often resulting in paralysis or loss of consciousness",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "throw",
-      "meaning": "the maximum movement available to a pivoted or reciprocating piece by a cam",
+      "context": "sports",
+      "meaning": "the act of moving an oar through water to propel a boat or shell forward in rowing",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "state",
-      "meaning": "a sudden loss of consciousness resulting when the rupture or occlusion of a blood vessel leads to oxygen lack in the brain",
+      "context": "action",
+      "meaning": "a single movement of a tool, pen, or brush across a surface",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "art",
-      "meaning": "a swift and bold movement of a brush or tool in painting or drawing",
+      "context": "swimming",
+      "meaning": "a particular style or method of swimming such as freestyle, backstroke, or butterfly",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a bundle of nerve fibers in the spinal cord or brain that carries signals in a particular direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "the act of moving something with a steady continuous motion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "printing",
+      "meaning": "a line or mark made by drawing a pen, pencil, or brush across a surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "time",
+      "meaning": "a movement of a watch or clock hand indicating the passage of time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a clever or effective action or move in a situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "10",
+      "context": "music",
+      "meaning": "the motion of a conductor's baton upward or downward marking a beat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "business",
+      "meaning": "a single transaction or business dealing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "a mental or emotional occurrence such as a flash of genius or moment of understanding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

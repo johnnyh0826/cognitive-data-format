@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "interest",
-      "meaning": "(law) a right or legal share of something; a financial involvement with something",
+      "context": "gambling",
+      "meaning": "money or something of value risked on the outcome of an uncertain event",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "post",
-      "meaning": "a pole or stake set up to mark something (as the start or end of a race track)",
+      "context": "finance",
+      "meaning": "a financial interest or share in a business, investment, or enterprise",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "instrument of execution consisting of a vertical post that a victim is tied to for burning",
+      "context": "action",
+      "meaning": "to risk or wager something of value on an uncertain outcome",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a player's character or avatar in a game, especially one that is being controlled by another player",
+      "context": "farming",
+      "meaning": "a sharpened stick or wooden post driven into the ground to mark boundaries or support plants",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "the prize or reward at issue in a contest or dispute",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a personal interest or involvement in something, often expressed as 'have a stake in'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.28
+    },
+    {
+      "id": "07",
+      "context": "penalty",
+      "meaning": "a wooden post to which a person condemned to death is tied for execution by burning",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "construction",
+      "meaning": "a pointed wooden post or metal rod driven into the ground for surveying or marking",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "camping",
+      "meaning": "a pointed stick or peg used to secure a tent to the ground",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "storage",
+      "meaning": "a pile or stack of items arranged one upon another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

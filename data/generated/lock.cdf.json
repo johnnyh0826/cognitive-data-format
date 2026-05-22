@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a fastener fitted to a door or drawer to keep it firmly closed",
+      "context": "action",
+      "meaning": "a device or mechanism that fastens or secures something in a closed position",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
       "context": "anatomy",
-      "meaning": "a strand or cluster of hair",
+      "meaning": "a section or curl of hair",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a mechanism that detonates the charge of a gun",
+      "context": "movement",
+      "meaning": "to hold someone or something firmly in a fixed position",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a type of encryption mechanism that secures data by controlling access to it",
+      "context": "nautical",
+      "meaning": "a section of a canal or waterway with gates at each end to raise or lower water levels and allow vessels to pass",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "storage",
+      "meaning": "a device used to secure doors, containers, or valuables against unauthorized access",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "a wrestling hold in which a limb is held firmly in place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a mechanism that prevents simultaneous access to a shared resource by multiple processes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "to prevent access or use of something, especially in a legal or official capacity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "something that is certain to happen or succeed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "psychology",
+      "meaning": "to focus one's attention or gaze on someone or something intensely",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "penalty",
+      "meaning": "in rugby, a forward player in a scrum formation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "12",
+      "context": "communication",
+      "meaning": "to engage in a conflict or confrontation with someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
     }
   ]
 }

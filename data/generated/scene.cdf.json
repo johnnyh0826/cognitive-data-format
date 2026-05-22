@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geography",
-      "meaning": "the place where some action occurs",
+      "context": "theatre",
+      "meaning": "a subdivision of a play or film marked by a change of location, time, or action",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "an incident (real or imaginary)",
+      "context": "action",
+      "meaning": "an incident or sequence of events, whether real or imaginary",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "view",
-      "meaning": "the visual percept of a region",
+      "context": "geography",
+      "meaning": "a landscape or view of natural scenery or a particular area",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "Film and Theater",
-      "meaning": "a sequence of events or actions that take place in a story, play, or film",
+      "context": "psychology",
+      "meaning": "a vivid mental image or emotional situation one imagines or recalls",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "a dramatic or heated argument or emotional outburst in public",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a particular area of activity or group of people engaged in a specific interest or lifestyle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
     }
   ]
 }

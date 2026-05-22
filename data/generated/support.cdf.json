@@ -4,30 +4,114 @@
     {
       "id": "01",
       "context": "action",
-      "meaning": "the activity of providing for or maintaining by supplying with money or necessities",
+      "meaning": "to hold up or keep from falling; to bear the weight of something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.117
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "aiding the cause or policy or interests of",
+      "context": "business",
+      "meaning": "to provide backing or endorsement for a person, idea, or venture",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.175
     },
     {
       "id": "03",
-      "context": "psychology",
-      "meaning": "something providing immaterial assistance to a person or cause or interest",
+      "context": "finance",
+      "meaning": "to provide funding or financial backing for an activity or project",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "emotional or psychological backing, encouragement, or validation",
+      "context": "law",
+      "meaning": "to provide evidence or testimony that corroborates a claim or allegation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "to provide emotional or psychological encouragement and help",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.146
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "a structure or framework that holds something in place, such as a brace or corset",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "to provide technical assistance or customer service for a product or software",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.117
+    },
+    {
+      "id": "08",
+      "context": "computing",
+      "meaning": "to be compatible with or able to run a particular software, format, or feature",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.097
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "to be a fan of or actively back a sports team or athlete",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "10",
+      "context": "military",
+      "meaning": "to provide reinforcement or backup to troops in combat",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "movement",
+      "meaning": "to move along with or accompany something as a secondary element",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "12",
+      "context": "music",
+      "meaning": "a secondary musical part or accompaniment that backs a melody",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "communication",
+      "meaning": "to substantiate or back up a statement with evidence or reasoning",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "14",
+      "context": "informal",
+      "meaning": "to tolerate or put up with something unpleasant",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

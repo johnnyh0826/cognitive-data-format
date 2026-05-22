@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "anatomy",
-      "meaning": "a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it",
+      "context": "technology",
+      "meaning": "a device that controls the flow of fluid or gas through a pipe or opening by means of a movable part",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "device in a brass wind instrument for varying the length of the air column to alter the pitch of a tone",
+      "context": "anatomy",
+      "meaning": "a fold of tissue in the heart or veins that allows blood to flow in only one direction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "control consisting of a mechanical device for controlling the flow of a fluid",
+      "context": "biology",
+      "meaning": "a structure in plants that regulates the passage of water and nutrients through vascular tissue",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "engineering",
-      "meaning": "a device that regulates the flow of a fluid, such as air or gas, in an industrial process",
+      "context": "computing",
+      "meaning": "a mechanism in software or hardware that controls access to or release of resources or data",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to open and close a valve or to regulate flow by operating a valve",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "music",
+      "meaning": "a device on a brass instrument that when pressed changes the pitch of the note",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a person regarded as controlling the flow or distribution of something valuable or important",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

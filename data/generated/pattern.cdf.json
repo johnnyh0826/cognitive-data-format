@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "form",
-      "meaning": "a perceptual structure",
+      "context": "textiles",
+      "meaning": "a repeated decorative design or sequence of colors and shapes in fabric or wallpaper",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.118
     },
     {
       "id": "02",
-      "context": "practice",
-      "meaning": "a customary way of operation or behavior",
+      "context": "computing",
+      "meaning": "a reusable template or model used in software design to solve common programming problems",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "03",
-      "context": "design",
-      "meaning": "a decorative or artistic work",
+      "context": "psychology",
+      "meaning": "a consistent tendency, habit, or characteristic way of behaving or thinking",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.176
     },
     {
       "id": "04",
       "context": "mathematics",
-      "meaning": "a regular or repeated sequence of numbers, shapes, or other mathematical elements",
+      "meaning": "a sequence of numbers or shapes that follows a recognizable rule or formula",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.069
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to make or design something following a repeated or systematic structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.098
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a model or example used as a guide for creating or producing something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.118
+    },
+    {
+      "id": "07",
+      "context": "weather",
+      "meaning": "the typical sequence or trend of climatic conditions over a period",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "a recognizable sequence of data or behavior in a system or user activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.059
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "a consistent theme or recurring element in speech, writing, or media",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.098
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "the normal or expected way something typically happens or is done",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.137
     }
   ]
 }

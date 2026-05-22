@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "sealing wax",
-      "meaning": "fastener consisting of a resinous composition that is plastic when warm; used for sealing documents and parcels and letters",
+      "context": "biology",
+      "meaning": "a marine mammal with flippers, streamlined body, and whiskers that lives in water and on ice",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a device incised to make an impression; used to secure a closing or to authenticate documents",
+      "context": "action",
+      "meaning": "to close or fasten something securely with a seal or sealant",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "chemistry",
-      "meaning": "the pelt or fur (especially the underfur) of a seal",
+      "context": "storage",
+      "meaning": "a substance or device used to close a container to prevent leakage or contamination",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "nautical",
-      "meaning": "a device used to close or secure a ship's hatch or opening",
+      "context": "law",
+      "meaning": "an official mark or emblem that authenticates a document or confirms its legitimacy",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to block or restrict access to an area or border",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "to confirm or ratify an agreement or contract",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to settle or decide something conclusively",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "printing",
+      "meaning": "a design or mark impressed or embossed on paper or wax",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "an official stamp or mark used to indicate confirmation or approval",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

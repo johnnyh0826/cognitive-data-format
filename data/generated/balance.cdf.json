@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "state",
-      "meaning": "a state of equilibrium",
+      "context": "finance",
+      "meaning": "a state of equilibrium between debits and credits in an account, or the difference between them",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "finance",
-      "meaning": "equality between the totals of the credit and debit sides of an account",
+      "context": "action",
+      "meaning": "to keep or put something in a stable position so it does not fall",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "proportion",
-      "meaning": "harmonious arrangement or relation of parts or elements within a whole (as in a design); - John Ruskin",
+      "context": "psychology",
+      "meaning": "a state of mental or emotional equilibrium and stability",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.16
     },
     {
       "id": "04",
-      "context": "physical fitness",
-      "meaning": "a state of physical well-being, where one's body is in harmony with itself and its surroundings",
+      "context": "anatomy",
+      "meaning": "the ability to maintain bodily equilibrium and coordination",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "measurement",
+      "meaning": "a device or scale used to weigh or compare the weight of objects",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a settlement or adjustment of accounts between parties",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "the distribution of weight or positioning to remain upright and stable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "what remains or is left over after other things are accounted for",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "dance",
+      "meaning": "the poise and control of the body during movement or performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "art",
+      "meaning": "the harmonious arrangement of visual elements in a composition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "chemistry",
+      "meaning": "the state in which quantities of reactants and products reach a stable relationship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "law",
+      "meaning": "an equilibrium or equality in rights, obligations, or exchanges between parties",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

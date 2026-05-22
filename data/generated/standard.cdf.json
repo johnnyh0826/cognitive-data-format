@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a basis for comparison; a reference point against which other things can be evaluated",
+      "context": "measurement",
+      "meaning": "an established or widely accepted level, norm, or criterion against which things are compared or evaluated",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "criterion",
-      "meaning": "the ideal in terms of which something can be judged",
+      "context": "technology",
+      "meaning": "a technical specification or protocol agreed upon by an industry or organization for compatibility and consistency",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "measurement",
-      "meaning": "a board measure = 1980 board feet",
+      "context": "law",
+      "meaning": "a required or official level of quality, safety, or performance mandated by regulation or statute",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "a level of quality or excellence that is widely accepted and expected",
+      "context": "finance",
+      "meaning": "a monetary unit or value used as the basis for a currency system, such as the gold standard",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "an established or expected level of performance, quality, or conduct required in a profession or organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a flag or banner used to represent a nation, military unit, or organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "an upright post or support structure that bears weight or holds something up",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "music",
+      "meaning": "a song or composition that has become a classic and is widely known or performed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "geography",
+      "meaning": "the typical or common pattern, such as standard time based on a geographic meridian",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "ordinary, normal, or not special or distinctive in any way",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "botany",
+      "meaning": "the upper petal or structure of an iris or similar flower that stands upright",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

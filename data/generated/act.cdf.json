@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a legal document codifying the result of deliberations of a committee or society or legislative body",
+      "context": "action",
+      "meaning": "something done or performed; a deed or activity",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "Tops",
-      "meaning": "something that people do or cause to happen",
+      "context": "law",
+      "meaning": "a legal proceeding or lawsuit brought by one party against another",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a subdivision of a play or opera or ballet",
+      "context": "theatre",
+      "meaning": "a major division of a play or opera",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.03
     },
     {
       "id": "04",
-      "context": "theatre",
-      "meaning": "a performance or role in a play, opera, or ballet",
+      "context": "business",
+      "meaning": "a share of stock in a company",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "the process of doing something or engaging in behavior",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "the functioning or operation of a mechanical device",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "to behave or conduct oneself in a specified way",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "the effect or influence of a drug or treatment on the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "a formal accusation or charge brought against someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "excitement, energy, or lively activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
     }
   ]
 }

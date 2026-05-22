@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a wooden structure consisting of an upright post with a transverse piece",
+      "context": "action",
+      "meaning": "to move or go across something, typically from one side to the other",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.275
     },
     {
       "id": "02",
-      "context": "crisscross",
-      "meaning": "a marking that consists of lines that cross each other",
+      "context": "anatomy",
+      "meaning": "a mark or line formed by two things intersecting at right angles",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.176
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a representation of the structure on which Jesus was crucified; used as an emblem of Christianity or in heraldry",
+      "context": "religion",
+      "meaning": "a Christian symbol consisting of two lines or bars intersecting at right angles",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.147
     },
     {
       "id": "04",
-      "context": "Navigation",
-      "meaning": "to intersect or meet at a point, especially in a journey or route",
+      "context": "penalty",
+      "meaning": "to oppose, thwart, or go against someone's wishes or plans",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.118
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "to pass or go from one place to another, especially in contact or conversation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "06",
+      "context": "geometry",
+      "meaning": "a figure formed by two intersecting lines, typically at right angles",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.059
+    },
+    {
+      "id": "07",
+      "context": "biology",
+      "meaning": "to breed animals or plants of different varieties or species together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to make someone annoyed or angry by irritating or challenging them",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "09",
+      "context": "medicine",
+      "meaning": "a hybrid organism resulting from breeding two different varieties or species",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "sports",
+      "meaning": "a punch delivered with a rotational motion of the fist and body in boxing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "geography",
+      "meaning": "a journey or passage from one place to another, typically across terrain",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "computing",
+      "meaning": "to intersect or overlap in computer graphics or data visualization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "law",
+      "meaning": "to contradict or challenge testimony given by a witness in court",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "theatre",
+      "meaning": "to move an actor or character from one side of the stage to the other",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

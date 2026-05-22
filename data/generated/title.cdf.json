@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with",
+      "context": "law",
+      "meaning": "a legal right to ownership of a property or asset",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "02",
       "context": "communication",
-      "meaning": "the name of a work of art or literary composition etc.",
+      "meaning": "a name or heading given to a book, article, film, or other work",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a general or descriptive heading for a section of a written work",
+      "context": "theatre",
+      "meaning": "the name of a rank, position, or role held by a person",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "news and journalism",
-      "meaning": "the name or headline of a news article or story",
+      "context": "printing",
+      "meaning": "the heading or opening words of a printed page or section",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to give a name or heading to something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a position of authority or responsibility held within an organization or institution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "a championship or victory in a competition or contest",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "the right to possess or use something based on achievement or deservingness",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

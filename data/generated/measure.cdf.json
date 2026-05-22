@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "any maneuver made as part of progress toward a goal",
+      "context": "measurement",
+      "meaning": "a unit or standard used to determine the size, amount, or extent of something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "Tops",
-      "meaning": "how much there is or how many there are of something that you can quantify",
+      "context": "action",
+      "meaning": "the act of determining or calculating the size, quantity, or degree of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.3
     },
     {
       "id": "03",
-      "context": "bill",
-      "meaning": "a statute in draft before it becomes law",
+      "context": "music",
+      "meaning": "a bar or unit of musical time containing a specific number of beats",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "Business",
-      "meaning": "the extent or amount of something, such as a company's financial performance or market share",
+      "context": "law",
+      "meaning": "a legislative act or statute passed by a government body",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "a method or instrument used to assess or evaluate a person's abilities or characteristics",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "a specified amount of a substance or liquid, often used in cooking or medicine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a degree or extent to which something is true or applicable",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "a metric or standard used to evaluate performance or progress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "geology",
+      "meaning": "a stratum or layer of rock or mineral deposits",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

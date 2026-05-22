@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "the appendage to an object that is designed to be held in order to use or move it",
+      "context": "anatomy",
+      "meaning": "the part of the arm between the wrist and elbow",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.0
     },
     {
       "id": "02",
-      "context": "manage",
-      "meaning": "be in charge of, act on, or dispose of",
+      "context": "action",
+      "meaning": "to hold, grasp, or grip something with your hand",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "treat",
-      "meaning": "interact in a certain way",
+      "context": "movement",
+      "meaning": "to pass or give something to someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "to control or manipulate a game element, such as a character or object",
+      "context": "storage",
+      "meaning": "a grip or part designed to be held, such as on a tool, door, or container",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.22
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "to manage, deal with, or take responsibility for something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "to control a situation or person skillfully or with difficulty",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a manual worker or laborer on a farm or in a factory",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "nautical",
+      "meaning": "a member of a ship's crew",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "gambling",
+      "meaning": "the cards dealt to a player in a card game",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "sports",
+      "meaning": "to catch or receive a ball or object in play",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "psychology",
+      "meaning": "to cope with, tolerate, or manage emotions or difficult situations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "law",
+      "meaning": "to conduct a legal proceeding or manage a case",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "13",
+      "context": "computing",
+      "meaning": "a reference or identifier used to access or manipulate a resource or object",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

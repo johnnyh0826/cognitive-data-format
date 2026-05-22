@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "thunderbolt",
-      "meaning": "a discharge of lightning accompanied by thunder",
+      "context": "action",
+      "meaning": "to run away suddenly or flee quickly, often in panic",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a sliding bar in a breech-loading firearm that ejects an empty cartridge and replaces it and closes the breech",
+      "context": "construction",
+      "meaning": "a metal fastener consisting of a head and a threaded shaft used to join materials together",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "the part of a lock that is engaged or withdrawn with a key",
+      "context": "anatomy",
+      "meaning": "the part of the leg between the knee and ankle",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.0
     },
     {
       "id": "04",
-      "context": "mechanical engineering",
-      "meaning": "a fastener with a threaded shaft and a hexagonal head, used to join two parts together",
+      "context": "sports",
+      "meaning": "a sudden dash or sprint, particularly in athletics",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "weather",
+      "meaning": "a sudden violent gust of wind or a sudden storm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "electricity",
+      "meaning": "a metal bar or rod that conducts electrical current, especially in machinery",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "a rope or cable attached to a sail to control its angle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "something sudden and unexpected, often something unpleasant",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "to depart suddenly or abscond, particularly to evade legal responsibility",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "printing",
+      "meaning": "a metal rod used to secure or lock printing type or materials in place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

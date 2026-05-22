@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a long wooden bench with a back",
+      "context": "action",
+      "meaning": "to come to rest or become still after moving",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "02",
-      "context": "movement",
-      "meaning": "settle into a position, usually on a surface or ground",
+      "context": "law",
+      "meaning": "to resolve or conclude a legal dispute, claim, or lawsuit by agreement between parties",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.22
     },
     {
       "id": "03",
-      "context": "decide",
-      "meaning": "bring to an end; settle conclusively",
+      "context": "finance",
+      "meaning": "to pay a debt, bill, or financial obligation in full",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "finance",
-      "meaning": "to pay off a debt or obligation, especially in full",
+      "context": "movement",
+      "meaning": "to sink gradually and come to rest at the bottom of water or soft ground",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "an open uncultivated area of land, especially in arid regions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "housing",
+      "meaning": "a colony or community established in a new area",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "domestic",
+      "meaning": "to establish a household or take up residence in a place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "to become calm, composed, or emotionally stable after disturbance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to agree on or decide upon something, especially after discussion or negotiation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "anatomy",
+      "meaning": "to move downward and come to rest in a lower position, as of internal organs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

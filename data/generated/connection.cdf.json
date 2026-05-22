@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "relationship",
-      "meaning": "a relation between things or events (as in the case of one causing the other or sharing features with it)",
+      "context": "communication",
+      "meaning": "a relationship or association between people, groups, or organizations",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "the state of being connected",
+      "context": "technology",
+      "meaning": "a link or interface that enables data or signals to be transmitted between devices or systems",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "an instrumentality that connects",
+      "context": "computing",
+      "meaning": "a logical or physical pathway that allows computers or networks to communicate with each other",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a sense of unity or rapport between people, often characterized by trust and understanding",
+      "context": "transportation",
+      "meaning": "a service route or scheduled passage between two locations, as in airline or train connections",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "the linking of bones, joints, or body parts that allows movement or structural support",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "a sense of relatedness, understanding, or emotional bond with another person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "07",
+      "context": "chemistry",
+      "meaning": "a chemical bond linking atoms or molecules together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "electricity",
+      "meaning": "a physical link or contact point that allows electric current to flow between conductors or components",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "09",
+      "context": "business",
+      "meaning": "a professional contact or acquaintance that can provide opportunities or information",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "10",
+      "context": "action",
+      "meaning": "the act of joining or linking two or more things together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "11",
+      "context": "movement",
+      "meaning": "a transfer or transition from one place or state to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "12",
+      "context": "informal",
+      "meaning": "a person who supplies illegal drugs or contraband goods",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "law",
+      "meaning": "a link between facts or evidence that establishes guilt or responsibility in a legal case",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "14",
+      "context": "time",
+      "meaning": "a logical or causal relationship between events separated in sequence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

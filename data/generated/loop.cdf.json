@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "cringle",
-      "meaning": "fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines",
+      "context": "computing",
+      "meaning": "a sequence of instructions that repeats until a condition is met or a specified number of iterations is completed",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "geometry",
-      "meaning": "anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)",
+      "context": "action",
+      "meaning": "to move in a circular or oval path that returns to the starting point",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "iteration",
-      "meaning": "(computer science) a single execution of a set of instructions that are to be repeated",
+      "context": "anatomy",
+      "meaning": "a circular or oval shaped anatomical structure or opening in the body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.04
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a musical composition that is repeated, often with variations or embellishments",
+      "context": "construction",
+      "meaning": "a curved or circular band of material used as a fastener or structural element",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "a complete circular path or trajectory that comes back to its origin",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a closed circuit or continuous electronic pathway",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a state of repeating the same activity, thought, or behavior without progress or change",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "a circular or enclosed area defined by boundaries or jurisdiction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "a return message or response that follows from a previous message in a sequence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "10",
+      "context": "theatre",
+      "meaning": "a section of theatrical staging with defined boundaries or an enclosed playing area",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "sports",
+      "meaning": "one complete circuit of a track or course in a race or athletic event",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "a repetitive pattern of thoughts, behaviors, or emotional states that recurs without resolution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

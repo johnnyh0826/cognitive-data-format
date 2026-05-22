@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "state",
-      "meaning": "a particular environment or surrounding influence",
+      "context": "weather",
+      "meaning": "the layer of gases surrounding the Earth or another planet that is retained by gravity",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "standard atmosphere",
-      "meaning": "a unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade",
+      "context": "geography",
+      "meaning": "the air in a particular place or region, especially with regard to its qualities or conditions",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "the mass of air surrounding the Earth",
+      "context": "chemistry",
+      "meaning": "a gaseous envelope or environment surrounding a celestial body or contained in an enclosed space",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "the envelope of gases surrounding a planet or moon, as opposed to its solid surface",
+      "context": "psychology",
+      "meaning": "the pervading mood, tone, or emotional environment of a place, situation, or group",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "the general impression or feeling conveyed by something such as writing, art, or music",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "theatre",
+      "meaning": "the creation of mood and environment through staging, lighting, sound, and d\u00e9cor in a theatrical production",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a sense of mystery, drama, or tension in a social situation or relationship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "astronomy",
+      "meaning": "the envelope of gases that surrounds stars, moons, or other celestial bodies",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

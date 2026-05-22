@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit",
+      "context": "technology",
+      "meaning": "a device for making or breaking an electrical connection or changing the direction of an electric current",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "substitution",
-      "meaning": "an event in which one thing is substituted for another",
+      "context": "action",
+      "meaning": "to change from one thing to another or exchange positions",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "hairpiece consisting of a tress of false hair; used by women to give shape to a coiffure",
+      "context": "communication",
+      "meaning": "to change the topic of conversation or redirect attention",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "to change or alternate between different game modes, characters, or settings",
+      "context": "computing",
+      "meaning": "a control mechanism to toggle between different states, modes, or programs",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to change direction or reverse course, especially suddenly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "to shift one's attention, focus, or emotional state from one thing to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "penalty",
+      "meaning": "a punishment in sports where a player is sent to the penalty box or removed from play",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "a thin stick or rod used to hit something, particularly a riding crop or cane",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "a sudden reversal in fortune or a dramatic change in plot",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "10",
+      "context": "law",
+      "meaning": "to exchange one thing for another in a fraudulent manner or bait-and-switch tactic",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "military",
+      "meaning": "a portable electrical device that controls the ignition or detonation of an explosive",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "12",
+      "context": "nautical",
+      "meaning": "to change the course of a sailing ship by turning it across the wind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "13",
+      "context": "farming",
+      "meaning": "a thin flexible rod or whip used to drive cattle or animals",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

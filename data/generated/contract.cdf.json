@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a binding agreement between two or more persons that is enforceable by law",
+      "context": "law",
+      "meaning": "a legally binding agreement between two or more parties that specifies obligations, rights, and terms",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "(contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make",
+      "context": "business",
+      "meaning": "a written or verbal agreement to provide goods or services for an agreed price",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.3
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "a variety of bridge in which the bidder receives points toward game only for the number of tricks he bid",
+      "context": "anatomy",
+      "meaning": "the process by which a muscle or organ becomes smaller or shorter in length",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "a written agreement between two or more parties that outlines the terms and conditions of a business deal",
+      "context": "medicine",
+      "meaning": "the spontaneous shortening of muscle tissue, often causing deformity or loss of function",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to decrease in size, amount, or extent",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to catch an illness or disease",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "psychology",
+      "meaning": "to become emotionally withdrawn or distant from others",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "construction",
+      "meaning": "to reduce the diameter of a pipe, duct, or opening",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "to reduce the size of a digital file or application",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

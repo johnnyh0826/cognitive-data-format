@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "the concentration of attention or energy on something",
+      "context": "action",
+      "meaning": "to direct attention, effort, or concentration toward something specific",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "maximum clarity or distinctness of an image rendered by an optical system",
+      "context": "psychology",
+      "meaning": "the center of interest or activity; the state of concentrated attention",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "maximum clarity or distinctness of an idea",
+      "context": "optics",
+      "meaning": "the point at which rays of light converge after passing through a lens or reflecting off a mirror",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "prioritizing goals and objectives, often in a strategic plan",
+      "context": "medicine",
+      "meaning": "the point of maximum intensity of an infection, disease, or medical condition in the body",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "to adjust a camera, microscope, or other optical instrument to produce a clear image",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "to direct computational or processing resources toward a specific task or target",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "to concentrate organizational efforts or strategy on a particular market, product, or objective",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to regain concentration or mental clarity after distraction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

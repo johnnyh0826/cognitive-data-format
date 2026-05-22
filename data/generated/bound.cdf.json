@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "boundary",
-      "meaning": "a line determining the limits of an area",
+      "context": "movement",
+      "meaning": "confined or restricted to a particular place, direction, or condition",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "boundary",
-      "meaning": "the line or plane indicating the limit or extent of something",
+      "context": "action",
+      "meaning": "obligated or committed to do something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "limit",
-      "meaning": "the greatest possible degree of something",
+      "context": "anatomy",
+      "meaning": "the edge or border of something, particularly of a book or garment",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "emotional or psychological state",
-      "meaning": "feeling of being restricted or confined",
+      "context": "sports",
+      "meaning": "a jump or leap in ballet or equestrian sports",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "mathematics",
+      "meaning": "a value that is within specified limits or parameters",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "legally obligated by contract or legal agreement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "moving in a particular direction relative to the wind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "printing",
+      "meaning": "a sheet of paper folded to form pages, especially in a pamphlet",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "heading toward or on course for something, usually in the phrase 'bound for'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "10",
+      "context": "biology",
+      "meaning": "chemically or physically attached to another molecule or structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "11",
+      "context": "geology",
+      "meaning": "held together or consolidated, as in sedimentary rock",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "medicine",
+      "meaning": "suffering from constipation or inability to have bowel movements",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

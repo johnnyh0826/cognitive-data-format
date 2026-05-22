@@ -3,31 +3,131 @@
   "tracks": [
     {
       "id": "01",
-      "context": "geometry",
-      "meaning": "a shape that is spherical and small",
+      "context": "action",
+      "meaning": "to fall or allow something to fall from a higher to lower position",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.248
     },
     {
       "id": "02",
-      "context": "measurement",
-      "meaning": "a small indefinite quantity (especially of a liquid); ; ; ; --Kipling",
+      "context": "movement",
+      "meaning": "to descend or come down suddenly or steeply",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.119
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "a sudden sharp decrease in some quantity",
+      "context": "business",
+      "meaning": "a small amount of liquid that falls in a sphere shape",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.079
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a sudden stop or pause in a performance or recording",
+      "context": "weather",
+      "meaning": "a small amount of liquid precipitation falling from clouds",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.069
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to stop doing or pursuing something; to cease involvement with",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.218
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "to mention or introduce a topic or subject into conversation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "07",
+      "context": "music",
+      "meaning": "a recorded song or musical track on an album or compilation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.069
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "a small measured amount of liquid medication administered through the eyes or ears",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "chemistry",
+      "meaning": "a small globule of liquid substance produced through a process or reaction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "finance",
+      "meaning": "a sudden decrease in the value or price of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "11",
+      "context": "penalty",
+      "meaning": "a reduction in points or score in sports or competitions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "computing",
+      "meaning": "to transfer or move files or data from a remote server to a local device",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "theatre",
+      "meaning": "a painted or constructed curtain that falls from above the stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "14",
+      "context": "sports",
+      "meaning": "to lose a round or game in a competition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "15",
+      "context": "gambling",
+      "meaning": "to wager or bet money on an outcome",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "16",
+      "context": "farming",
+      "meaning": "to give birth to offspring, especially of livestock",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "gun trigger",
-      "meaning": "lever that activates the firing mechanism of a gun",
+      "context": "action",
+      "meaning": "to cause something to happen or activate a process or mechanism",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a device that activates or releases or causes something to happen",
+      "context": "psychology",
+      "meaning": "a stimulus or event that causes an emotional or psychological reaction, especially in someone with trauma or anxiety",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "an act that sets in motion some course of events",
+      "context": "anatomy",
+      "meaning": "the lever or mechanism on a firearm that is pulled with the finger to fire a shot",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "an event or situation that causes a strong emotional response or reaction",
+      "context": "military",
+      "meaning": "a device or mechanism that initiates the detonation of an explosive or bomb",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "a database mechanism that automatically executes a specified action when a particular event occurs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a sensor or mechanism that activates a device or system in response to a specific condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "a statement or action that provokes a strong or hostile response from someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "a warning label indicating that content may cause distress to people with trauma or specific sensitivities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "medicine",
+      "meaning": "a factor or event that initiates the onset of a disease, symptom, or medical condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "finance",
+      "meaning": "a predetermined condition that activates a financial transaction, alert, or automatic action",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a mechanical device that prevents a vessel from moving",
+      "context": "nautical",
+      "meaning": "a heavy object dropped from a ship on a rope or chain to keep the vessel in place in water",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "a central cohesive source of support and stability",
+      "context": "action",
+      "meaning": "to lower and secure an anchor from a ship into the water",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.048
     },
     {
       "id": "03",
-      "context": "person",
-      "meaning": "a television reporter who coordinates a broadcast to which several correspondents contribute",
+      "context": "psychology",
+      "meaning": "a cognitive bias where an initial piece of information disproportionately influences subsequent judgments or decisions",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a fixed point or reference in a musical composition, used for tuning and pitch control",
+      "context": "communication",
+      "meaning": "a person who presents or reads news on television or radio",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.337
+    },
+    {
+      "id": "05",
+      "context": "construction",
+      "meaning": "a metal device or fastening that secures structural elements or cables to walls, foundations, or other surfaces",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "the last or strongest competitor in a relay race or team competition who runs or performs last",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "a point of attachment for muscle, ligament, or other anatomical structures",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "something that provides emotional security, comfort, or a sense of stability in a person's life",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "09",
+      "context": "technology",
+      "meaning": "a text or image link that connects to another location within the same document or website",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "printing",
+      "meaning": "a typographical symbol or mark used as a reference point in a document",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "two-winged insects characterized by active flight",
+      "context": "action",
+      "meaning": "to move through the air with wings or in an aircraft",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "tent-fly",
-      "meaning": "flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent",
+      "context": "anatomy",
+      "meaning": "a limb or appendage of an insect or bird used for flight",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.0
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth",
+      "context": "sports",
+      "meaning": "to hit a ball high through the air in cricket or similar sports",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "04",
-      "context": "aviation",
-      "meaning": "to operate an aircraft, especially a helicopter or a plane",
+      "context": "theatre",
+      "meaning": "to move swiftly across a stage, typically suspended or using stage machinery",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to move quickly or hurriedly away from a place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "a group of birds or insects moving together through the air",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "to abscond or flee from a place to avoid arrest or prosecution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "a small insect with wings, especially a housefly or fruit fly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "09",
+      "context": "business",
+      "meaning": "to travel by aircraft as a passenger or pilot",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "10",
+      "context": "nautical",
+      "meaning": "a triangular sail or flag flown from a ship's mast",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "clothing",
+      "meaning": "the front opening and fastening of trousers or shorts",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "12",
+      "context": "fishing",
+      "meaning": "an artificial lure made to resemble an insect, used in fly fishing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "printing",
+      "meaning": "the action of adjusting the alignment of printed material in a press",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "14",
+      "context": "time",
+      "meaning": "to pass swiftly or elapse quickly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "faux pas",
-      "meaning": "a socially awkward or tactless act",
+      "context": "action",
+      "meaning": "to slide unintentionally on a surface, losing one's footing or balance",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.286
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "a minor inadvertent mistake usually observed in speech or writing or in small accidents or memory lapses etc.",
+      "context": "informal",
+      "meaning": "a minor mistake or error in judgment",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.224
     },
     {
       "id": "03",
-      "context": "chemistry",
-      "meaning": "potter's clay that is thinned and used for coating or decorating ceramics",
+      "context": "clothing",
+      "meaning": "a woman's sleeveless undergarment worn under a dress or blouse",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.122
     },
     {
       "id": "04",
-      "context": "nautical",
-      "meaning": "a rope or line used for hauling or securing something on a ship or boat",
+      "context": "geology",
+      "meaning": "a small piece of rock or mineral that has broken away from a larger formation",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "paper",
+      "meaning": "a small piece of paper containing written or printed information",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.102
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "a smooth ramp or slope used to launch a ship into water",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "to move smoothly and easily without friction or resistance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.122
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "a punishment or consequence that arises from a mistake or transgression",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "to gradually decline in mental or moral condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "a statement made casually or incidentally during conversation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "11",
+      "context": "banking",
+      "meaning": "a document issued by a bank acknowledging a deposit or withdrawal transaction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "time",
+      "meaning": "to pass or elapse, especially when time passes quickly or unnoticed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

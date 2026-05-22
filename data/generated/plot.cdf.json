@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "a secret scheme to do something (especially something underhand or illegal)",
+      "context": "theatre",
+      "meaning": "the main story or sequence of events in a play, film, book, or other narrative work",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "a small area of ground covered by specific vegetation",
+      "context": "action",
+      "meaning": "a piece of land, typically a defined area marked out for a specific purpose",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "the story that is told in a novel or play or movie etc.",
+      "context": "computing",
+      "meaning": "to produce a graph or diagram by marking points on a coordinate system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "a set of points in a plane, connected by line segments or curves",
+      "context": "military",
+      "meaning": "a secret plan or conspiracy to carry out a harmful or illegal act",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "farming",
+      "meaning": "a small piece of ground used for growing vegetables or flowers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "to mark the position of something on a map or chart using coordinates",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "the basic story or main events that form the structure of a narrative",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.13
     }
   ]
 }

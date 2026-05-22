@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "turn",
-      "meaning": "an unforeseen development",
+      "context": "action",
+      "meaning": "to turn or rotate something around an axis or central point",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "construction",
-      "meaning": "an interpretation of a text or action",
+      "context": "anatomy",
+      "meaning": "a sudden sharp pain or muscle spasm, particularly in the back or neck",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "device",
-      "meaning": "any clever maneuver",
+      "context": "movement",
+      "meaning": "to change direction suddenly or sharply while moving",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "physical activity",
-      "meaning": "a movement of the body involving rotation or turning",
+      "context": "communication",
+      "meaning": "to distort the meaning or intent of words or statements",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "to manipulate someone's words or actions for one's own advantage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "an unexpected development or surprising turn of events in a story or situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "dance",
+      "meaning": "a ballroom dance performed with a twisting motion of the hips",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "food",
+      "meaning": "a piece of bread, dough, or candy that has been twisted into a shape",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "nautical",
+      "meaning": "to turn a ship or boat to change its course",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "chemistry",
+      "meaning": "the act of wringing or squeezing liquid from a substance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "a characteristic sound",
+      "context": "anatomy",
+      "meaning": "a circular band of metal, plastic, or other material worn on the finger, typically as jewelry or to signify a commitment such as marriage",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "geometry",
-      "meaning": "a toroidal shape",
+      "context": "action",
+      "meaning": "to form or arrange in a circular or ring-like shape",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "hoop",
-      "meaning": "a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling",
+      "context": "communication",
+      "meaning": "to make a telephone call to someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.3
     },
     {
       "id": "04",
-      "context": "jewelry",
-      "meaning": "a circular piece of jewelry worn on the finger as a symbol of commitment or celebration",
+      "context": "sound",
+      "meaning": "the clear resonant sound produced by striking a bell or similar object",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "the enclosed square or circular area in which boxing or wrestling matches take place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "to have the quality or character of something specified, as in 'that story has a ring of truth to it'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "chemistry",
+      "meaning": "a closed chain of atoms in a molecule, particularly a hexagonal arrangement of carbon atoms in aromatic compounds",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "astronomy",
+      "meaning": "a thin flat band of particles and debris orbiting a planet, such as Saturn's rings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "law",
+      "meaning": "an organized group of people engaged in illegal or unethical activities, such as a crime ring or smuggling ring",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "storage",
+      "meaning": "a circular band used to hold items together or to attach something to a surface, such as a key ring",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "computing",
+      "meaning": "a network topology in which devices are connected in a circular configuration where data passes from one device to the next",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "theatre",
+      "meaning": "the circus arena or performance space",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "13",
+      "context": "time",
+      "meaning": "a complete cycle or round, as in 'the ring of seasons'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "14",
+      "context": "biology",
+      "meaning": "a growth ring in a tree trunk indicating one year of growth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "undertaking",
-      "meaning": "any piece of work that is undertaken or attempted",
+      "context": "business",
+      "meaning": "a planned undertaking or enterprise with defined goals, timeline, and resources",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.55
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "a planned undertaking",
+      "context": "action",
+      "meaning": "to cause something to move forward or outward, typically with force",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "communicate vividly",
+      "context": "psychology",
+      "meaning": "to estimate or calculate something based on available information or assumptions",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "04",
-      "context": "business domain",
-      "meaning": "a set of tasks or activities with a specific goal or objective",
+      "context": "computing",
+      "meaning": "to display an image or video onto a surface using a projector or projection device",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "geometry",
+      "meaning": "to extend a line, plane, or shape outward in a particular direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "geography",
+      "meaning": "to represent a three-dimensional surface on a two-dimensional map using mathematical transformation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to convey an impression or image of oneself to others",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "to thrust or propel something outward from a surface or structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "to make one's voice or stage presence clearly audible or visible to an audience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

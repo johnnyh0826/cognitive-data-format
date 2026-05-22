@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "airtight sealed metal container for food or drink or paint etc.",
+      "context": "action",
+      "meaning": "to be able to do something or have the power or skill to accomplish it",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.85
     },
     {
       "id": "02",
-      "context": "measurement",
-      "meaning": "the quantity contained in a can",
+      "context": "storage",
+      "meaning": "a cylindrical metal container used for holding or preserving liquids, powders, or other materials",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a buoy with a round bottom and conical top",
+      "context": "food",
+      "meaning": "to preserve food in a sealed tin or metal container by heating",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.03
     },
     {
       "id": "04",
-      "context": "ability",
-      "meaning": "to be able or permitted to do something",
+      "context": "informal",
+      "meaning": "used to express doubt or disbelief about what someone has said",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "05",
+      "context": "technology",
+      "meaning": "a cylindrical data storage device used in early computing systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "06",
+      "context": "medicine",
+      "meaning": "a container or vessel used in medical contexts for holding sterile instruments or substances",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "a cylindrical buoyant object used to mark navigation channels or moorings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "08",
+      "context": "military",
+      "meaning": "an armored combat vehicle with tracks and a rotating turret armed with weapons",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "farming",
+      "meaning": "a large cylindrical storage container for grain or other agricultural products",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

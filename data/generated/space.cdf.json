@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "Tops",
-      "meaning": "the unlimited expanse in which everything is located",
+      "context": "astronomy",
+      "meaning": "the vast expanse beyond Earth's atmosphere containing stars, planets, and galaxies",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "02",
-      "context": "geometry",
-      "meaning": "an empty area (usually bounded in some way between things)",
+      "context": "geography",
+      "meaning": "an area or region of land or surface with particular characteristics",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "an area reserved for some particular purpose",
+      "context": "storage",
+      "meaning": "an empty area or gap available for placing or keeping something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "the region of a planet's orbit where objects can be in orbit around it, as opposed to being gravitationally bound to the planet",
+      "context": "anatomy",
+      "meaning": "the gap or distance between two objects or body parts",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to arrange or position things with gaps or intervals between them",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "printing",
+      "meaning": "the blank area on a page surrounding text or images",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a location in computer memory or storage used for storing data",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "freedom from constraint or the ability to express oneself without restriction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "a pause or silence in a conversation or spoken communication",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a moment or brief period of time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "movement",
+      "meaning": "to position or distribute things at intervals or with separation between them",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

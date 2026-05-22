@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "biology",
-      "meaning": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
+      "context": "sports",
+      "meaning": "a wooden or metal implement used to hit a ball in baseball, cricket, or similar games",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "(baseball) a turn trying to get a hit",
+      "context": "biology",
+      "meaning": "a nocturnal flying mammal with membranous wings, belonging to the order Chiroptera",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "squash racket",
-      "meaning": "a small racket with a long handle used for playing squash",
+      "context": "action",
+      "meaning": "to hit or strike something with force, typically using a bat or similar object",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "symbolism",
-      "meaning": "a symbol of darkness, fear, or chaos in various cultures and mythologies",
+      "context": "informal",
+      "meaning": "to take a turn at hitting in baseball or cricket",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "eyelashes or the act of blinking, as in 'without batting an eye'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "construction",
+      "meaning": "a strip of wood or metal used to cover joints or reinforce structures",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "storage",
+      "meaning": "layers of cotton, wool, or synthetic fibers used as padding or insulation in quilts or clothing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "short for battery, a device that provides electrical power",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

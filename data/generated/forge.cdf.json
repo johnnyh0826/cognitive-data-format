@@ -3,31 +3,51 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "furnace consisting of a special hearth where metal is heated before shaping",
+      "context": "metallurgy",
+      "meaning": "a workplace where metal is heated and shaped, typically with a furnace and anvil",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a workplace where metal is worked by heating and hammering",
+      "context": "action",
+      "meaning": "to create or produce something, especially through effort or skill",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "creation",
-      "meaning": "create by hammering",
+      "context": "law",
+      "meaning": "to create a fraudulent or false document, signature, or object",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.22
     },
     {
       "id": "04",
-      "context": "idiom",
-      "meaning": "to invent or fabricate something, often in a deceptive manner",
+      "context": "movement",
+      "meaning": "to move forward steadily and with determination",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to develop or build something gradually over time, especially a close relationship",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "to create or establish a partnership or business alliance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

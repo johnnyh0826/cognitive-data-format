@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving",
+      "context": "textiles",
+      "meaning": "a thin strand of fiber twisted together, used for sewing or weaving",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "ribbon",
-      "meaning": "any long object resembling a thin line",
+      "context": "computing",
+      "meaning": "a sequence of instructions or execution path within a program or operating system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "train of thought",
-      "meaning": "the connections that link the various parts of an event or argument together",
+      "context": "anatomy",
+      "meaning": "a fine strand of connective tissue or nerve fiber running through the body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a sequence of instructions or tasks that are executed in a specific order",
+      "context": "communication",
+      "meaning": "a conversation or series of connected messages in a chat or discussion forum",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to follow or track someone's movements or activities",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "a train of thought or connected series of ideas in the mind",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a topic or subject under discussion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "a continuous line or path connecting separate points or events",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "biology",
+      "meaning": "a long thin tubular structure such as those found in plants or fungi",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "spot",
-      "meaning": "a small piece or quantity of something",
+      "context": "computing",
+      "meaning": "the smallest unit of information in a computer, represented as either 0 or 1",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.248
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a small fragment of something broken off from the whole",
+      "context": "measurement",
+      "meaning": "a small amount or portion of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.277
     },
     {
       "id": "03",
-      "context": "moment",
-      "meaning": "an indefinitely short time",
+      "context": "informal",
+      "meaning": "a small piece or fragment of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.178
     },
     {
       "id": "04",
-      "context": "Computer Science",
-      "meaning": "a unit of digital information, typically represented by a binary digit (0 or 1)",
+      "context": "action",
+      "meaning": "to bite or grip something with the teeth",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.119
+    },
+    {
+      "id": "05",
+      "context": "gambling",
+      "meaning": "a wager or stake placed in gambling",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "time",
+      "meaning": "a short period of time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.069
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "the metal mouthpiece of a horse's bridle",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "construction",
+      "meaning": "a cutting tool or drill attachment used for boring holes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "storage",
+      "meaning": "a small item or thing, often used to mean miscellaneous objects",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "a small part of information or discourse",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "theatre",
+      "meaning": "a small part or role in a performance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "finance",
+      "meaning": "a former monetary unit or coin, especially in older currency systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

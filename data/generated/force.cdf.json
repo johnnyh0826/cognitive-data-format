@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "a powerful effect or influence",
+      "context": "physics",
+      "meaning": "a physical influence that changes or tends to change the motion or shape of an object",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "02",
-      "context": "phenomenon",
-      "meaning": "(physics) the influence that produces a change in a physical quantity",
+      "context": "military",
+      "meaning": "organized armed personnel or combat units deployed for war or conflict",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.077
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "physical energy or intensity",
+      "context": "action",
+      "meaning": "to compel or pressure someone to do something against their will",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "the tendency of an individual or group to exert power over others, often unconsciously",
+      "context": "law",
+      "meaning": "legal power or authority granted by law to act in a particular way",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "a company or organization, especially one involved in a particular industry",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "the strength of personality, character, or determination",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "07",
+      "context": "movement",
+      "meaning": "the act of pushing or moving something with physical effort",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.144
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "a person of impressive physical strength or ability",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "09",
+      "context": "technology",
+      "meaning": "a computational or mechanical system that drives functionality or processing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "to persuade or induce someone through argument or influence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "11",
+      "context": "penalty",
+      "meaning": "a forced play or action mandated as a consequence in sports or games",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "12",
+      "context": "theatre",
+      "meaning": "artificial or unnatural performance quality that seems strained or exaggerated",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
     }
   ]
 }

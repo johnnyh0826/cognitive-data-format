@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "a sudden and decisive increase",
+      "context": "action",
+      "meaning": "to propel oneself upward off the ground using leg muscles",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.275
     },
     {
       "id": "02",
-      "context": "leap",
-      "meaning": "an abrupt transition",
+      "context": "movement",
+      "meaning": "to move suddenly from one place to another, especially with urgency",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.216
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "(film) an abrupt transition from one scene to another",
+      "context": "sports",
+      "meaning": "a sudden increase in height or distance covered by an athlete in vertical or long jump competition",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.118
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "to suddenly and quickly move a character or avatar in a game, often to avoid obstacles or reach new areas",
+      "context": "business",
+      "meaning": "a sudden increase or spike in price, value, or demand",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.147
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a sudden involuntary muscle contraction or twitch",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.098
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "to react with sudden fright or alarm",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "07",
+      "context": "penalty",
+      "meaning": "an illegal movement by a player before the start of play in sports",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "communication",
+      "meaning": "to begin speaking abruptly or out of turn",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "to transfer control to a non-sequential instruction in a program",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to attack or assault someone suddenly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "gambling",
+      "meaning": "a sudden or unexpected gain in winnings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

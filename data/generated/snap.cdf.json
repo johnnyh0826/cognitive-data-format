@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "catch",
-      "meaning": "the act of catching an object with the hands",
+      "context": "action",
+      "meaning": "to break suddenly or cause to break with a sharp cracking sound",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "time",
-      "meaning": "a spell of cold weather",
+      "context": "photography",
+      "meaning": "a photograph taken quickly without careful preparation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "03",
-      "context": "snap bean",
-      "meaning": "tender green beans without strings that easily snap into sections",
+      "context": "informal",
+      "meaning": "a sudden change in mood or behavior, often from calm to angry",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.16
     },
     {
       "id": "04",
-      "context": "photography",
-      "meaning": "a sudden, sharp camera shot or capture",
+      "context": "clothing",
+      "meaning": "a fastening device with two interlocking parts that opens and closes quickly",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "food",
+      "meaning": "a thin crispy cracker or biscuit",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "weather",
+      "meaning": "a sudden spell of cold weather",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "to make a sharp clicking sound with fingers by bending and releasing them",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "a risky or reckless bet made impulsively",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "a screenshot or image capture taken at a specific moment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

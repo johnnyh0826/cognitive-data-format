@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a line of units following one after another",
+      "context": "computing",
+      "meaning": "a vertical arrangement of cells in a spreadsheet or database table containing related data",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a vertical glass tube used in column chromatography; a mixture is poured in the top and washed through a stationary substance where components of the mixture are adsorbed selectively to form colored bands",
+      "context": "architecture",
+      "meaning": "a vertical structural support or pillar, typically cylindrical, that bears weight in a building",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "a vertical array of numbers or other information",
+      "context": "printing",
+      "meaning": "a vertical section of text on a printed page, especially in a newspaper or magazine layout",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "architecture",
-      "meaning": "a vertical structure or pillar in a building's design, often used for support or aesthetic purposes",
+      "context": "geology",
+      "meaning": "a tall natural formation of rock rising steeply from the ground or sea",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "the vertebral column or spine, the series of bones extending from the skull to the pelvis",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a formation of soldiers, vehicles, or ships arranged in a line for movement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a regular newspaper or magazine article written by the same author on a specific topic",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "a vertical section of financial data in an accounting statement or report",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

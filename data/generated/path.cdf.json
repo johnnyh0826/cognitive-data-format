@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "a course of conduct",
+      "context": "movement",
+      "meaning": "a way or route for traveling from one place to another",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a way especially designed for a particular use",
+      "context": "computing",
+      "meaning": "a sequence of directories or folders describing the location of a file on a computer system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "an established line of travel or access",
+      "context": "action",
+      "meaning": "a course of action or method of proceeding toward a goal",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a sequence of characters or commands in a file system or operating system",
+      "context": "biology",
+      "meaning": "the visible track or trail left behind by an animal's movement",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a channel or tube in the body through which something passes, such as a nerve or blood vessel pathway",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "a course of development or progression in someone's life or career",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "someone's way of living or the lifestyle they follow, often used in phrases like 'on the path to success'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "a legal course of action or procedure to resolve a matter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "geography",
+      "meaning": "a narrow track or trail across land, especially one used for walking or hiking",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "mathematics",
+      "meaning": "a continuous curve or line traced by a moving point in space",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

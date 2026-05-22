@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "an important question that is in dispute and must be settled",
+      "context": "law",
+      "meaning": "a matter or case under discussion, dispute, or legal proceeding",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "one of a series published periodically",
+      "context": "business",
+      "meaning": "a problem or difficulty that needs to be addressed or resolved",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "topic",
-      "meaning": "some situation or event that is thought about",
+      "context": "publishing",
+      "meaning": "a single edition or instalment of a periodical or newspaper",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "Business",
-      "meaning": "a problem or challenge that needs to be addressed or solved",
+      "context": "medicine",
+      "meaning": "a discharge of blood or other bodily fluid, typically abnormal or excessive",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "action",
+      "meaning": "to put out, distribute, or supply officially or formally",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a matter of personal concern or difficulty in someone's life",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "a body opening or outlet, such as an opening in the skin",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "a unique identifier or release version of software or a document",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "finance",
+      "meaning": "shares or bonds offered or distributed to investors for subscription or sale",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "military",
+      "meaning": "the act of supplying soldiers with weapons, ammunition, or equipment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

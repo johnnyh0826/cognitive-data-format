@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "chemistry",
-      "meaning": "the dressed skin of an animal (especially a large animal)",
+      "context": "action",
+      "meaning": "to conceal or put something out of sight",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "body covering of a living animal",
+      "context": "psychology",
+      "meaning": "to keep information, feelings, or the truth secret from others",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "perception",
-      "meaning": "prevent from being seen or discovered",
+      "context": "anatomy",
+      "meaning": "the outer skin of a large animal, especially when removed and used as leather or fur",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "photography",
-      "meaning": "to conceal or mask a subject's features in an image, often for artistic effect",
+      "context": "farming",
+      "meaning": "the skin of an animal with the hair or fur still on it",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to strike or beat someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "movement",
+      "meaning": "to move quickly or in a stealthy manner to avoid detection",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "to avoid answering a question or revealing one's true position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "to conceal evidence or information relevant to a legal matter",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

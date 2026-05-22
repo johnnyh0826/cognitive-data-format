@@ -3,31 +3,147 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a group of things of the same kind that belong together and are so used",
+      "context": "action",
+      "meaning": "to put something in a particular position or place",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.365
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "(mathematics) an abstract collection of numbers or symbols",
+      "context": "mathematics",
+      "meaning": "a collection of distinct objects or elements grouped together",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.083
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "several exercises intended to be done in series",
+      "context": "computing",
+      "meaning": "a data structure containing multiple values or elements",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.062
     },
     {
       "id": "04",
-      "context": "photography",
-      "meaning": "a collection of photographs taken in a single session or location",
+      "context": "sports",
+      "meaning": "a group of players on a team playing together in the same lineup",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.052
+    },
+    {
+      "id": "05",
+      "context": "theatre",
+      "meaning": "the scenery, stage properties, and backdrops used in a theatrical production",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.021
+    },
+    {
+      "id": "06",
+      "context": "printing",
+      "meaning": "a collection of type or printing materials arranged for use",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "music",
+      "meaning": "a group of musicians performing together or a musical performance group",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.021
+    },
+    {
+      "id": "08",
+      "context": "storage",
+      "meaning": "a complete matching collection of furniture or equipment for a room",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.042
+    },
+    {
+      "id": "09",
+      "context": "geology",
+      "meaning": "a naturally occurring mineral or rock formation containing valuable material",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "sun",
+      "meaning": "the setting of the sun below the horizon at the end of the day",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.083
+    },
+    {
+      "id": "11",
+      "context": "television",
+      "meaning": "a television or radio receiver device",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "a mental attitude, disposition, or preparedness to respond in a particular way",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.062
+    },
+    {
+      "id": "13",
+      "context": "law",
+      "meaning": "to fix or determine an amount, rate, or standard officially",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.073
+    },
+    {
+      "id": "14",
+      "context": "dance",
+      "meaning": "a sequence of dance movements choreographed together",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "informal",
+      "meaning": "a social group or circle of friends with shared interests",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.031
+    },
+    {
+      "id": "16",
+      "context": "nautical",
+      "meaning": "the direction that a current or tide is moving",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "17",
+      "context": "biology",
+      "meaning": "the position of a bone after it has been fractured and realigned",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "18",
+      "context": "gambling",
+      "meaning": "to place a wager or bet on the outcome of an event",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.021
     }
   ]
 }

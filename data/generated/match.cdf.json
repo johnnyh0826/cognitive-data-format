@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction",
+      "context": "sports",
+      "meaning": "a contest or game between two competitors or teams",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "a formal contest in which two or more persons or teams compete",
+      "context": "action",
+      "meaning": "to pair or couple two things together",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a burning piece of wood or cardboard",
+      "context": "clothing",
+      "meaning": "a person or thing that is equal to another in quality or characteristics",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "psychology",
-      "meaning": "a compatible or harmonious relationship between two people, often referring to a romantic partnership",
+      "context": "light",
+      "meaning": "a stick with a combustible tip used for lighting fires or lamps",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "to arrange a marriage or union between two people",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "a person or thing that is compatible or well-suited with another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "biology",
+      "meaning": "the pairing of chromosomes or DNA strands during reproduction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "to stake money equal to a previous bet made by another player",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to succeed in finding an equal or equivalent person or thing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

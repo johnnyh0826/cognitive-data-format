@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "progress",
-      "meaning": "a movement forward",
+      "context": "action",
+      "meaning": "to move forward or progress in position, time, or development",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "improvement",
-      "meaning": "a change for the better; progress in development",
+      "context": "business",
+      "meaning": "to propose or put forward an idea, plan, or suggestion for consideration",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "overture",
-      "meaning": "a tentative suggestion designed to elicit the reactions of others",
+      "context": "finance",
+      "meaning": "to provide money or credit to someone before payment is due",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "Business",
-      "meaning": "to promote or publicize something, such as a product or service, in order to increase its visibility and appeal",
+      "context": "military",
+      "meaning": "to move troops or forces forward toward enemy positions",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "time",
+      "meaning": "to move an event or deadline to an earlier date",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.09
+    },
+    {
+      "id": "06",
+      "context": "law",
+      "meaning": "to promote someone to a higher rank, position, or level in a professional or academic hierarchy",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.11
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "payment or money given in anticipation of future earnings or services",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "a forward movement or improvement in technology, knowledge, or scientific understanding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "09",
+      "context": "movement",
+      "meaning": "the act of moving forward or progressing from one place or stage to another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
     }
   ]
 }

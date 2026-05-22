@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "an electrical device that provides a path for electrical current to flow",
+      "context": "technology",
+      "meaning": "a complete path or loop through which electric current flows in an electronic device or system",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "tour",
-      "meaning": "a journey or route all the way around a particular place or area",
+      "context": "computing",
+      "meaning": "a closed loop of instructions or operations that a program executes repeatedly",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "an established itinerary of venues or events that a particular group of people travel to",
+      "context": "movement",
+      "meaning": "a route or journey that forms a closed loop, returning to the starting point",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a sequence of instructions or operations that are executed in a specific order",
+      "context": "law",
+      "meaning": "a court of law or the building where legal proceedings are held",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "theatre",
+      "meaning": "a path or course that an actor takes while moving across the stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a chain or sequence of transactions, meetings, or visits made by a sales representative or executive",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "a track or course used for racing, typically oval-shaped for running or cycling events",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "anatomy",
+      "meaning": "a system of nerves or blood vessels forming a connected pathway in the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a group of people or things arranged in a circle or linked in sequence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

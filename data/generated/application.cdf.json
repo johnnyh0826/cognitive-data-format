@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "the act of bringing something to bear; using it for a particular purpose",
+      "context": "computing",
+      "meaning": "a software program or piece of code designed to perform specific tasks on a computer or device",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a verbal or written request for assistance or employment or admission to a school",
+      "context": "business",
+      "meaning": "a formal written request or submission to an organization for a service, job, or admission",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
       "context": "action",
-      "meaning": "the work of applying something",
+      "meaning": "the act or process of putting something into operation or making practical use of something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "computing",
-      "meaning": "a self-contained program or software that performs a specific task",
+      "context": "law",
+      "meaning": "a formal request made to a court or legal authority for a ruling or decision",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "medicine",
+      "meaning": "the external topical treatment or rubbing of a substance onto the skin or a body part",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "a practical implementation or deployment of a technology, system, or scientific principle in real-world use",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "construction",
+      "meaning": "the act of constructing or building something physical",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "the practical use or exercise of a skill, knowledge, or theoretical concept in practice",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "farming",
+      "meaning": "the spreading or treatment of a substance like fertilizer or pesticide on land",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "dedication, effort, or concentrated attention directed toward achieving a goal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

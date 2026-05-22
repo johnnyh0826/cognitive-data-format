@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "unit of measurement",
-      "meaning": "any division of quantity accepted as a standard of measurement or exchange",
+      "context": "measurement",
+      "meaning": "a fixed standard quantity used for measuring or evaluating something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.22
     },
     {
       "id": "02",
-      "context": "relationship",
-      "meaning": "an individual or group or structure or other entity regarded as a structural or functional constituent of a whole",
+      "context": "military",
+      "meaning": "a single soldier or the smallest organized group in an armed force",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "an organization regarded as part of a larger social group",
+      "context": "business",
+      "meaning": "a distinct department, division, or operational section within an organization",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "mathematics",
-      "meaning": "a quantity of one in a mathematical expression or equation",
+      "context": "housing",
+      "meaning": "a single apartment or living space in a building with multiple dwellings",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "education",
+      "meaning": "a self-contained course or module of instruction within a larger program of study",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "medicine",
+      "meaning": "a single dose or administration of treatment given to one patient",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a single indivisible element or component of a larger system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "08",
+      "context": "action",
+      "meaning": "to combine separate things into one coherent or integrated whole",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "the smallest meaningful element or component in a psychological analysis or framework",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "theatre",
+      "meaning": "a single piece of scenery, costume, or property used in a production",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "manufacturing",
+      "meaning": "a single product or item produced in a batch or production run",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "12",
+      "context": "finance",
+      "meaning": "a single share of stock or a discrete financial investment instrument",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "13",
+      "context": "law",
+      "meaning": "a single provision, clause, or distinct element within a legal document or statute",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "informal",
+      "meaning": "a person regarded as a single individual or distinct entity in a group",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

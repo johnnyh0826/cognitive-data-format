@@ -3,31 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "the event of something coming in contact with the body",
+      "context": "anatomy",
+      "meaning": "the act of making physical contact with something using your hand or body",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "the faculty by which external objects or forces are perceived through contact with the body (especially the hands)",
+      "context": "sensation",
+      "meaning": "the sense by which physical contact with objects is perceived through the skin",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.1
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a suggestion of some quality",
+      "context": "action",
+      "meaning": "to press or place your hand or fingers lightly on something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "emotion",
-      "meaning": "to evoke a sense of warmth or intimacy",
+      "context": "communication",
+      "meaning": "to make or maintain contact with someone, especially by reaching out to them",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to bring two surfaces into contact or to cause something to make contact",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "emotional impact or the ability to connect with someone's feelings or understanding",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "a small amount or trace of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "transmission of a disease or infection through direct physical contact",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "sports",
+      "meaning": "to kick or strike a ball in sports like football or rugby",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "arts",
+      "meaning": "a light or delicate stroke in painting or drawing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "11",
+      "context": "technology",
+      "meaning": "a point of connection or interface in electrical devices or circuits",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.005
+    },
+    {
+      "id": "12",
+      "context": "music",
+      "meaning": "the technique or manner of striking keys or strings on an instrument",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.002
+    },
+    {
+      "id": "13",
+      "context": "law",
+      "meaning": "direct physical contact used to establish jurisdiction or legal authority",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

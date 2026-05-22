@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "trade",
-      "meaning": "the skilled practice of a practical occupation",
+      "context": "action",
+      "meaning": "to make or construct something skillfully and carefully, typically by hand",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a vehicle designed for navigation in or on water or air or through outer space",
+      "context": "nautical",
+      "meaning": "a boat or ship, especially a sailing vessel used for fishing or small cargo transport",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "people who perform a particular kind of skilled work",
+      "context": "business",
+      "meaning": "a business or trade, particularly one involving skilled manual work or artisanal production",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "artistic domain",
-      "meaning": "the creative activity of making something with skill and imagination",
+      "context": "theatre",
+      "meaning": "the techniques and practices involved in stagecraft, including set design, lighting, and technical effects",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "cunning or deceptive skill; the ability to manipulate or trick someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "technology",
+      "meaning": "witchcraft or the use of supernatural or technological means to achieve a hidden purpose",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "communication",
+      "meaning": "a carefully prepared speech or presentation designed to persuade or convince an audience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "military",
+      "meaning": "military aircraft or combat vessels collectively, or the design and manufacture of military equipment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "to skillfully manage or control a situation or person through subtle manipulation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

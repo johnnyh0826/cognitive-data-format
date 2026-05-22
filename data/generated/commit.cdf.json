@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "perpetrate",
-      "meaning": "perform an act, usually with a negative connotation",
+      "context": "action",
+      "meaning": "to carry out or execute a course of action, plan, or decision",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "give",
-      "meaning": "give entirely to a specific person, activity, or cause",
+      "context": "law",
+      "meaning": "to pledge oneself to a legal or financial obligation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "finance",
-      "meaning": "cause to be admitted; of persons to an institution",
+      "context": "computing",
+      "meaning": "to record changes to a file or codebase in a version control system",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "to save changes made to a project or code in a version control system, such as Git",
+      "context": "psychology",
+      "meaning": "to dedicate oneself emotionally or mentally to a person or cause",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.22
+    },
+    {
+      "id": "05",
+      "context": "medicine",
+      "meaning": "to admit a patient to a hospital or psychiatric facility",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "to pledge money, resources, or assets to a specific purpose or investment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "to send troops or military forces into action or deployment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "to sentence someone to prison or confinement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to become involved in a relationship or take on a significant responsibility",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

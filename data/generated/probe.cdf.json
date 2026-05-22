@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "an inquiry into unfamiliar or questionable activities",
+      "context": "action",
+      "meaning": "to search into or examine something thoroughly and carefully",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a flexible slender surgical instrument with a blunt end that is used to explore wounds or body cavities",
+      "context": "technology",
+      "meaning": "a device or instrument used to explore, test, or obtain information about something",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "an exploratory action or expedition",
+      "context": "space",
+      "meaning": "an unmanned spacecraft designed to travel into space and collect scientific data",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "a device used to measure the distance of celestial objects from Earth",
+      "context": "medicine",
+      "meaning": "a thin instrument inserted into the body to examine or treat a condition",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "to search an area or conduct reconnaissance to gather intelligence",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "to touch or prod someone repeatedly in a way that annoys or provokes them",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "a formal inquiry or investigation into a matter of public concern",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "chemistry",
+      "meaning": "a substance or marker used to detect or track another substance in a reaction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to poke or push something with a finger or pointed object",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "to broach a topic tentatively to gauge someone's reaction or interest",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

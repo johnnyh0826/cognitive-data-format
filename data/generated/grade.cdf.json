@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "class",
-      "meaning": "a body of students who are taught together",
+      "context": "education",
+      "meaning": "a mark or score assigned to a student's work or performance, typically on a numerical or letter scale",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "a relative position or degree of value in a graded group",
+      "context": "measurement",
+      "meaning": "a unit of measurement for angles, equal to 1/360th of a full rotation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "the gradient of a slope or road or other surface",
+      "context": "quality",
+      "meaning": "a level of quality, rank, or classification, such as premium grade or commercial grade",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "academic evaluation",
-      "meaning": "a score or rating given to a student's performance, typically on a scale of A to F",
+      "context": "action",
+      "meaning": "to assign a mark, score, or rating to something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "the slope, angle, or inclination of a surface, road, or terrain",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "farming",
+      "meaning": "to level or smooth the surface of land, typically using a grader machine",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to progress or advance by degrees or stages",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "penalty",
+      "meaning": "a disciplinary rank or level of severity in martial arts systems",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

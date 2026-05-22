@@ -4,30 +4,58 @@
     {
       "id": "01",
       "context": "communication",
-      "meaning": "a language unit by which a person or thing is known",
+      "meaning": "a word or set of words by which a person, thing, or place is known, spoken of, or identified",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "a person's reputation",
+      "context": "business",
+      "meaning": "a company, product, or brand known by a particular title in the marketplace",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "group",
-      "meaning": "family based on male descent",
+      "context": "law",
+      "meaning": "the legal identity or title under which a person or entity operates or is registered",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "identification",
-      "meaning": "a unique identifier given to a person, place, or thing",
+      "context": "action",
+      "meaning": "to give a title or designation to someone or something",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "to identify or specify something with precision or authority",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "fame or reputation in society or public consciousness",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a symbolic identifier or label used to reference a variable, function, file, or other digital entity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
     }
   ]
 }

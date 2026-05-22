@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "psychology",
-      "meaning": "a principle or condition that customarily governs behavior",
+      "context": "law",
+      "meaning": "an authoritative regulation or law that governs conduct or procedure",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "convention",
-      "meaning": "something regarded as a normative example",
+      "context": "action",
+      "meaning": "to exercise control or authority over something or someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "prescribed guide for conduct or action",
+      "context": "computing",
+      "meaning": "a set of instructions or conditions that determine how a system or program behaves",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "game theory",
-      "meaning": "a set of instructions that defines the behavior or actions of an agent in a game",
+      "context": "measurement",
+      "meaning": "a strip or line used as a standard for measuring or drawing straight lines",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "a method, pattern, or general principle that usually applies in a given situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "psychology",
+      "meaning": "a guideline or standard that governs thought, behavior, or decision-making",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "07",
+      "context": "mathematics",
+      "meaning": "a formula or principle that applies consistently to a class of phenomena",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "08",
+      "context": "monarchy",
+      "meaning": "the period of reign of a monarch or sovereign",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "penalty",
+      "meaning": "to penalize or impose sanctions on someone for breaking a rule or law",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "printing",
+      "meaning": "a thin metal strip used to create lines or borders in typesetting",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "business",
+      "meaning": "a standard operating procedure that defines how work should be performed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

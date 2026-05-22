@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "the outer boundary of an artifact or a material layer constituting or resembling such a boundary",
+      "context": "geography",
+      "meaning": "the outer boundary or layer of a physical object, body, or area of land",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "the extended two-dimensional outer boundary of a three-dimensional object",
+      "context": "anatomy",
+      "meaning": "the outer layer of skin or tissue on a living body",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "the outermost level of the land or sea",
+      "context": "action",
+      "meaning": "to come into view or emerge, especially suddenly or briefly",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "geology",
-      "meaning": "the uppermost layer of rock or soil that is exposed at the Earth's surface",
+      "context": "business",
+      "meaning": "to present or make something publicly known, typically information that was previously hidden",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "computing",
+      "meaning": "the graphical interface or layer of an application that users interact with directly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "chemistry",
+      "meaning": "the outer boundary of a substance where chemical or physical reactions may occur",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "07",
+      "context": "nautical",
+      "meaning": "to bring a ship or vessel above the water level or cause it to rise",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "geology",
+      "meaning": "the uppermost layer of the earth's crust visible above ground or seabed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to scratch or damage the outer layer of something without affecting the interior",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "10",
+      "context": "medicine",
+      "meaning": "the visible outer area of the body or a localized region",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "11",
+      "context": "technology",
+      "meaning": "a level or layer within a system of interconnected networks or infrastructure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "12",
+      "context": "military",
+      "meaning": "a vessel or submarine that operates on or just below the water surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

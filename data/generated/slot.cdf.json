@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a position in a grammatical linguistic construction in which a variety of alternative units are interchangeable",
+      "context": "storage",
+      "meaning": "a narrow opening or groove in a surface designed to hold or guide something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a small slit (as for inserting a coin or depositing mail)",
+      "context": "computing",
+      "meaning": "a designated position or time segment in a computer's memory or processing schedule",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "time slot",
-      "meaning": "a time assigned on a schedule or agenda",
+      "context": "gambling",
+      "meaning": "a machine or device that dispenses items or outcomes based on chance, such as a slot machine",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.18
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a position or opening in a game, such as a slot machine or a video game",
+      "context": "theatre",
+      "meaning": "a reserved time or position in a broadcast, performance schedule, or programme",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "an allocated position or opportunity available within an organization or system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.14
+    },
+    {
+      "id": "06",
+      "context": "sports",
+      "meaning": "a position or role assigned to a player on a team",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "action",
+      "meaning": "to insert or fit something into a slot or narrow opening",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "anatomy",
+      "meaning": "a narrow opening or fissure in a bone or bodily structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "geology",
+      "meaning": "a narrow gorge or canyon carved by water erosion through rock formations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a person's current position, job, or role in a social or professional hierarchy",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

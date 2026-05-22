@@ -4,30 +4,122 @@
     {
       "id": "01",
       "context": "communication",
-      "meaning": "a telephone connection",
+      "meaning": "to telephone someone or make contact with them by phone",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.337
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "a special disposition (as if from a divine source) to pursue a particular course",
+      "context": "action",
+      "meaning": "to shout or cry out loudly to get someone's attention",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a loud utterance; often in protest or opposition",
+      "context": "theatre",
+      "meaning": "a demand by an audience for a performer to come back on stage, typically by shouting 'call'",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.01
     },
     {
       "id": "04",
       "context": "sports",
-      "meaning": "a signal or invitation to start a game, contest, or competition",
+      "meaning": "an official's decision or announcement regarding a rule or outcome in a game",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "a strong demand or need for a product or service",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "06",
+      "context": "finance",
+      "meaning": "an option giving the holder the right to buy an asset at a specified price within a set time",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "a legal profession or the act of being admitted to practice law as a barrister",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "gambling",
+      "meaning": "to match a bet made by another player in poker or similar card games",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "09",
+      "context": "biology",
+      "meaning": "a characteristic sound or cry made by an animal to communicate with others",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "10",
+      "context": "music",
+      "meaning": "a type of folk music performance where a caller announces dance steps and moves for performers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "computing",
+      "meaning": "an invocation of a function or subroutine in a program",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "12",
+      "context": "military",
+      "meaning": "a signal or command that orders soldiers to assemble or take action",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "informal",
+      "meaning": "one's profession, vocation, or what someone is destined to do in life",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "14",
+      "context": "medicine",
+      "meaning": "a summoning of a doctor or emergency services to attend to a patient",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "15",
+      "context": "movement",
+      "meaning": "to go and collect someone or something from a particular location",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.096
     }
   ]
 }

@@ -4,30 +4,114 @@
     {
       "id": "01",
       "context": "action",
-      "meaning": "a group's refusal to work in protest against low pay or bad work conditions",
+      "meaning": "to hit or deliver a blow to someone or something with force",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.317
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "an attack that is intended to seize or inflict damage on or destroy an objective",
+      "context": "sports",
+      "meaning": "in baseball, a pitch that the batter does not swing at and that is within the strike zone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.178
     },
     {
       "id": "03",
-      "context": "event",
-      "meaning": "a gentle blow",
+      "context": "law",
+      "meaning": "a legal procedure to remove a portion of evidence or testimony from the court record",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "sports",
-      "meaning": "a sudden movement of a ball or player in a game, often resulting in a scoring opportunity",
+      "context": "penalty",
+      "meaning": "a count against a player or team in sports, accumulating toward disqualification",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.079
+    },
+    {
+      "id": "05",
+      "context": "labour",
+      "meaning": "a coordinated stoppage of work by employees to protest working conditions or seek better terms",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.119
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "a sudden attack or offensive operation against an enemy target",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.059
+    },
+    {
+      "id": "07",
+      "context": "geology",
+      "meaning": "the direction of the line formed by the intersection of a tilted rock layer with a horizontal plane",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "mining",
+      "meaning": "a rich vein or deposit of ore discovered suddenly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "finance",
+      "meaning": "the fixed price at which an option contract can be exercised",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "nautical",
+      "meaning": "to lower or remove a sail or flag",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "time",
+      "meaning": "the sudden sounding of a clock or bell to mark the hour",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "12",
+      "context": "communication",
+      "meaning": "a memorable phrase or idea that catches attention or impresses an audience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "13",
+      "context": "informal",
+      "meaning": "to impress someone or make a favourable impression",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "14",
+      "context": "movement",
+      "meaning": "to assume or move into a particular posture or attitude",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

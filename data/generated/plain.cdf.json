@@ -3,31 +3,67 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "extensive tract of level open land",
+      "context": "geography",
+      "meaning": "a large area of flat or gently rolling land with few trees",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "knit",
-      "meaning": "a basic knitting stitch",
+      "context": "communication",
+      "meaning": "clear, simple, and easy to understand without decoration or complexity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.28
     },
     {
       "id": "03",
-      "context": "complain",
-      "meaning": "express complaints, discontent, displeasure, or unhappiness",
+      "context": "appearance",
+      "meaning": "not decorated, patterned, or colored; simple and unadorned",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "law",
-      "meaning": "a statement of a fact or situation that is not disputed",
+      "context": "food",
+      "meaning": "without added flavoring, seasoning, or toppings; unseasoned",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "obvious or evident; easy to see or understand",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "complete or utter; absolute and unqualified",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "without legal complications or conditions; straightforward in legal terms",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "printing",
+      "meaning": "ordinary text without special formatting, fonts, or design elements",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

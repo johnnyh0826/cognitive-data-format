@@ -4,30 +4,98 @@
     {
       "id": "01",
       "context": "measurement",
-      "meaning": "the amount of 3-dimensional space occupied by an object",
+      "meaning": "the amount of space occupied by a three-dimensional object, typically measured in cubic units",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "02",
-      "context": "bulk",
-      "meaning": "the property of something that is great in magnitude",
+      "context": "music",
+      "meaning": "the loudness or intensity of sound",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "book",
-      "meaning": "physical objects consisting of a number of pages bound together",
+      "context": "business",
+      "meaning": "the amount of sales, output, or activity in a commercial enterprise",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "audio",
-      "meaning": "the amount of sound or noise produced by a device or instrument",
+      "context": "storage",
+      "meaning": "the capacity or amount of material that can be contained in a container or space",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "printing",
+      "meaning": "a book or set of books, especially one that is part of a larger work or series",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "the amount of air that can be breathed in and out of the lungs",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "the quantity of a drug or medication administered to a patient",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "computing",
+      "meaning": "the amount of data storage or data transfer capacity available in a system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "finance",
+      "meaning": "the number of shares or securities traded in a market during a specific period",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "geology",
+      "meaning": "the quantity of rock or earth material in a given area or formation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "a large quantity or amount of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "12",
+      "context": "action",
+      "meaning": "to adjust the loudness level of an audio device or system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

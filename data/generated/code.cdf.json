@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "a set of rules or principles or laws (especially written ones)",
+      "context": "computing",
+      "meaning": "a set of instructions written in a programming language that a computer executes to perform specific tasks",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "a coding system used for transmitting messages requiring brevity or secrecy",
+      "context": "law",
+      "meaning": "a system of rules and regulations established by a government or authority to govern behavior",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
       "context": "communication",
-      "meaning": "(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions",
+      "meaning": "a system of symbols or signals used to represent information or meaning",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a sequence of musical notes or a composition written in a specific style",
+      "context": "action",
+      "meaning": "to write or compose something, typically a law, rule, or message",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "the vertebral column or spinal structure in living organisms",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a style or manner of behavior or dress, often implying authenticity or street credibility",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "military",
+      "meaning": "a system of signals or symbols used to communicate messages secretly or securely",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "medicine",
+      "meaning": "a patient identification system used in hospitals for medical records and treatment tracking",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "business",
+      "meaning": "a set of standards or practices that govern how a business or industry operates",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

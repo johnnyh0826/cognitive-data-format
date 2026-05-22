@@ -3,31 +3,123 @@
   "tracks": [
     {
       "id": "01",
-      "context": "procedure",
-      "meaning": "a particular course of action intended to achieve a result",
+      "context": "computing",
+      "meaning": "a series of actions or operations performed by a computer or program to accomplish a task",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.146
     },
     {
       "id": "02",
-      "context": "psychology",
-      "meaning": "(psychology) the performance of some composite cognitive activity; an operation that affects mental contents",
+      "context": "action",
+      "meaning": "a series of steps or actions taken to achieve a particular result or goal",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.34
     },
     {
       "id": "03",
-      "context": "summons",
-      "meaning": "a writ issued by authority of law; usually compels the defendant's attendance in a civil suit; failure to appear results in a default judgment against the defendant",
+      "context": "business",
+      "meaning": "a method or procedure used in manufacturing or service delivery",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.146
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "a series of steps taken in a specific order to achieve a goal or complete a task, often used in project management",
+      "context": "law",
+      "meaning": "a legal proceeding or series of actions taken within the judicial system",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "a series of unconscious mental operations or cognitive steps",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.049
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "a series of natural operations or functions occurring in living organisms",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "07",
+      "context": "chemistry",
+      "meaning": "a series of chemical reactions or transformations",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "a systematic sequence of operations in software or hardware execution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "to communicate or convey information through a series of interactions",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "time",
+      "meaning": "the duration or progression of events from beginning to completion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.039
+    },
+    {
+      "id": "11",
+      "context": "informal",
+      "meaning": "to treat or deal with someone or something in a particular way",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "12",
+      "context": "medicine",
+      "meaning": "a series of medical procedures or therapeutic steps to treat a condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "13",
+      "context": "printing",
+      "meaning": "a method or technique used in the production of printed materials",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "farming",
+      "meaning": "a series of agricultural operations or procedures for crop production",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "metallurgy",
+      "meaning": "a series of operations used to refine or treat metals",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

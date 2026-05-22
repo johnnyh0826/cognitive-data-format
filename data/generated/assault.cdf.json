@@ -3,31 +3,43 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "close fighting during the culmination of a military attack",
+      "context": "law",
+      "meaning": "a physical attack on another person that causes bodily harm or creates reasonable apprehension of immediate harm",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "a threatened or attempted physical attack by someone who appears to be able to cause bodily harm if not stopped",
+      "context": "military",
+      "meaning": "a violent attack or offensive action against an enemy position or force",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "03",
-      "context": "biology",
-      "meaning": "thoroughbred that won the triple crown in 1946",
+      "context": "action",
+      "meaning": "to attack or strike someone violently",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "04",
-      "context": "law enforcement",
-      "meaning": "the act of using force or violence against another person, often resulting in physical harm or injury",
+      "context": "communication",
+      "meaning": "a vehement verbal attack or strong criticism directed at a person or group",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "05",
+      "context": "informal",
+      "meaning": "harsh or abusive language used to criticize or demean someone",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

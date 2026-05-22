@@ -3,31 +3,115 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "the actors in a play",
+      "context": "theatre",
+      "meaning": "a group of actors or performers in a theatrical production, or the actors collectively in a particular role",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "02",
-      "context": "mold",
-      "meaning": "container into which liquid is poured to create a given shape when it hardens",
+      "context": "action",
+      "meaning": "to throw or fling something with force",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "geometry",
-      "meaning": "the distinctive form in which a thing is made",
+      "context": "sports",
+      "meaning": "to throw a fishing line and hook into water",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "astronomy",
-      "meaning": "the apparent position of a celestial body in the sky, especially as seen from Earth",
+      "context": "medicine",
+      "meaning": "a rigid mold or support applied to an injured body part to keep it immobilized during healing",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "05",
+      "context": "anatomy",
+      "meaning": "a group of muscles or body structures, such as the lateral cast of muscles on one side of the body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "metallurgy",
+      "meaning": "an object made by pouring molten metal into a mold and allowing it to solidify",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "07",
+      "context": "printing",
+      "meaning": "metal type or a set of type characters for printing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "geology",
+      "meaning": "a hardened mold or replica of a fossil or natural form created by minerals filling a cavity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "biology",
+      "meaning": "the material removed from a snail, worm, or other organism, such as worm castings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a group of people, especially those with particular characteristics or opinions considered as a unit",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "11",
+      "context": "nautical",
+      "meaning": "to set loose or release a boat or ship from moorings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "communication",
+      "meaning": "a slight trace or suggestion of a quality or expression, such as a cast of melancholy",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "13",
+      "context": "psychology",
+      "meaning": "a settled disposition or tendency of mind or character",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "measurement",
+      "meaning": "the distance something travels or is thrown, as in 'within a stone's cast'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

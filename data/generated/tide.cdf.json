@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "the periodic rise and fall of the sea level under the gravitational pull of the moon",
+      "context": "nautical",
+      "meaning": "the periodic rise and fall of sea level caused by gravitational forces of the moon and sun",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.45
     },
     {
       "id": "02",
-      "context": "event",
-      "meaning": "something that may increase or decrease (like the tides of the sea)",
+      "context": "time",
+      "meaning": "a tendency or general direction of events or affairs over a period of time",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "time",
-      "meaning": "there are usually two high and two low tides each day",
+      "context": "informal",
+      "meaning": "a flood or large amount of something arriving or overwhelming in succession",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "04",
-      "context": "linguistics",
-      "meaning": "a recurring pattern or cycle in a sequence of events, ideas, or emotions",
+      "context": "action",
+      "meaning": "to carry someone or something along with a flow or current of events",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "movement",
+      "meaning": "to drift or be carried along by a current or force",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "any of various tidal cycles or patterns in living organisms synchronized with lunar or tidal rhythms",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "weather",
+      "meaning": "a regular cyclic change in atmospheric or environmental conditions linked to tidal forces",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

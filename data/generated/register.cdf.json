@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "an official written record of names or events or transactions",
+      "context": "computing",
+      "meaning": "a storage location in a computer's memory or database used to hold data or values",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "(music) the timbre that is characteristic of a certain range and manner of production of the human voice or of different pipe organ stops or of different musical instruments",
+      "context": "music",
+      "meaning": "a list or record of musical pieces, typically in a book or ledger",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "03",
-      "context": "finance",
-      "meaning": "a book in which names and transactions are listed",
+      "context": "law",
+      "meaning": "an official record or document, such as a register of births, deaths, or marriages",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "computer science",
-      "meaning": "a data structure that maps keys to values",
+      "context": "action",
+      "meaning": "to enter or record something officially in a list or system",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "05",
+      "context": "communication",
+      "meaning": "to convey or express an emotion or impression, especially visibly or noticeably",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "the range or compass of a voice or musical instrument",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "printing",
+      "meaning": "the exact alignment of printed colors or images on different layers or pages",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "technology",
+      "meaning": "a heat-control device, such as a damper in a furnace or ventilation system",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "09",
+      "context": "business",
+      "meaning": "a device or machine that records transactions and stores cash, typically in retail",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "to achieve recognition or make an impression on someone's awareness",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
     }
   ]
 }

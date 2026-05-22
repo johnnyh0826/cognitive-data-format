@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a natural body of running water flowing on or under the earth",
+      "context": "geography",
+      "meaning": "a small narrow river or watercourse",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "02",
-      "context": "group",
-      "meaning": "dominant course (suggestive of running water) of successive events or ideas",
+      "context": "movement",
+      "meaning": "to flow or move continuously in a current or direction",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "flow",
-      "meaning": "the act of flowing or streaming; continuous progression",
+      "context": "computing",
+      "meaning": "a sequence of data or information transmitted continuously over a network or medium",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "broadcasting",
-      "meaning": "a continuous flow of audio or video content, such as a live broadcast or podcast",
+      "context": "technology",
+      "meaning": "a continuous flow of audio or video content from a server to a user's device",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "05",
+      "context": "psychology",
+      "meaning": "a continuous train of thought or consciousness",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "06",
+      "context": "communication",
+      "meaning": "a connected series of statements or a continuous narrative",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "07",
+      "context": "business",
+      "meaning": "a steady flow or supply of goods, revenue, or business activity",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "08",
+      "context": "action",
+      "meaning": "to move or flow in a continuous or rapid manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a large number of people or things coming one after another",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "medicine",
+      "meaning": "a continuous discharge of bodily fluid or substance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "weather",
+      "meaning": "a current of air or wind moving in a particular direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "anatomy",
+      "meaning": "a line or ribbon of tissue or hair flowing in one direction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

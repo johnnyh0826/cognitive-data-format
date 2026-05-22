@@ -3,31 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a piece of furniture that provides a place to sleep",
+      "context": "anatomy",
+      "meaning": "a piece of furniture for sleeping, consisting of a mattress and frame",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.72
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "a plot of ground in which plants are growing",
+      "context": "geology",
+      "meaning": "a layer of rock or sediment of a particular kind, thickness, or formation",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "03",
-      "context": "object",
-      "meaning": "a depression forming the ground under a body of water",
+      "context": "nautical",
+      "meaning": "the bottom of a sea, river, or other body of water",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "04",
-      "context": "education",
-      "meaning": "a place where students sleep or rest during school trips or camps",
+      "context": "farming",
+      "meaning": "a plot of ground prepared for growing plants, vegetables, or flowers",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "construction",
+      "meaning": "a base or foundation layer upon which something is built or laid",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "action",
+      "meaning": "to place or arrange something in or on a bed",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "cooking",
+      "meaning": "a base layer of food such as rice, lettuce, or sauce on which other food is served",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

@@ -4,30 +4,162 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "the upper part of the human body or the front part of the body in animals; contains the face and brains",
+      "meaning": "the upper part of the human body above the neck, containing the brain, eyes, ears, nose, and mouth",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.283
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "a single domestic animal",
+      "context": "action",
+      "meaning": "to be in charge of or lead a group, organization, or activity",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.182
     },
     {
       "id": "03",
-      "context": "mind",
-      "meaning": "that which is responsible for one's thoughts and feelings; the seat of the faculty of reason",
+      "context": "movement",
+      "meaning": "the front or forward direction of a person, animal, or vehicle",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.121
     },
     {
       "id": "04",
-      "context": "leadership",
-      "meaning": "the person in charge or leader of a team, organization, or project",
+      "context": "business",
+      "meaning": "a person in a position of authority or management within an organization",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.152
+    },
+    {
+      "id": "05",
+      "context": "geography",
+      "meaning": "a promontory, cape, or elevated piece of land",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "the bow or front part of a ship or vessel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "sports",
+      "meaning": "to hit a ball with the head in football or soccer",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "biology",
+      "meaning": "the flowering part of a plant, such as cabbage or cauliflower",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "food",
+      "meaning": "the upper part of vegetables like lettuce or cabbage that forms a compact mass",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "storage",
+      "meaning": "the principal source or beginning of a stream or river",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "music",
+      "meaning": "the leading member of a band or musical group",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "psychology",
+      "meaning": "a person's mind or mental capacity, often used in phrases like 'use your head'",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.081
+    },
+    {
+      "id": "13",
+      "context": "informal",
+      "meaning": "to understand something or to make sense of it",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "14",
+      "context": "technology",
+      "meaning": "a component of a computer or recording device that reads or writes data",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "construction",
+      "meaning": "the upper part of a column, pillar, or architectural support",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "16",
+      "context": "printing",
+      "meaning": "the top margin or area of a printed page",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "17",
+      "context": "communication",
+      "meaning": "a title or heading at the top of a section of text",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "18",
+      "context": "penalty",
+      "meaning": "a toilet on a ship (nautical sense, also used informally)",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "19",
+      "context": "measurement",
+      "meaning": "a unit of measurement equal to the height of a horse from withers to hoof",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "20",
+      "context": "medicine",
+      "meaning": "pressure or tension in a fluid system, measured in terms of height of liquid column",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

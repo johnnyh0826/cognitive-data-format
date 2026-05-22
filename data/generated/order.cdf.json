@@ -3,31 +3,99 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed",
+      "context": "business",
+      "meaning": "a request or instruction to supply goods or perform a service, typically involving payment",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "a degree in a continuum of size or quantity",
+      "context": "finance",
+      "meaning": "an instruction to buy or sell securities or commodities at a specified price",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "03",
-      "context": "state",
-      "meaning": "established customary state (especially of society)",
+      "context": "action",
+      "meaning": "to arrange, organize, or put into a sequence according to a system or hierarchy",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "04",
-      "context": "business",
-      "meaning": "a sequence of items or tasks, such as a list of products to be delivered or a series of steps in a process",
+      "context": "law",
+      "meaning": "a authoritative decree, edict, or command issued by a person or institution in power",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "military",
+      "meaning": "a formal command or instruction given to troops or military personnel",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "biology",
+      "meaning": "a taxonomic rank in the classification system between class and family",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "medicine",
+      "meaning": "a prescribed course of treatment or medication regimen given by a doctor",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "a state of peaceful, lawful, or well-organized arrangement without chaos",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "09",
+      "context": "storage",
+      "meaning": "a systematic arrangement or sequence of items stored or catalogued",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "10",
+      "context": "communication",
+      "meaning": "a request or demand for action or information",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "printing",
+      "meaning": "a request to a printer for the production of a specified quantity of printed material",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "penalty",
+      "meaning": "a command to a person to cease disruptive behavior or leave a location",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
     }
   ]
 }

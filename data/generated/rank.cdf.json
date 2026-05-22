@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "group",
-      "meaning": "a row or line of people (especially soldiers or police) standing abreast of one another",
+      "context": "military",
+      "meaning": "a position in a hierarchy or chain of command, such as the rank of captain or sergeant",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.144
     },
     {
       "id": "02",
-      "context": "state",
-      "meaning": "relative status",
+      "context": "measurement",
+      "meaning": "a relative position or level in an ordered sequence from highest to lowest",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.24
     },
     {
       "id": "03",
-      "context": "rank and file",
-      "meaning": "the ordinary members of an organization (such as the enlisted soldiers of an army)",
+      "context": "action",
+      "meaning": "to assign or determine a position in a hierarchy or sequence",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.173
     },
     {
       "id": "04",
-      "context": "gaming",
-      "meaning": "a player's position or standing in a game, especially in relation to others",
+      "context": "finance",
+      "meaning": "to classify or rate according to quality, creditworthiness, or financial standing",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "05",
+      "context": "sports",
+      "meaning": "a player's or team's position in a league or competition standings",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.115
+    },
+    {
+      "id": "06",
+      "context": "anatomy",
+      "meaning": "growing or spreading thickly and coarsely, as in rank vegetation or rank hair",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "unpleasantly strong, stale, or offensive in smell or taste",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.096
+    },
+    {
+      "id": "08",
+      "context": "law",
+      "meaning": "the relative position or precedence of a legal claim or creditor in a bankruptcy or estate distribution",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "09",
+      "context": "computing",
+      "meaning": "to sort or order data according to specified criteria or values",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "psychology",
+      "meaning": "a person's social status, standing, or position within a group or organization",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "11",
+      "context": "farming",
+      "meaning": "growing luxuriantly or excessively, as vegetation that is dense and overgrown",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

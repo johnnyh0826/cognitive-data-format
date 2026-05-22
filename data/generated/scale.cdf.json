@@ -3,31 +3,139 @@
   "tracks": [
     {
       "id": "01",
-      "context": "relationship",
-      "meaning": "an ordered reference standard",
+      "context": "measurement",
+      "meaning": "a graduated series of marks or numbers used to measure or quantify something",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.243
     },
     {
       "id": "02",
-      "context": "relationship",
-      "meaning": "relative magnitude",
+      "context": "anatomy",
+      "meaning": "any of the small flat plates covering the skin of fish and reptiles",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.078
     },
     {
       "id": "03",
-      "context": "relationship",
-      "meaning": "the ratio between the size of something and a representation of it",
+      "context": "music",
+      "meaning": "to sing or perform music, typically in a graduated progression of notes",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.058
     },
     {
       "id": "04",
-      "context": "music",
-      "meaning": "a series of musical notes or sounds, typically ascending or descending in pitch",
+      "context": "action",
+      "meaning": "to climb up or ascend something, especially with difficulty",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.078
+    },
+    {
+      "id": "05",
+      "context": "business",
+      "meaning": "the relative size or scope of a business operation or project",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.175
+    },
+    {
+      "id": "06",
+      "context": "computing",
+      "meaning": "to adjust the magnitude of data, values, or display to fit within specific parameters",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.117
+    },
+    {
+      "id": "07",
+      "context": "technology",
+      "meaning": "to resize digital images, text, or user interfaces proportionally",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.097
+    },
+    {
+      "id": "08",
+      "context": "geography",
+      "meaning": "a graduated range of elevation or slope on a map or terrain",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "09",
+      "context": "construction",
+      "meaning": "a tool with graduated markings used to measure distances or angles",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "biology",
+      "meaning": "to shed or slough off outer layers of skin or covering",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "metallurgy",
+      "meaning": "to remove oxidized surface layers from metal through chemical or mechanical means",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "informal",
+      "meaning": "the relative importance, prominence, or status of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "13",
+      "context": "law",
+      "meaning": "to estimate or assess the degree or extent of culpability or damages",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "food",
+      "meaning": "to remove scales from fish before cooking",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "15",
+      "context": "medicine",
+      "meaning": "a tool or instrument for weighing or measuring body weight",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "16",
+      "context": "printing",
+      "meaning": "to enlarge or reduce an image or graphic to a desired size",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "17",
+      "context": "nautical",
+      "meaning": "to climb aboard a ship or scale its sides",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

@@ -3,31 +3,91 @@
   "tracks": [
     {
       "id": "01",
-      "context": "property",
-      "meaning": "the extent downward or backward or inward",
+      "context": "measurement",
+      "meaning": "the distance from the top or surface of something to the bottom",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.337
     },
     {
       "id": "02",
-      "context": "property",
-      "meaning": "degree of psychological or intellectual profundity",
+      "context": "nautical",
+      "meaning": "the distance from the surface of water to the bottom of a body of water",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.115
     },
     {
       "id": "03",
-      "context": "geography",
-      "meaning": "(usually plural) the deepest and most remote part",
+      "context": "psychology",
+      "meaning": "the degree of intensity, complexity, or profundity in understanding, emotion, or thought",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.173
     },
     {
       "id": "04",
-      "context": "photography",
-      "meaning": "the distance of a subject from the camera, measured along the line of sight",
+      "context": "anatomy",
+      "meaning": "the perpendicular distance from the surface of the skin or a body part inward",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.048
+    },
+    {
+      "id": "05",
+      "context": "geology",
+      "meaning": "the vertical distance from the surface downward in soil, rock, or subsurface layers",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "06",
+      "context": "military",
+      "meaning": "the distance from front to back in a military formation or defensive position",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "the number of levels in a hierarchical data structure or recursion stack",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.077
+    },
+    {
+      "id": "08",
+      "context": "storage",
+      "meaning": "the extent of a space measured from front to back",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.058
+    },
+    {
+      "id": "09",
+      "context": "photography",
+      "meaning": "the extent of the area in front of and behind the plane of focus that appears sharp in an image",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "informal",
+      "meaning": "a state of being deeply involved or committed in a difficult situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.038
+    },
+    {
+      "id": "11",
+      "context": "business",
+      "meaning": "the level of detail, analysis, or resources applied to a task or problem",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
     }
   ]
 }

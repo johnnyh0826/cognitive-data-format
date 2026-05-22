@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "communication",
-      "meaning": "(computer science) the code that identifies where a piece of information is stored",
+      "context": "geography",
+      "meaning": "a location or place, typically identified by a street name and number",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "geography",
-      "meaning": "the place where a person or organization can be found or communicated with",
+      "context": "communication",
+      "meaning": "to speak to or direct one's remarks toward a person or audience",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "the act of delivering a formal spoken communication to an audience",
+      "context": "action",
+      "meaning": "to deal with or handle a problem, issue, or topic",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.3
     },
     {
       "id": "04",
-      "context": "law",
-      "meaning": "a location or place where a court or legal proceeding takes place",
+      "context": "anatomy",
+      "meaning": "the manner in which a person bears or carries themselves, or their bearing",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "05",
+      "context": "technology",
+      "meaning": "to configure or assign a network identifier to a device or interface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "06",
+      "context": "formal ceremony",
+      "meaning": "a formal speech or discourse delivered to an audience",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "law",
+      "meaning": "a formal written statement or petition submitted to a court or governing body",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "computing",
+      "meaning": "a memory location or reference point where data is stored or retrieved",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a manner of speaking or style of delivery, particularly when marked or distinctive",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

@@ -4,30 +4,122 @@
     {
       "id": "01",
       "context": "anatomy",
-      "meaning": "the front of the human head from the forehead to the chin and ear to ear",
+      "meaning": "the front part of a person's or animal's head from the forehead to the chin",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.357
     },
     {
       "id": "02",
-      "context": "expression",
-      "meaning": "the feelings expressed on a person's face",
+      "context": "action",
+      "meaning": "to confront or deal with someone or something directly",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.255
     },
     {
       "id": "03",
-      "context": "property",
-      "meaning": "the general outward appearance of something",
+      "context": "geography",
+      "meaning": "a steep or vertical surface of rock or a cliff",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.051
     },
     {
       "id": "04",
-      "context": "Computing",
-      "meaning": "A graphical user interface (GUI) element that displays information or provides a way for users to interact with an application",
+      "context": "geometry",
+      "meaning": "one of the flat surfaces of a polyhedron or geometric solid",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "05",
+      "context": "theatre",
+      "meaning": "the front of a stage or the area where actors perform",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "business",
+      "meaning": "a particular aspect or side of a situation or problem",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.102
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "audacity or impudence in behavior or speech",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.051
+    },
+    {
+      "id": "08",
+      "context": "psychology",
+      "meaning": "a person's expression or emotional appearance",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.041
+    },
+    {
+      "id": "09",
+      "context": "printing",
+      "meaning": "the printing surface of a type or stamp",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "construction",
+      "meaning": "the exposed surface of a wall or building structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "11",
+      "context": "law",
+      "meaning": "to acknowledge or accept something openly or legally",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "12",
+      "context": "movement",
+      "meaning": "to move in a particular direction or turn toward something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "13",
+      "context": "communication",
+      "meaning": "to speak with or address someone directly",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "time",
+      "meaning": "the value shown on a clock or watch dial",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "15",
+      "context": "gambling",
+      "meaning": "to stake money on a bet or risk something of value",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
     }
   ]
 }

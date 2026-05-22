@@ -4,30 +4,82 @@
     {
       "id": "01",
       "context": "action",
-      "meaning": "continuing or remaining in a place or state",
+      "meaning": "to remain in a place or condition without moving or changing",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.55
     },
     {
       "id": "02",
-      "context": "arrest",
-      "meaning": "the state of inactivity following an interruption",
+      "context": "time",
+      "meaning": "to continue or last for a specified duration",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "communication",
-      "meaning": "a judicial order forbidding some action until an event occurs or the order is lifted",
+      "context": "law",
+      "meaning": "a judicial order halting a legal process or judgment temporarily",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "social relationships",
-      "meaning": "to remain in a romantic or platonic relationship with someone, often implying a commitment or loyalty",
+      "context": "accommodation",
+      "meaning": "a temporary place to live or sleep during travel",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "theatre",
+      "meaning": "a rigid framework or prop used to support scenery or actors on stage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "06",
+      "context": "nautical",
+      "meaning": "a rope or cable used to secure or steady a ship, mast, or sail",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "07",
+      "context": "anatomy",
+      "meaning": "a surgical or medical device that holds bones or tissues in place during healing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "geology",
+      "meaning": "a layer of rock or mineral deposits that remains stationary within the earth",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "to wait or pause for someone or something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "10",
+      "context": "psychology",
+      "meaning": "to refrain from taking action or to hold back emotionally",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

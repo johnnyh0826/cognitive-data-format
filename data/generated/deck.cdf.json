@@ -3,31 +3,83 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "any of various platforms built into a vessel",
+      "context": "nautical",
+      "meaning": "a platform or floor built across a ship, typically the upper surface of a ship's hull",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.05
     },
     {
       "id": "02",
-      "context": "object",
-      "meaning": "street name for a packet of illegal drugs",
+      "context": "storage",
+      "meaning": "a horizontal surface or platform used for storing items, such as a shelf or tier",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.02
     },
     {
       "id": "03",
-      "context": "pack of cards",
-      "meaning": "a pack of 52 playing cards",
+      "context": "action",
+      "meaning": "to decorate or dress up something or someone",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "nautical",
-      "meaning": "the flat surface at the back of a ship or boat, typically used for storage or as a platform",
+      "context": "gambling",
+      "meaning": "a pack or set of playing cards used for card games",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "05",
+      "context": "music",
+      "meaning": "a collection of recorded songs or musical tracks, typically on an album",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "06",
+      "context": "construction",
+      "meaning": "a platform or veranda attached to the exterior of a building",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "07",
+      "context": "computing",
+      "meaning": "a data structure or collection of organized information in software",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "informal",
+      "meaning": "to knock someone down or strike them forcefully",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "09",
+      "context": "theatre",
+      "meaning": "the floor or stage area of a theatre where performances take place",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "10",
+      "context": "transport",
+      "meaning": "a level or layer of a multi-level structure such as a bus, aircraft, or parking garage",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
     }
   ]
 }

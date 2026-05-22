@@ -3,31 +3,147 @@
   "tracks": [
     {
       "id": "01",
-      "context": "object",
-      "meaning": "a charge of ammunition for a single shot",
+      "context": "geometry",
+      "meaning": "a shape or object with a circular form or curved perimeter",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "cycle",
-      "meaning": "an interval during which a recurring sequence of events occurs",
+      "context": "action",
+      "meaning": "to move in a circular or curved path",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.12
     },
     {
       "id": "03",
-      "context": "beat",
-      "meaning": "a regular route for a sentry or policeman",
+      "context": "sports",
+      "meaning": "a period or division of play in boxing, wrestling, or combat sports",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.08
     },
     {
       "id": "04",
-      "context": "Geometry",
-      "meaning": "a shape or figure that is symmetrical on all sides, with equal distance from a central point",
+      "context": "business",
+      "meaning": "a series of meetings or discussions to complete a negotiation or transaction",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "music",
+      "meaning": "a musical composition or song, especially one track on an album",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "measurement",
+      "meaning": "approximately or roughly equal to a stated number or amount",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.18
+    },
+    {
+      "id": "07",
+      "context": "informal",
+      "meaning": "to express in a circular or indirect manner; to go around in circles",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "08",
+      "context": "communication",
+      "meaning": "a complete cycle or repetition of a process or conversation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "09",
+      "context": "anatomy",
+      "meaning": "the muscular area at the back of the arm or shoulder",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "10",
+      "context": "food",
+      "meaning": "a slice or piece of something circular in shape",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "11",
+      "context": "theatre",
+      "meaning": "a stage or platform used for performances or events",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "12",
+      "context": "time",
+      "meaning": "a period in a recurring sequence of events",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "13",
+      "context": "medicine",
+      "meaning": "to treat or attend to a patient in a circular or comprehensive manner",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "14",
+      "context": "gambling",
+      "meaning": "a single game or turn in a competition or match",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "15",
+      "context": "military",
+      "meaning": "to encircle or surround an enemy position or territory",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "16",
+      "context": "nautical",
+      "meaning": "to sail around or navigate in a circular course",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "17",
+      "context": "printing",
+      "meaning": "a complete set of printed pages or a full cycle of printing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "18",
+      "context": "penalty",
+      "meaning": "to settle or resolve a matter, often by completing a full cycle or debate",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }

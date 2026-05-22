@@ -3,31 +3,75 @@
   "tracks": [
     {
       "id": "01",
-      "context": "event",
-      "meaning": "a metallic tapping sound",
+      "context": "time",
+      "meaning": "a parasitic arachnid that attaches to the skin of animals and humans to feed on blood",
       "added": "first",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.15
     },
     {
       "id": "02",
-      "context": "biology",
-      "meaning": "any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals",
+      "context": "action",
+      "meaning": "to make a clicking or ticking sound, especially the sound a clock makes at regular intervals",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.2
     },
     {
       "id": "03",
-      "context": "check mark",
-      "meaning": "a mark indicating that something has been noted or completed etc.",
+      "context": "finance",
+      "meaning": "a mark (\u2713) placed next to an item to indicate it has been checked or completed",
       "added": "accumulated",
-      "source": "wordnet"
+      "source": "llm",
+      "frequency": 0.35
     },
     {
       "id": "04",
-      "context": "timekeeping",
-      "meaning": "a small unit of time, equivalent to one-sixtieth of a minute",
+      "context": "sports",
+      "meaning": "a period or unit of time measured in a game, especially in American football",
       "added": "accumulated",
-      "source": "llm"
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "05",
+      "context": "storage",
+      "meaning": "a bed covering made of strong material filled with straw, feathers, or foam",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "06",
+      "context": "informal",
+      "meaning": "a person or thing that functions satisfactorily despite being in poor condition",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "07",
+      "context": "penalty",
+      "meaning": "in cricket, a run awarded to the batting team for certain infractions by the fielding team",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "movement",
+      "meaning": "a light movement or twitching motion",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "communication",
+      "meaning": "to mark something with a tick or checkmark to indicate selection or approval",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
     }
   ]
 }
