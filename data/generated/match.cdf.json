@@ -3,75 +3,35 @@
   "tracks": [
     {
       "id": "01",
+      "context": "similarity",
+      "meaning": "to correspond or be equal in quality, appearance, or characteristics — as when colours or patterns are alike",
+      "added": "first",
+      "source": "llm",
+      "frequency": 0.35
+    },
+    {
+      "id": "02",
       "context": "sports",
       "meaning": "a contest or game between two competitors or teams",
-      "added": "first",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.30
+    },
+    {
+      "id": "03",
+      "context": "fire",
+      "meaning": "a small stick with a combustible tip that produces a flame when struck against a rough surface",
+      "added": "accumulated",
       "source": "llm",
       "frequency": 0.25
     },
     {
-      "id": "02",
-      "context": "action",
-      "meaning": "to pair or couple two things together",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.28
-    },
-    {
-      "id": "03",
-      "context": "clothing",
-      "meaning": "a person or thing that is equal to another in quality or characteristics",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.18
-    },
-    {
       "id": "04",
-      "context": "light",
-      "meaning": "a stick with a combustible tip used for lighting fires or lamps",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.15
-    },
-    {
-      "id": "05",
       "context": "law",
-      "meaning": "to arrange a marriage or union between two people",
+      "meaning": "a correspondence between physical evidence, DNA, fingerprints, or other forensic material used to link a suspect to a crime",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.02
-    },
-    {
-      "id": "06",
-      "context": "psychology",
-      "meaning": "a person or thing that is compatible or well-suited with another",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.08
-    },
-    {
-      "id": "07",
-      "context": "biology",
-      "meaning": "the pairing of chromosomes or DNA strands during reproduction",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.01
-    },
-    {
-      "id": "08",
-      "context": "gambling",
-      "meaning": "to stake money equal to a previous bet made by another player",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.02
-    },
-    {
-      "id": "09",
-      "context": "informal",
-      "meaning": "to succeed in finding an equal or equivalent person or thing",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.01
+      "frequency": 0.10
     }
   ]
 }

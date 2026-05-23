@@ -1,0 +1,85 @@
+{
+  "token": "matter",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "physics",
+      "meaning": "the physical substance or material of which something is made or composed",
+      "added": "first",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "02",
+      "context": "philosophy",
+      "meaning": "a subject of concern, importance, or consequence; something that is relevant or significant",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.45
+    },
+    {
+      "id": "03",
+      "context": "medicine",
+      "meaning": "a substance or issue that requires medical attention or diagnosis",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "04",
+      "context": "informal",
+      "meaning": "to be of importance or have significance in a given situation",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "05",
+      "context": "law",
+      "meaning": "a factor or circumstance relevant to a legal case or judgment",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "chemistry",
+      "meaning": "a substance composed of atoms or molecules with specific chemical properties",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "07",
+      "context": "printing",
+      "meaning": "the printed text or content of a written work or document",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    },
+    {
+      "id": "08",
+      "context": "astronomy",
+      "meaning": "the material substance that makes up celestial bodies and fills space",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.0
+    },
+    {
+      "id": "09",
+      "context": "psychology",
+      "meaning": "something that occupies one's thoughts or causes concern or distress",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "10",
+      "context": "domestic",
+      "meaning": "bodily waste or fecal discharge",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    }
+  ]
+}

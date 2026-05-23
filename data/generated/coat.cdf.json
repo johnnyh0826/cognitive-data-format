@@ -1,0 +1,77 @@
+{
+  "token": "coat",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "clothing",
+      "meaning": "a garment worn over other clothes for warmth or protection, typically having sleeves and fastenings",
+      "added": "first",
+      "source": "llm",
+      "frequency": 0.55
+    },
+    {
+      "id": "02",
+      "context": "zoology",
+      "meaning": "the fur, hair, or wool covering the body of an animal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.2
+    },
+    {
+      "id": "03",
+      "context": "chemistry",
+      "meaning": "a thin layer of a substance deposited or applied to a surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "04",
+      "context": "medicine",
+      "meaning": "a protective or therapeutic layer applied to the skin or body part",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "05",
+      "context": "metallurgy",
+      "meaning": "a layer of metal deposited on another metal surface through electroplating or similar process",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "06",
+      "context": "painting",
+      "meaning": "a layer or application of paint or varnish applied to a surface",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "07",
+      "context": "biology",
+      "meaning": "an outer covering or integument of an organism",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "verb_general",
+      "meaning": "to cover or provide a surface with a layer of material",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "a person's external appearance or manner adopted for a particular purpose",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    }
+  ]
+}

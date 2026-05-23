@@ -3,75 +3,107 @@
   "tracks": [
     {
       "id": "01",
-      "context": "season",
-      "meaning": "the season of the year between winter and summer when plants begin to grow and flowers bloom",
+      "context": "seasons",
+      "meaning": "the season of the year between winter and summer, when plants begin to grow and flowers bloom",
       "added": "first",
       "source": "llm",
-      "frequency": 0.35
+      "frequency": 0.308
     },
     {
       "id": "02",
-      "context": "action",
-      "meaning": "to jump or leap suddenly upward or forward",
+      "context": "mechanics",
+      "meaning": "a coiled metal device that returns to its original shape after being compressed or stretched",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.15
+      "frequency": 0.173
     },
     {
       "id": "03",
-      "context": "geology",
-      "meaning": "a place where water naturally flows out of the ground",
+      "context": "hydrology",
+      "meaning": "a natural source where water flows up from the ground",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.08
+      "frequency": 0.077
     },
     {
       "id": "04",
-      "context": "anatomy",
-      "meaning": "a coil of metal that returns to its original shape after being pressed or stretched",
+      "context": "verbs: movement",
+      "meaning": "to move forward with a sudden or bouncing motion",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.12
+      "frequency": 0.115
     },
     {
       "id": "05",
-      "context": "furniture",
-      "meaning": "a device consisting of coils or other material that supports a mattress and absorbs pressure",
+      "context": "verbs: origin",
+      "meaning": "to originate or arise from a source",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.1
+      "frequency": 0.096
     },
     {
       "id": "06",
-      "context": "water",
-      "meaning": "a small stream of water",
+      "context": "furniture",
+      "meaning": "the coiled metal support system inside a mattress or cushioned seat",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.02
+      "frequency": 0.058
     },
     {
       "id": "07",
-      "context": "psychology",
-      "meaning": "to originate or arise from a particular source or cause",
+      "context": "botany",
+      "meaning": "a young plant or seedling in its early growth stage",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.1
+      "frequency": 0.038
     },
     {
       "id": "08",
-      "context": "time",
-      "meaning": "the season associated with the beginning of something new or growth",
+      "context": "textiles",
+      "meaning": "the season-appropriate clothing worn during spring months",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.05
+      "frequency": 0.019
     },
     {
       "id": "09",
       "context": "informal",
-      "meaning": "liveliness, energy, or a bouncy quality in one's step or movement",
+      "meaning": "to reveal or disclose something unexpectedly or suddenly",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.03
+      "frequency": 0.029
+    },
+    {
+      "id": "10",
+      "context": "dance",
+      "meaning": "a light bouncing step or movement",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "11",
+      "context": "psychology",
+      "meaning": "resilience or the ability to recover quickly from difficulty",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.029
+    },
+    {
+      "id": "12",
+      "context": "architecture",
+      "meaning": "an arch or curved structural element that spans an opening",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
+    },
+    {
+      "id": "13",
+      "context": "hunting",
+      "meaning": "a trap or snare set to catch animals",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.019
     }
   ]
 }

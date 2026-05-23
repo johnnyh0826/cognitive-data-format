@@ -3,115 +3,35 @@
   "tracks": [
     {
       "id": "01",
-      "context": "printing",
-      "meaning": "a machine or device that applies pressure to transfer ink onto paper or other surfaces",
+      "context": "action",
+      "meaning": "to apply force to something by pushing against it, such as pressing a button or key",
       "added": "first",
       "source": "llm",
-      "frequency": 0.08
+      "frequency": 0.35
     },
     {
       "id": "02",
-      "context": "communication",
-      "meaning": "news media organizations collectively, or journalists and reporters as a group",
+      "context": "media",
+      "meaning": "news media organisations collectively, or journalists and reporters as a professional group",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.12
+      "frequency": 0.30
     },
     {
       "id": "03",
-      "context": "action",
-      "meaning": "to apply steady force or weight against something",
+      "context": "mechanics",
+      "meaning": "a mechanical device that applies pressure to extract liquid or shape material, such as an olive oil press or hydraulic press",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.18
+      "frequency": 0.20
     },
     {
       "id": "04",
-      "context": "movement",
-      "meaning": "to move forward by pushing or exerting force",
+      "context": "clothing",
+      "meaning": "to smooth fabric or garments by applying heat and pressure with an iron",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.1
-    },
-    {
-      "id": "05",
-      "context": "business",
-      "meaning": "to press a person for payment, decision, or action with urgency",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.06
-    },
-    {
-      "id": "06",
-      "context": "law",
-      "meaning": "to bring formal charges or legal action against someone",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.02
-    },
-    {
-      "id": "07",
-      "context": "food",
-      "meaning": "to extract liquid from fruit, vegetables, or other materials by applying pressure",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.04
-    },
-    {
-      "id": "08",
-      "context": "music",
-      "meaning": "to push down a key, string, or button on an instrument to produce sound",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.05
-    },
-    {
-      "id": "09",
-      "context": "anatomy",
-      "meaning": "to apply pressure with the hand or fingers to a body part for therapeutic or medical purposes",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.03
-    },
-    {
-      "id": "10",
-      "context": "psychology",
-      "meaning": "to cause someone stress, difficulty, or a burden of responsibility",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.12
-    },
-    {
-      "id": "11",
-      "context": "informal",
-      "meaning": "to pressure or coerce someone into compliance or agreement",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.08
-    },
-    {
-      "id": "12",
-      "context": "sports",
-      "meaning": "to apply intense physical effort or speed during athletic competition",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.04
-    },
-    {
-      "id": "13",
-      "context": "storage",
-      "meaning": "a cupboard or wardrobe for storing clothes or linens",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.04
-    },
-    {
-      "id": "14",
-      "context": "technology",
-      "meaning": "to activate a button or switch by pushing it down",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.04
+      "frequency": 0.15
     }
   ]
 }

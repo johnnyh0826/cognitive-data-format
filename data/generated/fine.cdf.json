@@ -12,10 +12,10 @@
     {
       "id": "02",
       "context": "quality",
-      "meaning": "of high quality, satisfactory, or acceptable standard",
+      "meaning": "of excellent craftsmanship or high standard",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.42
+      "frequency": 0.38
     },
     {
       "id": "03",
@@ -55,7 +55,7 @@
       "meaning": "in good health or satisfactory condition; feeling well",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.28
+      "frequency": 0.25
     },
     {
       "id": "08",
@@ -80,6 +80,14 @@
       "added": "accumulated",
       "source": "llm",
       "frequency": 0.01
+    },
+    {
+      "id": "11",
+      "context": "weather",
+      "meaning": "a clear sunny day with no clouds or rain",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
     }
   ]
 }

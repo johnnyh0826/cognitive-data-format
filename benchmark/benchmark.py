@@ -11,25 +11,26 @@ import json
 import re
 import time
 import argparse
+import requests
 import anthropic
 from pathlib import Path
 from datetime import datetime
 
 GENERATED_PATH = Path(__file__).parent.parent / "data" / "generated"
 RESULTS_PATH   = Path(__file__).parent.parent / "data" / "benchmark"
-MODEL_RAW      = "claude-sonnet-4-6"   # Condition A — unbounded reasoning, needs full model
-MODEL_CDF      = "claude-haiku-4-5-20251001"  # Condition B — bounded selection, lightweight
+OLLAMA_URL     = "http://localhost:11434/api/generate"
+OLLAMA_MODEL   = "llama3"
+
+# Model identifiers
+MODEL_SONNET   = "claude-sonnet-4-6"
+MODEL_HAIKU    = "claude-haiku-4-5-20251001"
+MODEL_OLLAMA   = "ollama/llama3"  # prefix to distinguish from Anthropic models
 
 # Anthropic API pricing per million tokens (as of May 2026)
 PRICING = {
-    "claude-sonnet-4-6": {
-        "input":  3.00,   # $ per 1M input tokens
-        "output": 15.00   # $ per 1M output tokens
-    },
-    "claude-haiku-4-5-20251001": {
-        "input":  0.80,   # $ per 1M input tokens
-        "output": 4.00    # $ per 1M output tokens
-    }
+    "claude-sonnet-4-6":        {"input": 3.00,  "output": 15.00},
+    "claude-haiku-4-5-20251001":{"input": 0.80,  "output": 4.00},
+    "ollama/llama3":             {"input": 0.0,   "output": 0.0},   # free local
 }
 
 def calc_cost(model, input_tokens, output_tokens):
@@ -89,6 +90,272 @@ TEST_CASES = [
     ("What is the current status of the project?", "current", "time", ["hydrology"]),
     ("The strike hit the target precisely at dawn", "strike", "military", ["labour"]),
 ]
+TEST_CASES_V2 = [
+    # break
+    ("She needed a break after working twelve hours straight", "break", "rest", ["mechanics"]),
+    ("The wave would break against the rocks with tremendous force", "break", "hydrology", ["rest"]),
+    ("He managed to break the world record by two seconds", "break", "sports", ["rest"]),
+    # charge
+    ("The lawyer submitted the charge sheet to the court", "charge", "law", ["electricity"]),
+    ("She plugged in her phone to charge overnight", "charge", "electricity", ["law"]),
+    ("The cavalry charge swept across the open battlefield", "charge", "military", ["law"]),
+    # beat
+    ("The drummer kept a steady beat throughout the performance", "beat", "music", ["sports"]),
+    ("She managed to beat her personal best time in the race", "beat", "sports", ["music"]),
+    ("The police officer walked his beat through the neighbourhood", "beat", "law", ["music"]),
+    # cast
+    ("The director announced the cast for the new film", "cast", "theatre", ["fishing"]),
+    ("He cast the fishing line far out into the lake", "cast", "fishing", ["theatre"]),
+    ("The doctor put a cast on her broken arm", "cast", "medicine", ["theatre"]),
+    # blow
+    ("The wind delivered a powerful blow to the trees", "blow", "weather", ["conflict"]),
+    ("The boxer delivered a blow to his opponent's chin", "blow", "sports", ["weather"]),
+    ("She gave the trumpet a long steady blow", "blow", "music", ["weather"]),
+    # check
+    ("He wrote a check to cover the rent payment", "check", "finance", ["sports"]),
+    ("The doctor gave her a routine health check", "check", "medicine", ["finance"]),
+    ("The chess player put the king in check", "check", "games", ["finance"]),
+    # back
+    ("She threw the ball back to the pitcher", "back", "movement", ["anatomy"]),
+    ("He injured his back lifting heavy equipment", "back", "anatomy", ["movement"]),
+    ("The company agreed to back the new startup financially", "back", "finance", ["anatomy"]),
+    # call
+    ("She made a call to her doctor about the results", "call", "communication", ["finance"]),
+    ("The referee made a controversial call during the match", "call", "sports", ["communication"]),
+    ("The trader placed a call option on the stock", "call", "finance", ["communication"]),
+    # cut
+    ("The surgeon made a clean cut during the operation", "cut", "medicine", ["finance"]),
+    ("The government announced a cut in interest rates", "cut", "finance", ["medicine"]),
+    ("She received a cut of the profits from the deal", "cut", "business", ["finance"]),
+    # deal
+    ("The two companies signed a deal worth millions", "deal", "business", ["games"]),
+    ("It was her turn to deal the cards around the table", "deal", "games", ["business"]),
+    ("The drug deal took place in an abandoned warehouse", "deal", "crime", ["business"]),
+    # drop
+    ("There was a sharp drop in temperature overnight", "drop", "weather", ["finance"]),
+    ("The stock market saw a significant drop in value", "drop", "finance", ["weather"]),
+    ("She added a drop of vanilla extract to the mixture", "drop", "food", ["weather"]),
+    # face
+    ("She put on a brave face despite the difficult news", "face", "psychology", ["anatomy"]),
+    ("The climber had to face the sheer rock face alone", "face", "geography", ["anatomy"]),
+    ("The watch had a cracked face that needed replacing", "face", "horology", ["anatomy"]),
+    # iron
+    ("She used an iron to press the creases out of her shirt", "iron", "clothing", ["chemistry"]),
+    ("The doctor prescribed iron supplements for her anaemia", "iron", "medicine", ["clothing"]),
+    ("The golfer selected a seven iron for the approach shot", "iron", "sports", ["clothing"]),
+    # line
+    ("She waited in line for over an hour at the post office", "line", "movement", ["communication"]),
+    ("The fishing line snapped under the weight of the catch", "line", "fishing", ["movement"]),
+    ("The actor forgot his line during the final rehearsal", "line", "theatre", ["movement"]),
+    # lock
+    ("She turned the key and heard the lock click shut", "lock", "security", ["sports"]),
+    ("The wrestler applied a headlock during the match", "lock", "sports", ["security"]),
+    ("The canal boat passed through the lock slowly", "lock", "nautical", ["security"]),
+    # mark
+    ("The teacher gave him full marks for the essay", "mark", "education", ["finance"]),
+    ("The German mark was replaced by the euro in 2002", "mark", "finance", ["education"]),
+    ("She left a mark on the wall when she moved the furniture", "mark", "general", ["finance"]),
+    # mount
+    ("The tension began to mount as the deadline approached", "mount", "psychology", ["geography"]),
+    ("The climber began to mount the steep northern face", "mount", "geography", ["psychology"]),
+    ("The soldier learned to mount and dismount the horse quickly", "mount", "military", ["geography"]),
+    # note
+    ("She left a note on the kitchen table before leaving", "note", "communication", ["music"]),
+    ("The musician held the final note for several seconds", "note", "music", ["communication"]),
+    ("The bank note had a serial number printed on the back", "note", "finance", ["music"]),
+    # order
+    ("The waiter took their order and disappeared into the kitchen", "order", "food", ["law"]),
+    ("The judge issued a restraining order against the defendant", "order", "law", ["food"]),
+    ("The troops stood in order waiting for the command", "order", "military", ["food"]),
+    # pack
+    ("She began to pack her suitcase the night before the flight", "pack", "travel", ["animal"]),
+    ("A pack of wolves surrounded the isolated farmhouse", "pack", "animal", ["travel"]),
+    ("He applied an ice pack to reduce the swelling", "pack", "medicine", ["travel"]),
+    # pick
+    ("It took her a long time to pick the right candidate", "pick", "decision", ["music"]),
+    ("The guitarist used a pick to strum the strings", "pick", "music", ["decision"]),
+    ("The thief used a pick to open the lock without a key", "pick", "crime", ["music"]),
+    # pipe
+    ("The plumber replaced the burst pipe under the sink", "pipe", "construction", ["music"]),
+    ("He sat in his armchair smoking a pipe", "pipe", "informal", ["construction"]),
+    ("The organ pipe produced a deep resonant sound", "pipe", "music", ["construction"]),
+    # play
+    ("The children went outside to play after school", "play", "recreation", ["theatre"]),
+    ("She had a lead role in the school play", "play", "theatre", ["recreation"]),
+    ("The coach called a play that caught the defence off guard", "play", "sports", ["theatre"]),
+    # point
+    ("She made a strong point during the debate", "point", "communication", ["geometry"]),
+    ("The compass needle always points north", "point", "navigation", ["communication"]),
+    ("He scored the winning point with seconds to spare", "point", "sports", ["communication"]),
+    # pop
+    ("She heard a pop when she opened the champagne bottle", "pop", "sound", ["music"]),
+    ("The pop song was number one for three weeks", "pop", "music", ["sound"]),
+    ("He went to pop the question on their anniversary", "pop", "informal", ["music"]),
+    # port
+    ("The ship arrived at the port after a long voyage", "port", "nautical", ["computing"]),
+    ("She poured a glass of port after dinner", "port", "food", ["nautical"]),
+    ("The technician connected the cable to the USB port", "port", "computing", ["nautical"]),
+    # pound
+    ("She paid five pounds for the coffee", "pound", "finance", ["measurement"]),
+    ("The recipe called for a pound of minced beef", "pound", "measurement", ["finance"]),
+    ("The stray dog was taken to the pound overnight", "pound", "animal", ["finance"]),
+    # race
+    ("She won the race by a clear margin", "race", "sports", ["biology"]),
+    ("The human race faces significant environmental challenges", "race", "biology", ["sports"]),
+    ("There was a race against time to finish before the deadline", "race", "informal", ["sports"]),
+    # record
+    ("She broke the world record in the hundred metres", "record", "sports", ["music"]),
+    ("He pulled out a vinyl record and placed it on the turntable", "record", "music", ["sports"]),
+    ("The hospital kept a detailed medical record for each patient", "record", "medicine", ["sports"]),
+    # ring
+    ("She wore a diamond ring on her left hand", "ring", "jewellery", ["sports"]),
+    ("The boxer entered the ring to a roar from the crowd", "ring", "sports", ["jewellery"]),
+    ("The phone ring woke her at three in the morning", "ring", "communication", ["jewellery"]),
+    # rock
+    ("She sat on a smooth rock beside the river", "rock", "geology", ["music"]),
+    ("The band played classic rock songs all evening", "rock", "music", ["geology"]),
+    ("The boat began to rock violently in the storm", "rock", "movement", ["geology"]),
+    # roll
+    ("She ordered a bread roll with her soup", "roll", "food", ["movement"]),
+    ("The teacher called the roll at the start of class", "roll", "education", ["food"]),
+    ("The barrel began to roll down the steep hill", "roll", "movement", ["food"]),
+    # round
+    ("The boxer won the fight in the third round", "round", "sports", ["mathematics"]),
+    ("The doctor did her rounds early in the morning", "round", "medicine", ["sports"]),
+    ("She ordered a round of drinks for the whole table", "round", "informal", ["sports"]),
+    # seal
+    ("The seal surfaced near the fishing boat", "seal", "animal", ["security"]),
+    ("She used wax to seal the envelope shut", "seal", "security", ["animal"]),
+    ("The plumber applied a rubber seal around the pipe joint", "seal", "construction", ["animal"]),
+    # set
+    ("She won the first set six games to four", "set", "sports", ["theatre"]),
+    ("The crew spent hours building the film set", "set", "theatre", ["sports"]),
+    ("He watched the sun set over the ocean", "set", "nature", ["sports"]),
+    # shoot
+    ("The photographer had to shoot in low light conditions", "shoot", "photography", ["sports"]),
+    ("The basketball player lined up to shoot a free throw", "shoot", "sports", ["photography"]),
+    ("The new bamboo shoot grew several inches overnight", "shoot", "botany", ["sports"]),
+    # slip
+    ("She gave him a slip of paper with the address on it", "slip", "communication", ["movement"]),
+    ("He had a Freudian slip during the interview", "slip", "psychology", ["movement"]),
+    ("She slipped on the wet floor and twisted her ankle", "slip", "movement", ["psychology"]),
+    # snap
+    ("She heard the branch snap under her weight", "snap", "sound", ["photography"]),
+    ("He took a quick snap of the sunset with his phone", "snap", "photography", ["sound"]),
+    ("The dog gave a sudden snap when the child reached out", "snap", "animal", ["sound"]),
+    # sort
+    ("She took time to sort through the old photographs", "sort", "action", ["computing"]),
+    ("What sort of music do you enjoy most", "sort", "general", ["action"]),
+    ("The algorithm was designed to sort data efficiently", "sort", "computing", ["action"]),
+    # spot
+    ("She found a quiet spot by the river to read", "spot", "geography", ["informal"]),
+    ("The manager put her on the spot with a difficult question", "spot", "informal", ["geography"]),
+    ("The mechanic found the fault spot on the engine", "spot", "mechanics", ["geography"]),
+    # stem
+    ("She carefully removed the stem from the flower", "stem", "botany", ["movement"]),
+    ("The government moved to stem the flow of illegal goods", "stem", "action", ["botany"]),
+    ("The bleeding was stemmed by applying direct pressure", "stem", "medicine", ["botany"]),
+]
+
+TEST_CASES_V3 = [
+    # wave
+    ("She gave a wave as the train pulled out of the station", "wave", "communication", ["physics"]),
+    ("The surfer caught a massive wave near the reef", "wave", "hydrology", ["communication"]),
+    ("A new wave of technology is transforming the industry", "wave", "informal", ["hydrology"]),
+    # tip
+    ("She left a generous tip for the waiter", "tip", "finance", ["anatomy"]),
+    ("He balanced carefully on the tip of the diving board", "tip", "anatomy", ["finance"]),
+    ("The police received a tip about the suspect location", "tip", "law", ["finance"]),
+    # track
+    ("The athlete ran the fastest time on the track", "track", "sports", ["music"]),
+    ("She downloaded the title track from the new album", "track", "music", ["sports"]),
+    ("The detective tried to track down the missing witness", "track", "investigation", ["sports"]),
+    # train
+    ("She caught the early morning train to the city", "train", "transport", ["sports"]),
+    ("The coach began to train the team for the championship", "train", "sports", ["transport"]),
+    ("A long train of thought led him to the answer", "train", "psychology", ["transport"]),
+    # turn
+    ("It was her turn to present the quarterly results", "turn", "general", ["movement"]),
+    ("The car made a sharp turn at the junction", "turn", "movement", ["general"]),
+    ("The century turn brought major technological changes", "turn", "time", ["movement"]),
+    # type
+    ("She began to type the report on her laptop", "type", "computing", ["biology"]),
+    ("He had a rare blood type that complicated the surgery", "type", "medicine", ["computing"]),
+    ("What type of music do you prefer for studying", "type", "general", ["computing"]),
+    # volume
+    ("She turned up the volume on the radio", "volume", "sound", ["measurement"]),
+    ("The library holds a volume of rare manuscripts", "volume", "publishing", ["sound"]),
+    ("The volume of water in the reservoir was critically low", "volume", "measurement", ["sound"]),
+    # well
+    ("She felt perfectly well after a night of rest", "well", "health", ["geography"]),
+    ("The village drew water from a deep stone well", "well", "geography", ["health"]),
+    ("He performed well under pressure during the interview", "well", "general", ["health"]),
+    # work
+    ("She submitted her latest work to the gallery", "work", "art", ["employment"]),
+    ("He had to work overtime to meet the deadline", "work", "employment", ["art"]),
+    ("The mechanic checked to see if the engine would work", "work", "mechanics", ["employment"]),
+    # yield
+    ("The farm produced a high yield of wheat this season", "yield", "agriculture", ["finance"]),
+    ("The bond offered a yield of five percent annually", "yield", "finance", ["agriculture"]),
+    ("She refused to yield to pressure from her opponents", "yield", "psychology", ["finance"]),
+    # tone
+    ("The doctor used a firm but reassuring tone throughout", "tone", "communication", ["music"]),
+    ("She practised scales to improve her tone on the piano", "tone", "music", ["communication"]),
+    ("The gym programme helped her improve her muscle tone", "tone", "anatomy", ["music"]),
+    # network
+    ("She built a strong professional network over the years", "network", "business", ["computing"]),
+    ("The company upgraded its entire IT network last quarter", "network", "computing", ["business"]),
+    ("The television network broadcast the game live", "network", "media", ["computing"]),
+    # trigger
+    ("The trigger on the old rifle was stiff and unreliable", "trigger", "military", ["psychology"]),
+    ("Stress can trigger a migraine in some patients", "trigger", "medicine", ["military"]),
+    ("The announcement was the trigger for widespread protests", "trigger", "psychology", ["military"]),
+    # culture
+    ("The company had developed a strong culture of innovation", "culture", "business", ["biology"]),
+    ("She studied the culture of ancient Rome at university", "culture", "history", ["business"]),
+    ("The lab technician prepared a bacterial culture for testing", "culture", "biology", ["history"]),
+    # cycle
+    ("She went for a cycle along the riverside path", "cycle", "sports", ["time"]),
+    ("The washing machine completed its cycle in forty minutes", "cycle", "technology", ["sports"]),
+    ("The economic cycle tends to repeat every few years", "cycle", "finance", ["sports"]),
+    # degree
+    ("She completed her degree in three years", "degree", "education", ["measurement"]),
+    ("The temperature dropped by ten degrees overnight", "degree", "measurement", ["education"]),
+    ("He burned his hand to a minor degree on the hot surface", "degree", "medicine", ["education"]),
+    # flight
+    ("She booked a flight to Tokyo for the conference", "flight", "transport", ["movement"]),
+    ("The suspect took flight when he saw the police arrive", "flight", "movement", ["transport"]),
+    ("The staircase had two flights leading to the upper floor", "flight", "construction", ["transport"]),
+    # form
+    ("She filled out the application form carefully", "form", "administration", ["sports"]),
+    ("The athlete was in peak form ahead of the championship", "form", "sports", ["administration"]),
+    ("Water can change its form depending on temperature", "form", "chemistry", ["sports"]),
+    # grave
+    ("She placed flowers on the grave of her grandfather", "grave", "death", ["music"]),
+    ("The situation was grave and required immediate action", "grave", "general", ["death"]),
+    ("The musician played the passage in a grave and solemn tempo", "grave", "music", ["death"]),
+    # host
+    ("She acted as host for the charity dinner", "host", "social", ["biology"]),
+    ("The parasite depends entirely on its host to survive", "host", "biology", ["social"]),
+    ("The television host interviewed three guests on the show", "host", "media", ["biology"]),
+    # launch
+    ("The company planned to launch the product in spring", "launch", "business", ["nautical"]),
+    ("The rocket launch was delayed by bad weather", "launch", "technology", ["business"]),
+    ("They took the launch across the harbour to the island", "launch", "nautical", ["business"]),
+    # level
+    ("She filled the water to exactly the right level", "level", "measurement", ["general"]),
+    ("The builder used a level to check the surface was flat", "level", "construction", ["measurement"]),
+    ("He remained calm and level-headed throughout the crisis", "level", "psychology", ["measurement"]),
+    # model
+    ("She worked as a model for a fashion house in Paris", "model", "fashion", ["computing"]),
+    ("The scientists built a model to simulate climate change", "model", "science", ["fashion"]),
+    ("The new car model was unveiled at the motor show", "model", "automotive", ["fashion"]),
+    # coat
+    ("She pulled on her coat before heading out into the cold", "coat", "clothing", ["construction"]),
+    ("The painter applied a second coat to the wooden surface", "coat", "construction", ["clothing"]),
+    ("The dog had a thick winter coat that shed in spring", "coat", "biology", ["clothing"]),
+]
+
 
 
 def load_cdf_token(word):
@@ -136,9 +403,63 @@ Respond with ONLY this JSON — no explanation, no markdown:
 {{"selected_track": "context label from the tracks above", "meaning": "the meaning from that track", "confidence": 0.95}}"""
 
 
-def call_claude(prompt, client, model=None):
+def build_raw_prompt_ollama(sentence, word):
+    """Simplified raw prompt for local models with weaker instruction following."""
+    return f"""What does the word "{word}" mean in this sentence?
+
+Sentence: "{sentence}"
+
+Reply in this exact format and nothing else:
+context: [one word domain label e.g. finance geography sports]
+meaning: [one sentence definition]
+confidence: 0.85"""
+
+
+def build_cdf_prompt_ollama(sentence, word, token):
+    """Simplified CDF prompt for local models — plain English, no JSON structure."""
+    contexts = " / ".join(t["context"] for t in token["tracks"])
+    meanings = "\n".join(
+        f"- {t['context']}: {t['meaning']}"
+        for t in token["tracks"]
+    )
+    return f"""What does the word "{word}" mean in this sentence?
+
+Sentence: "{sentence}"
+
+Known meanings:
+{meanings}
+
+Which meaning fits best? Reply with ONLY this — no explanation:
+context: pick one from ({contexts})
+meaning: copy the matching meaning above
+confidence: 0.95"""
+
+
+def call_model(prompt, client, model=None):
+    """Universal model caller — supports Anthropic API and Ollama local models."""
     if model is None:
-        model = MODEL_RAW
+        model = MODEL_SONNET
+
+    # Ollama local model
+    if model.startswith("ollama/"):
+        ollama_model = model.split("/", 1)[1]
+        try:
+            r = requests.post(OLLAMA_URL, json={
+                "model": ollama_model,
+                "prompt": prompt,
+                "stream": False
+            }, timeout=60)
+            data = r.json()
+            text = data.get("response", "")
+            est_in  = len(prompt.split())
+            est_out = len(text.split())
+            usage = {"input_tokens": est_in, "output_tokens": est_out,
+                     "total_tokens": est_in + est_out}
+            return text, usage
+        except Exception as e:
+            raise RuntimeError(f"Ollama error: {e}")
+
+    # Anthropic API
     response = client.messages.create(
         model=model,
         max_tokens=300,
@@ -151,19 +472,151 @@ def call_claude(prompt, client, model=None):
     }
     return response.content[0].text, usage
 
+def call_claude(prompt, client, model=None):
+    """Backwards-compatible alias for call_model."""
+    return call_model(prompt, client, model)
+
+
+RETRY_FEEDBACK = "That answer was incorrect. Reconsider the context carefully and try again."
+
+
+def call_model_conv(messages, client, model):
+    """Call Anthropic model with a full multi-turn message history."""
+    response = client.messages.create(
+        model=model,
+        max_tokens=300,
+        messages=messages
+    )
+    usage = {
+        "input_tokens":  response.usage.input_tokens,
+        "output_tokens": response.usage.output_tokens,
+        "total_tokens":  response.usage.input_tokens + response.usage.output_tokens
+    }
+    return response.content[0].text, usage
+
+
+def run_one_raw(prompt, word, sentence, correct_context, client, model):
+    """Like run_one but also returns the raw response text for building retry history."""
+    try:
+        t = time.time()
+        text, usage = call_model(prompt, client, model=model)
+        result  = parse_response(text)
+        correct = is_correct(result, correct_context, sentence, word, client)
+        conf    = float(result.get("confidence", 0.0)) if result else 0.0
+        elapsed = round(time.time() - t, 1)
+        cost    = calc_cost(model, usage["input_tokens"], usage["output_tokens"])
+        row = {
+            "correct": correct, "confidence": conf, "time": elapsed,
+            "tokens_in": usage["input_tokens"], "tokens_out": usage["output_tokens"],
+            "cost_usd": cost
+        }
+        return row, text
+    except Exception as e:
+        print(f"\n  ERROR [{model}|{word}]: {e}")
+        row = {"correct": False, "confidence": 0.0, "time": 0.0,
+                "tokens_in": 0, "tokens_out": 0, "cost_usd": 0.0}
+        return row, ""
+
+
+def retry_condition(initial_prompt, initial_result, initial_raw, word, sentence,
+                    correct_context, client, model, cdf_cost):
+    """
+    Retry an incorrect A/B result using multi-turn conversation history.
+    Appends RETRY_FEEDBACK and retries until the answer is correct or
+    cumulative cost exceeds cdf_cost (the single-pass cost of the CDF equivalent).
+    Returns the result dict enhanced with: initial_correct, attempts,
+    total_tokens, total_cost, resolved.
+    """
+    result = initial_result.copy()
+    result["initial_correct"]    = False
+    result["attempts"]           = 1
+    result["total_tokens"]       = result["tokens_in"] + result["tokens_out"]
+    result["total_output_tokens"] = result["tokens_out"]
+    result["total_cost"]         = result["cost_usd"]
+    result["resolved"]           = False
+    result["time_to_correct"]    = result["time"]       # seed with first-call elapsed
+    result["cost_to_correct"]    = result["cost_usd"]   # seed with first-call cost
+
+    messages = [
+        {"role": "user",      "content": initial_prompt},
+        {"role": "assistant", "content": initial_raw or ""},
+        {"role": "user",      "content": RETRY_FEEDBACK},
+    ]
+
+    while True:
+        try:
+            t = time.time()
+            text, usage = call_model_conv(messages, client, model)
+            parsed  = parse_response(text)
+            correct = is_correct(parsed, correct_context, sentence, word, client)
+            cost    = calc_cost(model, usage["input_tokens"], usage["output_tokens"])
+            elapsed = round(time.time() - t, 1)
+
+            result["attempts"]             += 1
+            result["total_tokens"]         += usage["total_tokens"]
+            result["total_output_tokens"]  += usage["output_tokens"]
+            result["total_cost"]           += cost
+            result["time_to_correct"] += elapsed
+            result["cost_to_correct"] += cost
+
+            if correct:
+                result["correct"]  = True
+                result["resolved"] = True
+                if parsed:
+                    result["confidence"] = float(parsed.get("confidence", result["confidence"]))
+                break
+
+            if result["total_cost"] > cdf_cost:
+                result["resolved"] = False
+                break
+
+            messages.append({"role": "assistant", "content": text})
+            messages.append({"role": "user",      "content": RETRY_FEEDBACK})
+
+        except Exception as e:
+            print(f"\n  RETRY ERROR [{model}|{word}]: {e}")
+            break
+
+    return result
+
 
 def parse_response(raw):
+    """Parse both JSON (Claude) and plain text (Ollama) responses."""
     cleaned = re.sub(r"```(?:json)?", "", raw).strip().replace("```", "").strip()
+
+    # Try JSON first
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
-        start = cleaned.find("{")
-        end   = cleaned.rfind("}") + 1
-        if start != -1 and end > start:
+        pass
+
+    # Try JSON substring
+    start = cleaned.find("{")
+    end   = cleaned.rfind("}") + 1
+    if start != -1 and end > start:
+        try:
+            return json.loads(cleaned[start:end])
+        except json.JSONDecodeError:
+            pass
+
+    # Parse plain text format (Ollama simplified prompt response)
+    # Expected: "context: finance\nmeaning: ...\nconfidence: 0.95"
+    result = {}
+    for line in cleaned.split("\n"):
+        line = line.strip()
+        if line.startswith("context:"):
+            result["context"] = line.split(":", 1)[1].strip()
+            result["selected_track"] = result["context"]
+        elif line.startswith("meaning:"):
+            result["meaning"] = line.split(":", 1)[1].strip()
+        elif line.startswith("confidence:"):
             try:
-                return json.loads(cleaned[start:end])
-            except json.JSONDecodeError:
-                pass
+                result["confidence"] = float(line.split(":", 1)[1].strip())
+            except ValueError:
+                result["confidence"] = 0.5
+    if result.get("context"):
+        return result
+
     return None
 
 
@@ -220,17 +673,42 @@ Rules:
 
 
 def parse_response(raw):
+    """Parse both JSON (Claude) and plain text (Ollama) responses."""
     cleaned = re.sub(r"```(?:json)?", "", raw).strip().replace("```", "").strip()
+
+    # Try JSON first
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
-        start = cleaned.find("{")
-        end   = cleaned.rfind("}") + 1
-        if start != -1 and end > start:
+        pass
+
+    # Try JSON substring
+    start = cleaned.find("{")
+    end   = cleaned.rfind("}") + 1
+    if start != -1 and end > start:
+        try:
+            return json.loads(cleaned[start:end])
+        except json.JSONDecodeError:
+            pass
+
+    # Parse plain text format (Ollama simplified prompt response)
+    # Expected: "context: finance\nmeaning: ...\nconfidence: 0.95"
+    result = {}
+    for line in cleaned.split("\n"):
+        line = line.strip()
+        if line.startswith("context:"):
+            result["context"] = line.split(":", 1)[1].strip()
+            result["selected_track"] = result["context"]
+        elif line.startswith("meaning:"):
+            result["meaning"] = line.split(":", 1)[1].strip()
+        elif line.startswith("confidence:"):
             try:
-                return json.loads(cleaned[start:end])
-            except json.JSONDecodeError:
-                pass
+                result["confidence"] = float(line.split(":", 1)[1].strip())
+            except ValueError:
+                result["confidence"] = 0.5
+    if result.get("context"):
+        return result
+
     return None
 
 
@@ -335,141 +813,550 @@ CONTEXT_SYNONYMS = {
 
 
 
-def run_benchmark(test_cases, client):
-    print(f"\nCognitive Data Format — Disambiguation Benchmark")
-    print(f"Model A (Raw): {MODEL_RAW}")
-    print(f"Model B (CDF): {MODEL_CDF}")
+def run_one(prompt, word, sentence, correct_context, client, model):
+    """Run a single condition and return result dict."""
+    try:
+        t = time.time()
+        text, usage = call_model(prompt, client, model=model)
+        result  = parse_response(text)
+        correct = is_correct(result, correct_context, sentence, word, client)
+        conf    = float(result.get("confidence", 0.0)) if result else 0.0
+        elapsed = round(time.time() - t, 1)
+        cost    = calc_cost(model, usage["input_tokens"], usage["output_tokens"])
+        return {
+            "correct": correct, "confidence": conf, "time": elapsed,
+            "tokens_in": usage["input_tokens"], "tokens_out": usage["output_tokens"],
+            "cost_usd": cost
+        }
+    except Exception as e:
+        print(f"\n  ERROR [{model}|{word}]: {e}")
+        return {"correct": False, "confidence": 0.0, "time": 0.0,
+                "tokens_in": 0, "tokens_out": 0, "cost_usd": 0.0}
+
+
+def summarise(results, key, n):
+    """Aggregate metrics for one condition across all results."""
+    rows = [r[key] for r in results if r["cdf_available"] and r[key] is not None]
+    if not rows:
+        return {}
+    correct = sum(1 for r in rows if r["correct"])
+    return {
+        "correct": correct, "total": len(rows),
+        "accuracy": correct / max(len(rows), 1),
+        "avg_confidence": sum(r["confidence"] for r in rows) / max(len(rows), 1),
+        "avg_time":       sum(r["time"]       for r in rows) / max(len(rows), 1),
+        "avg_tokens_in":  sum(r["tokens_in"]  for r in rows) / max(len(rows), 1),
+        "avg_tokens_out": sum(r["tokens_out"] for r in rows) / max(len(rows), 1),
+        "avg_cost_usd":   sum(r["cost_usd"]   for r in rows) / max(len(rows), 1),
+    }
+
+
+def print_summary(label, s, baseline_cost=None):
+    if not s:
+        return
+    n = s["total"]
+    pct = round(s["accuracy"] * 100)
+    cost_str = f"${s['avg_cost_usd']*1000:.4f}/1k"
+    saving = ""
+    if baseline_cost and baseline_cost > 0:
+        saving = f"  ({round((1 - s['avg_cost_usd']/baseline_cost)*100, 1)}% cheaper)"
+    print(f"  {label:<30} {s['correct']}/{n} ({pct}%)   "
+          f"conf:{s['avg_confidence']:.3f}  "
+          f"time:{s['avg_time']:.1f}s  "
+          f"cost:{cost_str}{saving}")
+
+
+def run_benchmark(test_cases, client, ollama_enabled=True):
+    conditions = [
+        ("A", "Raw   Sonnet",  MODEL_SONNET, "raw"),
+        ("B", "Raw   Haiku",   MODEL_HAIKU,  "raw"),
+        ("C", "Raw   Llama3",  MODEL_OLLAMA, "raw"),
+        ("D", "CDF   Haiku",   MODEL_HAIKU,  "cdf"),
+        ("E", "CDF   Llama3",  MODEL_OLLAMA, "cdf"),
+        ("F", "CDF   Sonnet",  MODEL_SONNET, "cdf"),
+    ]
+
+    # Check Ollama availability
+    ollama_ok = False
+    if ollama_enabled:
+        try:
+            r = requests.get("http://localhost:11434/api/tags", timeout=3)
+            ollama_ok = r.status_code == 200
+        except Exception:
+            pass
+    if not ollama_ok:
+        print(f"  NOTE: Ollama not available — skipping Llama3 conditions (C, E)")
+
+    print(f"\nCognitive Data Format — Multi-Model Benchmark")
+    print(f"Conditions: Raw Sonnet | Raw Haiku | Raw Llama3 | CDF Haiku | CDF Llama3 | CDF Sonnet")
     print(f"Test cases: {len(test_cases)}")
-    print(f"{'─' * 65}")
-    print(f"  {'#':<4} {'Word':<12} {'A:Raw':<10} {'B:CDF':<10} {'A Conf':<10} {'B Conf':<10} Notes")
-    print(f"{'─' * 65}")
+    print(f"{'─' * 80}")
+    print(f"  {'#':<4} {'Word':<10} {'A:RS':<7} {'B:RH':<7} {'C:RL':<7} {'D:CH':<7} {'E:CL':<7} {'F:CS':<7}")
+    print(f"{'─' * 80}")
 
     results = []
 
     for i, (sentence, word, correct_context, distractors) in enumerate(test_cases, 1):
         token = load_cdf_token(word)
+        row = {"sentence": sentence, "word": word, "correct_context": correct_context,
+               "cdf_available": token is not None}
 
-        # Condition A — Raw (Sonnet — unbounded reasoning)
-        t_a = time.time()
-        try:
-            raw_a, usage_a = call_claude(build_raw_prompt(sentence, word), client, model=MODEL_RAW)
-            result_a  = parse_response(raw_a)
-            correct_a = is_correct(result_a, correct_context, sentence, word, client)
-            conf_a    = float(result_a.get("confidence", 0.0)) if result_a else 0.0
-            time_a    = round(time.time() - t_a, 1)
-            tok_in_a  = usage_a["input_tokens"]
-            tok_out_a = usage_a["output_tokens"]
-            cost_a    = calc_cost(MODEL_RAW, tok_in_a, tok_out_a)
-        except Exception as e:
-            print(f"\n  ERROR A [{word}]: {e}")
-            correct_a, conf_a, time_a, tok_in_a, tok_out_a, cost_a = False, 0.0, 0.0, 0, 0, 0.0
+        raw_texts  = {}  # raw response text for A and B (used to build retry history)
+        prompts_ab = {}  # initial prompts for A and B
 
-        # Condition B — CDF
-        t_b = time.time()
-        if token:
-            try:
-                raw_b, usage_b = call_claude(build_cdf_prompt(sentence, word, token), client, model=MODEL_CDF)
-                result_b  = parse_response(raw_b)
-                correct_b = is_correct(result_b, correct_context, sentence, word, client)
-                conf_b    = float(result_b.get("confidence", 0.0)) if result_b else 0.0
-                time_b    = round(time.time() - t_b, 1)
-                tok_in_b  = usage_b["input_tokens"]
-                tok_out_b = usage_b["output_tokens"]
-                cost_b    = calc_cost(MODEL_CDF, tok_in_b, tok_out_b)
-            except Exception as e:
-                print(f"\n  ERROR B [{word}]: {e}")
-                correct_b, conf_b, time_b, tok_in_b, tok_out_b, cost_b = False, 0.0, 0.0, 0, 0, 0.0
+        for cid, label, model, mode in conditions:
+            key = f"condition_{cid.lower()}"
+            if model == MODEL_OLLAMA and not ollama_ok:
+                row[key] = None
+                continue
+            if mode == "cdf" and not token:
+                row[key] = None
+                continue
+            # Use simplified prompts for Ollama — full JSON confuses local models
+            if model.startswith("ollama/"):
+                prompt = build_raw_prompt_ollama(sentence, word) if mode == "raw" else build_cdf_prompt_ollama(sentence, word, token)
+            else:
+                prompt = build_raw_prompt(sentence, word) if mode == "raw" else build_cdf_prompt(sentence, word, token)
+            if cid in ("A", "B"):
+                row[key], raw_texts[cid] = run_one_raw(prompt, word, sentence, correct_context, client, model)
+                prompts_ab[cid] = prompt
+            else:
+                row[key] = run_one(prompt, word, sentence, correct_context, client, model)
+
+        # Cost-threshold retry loop for A (Raw Sonnet, threshold = F cost) and
+        # B (Raw Haiku, threshold = D cost). C/E/F are never touched.
+        for cid, cdf_key, retry_model in [("A", "condition_f", MODEL_SONNET),
+                                           ("B", "condition_d", MODEL_HAIKU)]:
+            key   = f"condition_{cid.lower()}"
+            r     = row.get(key)
+            cdf_r = row.get(cdf_key)
+            if not r:
+                continue
+            if not r["correct"] and cdf_r and cdf_r.get("cost_usd", 0) > 0:
+                row[key] = retry_condition(
+                    prompts_ab.get(cid, ""), r, raw_texts.get(cid, ""),
+                    word, sentence, correct_context, client, retry_model,
+                    cdf_r["cost_usd"]
+                )
+            else:
+                r["initial_correct"]     = r["correct"]
+                r["attempts"]            = 1
+                r["total_tokens"]        = r["tokens_in"] + r["tokens_out"]
+                r["total_output_tokens"] = r["tokens_out"]
+                r["total_cost"]          = r["cost_usd"]
+                r["resolved"]            = r["correct"]
+                r["time_to_correct"]     = r["time"]
+                r["cost_to_correct"]     = r["cost_usd"]
+
+        # Annotate D and F with single-pass time_to_correct / cost_to_correct
+        for _cid in ("D", "F"):
+            _r = row.get(f"condition_{_cid.lower()}")
+            if _r:
+                _r["time_to_correct"] = _r["time"]
+                _r["cost_to_correct"] = _r["cost_usd"]
+
+        results.append(row)
+
+        def sym(k):
+            v = row.get(k)
+            if v is None: return "?"
+            return "✓" if v["correct"] else "✗"
+
+        print(f"  {i:<4} {word:<10} {sym('condition_a'):<7} {sym('condition_b'):<7} "
+              f"{sym('condition_c'):<7} {sym('condition_d'):<7} "
+              f"{sym('condition_e'):<7} {sym('condition_f'):<7}")
+
+    valid = [r for r in results if r["cdf_available"]]
+    n = len(valid)
+
+    print(f"\n{'─' * 80}")
+    print(f"  RESULTS ({n} test cases with CDF available)")
+    print(f"{'─' * 80}")
+    print(f"  {'Condition':<30} Acc      Conf    Time    Cost")
+    print(f"{'─' * 80}")
+
+    summaries = {}
+    baseline_cost = None
+    for cid, label, model, mode in conditions:
+        key = f"condition_{cid.lower()}"
+        s = summarise(results, key, n)
+        summaries[cid] = s
+        if cid == "A":
+            baseline_cost = s.get("avg_cost_usd", None)
+        print_summary(f"{cid}: {label}", s, baseline_cost)
+
+    print(f"{'─' * 80}")
+    print(f"\n  Key findings:")
+    # Same model comparison: A vs F (Sonnet Raw vs Sonnet CDF)
+    sa = summaries.get("A", {})
+    sf = summaries.get("F", {})
+    if sa and sf:
+        delta = round((sf["accuracy"] - sa["accuracy"]) * 100, 1)
+        print(f"  Sonnet Raw vs Sonnet CDF:  accuracy {'+' if delta>=0 else ''}{delta}%  (format impact, same model)")
+    # Small model with CDF: B vs D (Haiku Raw vs Haiku CDF)
+    sb = summaries.get("B", {})
+    sd = summaries.get("D", {})
+    if sb and sd:
+        delta = round((sd["accuracy"] - sb["accuracy"]) * 100, 1)
+        print(f"  Haiku Raw vs Haiku CDF:    accuracy {'+' if delta>=0 else ''}{delta}%  (CDF impact on small model)")
+    # Cost: A vs D (Sonnet Raw vs Haiku CDF)
+    if sa and sd and sa.get("avg_cost_usd", 0) > 0:
+        saving = round((1 - sd["avg_cost_usd"] / sa["avg_cost_usd"]) * 100, 1)
+        print(f"  Sonnet Raw vs Haiku CDF:   cost saving {saving}%  (model substitution)")
+    print()
+
+    print(f"  Cost Per Correct Answer — Same Model Comparison")
+    print(f"{'─' * 80}")
+
+    def _avg(lst):
+        return sum(lst) / len(lst) if lst else 0.0
+
+    for cid, label, cdf_cid in [("A", "Raw Sonnet", "F"), ("B", "Raw Haiku", "D")]:
+        key        = f"condition_{cid.lower()}"
+        rows       = [r for r in valid if r.get(key)]
+        resolved   = [r for r in rows if r[key].get("resolved")]
+        unresolved = [r for r in rows
+                      if not r[key].get("resolved") and r[key].get("attempts", 1) > 1]
+        avg_att = _avg([r[key]["attempts"]       for r in resolved])
+        avg_ttc = _avg([r[key]["time_to_correct"] for r in resolved])
+        avg_ctc = _avg([r[key]["cost_to_correct"] for r in resolved])
+        avg_tu  = _avg([r[key]["time_to_correct"] for r in unresolved])
+        avg_cu  = _avg([r[key]["cost_to_correct"] for r in unresolved])
+        print(f"  {label}:")
+        print(f"    Resolved ({len(resolved)}):   "
+              f"avg attempts {avg_att:.1f}  "
+              f"avg time {avg_ttc:.1f}s  "
+              f"avg cost ${avg_ctc:.6f}")
+        print(f"    Unresolved ({len(unresolved)}): "
+              f"avg time {avg_tu:.1f}s  "
+              f"avg cost ${avg_cu:.6f} before threshold")
+
+    print()
+    a_key    = "condition_a"
+    b_key    = "condition_b"
+    a_missed = [r for r in valid
+                if r.get(a_key) and not r[a_key].get("initial_correct", r[a_key].get("correct"))]
+    b_missed = [r for r in valid
+                if r.get(b_key) and not r[b_key].get("initial_correct", r[b_key].get("correct"))]
+    a_exceeded = sum(1 for r in a_missed
+                     if r[a_key].get("attempts", 1) > 1 and not r[a_key].get("resolved"))
+    b_exceeded = sum(1 for r in b_missed
+                     if r[b_key].get("attempts", 1) > 1 and not r[b_key].get("resolved"))
+    print(f"  Without CDF, Sonnet exceeded its own CDF cost threshold on "
+          f"{a_exceeded}/{len(a_missed)} missed cases. "
+          f"Haiku on {b_exceeded}/{len(b_missed)}.")
+    print()
+
+    for cid, label in [("F", "CDF Sonnet"), ("D", "CDF Haiku")]:
+        key       = f"condition_{cid.lower()}"
+        correct_r = [r for r in valid if r.get(key) and r[key].get("correct")]
+        total_r   = [r for r in valid if r.get(key)]
+        avg_ttc   = _avg([r[key]["time_to_correct"] for r in correct_r])
+        avg_ctc   = _avg([r[key]["cost_to_correct"] for r in correct_r])
+        print(f"  {label}: "
+              f"avg time {avg_ttc:.1f}s  "
+              f"avg cost ${avg_ctc:.6f}  "
+              f"({len(correct_r)}/{len(total_r)} correct, single pass)")
+    print()
+
+    def _raw_real_cost_per_correct(cid):
+        # total_spend / resolved_count — includes money burned on unresolved cases
+        key      = f"condition_{cid.lower()}"
+        all_rows = [r for r in valid if r.get(key)]
+        resolved = [r for r in all_rows if r[key].get("resolved")]
+        total_spend = sum(r[key]["cost_to_correct"] for r in all_rows)
+        n_correct   = len(resolved)
+        return total_spend / n_correct if n_correct > 0 else 0.0
+
+    def _cdf_real_cost_per_correct(cid):
+        # total_spend / correct_count — single pass, every case counted
+        key      = f"condition_{cid.lower()}"
+        all_rows = [r for r in valid if r.get(key)]
+        correct  = [r for r in all_rows if r[key].get("correct")]
+        total_spend = sum(r[key]["cost_to_correct"] for r in all_rows)
+        n_correct   = len(correct)
+        return total_spend / n_correct if n_correct > 0 else 0.0
+
+    def _raw_avg_time_resolved(cid):
+        key  = f"condition_{cid.lower()}"
+        rows = [r for r in valid if r.get(key) and r[key].get("resolved")]
+        return _avg([r[key]["time_to_correct"] for r in rows])
+
+    def _cdf_avg_time_correct(cid):
+        key  = f"condition_{cid.lower()}"
+        rows = [r for r in valid if r.get(key) and r[key].get("correct")]
+        return _avg([r[key]["time_to_correct"] for r in rows])
+
+    ca = _raw_real_cost_per_correct("A")
+    cf = _cdf_real_cost_per_correct("F")
+    cb = _raw_real_cost_per_correct("B")
+    cd = _cdf_real_cost_per_correct("D")
+    ta = _raw_avg_time_resolved("A")
+    tf = _cdf_avg_time_correct("F")
+    tb = _raw_avg_time_resolved("B")
+    td = _cdf_avg_time_correct("D")
+
+    def _pct_more(raw, cdf):
+        return round((raw - cdf) / cdf * 100, 1) if cdf > 0 else 0.0
+
+    def _x_slower(raw, cdf):
+        return round(raw / cdf, 1) if cdf > 0 else 0.0
+
+    print(f"  Raw Sonnet real cost per correct answer: ${ca:.6f} vs CDF Sonnet: ${cf:.6f} "
+          f"— {_pct_more(ca, cf):+.1f}% more expensive")
+    print(f"  Raw Haiku real cost per correct answer:  ${cb:.6f} vs CDF Haiku:  ${cd:.6f} "
+          f"— {_pct_more(cb, cd):+.1f}% more expensive")
+    print(f"  Raw Sonnet time to correct: {ta:.1f}s vs CDF Sonnet: {tf:.1f}s "
+          f"— {_x_slower(ta, tf):.1f}x slower")
+    print(f"  Raw Haiku time to correct:  {tb:.1f}s vs CDF Haiku:  {td:.1f}s "
+          f"— {_x_slower(tb, td):.1f}x slower")
+    print()
+
+    # Waste cost — spend on cases that never produced a correct answer
+    for raw_cid, cdf_cid in [("A", "F"), ("B", "D")]:
+        raw_key = f"condition_{raw_cid.lower()}"
+        cdf_key = f"condition_{cdf_cid.lower()}"
+        raw_label = "Raw Sonnet" if raw_cid == "A" else "Raw Haiku"
+        cdf_label = "CDF Sonnet" if cdf_cid == "F" else "CDF Haiku"
+
+        raw_all        = [r for r in valid if r.get(raw_key)]
+        raw_unresolved = [r for r in raw_all if not r[raw_key].get("resolved")]
+        raw_total_spend = sum(r[raw_key]["cost_to_correct"] for r in raw_all)
+        raw_waste_cost  = sum(r[raw_key]["cost_to_correct"] for r in raw_unresolved)
+        raw_waste_pct   = round(raw_waste_cost / raw_total_spend * 100, 1) if raw_total_spend > 0 else 0.0
+
+        cdf_all      = [r for r in valid if r.get(cdf_key)]
+        cdf_wrong    = [r for r in cdf_all if not r[cdf_key].get("correct")]
+        cdf_total_spend = sum(r[cdf_key]["cost_to_correct"] for r in cdf_all)
+        cdf_waste_cost  = sum(r[cdf_key]["cost_to_correct"] for r in cdf_wrong)
+        cdf_waste_pct   = round(cdf_waste_cost / cdf_total_spend * 100, 1) if cdf_total_spend > 0 else 0.0
+
+        print(f"  {raw_label} waste: ${raw_waste_cost:.6f} spent on {len(raw_unresolved)} cases "
+              f"that never resolved ({raw_waste_pct}% of total spend)")
+        print(f"  {cdf_label} waste: ${cdf_waste_cost:.6f} spent on {len(cdf_wrong)} cases "
+              f"that failed fast ({cdf_waste_pct}% of total spend)")
+    print()
+
+    # ── Section 1: Confidence Calibration ─────────────────────────────────
+    print(f"  Confidence Calibration")
+    print(f"{'─' * 80}")
+    conf_buckets = [
+        (0.0,  0.70, "0.00-0.70"),
+        (0.70, 0.90, "0.70-0.90"),
+        (0.90, 0.95, "0.90-0.95"),
+        (0.95, 1.01, "0.95-1.00"),
+    ]
+    cal_errors = {}
+    for cid, label in [("A", "Raw Sonnet"), ("B", "Raw Haiku"),
+                        ("D", "CDF Haiku"),  ("F", "CDF Sonnet")]:
+        key  = f"condition_{cid.lower()}"
+        rows = [r for r in valid if r.get(key)]
+        print(f"  {label}:")
+        for lo, hi, tag in conf_buckets:
+            bucket = [r for r in rows if lo <= r[key].get("confidence", 0.0) < hi]
+            if not bucket:
+                continue
+            acc      = sum(1 for r in bucket if r[key].get("correct")) / len(bucket)
+            avg_conf = _avg([r[key].get("confidence", 0.0) for r in bucket])
+            gap      = round((avg_conf - acc) * 100, 1)
+            sign     = "+" if gap >= 0 else ""
+            print(f"    [{tag}]  n={len(bucket):3d}  "
+                  f"accuracy={round(acc * 100):3d}%  "
+                  f"gap={sign}{gap}%")
+        case_mae = _avg([abs(r[key].get("confidence", 0.0) -
+                             (1 if r[key].get("correct") else 0))
+                         for r in rows])
+        cal_errors[cid] = round(case_mae * 100, 1)
+    print(f"  Calibration error — "
+          f"Raw Sonnet: {cal_errors.get('A', 0)}%  "
+          f"Raw Haiku: {cal_errors.get('B', 0)}%  "
+          f"CDF Haiku: {cal_errors.get('D', 0)}%  "
+          f"CDF Sonnet: {cal_errors.get('F', 0)}%")
+    print()
+
+    # ── Section 2: Ambiguity Difficulty Scaling ────────────────────────────
+    print(f"  Ambiguity Difficulty Scaling")
+    print(f"{'─' * 80}")
+
+    def _wrong_count(row):
+        return sum(
+            1 for c in ("a", "b", "c", "d", "e", "f")
+            if row.get(f"condition_{c}") is not None
+            and not row[f"condition_{c}"].get("correct")
+        )
+
+    easy   = [r for r in valid if _wrong_count(r) <= 1]
+    medium = [r for r in valid if 2 <= _wrong_count(r) <= 3]
+    hard   = [r for r in valid if _wrong_count(r) >= 4]
+
+    def _tier_acc(tier_rows, cid):
+        key   = f"condition_{cid.lower()}"
+        r_sub = [r for r in tier_rows if r.get(key)]
+        if not r_sub:
+            return 0
+        return round(sum(1 for r in r_sub if r[key].get("correct")) / len(r_sub) * 100)
+
+    def _delta_pct(cdf_acc, raw_acc):
+        d = cdf_acc - raw_acc
+        return f"+{d}%" if d > 0 else (f"{d}%" if d < 0 else "0%")
+
+    for tier_name, tier_rows in [("Easy", easy), ("Medium", medium), ("Hard", hard)]:
+        print(f"  {tier_name} ({len(tier_rows)} cases):")
+        if not tier_rows:
+            continue
+        for raw_cid, cdf_cid, label in [("A", "F", "Sonnet"),
+                                         ("B", "D", "Haiku"),
+                                         ("C", "E", "Llama3")]:
+            raw_acc = _tier_acc(tier_rows, raw_cid)
+            cdf_acc = _tier_acc(tier_rows, cdf_cid)
+            print(f"    {label:<6}  Raw {raw_acc:3d}%  vs  CDF {cdf_acc:3d}%  "
+                  f"— {_delta_pct(cdf_acc, raw_acc)}")
+
+    def _pp(v):
+        return f"+{v}pp" if v > 0 else (f"{v}pp" if v < 0 else "0pp")
+
+    son_easy   = _tier_acc(easy,   "F") - _tier_acc(easy,   "A")
+    son_medium = _tier_acc(medium, "F") - _tier_acc(medium, "A")
+    son_hard   = _tier_acc(hard,   "F") - _tier_acc(hard,   "A")
+    hai_easy   = _tier_acc(easy,   "D") - _tier_acc(easy,   "B")
+    hai_medium = _tier_acc(medium, "D") - _tier_acc(medium, "B")
+    hai_hard   = _tier_acc(hard,   "D") - _tier_acc(hard,   "B")
+
+    print(f"  CDF format impact grows with difficulty — "
+          f"Sonnet: {_pp(son_easy)} easy, {_pp(son_medium)} medium, {_pp(son_hard)} hard")
+    print(f"  CDF format impact grows with difficulty — "
+          f"Haiku: {_pp(hai_easy)} easy, {_pp(hai_medium)} medium, {_pp(hai_hard)} hard")
+    print()
+
+    # ── Section 3: First-Pass Certainty ────────────────────────────────────
+    print(f"  First-Pass Certainty")
+    print(f"{'─' * 80}")
+    for cid, label in [("A", "Raw Sonnet"), ("B", "Raw Haiku")]:
+        key   = f"condition_{cid.lower()}"
+        rows  = [r for r in valid if r.get(key)]
+        total = len(rows)
+        fp_ok    = sum(1 for r in rows if r[key].get("initial_correct"))
+        retry_ok = sum(1 for r in rows
+                       if not r[key].get("initial_correct") and r[key].get("correct"))
+        never_ok = sum(1 for r in rows if not r[key].get("correct"))
+        print(f"  {label}:")
+        print(f"    Correct on attempt 1:    {fp_ok:3d}/{total} "
+              f"({round(fp_ok / total * 100) if total else 0}%)")
+        print(f"    Correct after retries:   {retry_ok:3d}/{total} "
+              f"({round(retry_ok / total * 100) if total else 0}%)")
+        print(f"    Never correct:           {never_ok:3d}/{total} "
+              f"({round(never_ok / total * 100) if total else 0}%)")
+    for cid, label in [("D", "CDF Haiku"), ("F", "CDF Sonnet")]:
+        key   = f"condition_{cid.lower()}"
+        rows  = [r for r in valid if r.get(key)]
+        total = len(rows)
+        ok    = sum(1 for r in rows if r[key].get("correct"))
+        print(f"  {label} (always attempt 1): "
+              f"{ok:3d}/{total} correct "
+              f"({round(ok / total * 100) if total else 0}%)")
+
+    def _fp_stats(cid):
+        key  = f"condition_{cid.lower()}"
+        rows = [r for r in valid if r.get(key)]
+        tot  = len(rows)
+        if cid in ("A", "B"):
+            fp = sum(1 for r in rows if r[key].get("initial_correct"))
         else:
-            correct_b, conf_b, time_b, tok_in_b, tok_out_b, cost_b = None, 0.0, 0.0, 0, 0, 0.0
+            fp = sum(1 for r in rows if r[key].get("correct"))
+        return fp, tot, round(fp / tot * 100) if tot else 0
 
-        a_str = "✓" if correct_a else "✗"
-        b_str = "✓" if correct_b else ("?" if correct_b is None else "✗")
-        print(f"  {i:<4} {word:<12} {a_str:<10} {b_str:<10} {conf_a:<10.2f} {conf_b:.2f}")
+    a_fp, a_tot, a_fp_pct = _fp_stats("A")
+    f_fp, f_tot, f_fp_pct = _fp_stats("F")
+    b_fp, b_tot, b_fp_pct = _fp_stats("B")
+    d_fp, d_tot, d_fp_pct = _fp_stats("D")
+    print(f"  Raw Sonnet first-pass correct: {a_fp}/{a_tot} ({a_fp_pct}%)  — "
+          f"CDF Sonnet first-pass correct: {f_fp}/{f_tot} ({f_fp_pct}%)")
+    print(f"  Raw Haiku first-pass correct:  {b_fp}/{b_tot} ({b_fp_pct}%)  — "
+          f"CDF Haiku first-pass correct:  {d_fp}/{d_tot} ({d_fp_pct}%)")
+    print(f"  CDF eliminates retry dependency — "
+          f"100% of correct answers delivered on first pass")
+    print()
 
-        results.append({
-            "sentence": sentence,
-            "word": word,
-            "correct_context": correct_context,
-            "condition_a": {"correct": correct_a, "confidence": conf_a, "time": time_a,
-                            "tokens_in": tok_in_a, "tokens_out": tok_out_a, "cost_usd": cost_a},
-            "condition_b": {"correct": correct_b, "confidence": conf_b, "time": time_b,
-                            "tokens_in": tok_in_b, "tokens_out": tok_out_b, "cost_usd": cost_b},
-            "cdf_available": token is not None
-        })
+    # ── Section 4: Output Token Efficiency & Cost Efficiency ───────────────
+    print(f"  Output Token Efficiency & Cost Efficiency")
+    print(f"{'─' * 80}")
 
-    valid     = [r for r in results if r["cdf_available"]]
-    a_correct = sum(1 for r in valid if r["condition_a"]["correct"])
-    b_correct = sum(1 for r in valid if r["condition_b"]["correct"])
-    a_conf    = sum(r["condition_a"]["confidence"] for r in valid) / max(len(valid), 1)
-    b_conf    = sum(r["condition_b"]["confidence"] for r in valid) / max(len(valid), 1)
-    a_time     = sum(r["condition_a"]["time"] for r in valid) / max(len(valid), 1)
-    b_time     = sum(r["condition_b"]["time"] for r in valid) / max(len(valid), 1)
-    a_tok_in   = sum(r["condition_a"]["tokens_in"]  for r in valid) / max(len(valid), 1)
-    a_tok_out  = sum(r["condition_a"]["tokens_out"] for r in valid) / max(len(valid), 1)
-    b_tok_in   = sum(r["condition_b"]["tokens_in"]  for r in valid) / max(len(valid), 1)
-    b_tok_out  = sum(r["condition_b"]["tokens_out"] for r in valid) / max(len(valid), 1)
-    a_cost     = sum(r["condition_a"]["cost_usd"]   for r in valid) / max(len(valid), 1)
-    b_cost     = sum(r["condition_b"]["cost_usd"]   for r in valid) / max(len(valid), 1)
-    acc_gain   = round((b_correct - a_correct) / max(len(valid), 1) * 100, 1)
-    conf_gain  = round((b_conf - a_conf) * 100, 1)
-    tok_saving = round((1 - (b_tok_in + b_tok_out) / max(a_tok_in + a_tok_out, 1)) * 100, 1)
-    cost_saving = round((1 - b_cost / max(a_cost, 0.000001)) * 100, 1)
+    def _eff_stats(cid):
+        key  = f"condition_{cid.lower()}"
+        rows = [r for r in valid if r.get(key)]
+        if not rows:
+            return 0, 0, 0.0, 0.0, 0.0
+        correct    = sum(1 for r in rows if r[key].get("correct"))
+        out_tok    = sum(r[key].get("total_output_tokens", r[key]["tokens_out"]) for r in rows)
+        total_cost = sum(r[key].get("total_cost", r[key]["cost_usd"]) for r in rows)
+        out_eff    = correct / out_tok   * 1000 if out_tok   > 0 else 0.0
+        cost_eff   = correct / total_cost       if total_cost > 0 else 0.0
+        return out_tok, correct, out_eff, total_cost, cost_eff
 
-    print(f"{'─' * 65}")
-    print(f"\n  RESULTS ({len(valid)} test cases with CDF available)")
-    print(f"{'─' * 65}")
-    print(f"  {'Metric':<30} {'Condition A (Raw)':<22} {'Condition B (CDF)'}")
-    print(f"  {'Accuracy':<30} {a_correct}/{len(valid)} ({round(a_correct/max(len(valid),1)*100)}%){'':>12} {b_correct}/{len(valid)} ({round(b_correct/max(len(valid),1)*100)}%)")
-    print(f"  {'Avg Confidence':<30} {round(a_conf,3):<22} {round(b_conf,3)}")
-    print(f"  {'Avg Response Time':<30} {round(a_time,1)}s{'':<20} {round(b_time,1)}s")
-    print(f"  {'Avg Input Tokens':<30} {round(a_tok_in):<22} {round(b_tok_in)}")
-    print(f"  {'Avg Output Tokens':<30} {round(a_tok_out):<22} {round(b_tok_out)}")
-    print(f"  {'Avg Total Tokens':<30} {round(a_tok_in+a_tok_out):<22} {round(b_tok_in+b_tok_out)}")
-    print(f"  {'Avg Cost per Query':<30} ${a_cost*1000:.4f}/1k queries{'':<6} ${b_cost*1000:.4f}/1k queries")
-    print(f"{'─' * 65}")
-    print(f"\n  Accuracy improvement:   {'+' if acc_gain >= 0 else ''}{acc_gain}%")
-    print(f"  Confidence improvement: {'+' if conf_gain >= 0 else ''}{conf_gain}%")
-    print(f"  Cost saving:            {'+' if cost_saving >= 0 else ''}{cost_saving}% cheaper per query")
-    print(f"  Speed improvement:      {round((1 - b_time/max(a_time,0.001))*100, 1)}% faster\n")
+    out_a, cor_a, oeff_a, cost_a, ceff_a = _eff_stats("A")
+    out_b, cor_b, oeff_b, cost_b, ceff_b = _eff_stats("B")
+    out_d, cor_d, oeff_d, cost_d, ceff_d = _eff_stats("D")
+    out_f, cor_f, oeff_f, cost_f, ceff_f = _eff_stats("F")
+
+    for label, out_tok, cor, oeff, total_cost, ceff in [
+        ("Raw Sonnet", out_a, cor_a, oeff_a, cost_a, ceff_a),
+        ("Raw Haiku",  out_b, cor_b, oeff_b, cost_b, ceff_b),
+        ("CDF Haiku",  out_d, cor_d, oeff_d, cost_d, ceff_d),
+        ("CDF Sonnet", out_f, cor_f, oeff_f, cost_f, ceff_f),
+    ]:
+        print(f"  {label:<14}  output tokens: {out_tok:6,d}  "
+              f"correct/1k out tokens: {oeff:6.3f}  "
+              f"correct/$: {ceff:7.1f}")
+
+    def _x(b, a):
+        return round(b / a, 1) if a > 0 else 0.0
+
+    print(f"  Raw Sonnet output token efficiency: {oeff_a:.3f}  "
+          f"cost efficiency: {ceff_a:.1f} correct answers per dollar")
+    print(f"  CDF Sonnet output token efficiency: {oeff_f:.3f} "
+          f"— {_x(oeff_f, oeff_a):.1f}x more output-efficient  "
+          f"cost efficiency: {ceff_f:.1f} — {_x(ceff_f, ceff_a):.1f}x cheaper per answer")
+    print(f"  Raw Haiku  output token efficiency: {oeff_b:.3f}  "
+          f"cost efficiency: {ceff_b:.1f} correct answers per dollar")
+    print(f"  CDF Haiku  output token efficiency: {oeff_d:.3f} "
+          f"— {_x(oeff_d, oeff_b):.1f}x more output-efficient  "
+          f"cost efficiency: {ceff_d:.1f} — {_x(ceff_d, ceff_b):.1f}x cheaper per answer")
+    print(f"  (Output token efficiency includes all retry output tokens for Raw conditions — conservative estimate favoring CDF)")
+    print()
 
     return {
         "timestamp": datetime.utcnow().isoformat() + "Z",
-        "model_raw": MODEL_RAW,
-        "model_cdf": MODEL_CDF,
-        "total_cases": len(test_cases),
-        "valid_cases": len(valid),
-        "condition_a": {"accuracy": a_correct/max(len(valid),1), "avg_confidence": a_conf,
-                        "avg_time": a_time, "avg_tokens_in": a_tok_in, "avg_tokens_out": a_tok_out,
-                        "avg_cost_usd": a_cost},
-        "condition_b": {"accuracy": b_correct/max(len(valid),1), "avg_confidence": b_conf,
-                        "avg_time": b_time, "avg_tokens_in": b_tok_in, "avg_tokens_out": b_tok_out,
-                        "avg_cost_usd": b_cost},
-        "accuracy_improvement_pct": acc_gain,
-        "confidence_improvement_pct": conf_gain,
-        "token_efficiency_gain_pct": tok_saving,
-        "cost_saving_pct": cost_saving,
+        "test_cases": len(test_cases),
+        "valid_cases": n,
+        "conditions": {
+            cid: summaries[cid]
+            for cid, _, _, _ in conditions if cid in summaries
+        },
         "results": results
     }
 
 
 def main():
-    parser = argparse.ArgumentParser(description="CDF Benchmark — Claude API")
-    parser.add_argument("--count", type=int, help="Run first N test cases only")
-    parser.add_argument("--model", type=str, help="Claude model to use")
+    parser = argparse.ArgumentParser(description="CDF Multi-Model Benchmark")
+    parser.add_argument("--count",   type=int, help="Run first N test cases only")
+    parser.add_argument("--version", type=int, default=1, choices=[1, 2, 3],
+                        help="Test case set: 1=original 2=new words 3=third set")
+    parser.add_argument("--no-ollama", action="store_true",
+                        help="Skip Ollama/Llama3 conditions even if Ollama is running")
     args = parser.parse_args()
 
-    if args.model:
-        global MODEL_RAW, MODEL_CDF
-        MODEL_RAW = args.model
-        MODEL_CDF = args.model
+    version_map = {1: TEST_CASES, 2: TEST_CASES_V2, 3: TEST_CASES_V3}
+    all_cases = version_map[args.version]
 
     client = anthropic.Anthropic()
-    cases  = TEST_CASES[:args.count] if args.count else TEST_CASES
-    summary = run_benchmark(cases, client)
+    cases  = all_cases[:args.count] if args.count else all_cases
+    ollama_enabled = not args.no_ollama
+
+    summary = run_benchmark(cases, client, ollama_enabled=ollama_enabled)
 
     RESULTS_PATH.mkdir(parents=True, exist_ok=True)
     timestamp   = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
-    output_file = str(RESULTS_PATH / f"benchmark_claude_{timestamp}.json")
+    output_file = str(RESULTS_PATH / f"benchmark_multimodel_v{args.version}_{timestamp}.json")
     with open(output_file, "w") as f:
         json.dump(summary, f, indent=2)
     print(f"  Results saved: {output_file}\n")

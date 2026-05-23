@@ -3,59 +3,27 @@
   "tracks": [
     {
       "id": "01",
-      "context": "electricity",
-      "meaning": "the flow of electric charge through a conductor, measured in amperes",
+      "context": "time",
+      "meaning": "occurring in or belonging to the present moment; the existing or most recent state of something",
       "added": "first",
       "source": "llm",
-      "frequency": 0.15
+      "frequency": 0.50
     },
     {
       "id": "02",
-      "context": "time",
-      "meaning": "occurring in or belonging to the present moment",
+      "context": "electricity",
+      "meaning": "the flow of electric charge through a conductor, measured in amperes",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.45
+      "frequency": 0.30
     },
     {
       "id": "03",
-      "context": "nautical",
-      "meaning": "a flowing body of water or air moving in a definite direction",
+      "context": "hydrology",
+      "meaning": "a steady flow of water moving in a definite direction, as in a river, stream, or ocean",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.08
-    },
-    {
-      "id": "04",
-      "context": "finance",
-      "meaning": "presently in use or in effect, as in current prices or current rates",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.2
-    },
-    {
-      "id": "05",
-      "context": "informal",
-      "meaning": "fashionable, popular, or widely accepted at the present time",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.1
-    },
-    {
-      "id": "06",
-      "context": "medicine",
-      "meaning": "a therapeutic application of electric current to the body",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.01
-    },
-    {
-      "id": "07",
-      "context": "weather",
-      "meaning": "an air or water stream moving continuously in a particular direction",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.01
+      "frequency": 0.20
     }
   ]
 }

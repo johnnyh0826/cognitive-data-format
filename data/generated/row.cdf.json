@@ -3,83 +3,27 @@
   "tracks": [
     {
       "id": "01",
-      "context": "storage",
-      "meaning": "a linear arrangement of items placed side by side, such as seats in a theater or items on a shelf",
+      "context": "arrangement",
+      "meaning": "a linear sequence of objects, people, or plants placed side by side in a straight line",
       "added": "first",
       "source": "llm",
-      "frequency": 0.25
+      "frequency": 0.50
     },
     {
       "id": "02",
-      "context": "computing",
-      "meaning": "a horizontal line of cells or data in a spreadsheet or table",
+      "context": "conflict",
+      "meaning": "a heated argument or noisy quarrel between people",
       "added": "accumulated",
       "source": "llm",
       "frequency": 0.35
     },
     {
       "id": "03",
-      "context": "agriculture",
-      "meaning": "a line of plants or crops planted in parallel lines across a field",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.08
-    },
-    {
-      "id": "04",
-      "context": "action",
-      "meaning": "to propel a boat or object using oars or paddles",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.05
-    },
-    {
-      "id": "05",
-      "context": "nautical",
-      "meaning": "to move a boat forward by using oars in a coordinated rhythmic motion",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.03
-    },
-    {
-      "id": "06",
-      "context": "sports",
-      "meaning": "a competitive event in rowing where teams or individuals race in boats",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.02
-    },
-    {
-      "id": "07",
-      "context": "informal",
-      "meaning": "a heated or violent argument or fight between people",
+      "context": "transport",
+      "meaning": "to propel a boat by pulling oars through the water in a rhythmic motion",
       "added": "accumulated",
       "source": "llm",
       "frequency": 0.15
-    },
-    {
-      "id": "08",
-      "context": "penalty",
-      "meaning": "a scolding or rebuke given to someone for misbehavior",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.05
-    },
-    {
-      "id": "09",
-      "context": "printing",
-      "meaning": "a horizontal line of text or type arranged across a page",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.01
-    },
-    {
-      "id": "10",
-      "context": "anatomy",
-      "meaning": "a linear sequence of similar structures arranged in a line",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.01
     }
   ]
 }

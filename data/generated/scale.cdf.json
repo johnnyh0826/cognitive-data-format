@@ -7,7 +7,7 @@
       "meaning": "a graduated series of marks or numbers used to measure or quantify something",
       "added": "first",
       "source": "llm",
-      "frequency": 0.243
+      "frequency": 0.242
     },
     {
       "id": "02",
@@ -60,7 +60,7 @@
     {
       "id": "08",
       "context": "geography",
-      "meaning": "a graduated range of elevation or slope on a map or terrain",
+      "meaning": "the ratio between a distance on a map and the corresponding distance on the ground",
       "added": "accumulated",
       "source": "llm",
       "frequency": 0.019

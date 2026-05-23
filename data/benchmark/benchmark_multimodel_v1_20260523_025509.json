@@ -1,0 +1,609 @@
+{
+  "timestamp": "2026-05-23T02:55:09.822206Z",
+  "test_cases": 10,
+  "valid_cases": 10,
+  "conditions": {
+    "A": {
+      "correct": 6,
+      "total": 10,
+      "accuracy": 0.6,
+      "avg_confidence": 0.984,
+      "avg_time": 1.72,
+      "avg_tokens_in": 105.2,
+      "avg_tokens_out": 40.0,
+      "avg_cost_usd": 0.0009156000000000001
+    },
+    "B": {
+      "correct": 6,
+      "total": 10,
+      "accuracy": 0.6,
+      "avg_confidence": 0.9830000000000002,
+      "avg_time": 1.2100000000000002,
+      "avg_tokens_in": 105.2,
+      "avg_tokens_out": 42.7,
+      "avg_cost_usd": 0.00025496
+    },
+    "C": {
+      "correct": 3,
+      "total": 10,
+      "accuracy": 0.3,
+      "avg_confidence": 0.51,
+      "avg_time": 3.5,
+      "avg_tokens_in": 42.3,
+      "avg_tokens_out": 22.5,
+      "avg_cost_usd": 0.0
+    },
+    "D": {
+      "correct": 10,
+      "total": 10,
+      "accuracy": 1.0,
+      "avg_confidence": 0.9820000000000002,
+      "avg_time": 0.86,
+      "avg_tokens_in": 461.2,
+      "avg_tokens_out": 50.2,
+      "avg_cost_usd": 0.0005697600000000001
+    },
+    "E": {
+      "correct": 8,
+      "total": 10,
+      "accuracy": 0.8,
+      "avg_confidence": 0.0,
+      "avg_time": 2.9099999999999997,
+      "avg_tokens_in": 226.6,
+      "avg_tokens_out": 12.2,
+      "avg_cost_usd": 0.0
+    },
+    "F": {
+      "correct": 10,
+      "total": 10,
+      "accuracy": 1.0,
+      "avg_confidence": 0.9600000000000002,
+      "avg_time": 1.6800000000000002,
+      "avg_tokens_in": 461.2,
+      "avg_tokens_out": 44.6,
+      "avg_cost_usd": 0.0020526000000000003
+    }
+  },
+  "results": [
+    {
+      "sentence": "I need to visit the bank before it closes at 5pm",
+      "word": "bank",
+      "correct_context": "finance",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.3,
+        "tokens_in": 108,
+        "tokens_out": 39,
+        "cost_usd": 0.000909
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 0.8,
+        "tokens_in": 108,
+        "tokens_out": 40,
+        "cost_usd": 0.0002464
+      },
+      "condition_c": {
+        "correct": true,
+        "confidence": 0.85,
+        "time": 6.2,
+        "tokens_in": 44,
+        "tokens_out": 16,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.8,
+        "tokens_in": 387,
+        "tokens_out": 48,
+        "cost_usd": 0.0005016
+      },
+      "condition_e": {
+        "correct": true,
+        "confidence": 0.0,
+        "time": 2.7,
+        "tokens_in": 189,
+        "tokens_out": 15,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.3,
+        "tokens_in": 387,
+        "tokens_out": 38,
+        "cost_usd": 0.001731
+      }
+    },
+    {
+      "sentence": "The fisherman sat on the bank watching his line",
+      "word": "bank",
+      "correct_context": "geography",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.9,
+        "tokens_in": 105,
+        "tokens_out": 42,
+        "cost_usd": 0.000945
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 105,
+        "tokens_out": 39,
+        "cost_usd": 0.00024
+      },
+      "condition_c": {
+        "correct": true,
+        "confidence": 0.85,
+        "time": 3.3,
+        "tokens_in": 42,
+        "tokens_out": 20,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 0.8,
+        "tokens_in": 384,
+        "tokens_out": 49,
+        "cost_usd": 0.0005032000000000001
+      },
+      "condition_e": {
+        "correct": true,
+        "confidence": 0.0,
+        "time": 3.1,
+        "tokens_in": 187,
+        "tokens_out": 15,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.5,
+        "tokens_in": 384,
+        "tokens_out": 44,
+        "cost_usd": 0.001812
+      }
+    },
+    {
+      "sentence": "The spring snapped under the weight of the machine",
+      "word": "spring",
+      "correct_context": "mechanics",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 2.5,
+        "tokens_in": 105,
+        "tokens_out": 41,
+        "cost_usd": 0.00093
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.4,
+        "tokens_in": 105,
+        "tokens_out": 49,
+        "cost_usd": 0.00028
+      },
+      "condition_c": {
+        "correct": false,
+        "confidence": 0.85,
+        "time": 3.2,
+        "tokens_in": 42,
+        "tokens_out": 23,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.7,
+        "tokens_in": 478,
+        "tokens_out": 50,
+        "cost_usd": 0.0005824000000000001
+      },
+      "condition_e": {
+        "correct": true,
+        "confidence": 0.0,
+        "time": 3.2,
+        "tokens_in": 226,
+        "tokens_out": 18,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.7,
+        "tokens_in": 478,
+        "tokens_out": 45,
+        "cost_usd": 0.002109
+      }
+    },
+    {
+      "sentence": "We went hiking when spring arrived and the flowers bloomed",
+      "word": "spring",
+      "correct_context": "seasons",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": false,
+        "confidence": 0.99,
+        "time": 1.6,
+        "tokens_in": 106,
+        "tokens_out": 39,
+        "cost_usd": 0.000903
+      },
+      "condition_b": {
+        "correct": false,
+        "confidence": 0.99,
+        "time": 0.9,
+        "tokens_in": 106,
+        "tokens_out": 44,
+        "cost_usd": 0.0002608
+      },
+      "condition_c": {
+        "correct": false,
+        "confidence": 0.85,
+        "time": 3.3,
+        "tokens_in": 43,
+        "tokens_out": 28,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 0.8,
+        "tokens_in": 479,
+        "tokens_out": 52,
+        "cost_usd": 0.0005912000000000001
+      },
+      "condition_e": {
+        "correct": true,
+        "confidence": 0.0,
+        "time": 2.7,
+        "tokens_in": 227,
+        "tokens_out": 4,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.7,
+        "tokens_in": 479,
+        "tokens_out": 47,
+        "cost_usd": 0.002142
+      }
+    },
+    {
+      "sentence": "Fresh water bubbled up from the spring in the hillside",
+      "word": "spring",
+      "correct_context": "hydrology",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": false,
+        "confidence": 0.99,
+        "time": 1.1,
+        "tokens_in": 107,
+        "tokens_out": 35,
+        "cost_usd": 0.000846
+      },
+      "condition_b": {
+        "correct": false,
+        "confidence": 0.98,
+        "time": 1.0,
+        "tokens_in": 107,
+        "tokens_out": 41,
+        "cost_usd": 0.00024960000000000005
+      },
+      "condition_c": {
+        "correct": false,
+        "confidence": 0.85,
+        "time": 3.0,
+        "tokens_in": 43,
+        "tokens_out": 19,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.8,
+        "tokens_in": 480,
+        "tokens_out": 45,
+        "cost_usd": 0.000564
+      },
+      "condition_e": {
+        "correct": true,
+        "confidence": 0.0,
+        "time": 3.0,
+        "tokens_in": 227,
+        "tokens_out": 13,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.8,
+        "tokens_in": 480,
+        "tokens_out": 40,
+        "cost_usd": 0.00204
+      }
+    },
+    {
+      "sentence": "The sales team prepared a pitch for the new investors",
+      "word": "pitch",
+      "correct_context": "sales",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": false,
+        "confidence": 0.97,
+        "time": 1.6,
+        "tokens_in": 105,
+        "tokens_out": 43,
+        "cost_usd": 0.00096
+      },
+      "condition_b": {
+        "correct": false,
+        "confidence": 0.98,
+        "time": 1.0,
+        "tokens_in": 105,
+        "tokens_out": 43,
+        "cost_usd": 0.000256
+      },
+      "condition_c": {
+        "correct": false,
+        "confidence": 0.0,
+        "time": 3.2,
+        "tokens_in": 43,
+        "tokens_out": 27,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.7,
+        "tokens_in": 560,
+        "tokens_out": 52,
+        "cost_usd": 0.000656
+      },
+      "condition_e": {
+        "correct": false,
+        "confidence": 0.0,
+        "time": 2.7,
+        "tokens_in": 286,
+        "tokens_out": 1,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.9,
+        "tokens_in": 560,
+        "tokens_out": 47,
+        "cost_usd": 0.002385
+      }
+    },
+    {
+      "sentence": "The musician adjusted the pitch before the performance",
+      "word": "pitch",
+      "correct_context": "music",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.8,
+        "tokens_in": 103,
+        "tokens_out": 46,
+        "cost_usd": 0.000999
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.7,
+        "tokens_in": 103,
+        "tokens_out": 48,
+        "cost_usd": 0.0002744
+      },
+      "condition_c": {
+        "correct": false,
+        "confidence": 0.0,
+        "time": 3.2,
+        "tokens_in": 41,
+        "tokens_out": 21,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 558,
+        "tokens_out": 51,
+        "cost_usd": 0.0006504000000000001
+      },
+      "condition_e": {
+        "correct": true,
+        "confidence": 0.0,
+        "time": 3.1,
+        "tokens_in": 284,
+        "tokens_out": 17,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.8,
+        "tokens_in": 558,
+        "tokens_out": 41,
+        "cost_usd": 0.002289
+      }
+    },
+    {
+      "sentence": "The players warmed up on the pitch before kickoff",
+      "word": "pitch",
+      "correct_context": "sports",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.9,
+        "tokens_in": 106,
+        "tokens_out": 37,
+        "cost_usd": 0.000873
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.1,
+        "tokens_in": 106,
+        "tokens_out": 39,
+        "cost_usd": 0.0002408
+      },
+      "condition_c": {
+        "correct": true,
+        "confidence": 0.85,
+        "time": 3.3,
+        "tokens_in": 42,
+        "tokens_out": 26,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.0,
+        "tokens_in": 561,
+        "tokens_out": 49,
+        "cost_usd": 0.0006448
+      },
+      "condition_e": {
+        "correct": true,
+        "confidence": 0.0,
+        "time": 2.9,
+        "tokens_in": 285,
+        "tokens_out": 16,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.82,
+        "time": 1.5,
+        "tokens_in": 561,
+        "tokens_out": 43,
+        "cost_usd": 0.002328
+      }
+    },
+    {
+      "sentence": "The detective followed every lead in the case",
+      "word": "lead",
+      "correct_context": "investigation",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 1.7,
+        "tokens_in": 103,
+        "tokens_out": 39,
+        "cost_usd": 0.000894
+      },
+      "condition_b": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 2.4,
+        "tokens_in": 103,
+        "tokens_out": 40,
+        "cost_usd": 0.0002424
+      },
+      "condition_c": {
+        "correct": false,
+        "confidence": 0.0,
+        "time": 2.9,
+        "tokens_in": 41,
+        "tokens_out": 17,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 1.3,
+        "tokens_in": 362,
+        "tokens_out": 49,
+        "cost_usd": 0.00048560000000000004
+      },
+      "condition_e": {
+        "correct": false,
+        "confidence": 0.0,
+        "time": 2.5,
+        "tokens_in": 177,
+        "tokens_out": 1,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.97,
+        "time": 2.1,
+        "tokens_in": 362,
+        "tokens_out": 44,
+        "cost_usd": 0.001746
+      }
+    },
+    {
+      "sentence": "The pipes were made of lead and needed replacing",
+      "word": "lead",
+      "correct_context": "chemistry",
+      "cdf_available": true,
+      "condition_a": {
+        "correct": false,
+        "confidence": 0.99,
+        "time": 1.8,
+        "tokens_in": 104,
+        "tokens_out": 39,
+        "cost_usd": 0.000897
+      },
+      "condition_b": {
+        "correct": false,
+        "confidence": 0.98,
+        "time": 0.9,
+        "tokens_in": 104,
+        "tokens_out": 44,
+        "cost_usd": 0.0002592
+      },
+      "condition_c": {
+        "correct": false,
+        "confidence": 0.0,
+        "time": 3.4,
+        "tokens_in": 42,
+        "tokens_out": 28,
+        "cost_usd": 0.0
+      },
+      "condition_d": {
+        "correct": true,
+        "confidence": 0.98,
+        "time": 0.8,
+        "tokens_in": 363,
+        "tokens_out": 57,
+        "cost_usd": 0.0005184000000000001
+      },
+      "condition_e": {
+        "correct": true,
+        "confidence": 0.0,
+        "time": 3.2,
+        "tokens_in": 178,
+        "tokens_out": 22,
+        "cost_usd": 0.0
+      },
+      "condition_f": {
+        "correct": true,
+        "confidence": 0.99,
+        "time": 1.5,
+        "tokens_in": 363,
+        "tokens_out": 57,
+        "cost_usd": 0.001944
+      }
+    }
+  ]
+}

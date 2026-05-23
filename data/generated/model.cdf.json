@@ -1,0 +1,141 @@
+{
+  "token": "model",
+  "tracks": [
+    {
+      "id": "01",
+      "context": "fashion",
+      "meaning": "a person employed to display clothes by wearing them on a catwalk or in photographs",
+      "added": "first",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "02",
+      "context": "mathematics",
+      "meaning": "a simplified representation of a system or process used for calculation or prediction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.12
+    },
+    {
+      "id": "03",
+      "context": "computing",
+      "meaning": "a mathematical or computational representation of a system used for analysis or prediction",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.15
+    },
+    {
+      "id": "04",
+      "context": "science",
+      "meaning": "a simplified description of a real-world system that captures its essential features",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "05",
+      "context": "physics",
+      "meaning": "a theoretical or physical representation of an object or system used to understand its behavior",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.05
+    },
+    {
+      "id": "06",
+      "context": "art",
+      "meaning": "a representation of a person or object created as a work of art",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "07",
+      "context": "sculpture",
+      "meaning": "a three-dimensional representation of a form or object",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "08",
+      "context": "business",
+      "meaning": "an exemplary person or thing worthy of imitation as a standard or ideal",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.08
+    },
+    {
+      "id": "09",
+      "context": "informal",
+      "meaning": "an exceptionally attractive or admirable person",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.04
+    },
+    {
+      "id": "10",
+      "context": "manufacturing",
+      "meaning": "a full-size or reduced-scale prototype of a product before mass production",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.06
+    },
+    {
+      "id": "11",
+      "context": "engineering",
+      "meaning": "a physical or virtual representation of a machine or structure used for testing",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
+    },
+    {
+      "id": "12",
+      "context": "verb-action",
+      "meaning": "to create a representation or simulation of something",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.1
+    },
+    {
+      "id": "13",
+      "context": "verb-fashion",
+      "meaning": "to work as a fashion model displaying clothes",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "14",
+      "context": "verb-sculptural",
+      "meaning": "to shape or form a material such as clay into a desired form",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "15",
+      "context": "psychology",
+      "meaning": "a pattern of behavior or thought that influences the actions of others",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.03
+    },
+    {
+      "id": "16",
+      "context": "education",
+      "meaning": "an instructional approach or method used as a framework for teaching",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.02
+    },
+    {
+      "id": "17",
+      "context": "architecture",
+      "meaning": "a scale representation of a building or structure",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.01
+    }
+  ]
+}

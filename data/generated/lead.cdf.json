@@ -3,123 +3,59 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "to go in front of or ahead of someone or something",
+      "context": "chemistry",
+      "meaning": "a heavy soft gray metal (element Pb) used in batteries, pipes, radiation shielding, and formerly in paint and gasoline",
       "added": "first",
-      "source": "llm",
-      "frequency": 0.25
-    },
-    {
-      "id": "02",
-      "context": "business",
-      "meaning": "a person or organization that is the most advanced or successful in a particular field",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.12
-    },
-    {
-      "id": "03",
-      "context": "communication",
-      "meaning": "the opening or introductory part of something that sets the tone or direction",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.08
-    },
-    {
-      "id": "04",
-      "context": "computing",
-      "meaning": "a wire or connection that conducts electrical current in a circuit",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.08
-    },
-    {
-      "id": "05",
-      "context": "finance",
-      "meaning": "a quantity of money lent to a borrower with the expectation of repayment",
-      "added": "accumulated",
       "source": "llm",
       "frequency": 0.15
     },
     {
-      "id": "06",
-      "context": "geology",
-      "meaning": "a naturally occurring mineral or ore from which metal can be extracted",
+      "id": "02",
+      "context": "leadership",
+      "meaning": "to guide, direct, or manage a group, organization, or activity — to be in charge",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.02
+      "frequency": 0.35
     },
     {
-      "id": "07",
-      "context": "informal",
-      "meaning": "a hint, clue, or piece of information that helps solve a problem or find something",
+      "id": "03",
+      "context": "position",
+      "meaning": "being ahead of others in a race or competition — the advantage or margin by which someone is ahead",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.25
+    },
+    {
+      "id": "04",
+      "context": "investigation",
+      "meaning": "a piece of information or clue that helps in solving a crime or mystery",
       "added": "accumulated",
       "source": "llm",
       "frequency": 0.12
     },
     {
-      "id": "08",
-      "context": "law",
-      "meaning": "the principal defendant or plaintiff in a legal case",
+      "id": "05",
+      "context": "performance",
+      "meaning": "the main or starring role in a dramatic production, film, or theatrical show",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.02
+      "frequency": 0.07
     },
     {
-      "id": "09",
-      "context": "metallurgy",
-      "meaning": "a heavy bluish-gray metal element used in batteries, ammunition, and construction",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.08
-    },
-    {
-      "id": "10",
-      "context": "military",
-      "meaning": "the foremost position or frontline in a military advance or formation",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.02
-    },
-    {
-      "id": "11",
-      "context": "movement",
-      "meaning": "to be winning or ahead in a game, race, or competition",
+      "id": "06",
+      "context": "journalism",
+      "meaning": "the opening sentence or paragraph of a news story that summarizes the key information",
       "added": "accumulated",
       "source": "llm",
       "frequency": 0.04
     },
     {
-      "id": "12",
-      "context": "music",
-      "meaning": "the main or primary vocal or instrumental part in a musical composition",
+      "id": "07",
+      "context": "rope/tether",
+      "meaning": "a rope, chain, or strap used to control a dog or other animal",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.01
-    },
-    {
-      "id": "13",
-      "context": "printing",
-      "meaning": "a metal bar or separator used to space lines of type in printing",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.0
-    },
-    {
-      "id": "14",
-      "context": "sports",
-      "meaning": "a batsman's position or turn to bat in cricket",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.0
-    },
-    {
-      "id": "15",
-      "context": "theatre",
-      "meaning": "the principal role or part in a play or performance",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.01
+      "frequency": 0.02
     }
   ]
 }

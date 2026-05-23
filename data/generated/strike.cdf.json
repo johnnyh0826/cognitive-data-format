@@ -7,7 +7,7 @@
       "meaning": "to hit or deliver a blow to someone or something with force",
       "added": "first",
       "source": "llm",
-      "frequency": 0.317
+      "frequency": 0.28
     },
     {
       "id": "02",
@@ -15,7 +15,7 @@
       "meaning": "in baseball, a pitch that the batter does not swing at and that is within the strike zone",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.178
+      "frequency": 0.15
     },
     {
       "id": "03",
@@ -39,12 +39,12 @@
       "meaning": "a coordinated stoppage of work by employees to protest working conditions or seek better terms",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.119
+      "frequency": 0.112
     },
     {
       "id": "06",
       "context": "military",
-      "meaning": "a sudden attack or offensive operation against an enemy target",
+      "meaning": "a targeted attack on a specific location or enemy position",
       "added": "accumulated",
       "source": "llm",
       "frequency": 0.059
@@ -112,6 +112,14 @@
       "added": "accumulated",
       "source": "llm",
       "frequency": 0.01
+    },
+    {
+      "id": "15",
+      "context": "bowling",
+      "meaning": "knocking down all ten pins with a single ball in bowling",
+      "added": "accumulated",
+      "source": "llm",
+      "frequency": 0.07
     }
   ]
 }

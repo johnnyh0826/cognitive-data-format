@@ -3,99 +3,35 @@
   "tracks": [
     {
       "id": "01",
-      "context": "action",
-      "meaning": "a preliminary version of a document, plan, or creative work that is not yet final",
+      "context": "writing",
+      "meaning": "a preliminary version of a document, report, or creative work produced before the final version",
       "added": "first",
       "source": "llm",
-      "frequency": 0.28
+      "frequency": 0.40
     },
     {
       "id": "02",
-      "context": "business",
-      "meaning": "a preliminary version of a proposal, contract, or agreement presented for review and revision",
+      "context": "drinks",
+      "meaning": "a serving of beer or other beverage dispensed directly from a tap or barrel rather than from a bottle",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.12
+      "frequency": 0.25
     },
     {
       "id": "03",
-      "context": "law",
-      "meaning": "a preliminary written version of a legal document or legislation before final enactment",
+      "context": "military",
+      "meaning": "a formal order or notice requiring a person to serve in the armed forces; compulsory military conscription",
       "added": "accumulated",
       "source": "llm",
-      "frequency": 0.04
+      "frequency": 0.20
     },
     {
       "id": "04",
-      "context": "military",
-      "meaning": "a system of selecting conscripts or military personnel for service",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.08
-    },
-    {
-      "id": "05",
-      "context": "sports",
-      "meaning": "a current of cool air in a room or building that causes discomfort",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.06
-    },
-    {
-      "id": "06",
-      "context": "movement",
-      "meaning": "the act of pulling or dragging something with effort or force",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.05
-    },
-    {
-      "id": "07",
-      "context": "nautical",
-      "meaning": "the depth of water a ship requires to float without running aground",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.02
-    },
-    {
-      "id": "08",
-      "context": "drinks",
-      "meaning": "a serving of beer or other liquid dispensed directly from a tap or barrel",
+      "context": "weather",
+      "meaning": "a current of cool or cold air that enters an enclosed space through a gap, crack, or opening",
       "added": "accumulated",
       "source": "llm",
       "frequency": 0.15
-    },
-    {
-      "id": "09",
-      "context": "medicine",
-      "meaning": "a dose of medicine or a medicinal drink taken in one swallow",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.02
-    },
-    {
-      "id": "10",
-      "context": "informal",
-      "meaning": "to move slowly or reluctantly in a particular direction",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.04
-    },
-    {
-      "id": "11",
-      "context": "computing",
-      "meaning": "to drag and drop an item or file using a mouse or touch interface",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.08
-    },
-    {
-      "id": "12",
-      "context": "finance",
-      "meaning": "a demand for payment of money owed, especially through a bank or financial institution",
-      "added": "accumulated",
-      "source": "llm",
-      "frequency": 0.06
     }
   ]
 }
